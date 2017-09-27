@@ -1,0 +1,709 @@
+{
+    "characters": {
+        "AssaultJump": {
+            "id": "AssaultJump",
+            "source": "GD_AssaultJump.NameId_AssaultJump_Poplar",
+            "class": 1878604600,
+            "icon": "CharSelIcon_AssaultJump",
+            "scoreboardIcon": "CharScoreboardIcon_AssaultJump",
+            "portraitIcon": "CharSelIcon_AssaultJump",
+            "name": "Caldarius",
+            "description": "Caldarius won his name, fame, and eternal Sustainment in the Jennerit Fighting Pits. Clad in his J-HTX Assault Frame, the Jennerit shock trooper dominates battlefields with incredible mobility and efficient, effective, hit-and-run strikes. ",
+            "faction": "Jennerit",
+            "role": "Attacker",
+            "adjectives": [
+                "Mobile",
+                "Skirmisher",
+                "Advanced"
+            ],
+            "specs": {
+                "attack": 2,
+                "skills": 4,
+                "defense": 2,
+                "difficulty": 5
+            },
+            "order": 8
+        },
+        "Blackguard": {
+            "id": "Blackguard",
+            "source": "GD_Blackguard.NameId_Blackguard",
+            "class": 1588665211,
+            "icon": "CharSelIcon_Blackguard",
+            "scoreboardIcon": "CharScoreboardIcon_Blackguard",
+            "portraitIcon": "CharSelIcon_Blackguard",
+            "name": "Galilea",
+            "description": "Warped by a corruptive agent in a mission against the Jennerit, Galilea endured hundreds of years of self-imposed exile on Bliss before joining the Battleborn. The darkness within her is both her greatest strength and most profound struggle.",
+            "faction": "Peacekeepers",
+            "role": "Defender",
+            "adjectives": [
+                "Territorial",
+                "Brawler",
+                "Complex"
+            ],
+            "specs": {
+                "attack": 5,
+                "skills": 2,
+                "defense": 1,
+                "difficulty": 3
+            },
+            "order": 99
+        },
+        "Bombirdier": {
+            "id": "Bombirdier",
+            "source": "GD_Bombirdier.NameId_Bombirdier",
+            "class": 1725039664,
+            "icon": "CharSelIcon_Bombirdier",
+            "scoreboardIcon": "CharScoreboardIcon_Bombirdier",
+            "portraitIcon": "CharSelIcon_Bombirdier",
+            "name": "Ernest",
+            "description": "Ernest firmly believes that the best way out of any mess is right the hell through it. Armed with a grenade launcher, a tactician's mind, and an \u201coutside the box\u201d perspective on warfare, this stout Aviant is just as capable of holding a position as he is pressing an assault on enemy lines.",
+            "faction": "Peacekeepers",
+            "role": "Defender",
+            "adjectives": [
+                "Territorial",
+                "Pusher",
+                "Complex"
+            ],
+            "specs": {},
+            "order": 99
+        },
+        "BoyAndDjinn": {
+            "id": "BoyAndDjinn",
+            "source": "GD_BoyAndDjinn.NameId_BoyAndDjinn",
+            "class": 154596930,
+            "icon": "CharSelIcon_BoyAndDjinn",
+            "scoreboardIcon": "CharScoreboardIcon_BoyAndDjinn",
+            "portraitIcon": "CharSelIcon_BoyAndDjinn",
+            "name": "Shayne & Aurox",
+            "description": "Bound by an uneasy alliance, this 16-year-old, boomerang-slinging punk and her companion omnidimensional horror are one of the Rogue's best brawler teams. Formidable on their own but fearsome together, Shayne and Aurox fight for nobody but themselves, and like it that way.",
+            "faction": "Rogue",
+            "role": "Defender",
+            "adjectives": [
+                "Stealth",
+                "Initiator",
+                "Complex"
+            ],
+            "specs": {
+                "attack": 3,
+                "skills": 3,
+                "defense": 3,
+                "difficulty": 2
+            },
+            "order": 99
+        },
+        "ChaosMage": {
+            "id": "ChaosMage",
+            "source": "GD_ChaosMage.NameId_ChaosMage",
+            "class": 10044030,
+            "icon": "CharSelIcon_ChaosMage",
+            "scoreboardIcon": "CharScoreboardIcon_ChaosMage",
+            "portraitIcon": "CharSelIcon_ChaosMage",
+            "name": "Orendi",
+            "description": "Unhinged, unpredictable, and feared even by members of her own faction, Orendi channels bursts of chaotic energy to ravage her opponents at incredible speed, and seeks to test herself against the greatest challenges Solus has to offer.",
+            "faction": "Rogue",
+            "role": "Attacker",
+            "adjectives": [
+                "Agile",
+                "Skirmisher",
+                "Easy"
+            ],
+            "specs": {
+                "attack": 1,
+                "skills": 5,
+                "defense": 3,
+                "difficulty": 5
+            },
+            "order": 12
+        },
+        "CornerSneaker": {
+            "id": "CornerSneaker",
+            "source": "GD_CornerSneaker.NameId_CornerSneaker",
+            "class": 2071988201,
+            "icon": "CharSelIcon_CornerSneaker",
+            "scoreboardIcon": "CharScoreboardIcon_CornerSneaker",
+            "portraitIcon": "CharSelIcon_CornerSneaker",
+            "name": "Pendles",
+            "description": "With twin kamas and a killer fashion sense, this Akopos native earned his reputation as one of the Universe's deadliest assassins. Preferring a subtler approach to combat, Pendles lurks in the shadows, waiting for the perfect moment to strike with deadly precision.",
+            "faction": "Rogue",
+            "role": "Attacker",
+            "adjectives": [
+                "Assassin",
+                "Stealth",
+                "Complex"
+            ],
+            "specs": {
+                "attack": 3,
+                "skills": 4,
+                "defense": 2,
+                "difficulty": 3
+            },
+            "order": 99
+        },
+        "DarkAssassin": {
+            "id": "DarkAssassin",
+            "source": "GD_DarkAssassin.NameId_DarkAssassin",
+            "class": 3500347136,
+            "icon": "CharSelIcon_DarkAssassin",
+            "scoreboardIcon": "CharScoreboardIcon_DarkAssassin",
+            "portraitIcon": "CharSelIcon_DarkAssassin",
+            "name": "Deande",
+            "description": "Before Deande spearheaded the Jennerit rebellion, she was the Spymisstress of the Jennerit Imperium, and one of Rendain's closest advisors. Swift, stealthy, and exceptionally lethal, Deande is one of the deadliest assassins the Imperium has ever produced.",
+            "faction": "Jennerit",
+            "role": "Attacker",
+            "adjectives": [
+                "Stealth",
+                "Assassin",
+                "Advanced"
+            ],
+            "specs": {
+                "attack": 2,
+                "skills": 4,
+                "defense": 1,
+                "difficulty": 5
+            },
+            "order": 99
+        },
+        "DarkElfRanger": {
+            "id": "DarkElfRanger",
+            "source": "gd_darkelfranger.NameId_DarkElfRanger",
+            "class": 1101073833,
+            "icon": "CharSelIcon_DarkElf",
+            "scoreboardIcon": "CharScoreboardIcon_DarkElfRanger",
+            "portraitIcon": "CharSelIcon_DarkElf",
+            "name": "Thorn",
+            "description": "Teshka Elessamorn \u2013 nicknamed \u201cThorn\u201d for her short temper \u2013 was the last child born to her homeworld before the Varelsi claimed it. Armed with her longbow, Kreshek, she now ranges the wilds of Ekkunar, fueled by her own boundless fury.",
+            "faction": "Eldrid",
+            "role": "Attacker",
+            "adjectives": [
+                "Agile",
+                "Sniper",
+                "Advanced"
+            ],
+            "specs": {
+                "attack": 1,
+                "skills": 5,
+                "defense": 5,
+                "difficulty": 5
+            },
+            "order": 1
+        },
+        "DeathBlade": {
+            "id": "DeathBlade",
+            "source": "gd_deathblade.NameId_DeathBlade",
+            "class": 1609338912,
+            "icon": "CharSelIcon_DeathBlade",
+            "scoreboardIcon": "CharScoreboardIcon_DeathBlade",
+            "portraitIcon": "CharSelIcon_DeathBlade",
+            "name": "Rath",
+            "description": "Brutal, efficient, and deeply devoted to the art of combat, Verod Rath once served as elite guard to the Jennerit Empress, Lenore. He utilizes three energy blades to devastate his foes in close-quarters engagements. Not a vampire, though he gets that a lot.",
+            "faction": "Jennerit",
+            "role": "Attacker",
+            "adjectives": [
+                "Agile",
+                "Assassin",
+                "Easy"
+            ],
+            "specs": {
+                "attack": 1,
+                "skills": 4,
+                "defense": 1,
+                "difficulty": 5
+            },
+            "order": 2
+        },
+        "DwarvenWarrior": {
+            "id": "DwarvenWarrior",
+            "source": "GD_DwarvenWarrior.NameId_DwarvenWarrior",
+            "class": 958215573,
+            "icon": "CharSelIcon_DwarvenWarrior",
+            "scoreboardIcon": "CharScoreboardIcon_DwarvenWarrior",
+            "portraitIcon": "CharSelIcon_DwarvenWarrior",
+            "name": "Boldur",
+            "description": "Boldur the Unbearable is a gruff, axe-wielding native of Ekkunar who has survived the last two millennia through sheer stubbornness. Tough as a gnarled root, the Ekkuni dwarf carries only a rune-forged axe and shield into battle against any foe who dares land their dropship in his front yard.",
+            "faction": "Eldrid",
+            "role": "Defender",
+            "adjectives": [
+                "Tank",
+                "Brawler",
+                "Complex"
+            ],
+            "specs": {
+                "attack": 4,
+                "skills": 5,
+                "defense": 1,
+                "difficulty": 2
+            },
+            "order": 99
+        },
+        "GentSniper": {
+            "id": "GentSniper",
+            "source": "gd_gentsniper.NameId_GentSniper",
+            "class": 4117482262,
+            "icon": "CharSelIcon_GentSniper",
+            "scoreboardIcon": "CharScoreboardIcon_GentSniper",
+            "portraitIcon": "CharSelIcon_GentSniper",
+            "name": "Marquis",
+            "description": "Class. Sophistication. Insanity. Formerly butler to Phoebe, Marquis d'Caliber was driven mad by a sudden loss of connection to the LLC's governing AI. Now, this high-society sociopath wreaks havoc on the unwashed masses in his endless pursuit of profit. ",
+            "faction": "LLC",
+            "role": "Attacker",
+            "adjectives": [
+                "Territorial",
+                "Sniper",
+                "Advanced"
+            ],
+            "specs": {
+                "attack": 2,
+                "skills": 5,
+                "defense": 5,
+                "difficulty": 3
+            },
+            "order": 3
+        },
+        "IceGolem": {
+            "id": "IceGolem",
+            "source": "GD_IceGolem.NameId_IceGolem",
+            "class": 2588438395,
+            "icon": "CharSelIcon_IceGolem",
+            "scoreboardIcon": "CharScoreboardIcon_IceGolem",
+            "portraitIcon": "CharSelIcon_IceGolem",
+            "name": "Kelvin",
+            "description": "There are many strange beings in Solus, but the ice golem Kelvin is definitely one of the strangest; a single consciousness emerging from a colony of extremophilic microorganisms. Rescued by Miko, Kelvin now fights for the Eldrid to preserve what's left of the cosmos.",
+            "faction": "Eldrid",
+            "role": "Defender",
+            "adjectives": [
+                "Controller",
+                "Brawler",
+                "Advanced"
+            ],
+            "specs": {
+                "attack": 5,
+                "skills": 3,
+                "defense": 1,
+                "difficulty": 2
+            },
+            "order": 99
+        },
+        "LeapingLuchador": {
+            "id": "LeapingLuchador",
+            "source": "GD_LeapingLuchador.NameId_LeapingLuchador",
+            "class": 1192674384,
+            "icon": "CharSelIcon_LeapingLuchador",
+            "scoreboardIcon": "CharScoreboardIcon_LeapingLuchador",
+            "portraitIcon": "CharSelIcon_LeapingLuchador",
+            "name": "El Drag\u00f3n",
+            "description": "Fran\u00e7esco Drake ruled the LLC's professional wrestling circuit as El Drag\u00f3n until his last match, when the renegade magnus ISIC claimed his title... and his arms. Fit with cybernetic replacements, El Drag\u00f3n now fights for the Battleborn, patiently awaiting a rematch against his greatest foe.",
+            "faction": "LLC",
+            "role": "Attacker",
+            "adjectives": [
+                "Agile",
+                "Skirmisher",
+                "Easy"
+            ],
+            "specs": {
+                "attack": 2,
+                "skills": 4,
+                "defense": 1,
+                "difficulty": 4
+            },
+            "order": 99
+        },
+        "MachineGunner": {
+            "id": "MachineGunner",
+            "source": "gd_machinegunner.NameId_MachineGunner",
+            "class": 2077651897,
+            "icon": "CharSelIcon_MachineGunner",
+            "scoreboardIcon": "CharScoreboardIcon_MachineGunner",
+            "portraitIcon": "CharSelIcon_Tank",
+            "name": "Montana",
+            "description": "When he\u2019s not clotheslining bears for fun, Montana can be found suppressing enemies with his fearsome minigun and soaking up industrial-sized buckets of hurt on behalf of his comrades. Self-appointed morale officer of the Battleborn and friend to all.",
+            "faction": "Peacekeepers",
+            "role": "Defender",
+            "adjectives": [
+                "Controller",
+                "Initiator",
+                "Advanced"
+            ],
+            "specs": {
+                "attack": 5,
+                "skills": 3,
+                "defense": 3,
+                "difficulty": 1
+            },
+            "order": 6
+        },
+        "MageBlade": {
+            "id": "MageBlade",
+            "source": "GD_MageBlade.NameId_MageBlade_Poplar",
+            "class": 2432429928,
+            "icon": "CharSelIcon_MageBlade",
+            "scoreboardIcon": "CharScoreboardIcon_MageBlade",
+            "portraitIcon": "CharSelIcon_MageBlade",
+            "name": "Phoebe",
+            "description": "Counted among the LLC's greatest engineers, Phoebe Elizabeth Audelia Hemsworth IV utilizes powerful technology to move swiftly about the battlefield, and an array of five telekinetically-suspended rapiers to annihilate her foes.",
+            "faction": "LLC",
+            "role": "Attacker",
+            "adjectives": [
+                "Brawler",
+                "Assassin",
+                "Advanced"
+            ],
+            "specs": {
+                "attack": 2,
+                "skills": 5,
+                "defense": 1,
+                "difficulty": 3
+            },
+            "order": 9
+        },
+        "ModernSoldier": {
+            "id": "ModernSoldier",
+            "source": "gd_modernsoldier.NameId_ModernSoldier_Poplar",
+            "class": 3139863563,
+            "icon": "CharSelIcon_ModernSoldier",
+            "scoreboardIcon": "CharScoreboardIcon_ModernSoldier",
+            "portraitIcon": "CharSelIcon_ModernSoldier",
+            "name": "Oscar Mike",
+            "description": "A discarded clone soldier from a long-forgotten war, Oscar Mike is a capable front-line fighter, engaging enemies at range with his assault rifle, cloaking for quick exits from tight spots, and inspiring his allies with his... unconventional personality. ",
+            "faction": "Peacekeepers",
+            "role": "Attacker",
+            "adjectives": [
+                "Versatile",
+                "Pusher",
+                "Easy"
+            ],
+            "specs": {
+                "attack": 2,
+                "skills": 4,
+                "defense": 4,
+                "difficulty": 4
+            },
+            "order": 4
+        },
+        "MutantFist": {
+            "id": "MutantFist",
+            "source": "GD_MutantFist.NameId_MutantFist",
+            "class": 4142990236,
+            "icon": "CharSelIcon_MutantFist",
+            "scoreboardIcon": "CharScoreboardIcon_MutantFist",
+            "portraitIcon": "CharSelIcon_MutantFist",
+            "name": "Mellka",
+            "description": "Born as a refugee, Mellka was raised and trained among an aggressive Eldrid commando group known as the Vigilant.  Proficient at several combat styles, she prefers exotic weaponry such as her biologically-active Eldrid gauntlet, now permanently fused with her left hand.",
+            "faction": "Eldrid",
+            "role": "Attacker",
+            "adjectives": [
+                "Agile",
+                "Assassin",
+                "Easy"
+            ],
+            "specs": {
+                "attack": 2,
+                "skills": 5,
+                "defense": 3,
+                "difficulty": 4
+            },
+            "order": 99
+        },
+        "PapaShotgun": {
+            "id": "PapaShotgun",
+            "source": "GD_PapaShotgun.NameId_PapaShotgun",
+            "class": 1040548918,
+            "icon": "CharSelIcon_PapaShotgun",
+            "scoreboardIcon": "CharScoreboardIcon_PapaShotgun",
+            "portraitIcon": "CharSelIcon_PapaShotgun",
+            "name": "Ghalt",
+            "description": "Former Peacekeepers officer and capable commander Captain Trevor Ghalt wields his charisma and shotguns with equal effectiveness. As one of the first among the factions to call for unity against the Varelsi, Ghalt is considered the first Battleborn.",
+            "faction": "Peacekeepers",
+            "role": "Defender",
+            "adjectives": [
+                "Controller",
+                "Disruptor",
+                "Complex"
+            ],
+            "specs": {
+                "attack": 3,
+                "skills": 4,
+                "defense": 1,
+                "difficulty": 3
+            },
+            "order": 99
+        },
+        "PenguinMech": {
+            "id": "PenguinMech",
+            "source": "GD_PenguinMech.NameId_PenguinMech",
+            "class": 1779642794,
+            "icon": "CharSelIcon_PenguinMech",
+            "scoreboardIcon": "CharScoreboardIcon_PenguinMech",
+            "portraitIcon": "CharSelIcon_PenguinMech",
+            "name": "Toby",
+            "description": "Despite his talent for engineering, Toby was rejected as a potential Peacekeeper conscript due to his adorable and diminutive form. Toby then offered his genius to the Rogues, where he can pour his anxious, self-loathing energy into the construction of walking death machines.",
+            "faction": "Rogue",
+            "role": "Defender",
+            "adjectives": [
+                "Adorable",
+                "Territorial",
+                "Advanced"
+            ],
+            "specs": {
+                "attack": 4,
+                "skills": 3,
+                "defense": 4,
+                "difficulty": 2
+            },
+            "order": 99
+        },
+        "PlagueBringer": {
+            "id": "PlagueBringer",
+            "source": "GD_PlagueBringer.NameId_PlagueBringer",
+            "class": 2191593004,
+            "icon": "CharSelIcon_PlagueBringer",
+            "scoreboardIcon": "CharScoreboardIcon_PlagueBringer",
+            "portraitIcon": "CharSelIcon_PlagueBringer",
+            "name": "Beatrix",
+            "description": "Beatrix is a scientist at artificial-heart, and the battlefield is her laboratory. With her infectious Injector, she can spread debilitating debuffs at range, while her allies act as carriers for contagions that enfeeble enemies they come in contact with.",
+            "faction": "Jennerit",
+            "role": "Supporter",
+            "adjectives": [
+                "Sniper",
+                "Controller",
+                "Advanced"
+            ],
+            "specs": {
+                "attack": 2,
+                "skills": 3,
+                "defense": 5,
+                "difficulty": 2
+            },
+            "order": 99
+        },
+        "RocketHawk": {
+            "id": "RocketHawk",
+            "source": "GD_RocketHawk.NameId_RocketHawk",
+            "class": 3190904014,
+            "icon": "CharSelIcon_RocketHawk",
+            "scoreboardIcon": "CharScoreboardIcon_RocketHawk",
+            "portraitIcon": "CharSelIcon_RocketSoldier",
+            "name": "Benedict",
+            "description": "Brash and arrogant Benedict loves three things: himself, rockets, and himself. Though his left wing was crippled during the evacuation of his homeworld, Benedict is still capable of limited flight, raining down rockets from a high vantage point.",
+            "faction": "Peacekeepers",
+            "role": "Attacker",
+            "adjectives": [
+                "Mobile",
+                "Pusher",
+                "Advanced"
+            ],
+            "specs": {
+                "attack": 2,
+                "skills": 5,
+                "defense": 4,
+                "difficulty": 5
+            },
+            "order": 10
+        },
+        "RogueCommander": {
+            "id": "RogueCommander",
+            "source": "GD_RogueCommander.NameId_RogueCommander",
+            "class": 3892300408,
+            "icon": "CharSelIcon_RogueCommander",
+            "scoreboardIcon": "CharScoreboardIcon_RogueCommander",
+            "portraitIcon": "CharSelIcon_RogueCommander",
+            "name": "Reyna",
+            "description": "Known as \u201cthe Valkyrie\u201d, Reyna Valeria is one of the few Battleborn native to the Solus system and the ad-hoc leader of the Rogues. Reyna uses her command glove to shield her allies from danger and mark targets for swift retribution.",
+            "faction": "Rogue",
+            "role": "Supporter",
+            "adjectives": [
+                "Rescuer",
+                "Shielder",
+                "Advanced"
+            ],
+            "specs": {
+                "attack": 2,
+                "skills": 2,
+                "defense": 3,
+                "difficulty": 3
+            },
+            "order": 7
+        },
+        "RogueSoldier": {
+            "id": "RogueSoldier",
+            "source": "GD_RogueSoldier.NameId_RogueSoldier",
+            "class": 2027200077,
+            "icon": "CharSelIcon_RogueSoldier",
+            "scoreboardIcon": "CharScoreboardIcon_RogueSoldier",
+            "portraitIcon": "CharSelIcon_RogueSoldier",
+            "name": "Whiskey Foxtrot",
+            "description": "Unlike his clone contemporary Oscar Mike, Whiskey Foxtrot (unit RDC-WF02-1221) originated from a batch of defective troopers, and is the last surviving member of his line. Rejected by the Peacekeepers, Foxtrot joined up with the Rogues after arriving in Solus.",
+            "faction": "Rogue",
+            "role": "Attacker",
+            "adjectives": [
+                "Versatile",
+                "Assassin",
+                "Easy"
+            ],
+            "specs": {
+                "attack": 2,
+                "skills": 4,
+                "defense": 4,
+                "difficulty": 3
+            },
+            "order": 99
+        },
+        "SideKick": {
+            "id": "SideKick",
+            "source": "GD_Sidekick.NameId_SideKick",
+            "class": 587045964,
+            "icon": "CharSelIcon_SideKick",
+            "scoreboardIcon": "CharScoreboardIcon_SideKick",
+            "portraitIcon": "CharSelIcon_SideKick",
+            "name": "Kid Ultra",
+            "description": "Hardwired to lend a helping hand (and equipped with rockets for hands), Kid Ultra remains dedicated to the support and survival of his teammates. Able to subdue fleeing enemies and heal ailing allies, he's a potent force multiplier adaptable to a variety of situations.",
+            "faction": "LLC",
+            "role": "Supporter",
+            "adjectives": [
+                "Pusher",
+                "Healer",
+                "Easy"
+            ],
+            "specs": {},
+            "order": 99
+        },
+        "SoulCollector": {
+            "id": "SoulCollector",
+            "source": "GD_SoulCollector.NameId_SoulCollector",
+            "class": 140526868,
+            "icon": "CharSelIcon_SoulCollector",
+            "scoreboardIcon": "CharScoreboardIcon_SoulCollector",
+            "portraitIcon": "CharSelIcon_SoulCollector",
+            "name": "Attikus",
+            "description": "A born leader arisen from within the ranks of the lowborn Jennerit Thralls, Attikus was forever changed when his Imperium overseers implanted shard-powered tech throughout his body. He now fights to overthrow Rendain, beat back the Varelsi, and save his people.",
+            "faction": "Jennerit",
+            "role": "Defender",
+            "adjectives": [
+                "Disruptor",
+                "Brawler",
+                "Easy"
+            ],
+            "specs": {
+                "attack": 5,
+                "skills": 4,
+                "defense": 1,
+                "difficulty": 2
+            },
+            "order": 18
+        },
+        "SpiritMech": {
+            "id": "SpiritMech",
+            "source": "GD_SpiritMech.NameId_SpiritMech",
+            "class": 634769259,
+            "icon": "CharSelIcon_SpiritMech",
+            "scoreboardIcon": "CharScoreboardIcon_SpiritMech",
+            "portraitIcon": "CharSelIcon_SpiritMech",
+            "name": "ISIC",
+            "description": "Once the lead manufacturing Magnus of Minion Robotics, ISIC abandoned his post to crash reality itself through the application of unthinkably complex code. Though debugged by Kleese, this Magnus is still regarded as among the most nihilistic and terrifying of the Battleborn.",
+            "faction": "LLC",
+            "role": "Defender",
+            "adjectives": [
+                "Tank",
+                "Disruptor",
+                "Complex"
+            ],
+            "specs": {
+                "attack": 5,
+                "skills": 3,
+                "defense": 3,
+                "difficulty": 2
+            },
+            "order": 99
+        },
+        "SunPriestess": {
+            "id": "SunPriestess",
+            "source": "GD_SunPriestess.NameId_SunPriestess_Poplar",
+            "class": 4039762276,
+            "icon": "CharSelIcon_SunPriestess",
+            "scoreboardIcon": "CharScoreboardIcon_SunPriestess",
+            "portraitIcon": "CharSelIcon_SunPriestess",
+            "name": "Ambra",
+            "description": "Ambra long served within the Jennerit Silent Sisters \u2013 priestesses who weaved secrets of the stars into prolonged life called \u201cSustainment\u201d. Betrayed by Rendain, Ambra now fights with the Battleborn, healing her allies and devastating foes with localized solar anomalies.",
+            "faction": "Jennerit",
+            "role": "Supporter",
+            "adjectives": [
+                "Versatile",
+                "Healer",
+                "Complex"
+            ],
+            "specs": {
+                "attack": 1,
+                "skills": 2,
+                "defense": 1,
+                "difficulty": 3
+            },
+            "order": 13
+        },
+        "TacticalBuilder": {
+            "id": "TacticalBuilder",
+            "source": "GD_TacticalBuilder.NameId_TacticalBuilder",
+            "class": 3701468070,
+            "icon": "CharSelIcon_TacticalBuilder",
+            "scoreboardIcon": "CharScoreboardIcon_TacticalBuilder",
+            "portraitIcon": "CharSelIcon_TacticalBuilder",
+            "name": "Kleese",
+            "description": "Following his dismissal as director of Minion Robotics, the cantankerous Kleese now serves as the Nova's chief science officer and mad-scientist-in-residence. Abhors away missions but relishes opportunities to test his tech, such as his \u201cBattle Throne\u201d.",
+            "faction": "LLC",
+            "role": "Supporter",
+            "adjectives": [
+                "Territorial",
+                "Shielder",
+                "Complex"
+            ],
+            "specs": {
+                "attack": 4,
+                "skills": 2,
+                "defense": 3,
+                "difficulty": 1
+            },
+            "order": 99
+        },
+        "TribalHealer": {
+            "id": "TribalHealer",
+            "source": "gd_tribalhealer.NameId_TribalHealer",
+            "class": 3697799766,
+            "icon": "CharSelIcon_TribalHealer",
+            "scoreboardIcon": "CharScoreboardIcon_TribalHealer",
+            "portraitIcon": "CharSelIcon_TribalHealer",
+            "name": "Miko",
+            "description": "The last surviving bud of a planet-spanning fungal colony, the otherworldly Miko is regarded as a capable \u201ccombat botanist\u201d, healing and protecting its allies while hurling poison-tipped kunai at pretty much everything else.",
+            "faction": "Eldrid",
+            "role": "Supporter",
+            "adjectives": [
+                "Combat",
+                "Healer",
+                "Easy"
+            ],
+            "specs": {
+                "attack": 2,
+                "skills": 2,
+                "defense": 3,
+                "difficulty": 3
+            },
+            "order": 5
+        },
+        "WaterMonk": {
+            "id": "WaterMonk",
+            "source": "GD_WaterMonk.NameId_WaterMonk",
+            "class": 1587135084,
+            "icon": "CharSelIcon_WaterMonk",
+            "scoreboardIcon": "CharScoreboardIcon_WaterMonk",
+            "portraitIcon": "CharSelIcon_WaterMonk",
+            "name": "Alani",
+            "description": "Raised as a healer, but forced to be a warrior, Alani is all that remains of her order after the Imperium stole the oceans from her world. Through meditation, intense focus, and a little help from water-soluble nanotech, Alani summons tidal waves with the flick of a finger.",
+            "faction": "Eldrid",
+            "role": "Supporter",
+            "adjectives": [
+                "Healer",
+                "Controller",
+                "Complex"
+            ],
+            "specs": {},
+            "order": 99
+        }
+    }
+}

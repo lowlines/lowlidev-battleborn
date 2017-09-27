@@ -1,0 +1,5 @@
+[Buildable.PvE.Buildable_PvE_TurretEnemy PoplarBuildableDefinition]
+BuildableProperties[0]=(BuildableName="Shock Turret",BuildableDescription="Zap!")
+
+[Buildable.PvE.Buildable_PvE_TurretsPlusJenneritTurret PoplarBuildableDefinition]
+BuildableProperties[0]=(BuildableName="Shock Turret",BuildableDescription="Zap!")

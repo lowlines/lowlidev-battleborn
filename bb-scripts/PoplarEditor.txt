@@ -1,0 +1,7 @@
+[UnrealEd]
+MainToolBar_OpenGameInfoDef=Open the game info definition (WorldInfo->MyMapInfo->GameInfoDefinition)
+MainToolBar_OpenMissionDef=Open the mission set for this map (WorldInfo->MyMapInfo->Mission)
+MainToolBar_SelectCharacterClass=Selects the character to spawn in PIE.  Use [Default] to spawn the default character class choosen by the game. Use [Random] to spawn a random character.
+ToggleMatchViewer=Attach the MatchViewer to a running match.
+PoplarContextMenu_PlayFromHereWithBots="Play from Here with Bots"
+MainToolBar_PlayWithBots=Play with Bots

@@ -1,0 +1,64 @@
+{
+    "enemies": {
+        "906818078": {
+            "id": 906818078,
+            "source": "GD_GameTypes_Headhunter_Spawning.Soldier.PawnBalance_Hitman_DLC",
+            "archetype": 1240985040,
+            "name": "MX.Headhunter"
+        }
+    },
+    "archetypes": {
+        "1240985040": {
+            "id": 1240985040,
+            "source": "NPC002_MinionSoldier_GDHitman_DLC.Character.Pawn_HitmanBot_DLC",
+            "bodyClass": 1123738851
+        }
+    },
+    "bodyClasses": {
+        "1123738851": {
+            "id": 1123738851,
+            "source": "NPC002_MinionSoldier_GDHitman_DLC.Character.BodyClass_HitmanBot_DLC",
+            "bodyProvider": 1506551046,
+            "parentClass": 4089684010
+        },
+        "4089684010": {
+            "id": 4089684010,
+            "source": "NPC002_MinionSoldier_GDShared.Character.BodyClass_MinionSoldier"
+        }
+    },
+    "bodyProviders": {
+        "1506551046": {
+            "id": 1506551046,
+            "source": "NPC002_MinionSoldier_GDHitman_DLC.Character.BodyClass_HitmanBot_DLC.BodyProviderDefinition_0",
+            "data": [
+                {
+                    "type": "mesh",
+                    "mesh": 524795075,
+                    "materials": [],
+                    "animations": [
+                        58732441,
+                        4013809655,
+                        4293708999
+                    ],
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "z": -93.9999923706
+                    },
+                    "scale": 1.22000002861
+                },
+                {
+                    "type": "material",
+                    "material": 973898788
+                },
+                {
+                    "type": "material",
+                    "material": 3495226973
+                }
+            ]
+        }
+    },
+    "resources": [],
+    "formulas": [],
+    "attributes": []
+}

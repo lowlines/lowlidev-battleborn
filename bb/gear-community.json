@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "id": "PF_Gear_Community_MentalMars",
+            "icon": "",
+            "prefix": "",
+            "name": "The Breadstick",
+            "text": "$MAJOR$<br>$MINOR$<br>$FUNCTION$",
+            "flavorText": "\u201cHitting dudes with bread is fun! It\'s also great for catching MentalMarmots!\u201d  \u2014\u00a0Oscar Mike",
+            "cost": {
+                "attr": "Att_Gear_Legendary_Cost"
+            },
+            "rarity": "Legendary",
+            "type": "AttackSpeed",
+            "faction": "Peacekeepers",
+            "character": "",
+            "skills": [
+                "Skill_Gear_Major_AttackSpeed",
+                "Skill_Gear_Minor_SkillDamage",
+                "Skill_Gear_Community_MentalMars"
+            ]
+        },
+        {
+            "id": "PF_Gear_Community_EdenSF",
+            "icon": "",
+            "prefix": "",
+            "name": "The Salty Mistress Vest",
+            "text": "$MAJOR$<br>$MINOR$<br>$FUNCTION$",
+            "flavorText": "\u201cFor me? You shouldn\'t have! XOXO\u201d  \u2014\u00a0Mellka",
+            "cost": {
+                "attr": "Att_Gear_Legendary_Cost"
+            },
+            "rarity": "Legendary",
+            "type": "MaxHealth",
+            "faction": "Peacekeepers",
+            "character": "",
+            "skills": [
+                "Skill_Gear_Major_MaxHealth",
+                "Skill_Gear_Minor_AttackDamage",
+                "Skill_Gear_Community_EdenSF"
+            ]
+        },
+        {
+            "id": "PF_Gear_Community_Kaleidodemon",
+            "icon": "",
+            "prefix": "",
+            "name": "The Bringer of Discord",
+            "text": "$MAJOR$<br>$MINOR$<br>$FUNCTION$",
+            "flavorText": "\u201c???\u201d  \u2014\u00a0??",
+            "cost": {
+                "attr": "Att_Gear_Legendary_Cost"
+            },
+            "rarity": "Legendary",
+            "type": "MaxHealth",
+            "faction": "Peacekeepers",
+            "character": "",
+            "skills": [
+                "Skill_Gear_Major_MaxHealth",
+                "Skill_Gear_Minor_AttackDamage",
+                "Skill_Gear_Community_Kaleidodemon"
+            ]
+        }
+    ],
+    "skills": {
+        "Skill_Gear_Community_MentalMars": {
+            "presentations": [
+                {
+                    "replace": "$FUNCTION$",
+                    "displayValue": {
+                        "value": ""
+                    },
+                    "prefix": "[charlock]MentalMars Only: [-charlock]Significantly increases the chance of encountering a [skill]MentalMarmot[-skill] while playing as Oscar Mike.",
+                    "suffix": "",
+                    "format": {
+                        "bDontDisplayNumber": true,
+                        "bDontDisplayPlusSign": true
+                    }
+                }
+            ]
+        },
+        "Skill_Gear_Community_EdenSF": {
+            "presentations": [
+                {
+                    "replace": "$FUNCTION$",
+                    "displayValue": {
+                        "value": 0.02
+                    },
+                    "prefix": "[charlock]EdenSF Only: [-charlock]Increases all stats by [stat]",
+                    "suffix": "[-stat] based on the number of player or major enemy kills. Max [stat]10[-stat] stacks.",
+                    "format": {
+                        "bDontDisplayPlusSign": true
+                    }
+                }
+            ]
+        },
+        "Skill_Gear_Community_Kaleidodemon": {
+            "presentations": [
+                {
+                    "replace": "$FUNCTION$",
+                    "displayValue": {
+                        "value": 0.1
+                    },
+                    "prefix": "[charlock]Kaleidodemon Only: [-charlock]Increases [skill]Skill Damage[-skill] of nearby teammates by [stat]",
+                    "suffix": "[-stat].",
+                    "format": {
+                        "bDontDisplayPlusSign": true
+                    }
+                }
+            ]
+        }
+    }
+}

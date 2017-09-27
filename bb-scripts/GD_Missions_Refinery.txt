@@ -1,0 +1,5 @@
+[Mission.Mission_Refinery:OBJ_110_FindTheRefinery PoplarMissionObjectiveDefinition]
+ProgressMessage="Reach the reactor core"
+
+[Mission.Mission_Refinery:OBJ_120_ClearOutRefinery PoplarMissionObjectiveDefinition]
+ProgressMessage="Secure reactor facility"

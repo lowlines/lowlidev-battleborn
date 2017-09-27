@@ -1,0 +1,2280 @@
+[Poplar_VO_DLC_DemonBear_BinkIntro_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ah! This is the life! Fresh air! The outdoors! Friends around a campfire, tellin' stories!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_BinkIntro_00020_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You've just been pointing to individual muscles on your chest and giving them names.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_BinkIntro_00030_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, now you've gone and made Hector the Pectoral sad, but, okay. You're gonna love this one. This story's got it all. Mystery. Adventure. A jumping section. Prepare yourself for... the Tale of the Demon Bear!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Ops_Intro01_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome to Battleborn Operations, brought to you in part by the accelerated death of the universe. You have selected Montana and the Demon Bear. Looks like these guys are enjoying a camping trip while I'm in drydock for repairs. Is it still a drydock when everything is dry in space? I'm not going to dwell on it.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Ops_Intro01_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Throughout the operation, I'll alert you to opportunities to earn Ops Points, up to a maximum of fifty for your first playthrough. Increased Ops Points means higher difficulty and greater rewards such as titles and customizations.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Ops_Intro01_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good luck. Beginning operation in three, two, one...",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Ops_Intro02_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome back! Hope you're ready for another thrilling tale of adventure. You will now begin with five Ops Points and be able to reach a maximum of fifty-five. Earning forty Ops Points will unlock a new skin for your character, and there are even greater rewards later on.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Ops_Intro02_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Now that that's all cleared up, let's go see what the gang is up to. Beginning operation in three... two... one...",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Ops_Intro03_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You again! Well, I never. This is your third playthrough, so you will begin with ten Ops Points and can reach a maximum of sixty. If you haven't already, you can earn a new character skin at forty and a title at fifty. Get all the way to sixty, and you'll unlock a Commander Loot Pack!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Ops_Intro03_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All set? Operation will begin in three... two... one...",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Ops_Intro04_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome back to Battleborn Operations. You're a regular here, so I probably don't need to tell you to earn Ops Points in order to raise the difficulty and get cooler loot. But I did anyway.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Ops_Intro04_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Storytime starts in three... two... one...",Time=0)
+
+[Poplar_VO_DLC_DemonBear_01_Beacons_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Watch out! The Jennerit have found us!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_01_Beacons_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Without my processing core, I'm not a great shot. But let's try anyway. Missile incoming!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_01_Beacons_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whoops. Did I blow you up? If not, try and activate those targeting beacons so I can take out that hover tank.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_01_Beacons_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One beacon online. Three more to go.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_01_Beacons_00050_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Two beacons online.Two more left.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_01_Beacons_00060_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Three beacons online, just one more.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_01_Beacons_00070_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All beacons online. Now activate that central targeting computer so I can take down the hover tank!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_01_Beacons_00080_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Target acquired. I hope. Missiles away, en-route to target.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_01_Beacons_00090_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'll take that enormous kaboom to mean it worked. Go get my core back! Hurry!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_02_JumpChasm_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Looks like the bear ran into that old sap refinery. That chasm is too wide to jump – you'll have to find another way around!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_02_JumpChasm_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's one of her cubs! Get it!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_02_JumpChasm_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Looks like the cub forgot to close the portal behind it. Go ahead, jump in!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_02_JumpChasm_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Go on, jump! You can do it!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_02_JumpChasm_00050_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Odds of making that jump are... you know what, let's not talk numbers. Let's say they're good. Pretty good.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_02_JumpChasm_00060_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I think I saw the cub go that way. I'll add an extra waypoint for you.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_02_JumpChasm_00070_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's the cub. Go get him!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_03_Tree_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Damn! She blocked the path behind her! Okay! Think, Nova!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_03_Tree_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ooh! I can probably interface with that old sapping drill remotely. Stand back!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_03_Tree_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey, that actually worked!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_03_Tree_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Kill all those guys while I think. Vicarious murder always helps me think.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_03_Tree_00050_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We could... no, Nova, that wouldn't work. Keep killing, I'll think of something!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_03_Tree_00060_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The cub jumped down that hole! That must be the Demon Bear's lair!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_A_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're definitely not alone down there! Hold on, I'll see if I can help.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_A_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Demon Bear sure has made itself comfortable in these ruins. Good luck with that.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_A_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're not getting back up the way you came. Maybe I can reach you with some of the leftover drilling equipment!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_A2_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Looks like it's really waiting for a hug. Go ahead! Hug it!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_A2_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hug it. Come on. Look at that face.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_B_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I lost the Bear, but I'm picking up something new. Heads up.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_B_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Picking up multiple lifeform signatures, and they're adorable. Watch out anyway!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_B_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Demon Bear is sending out her cubs! Get ready!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_B_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="More cubs incoming! ",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_C_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Those portals look stable...ish! Use them to your advantage!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_C_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You should be able to use those portals yourself. Try to hold your breath, just in case.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_D_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The bear's back, and it's got some kind of energy shield this time!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_D_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Heads up, the bear's back from the void! And with a shiny new coat.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_D_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The bear has a shield now! Where'd it get that? I guess we'll never know!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_D2_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Her shield is too strong for a direct attack! Lure her upstairs and try to run her into the drills!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_D2_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's not going to work. Try luring her into one of the drills upstairs!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_D2_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That shield is a problem. Trick her into charging at one of the drill-heads upstairs!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_E_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's a fleet of automated drills still active! Stand on one of the activation pads on the second level so I know where to send them in!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_E_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Look for the activation pads on the top level. I'll lock on to you and send in a drill!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_E_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Activate a drill up top! If you can run the bear into it, that might be enough to weaken its shield!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_E_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="More drills ready! You know what to do!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_F_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One giant-ass drill coming right up! Or... down, I guess. Stay on that pad until the last second!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_F_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Drill incoming! Stay on the pad to keep it spinning – but, you know, get out of the way of the bear.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_F_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Locked on, stand by for drill.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_F_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Got it! Drilling to your location!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_F_00050_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This is a drill! Ha!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_G_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That did it! She's vulnerable!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_G_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Shield depleted! Go get her!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_G_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It worked! Attack now!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_G2_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That was a big hit, one more and that shield is toast!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_G2_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Great! One more hit like that should take care of that shield!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_G3_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It missed! The drill was deactivated too early! Stay on there as long as you can!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_G3_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That didn't work. I know it's scary, but you have to stay on that pad until the very last second!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_G4_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We need that bear to hit the drill at full power! Jump away right before she hits!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_G4_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't jump away too soon! There'll be enough time to escape before the bear hits, I promise.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_H_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Seismic readings are off the charts! Look out!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_H_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Cave-in! Watch out for falling rocks!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_H_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Cave-in imminent! Heads up!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_H_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Try not to get crushed!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_I_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I don't want to freak you out or anything, but there's definitely ghosts down there. Like real, actual ghosts. Just letting you know!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_J_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Looks like some of the bear's cubs have grown up. Fend them off!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_K_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="More Alphas inbound!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_K_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alpha bears coming in from the portals!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_L_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Looks like there's still some globs of voidsap down there. Don't let it touch you!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_L_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That voidsap will do awful things if you get too close!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_L_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Watch out for those globs of voidsap, it'll... well, let's just say you don't want to touch it.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_M_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ouch! You need to jump away sooner!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_M_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Try that again. We want the bear to hit the drill, not you!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_04_DemonBear_M_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Jump out of the way sooner next time!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_05_Loot_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thanks for grabbing that. I'm detecting a teleporter down there – I'll send you a waypoint.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_05_Loot_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's the teleporter! And surrounded by loot! Handy, that. Activate the teleporter and you can come back and reinstall my core.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_A_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="...and the crab monster was actually the old groundskeeper the whole time! Boom! Killer twist, right?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_A_00020_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Boldur knew it was the keeper of the grounds. It is always him.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_A_00030_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What's a groundskeeper?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_A_00040_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's like a janitor, but for outside.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_A_00050_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yes. I also know what a janitor is.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_A_00060_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What's the deal? I thought you guys loved “The Insidious Crab of Thundernight Bay”. Oooohohohoh.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_A_00070_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm just tired of bein' out in this dumb... nature. How long before Nova's fixed?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_A_00080_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Shouldn't be much more than – hey, you know what? I've got a story none of you have heard! And the craziest part? This one actually happened.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_B_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It all started when Nova said...",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_B_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Great job finding that lost pirate gold, Montana. I'll pick you up in that totally abandoned village. Be careful, we don't want to attract any Jennerit attention.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_C_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Montana, something's gone wrong. I've lost my processing core. I'm going down! Only you can save me.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_C_00020_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Save her, Montana!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_C_00030_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Child, it is not happening at this very moment.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_C_00040_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Shh! I wanna hear what happens.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_D_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Suddenly, I was ambushed by Varelsi zombies!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_D_00020_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ahh!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_D_00030_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sorry, didn't mean to scare you. Uh, I meant they were... robots!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_E_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That was when I heard the most butt-clenchingest sound imaginable. It was the howl... of the Demon Bear!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_E_00020_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="“Rrrawwghgh!” Heh-heh-heh!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_F_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Haha! Yeah! Eat it, library!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_F_00020_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey! Reading is fun!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_F_00030_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thank you, Montana, it is good to see book club expanding your mind.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_G_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Demon Bear, seeing my awesome might and righteous fury, ran away like a total sissy!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_G_00020_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This is most un-bearlike behavior.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_H_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Tread carefully – they used to process voidsap in this refinery. You do NOT want any getting stuck to you.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_I_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I was finally ready to face my demons... both the actual bear, AND the metaphor and stuff.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_I_00020_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Boldur getting bored! Fight now!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_J_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Get that core back! I need it for... things!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_K_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Grab my processing core and let's get out of here!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_L_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And that's how I saved Nova! Pretty sweet, right?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_L_00020_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Wow! It all happened exactly like that?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_L_00030_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Kinda pretty much sorta, yeah!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar01_L_00040_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Agh, you know NOTHING of bears! Boldur will tell the bear story next.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_A_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alright, Boldur. This is a team effort. If you didn't like my story, why don't you give it a go?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_A_00020_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_B_00010_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Boldur's story begins with computer lady...",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_B_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nova meet you in village. Go now.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_B_00030_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Is... is that all she said?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_B_00040_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yes. Keep quiet, pointy hair.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_C_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Computer brain stolen. Help. Go village.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_C_00020_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I can hardly contain myself.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_C_00030_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Right? Is getting juicy.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_D_00010_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Robots!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_D_00020_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We fight robots every day. Punch it up a little.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_D_00030_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Zombies, then! Tough crowd.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_E_00010_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Gate stood in way. There was great and terrible roar, full of power and majesty!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_E_00020_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="“Hyyyrrrggghh!”",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_E_00030_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Waaait a second.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_F_00010_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Book building exploded! Stories freed from paper prison.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_F_00020_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You don't do a lot of reading, huh?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_F_00030_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Trees died to make book. Book is tombstone for forest.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_G_00010_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Demon Bear, laden with battle spoils, returned to glorious cave. Only fools wishing to die followed behind!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_G_00020_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ah-hah! I knew it! You think the Demon Bear is the hero!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_G_00030_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Of course. Why would any other character be hero?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_H_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Boldur, the Demon Bear can't be the protagonist! It's evil! And a demon. That's double evil.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_H_00020_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Boldur is telling story, not girl with hedgehog head!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_I_00010_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Into brave bear's home to fight, before bear ate computer lady brain.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_I_00020_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="He eats brains?!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_I_00030_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Only computer lady brain. Good source of Helium-4. Quantum chips, very nutritious.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_J_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Get brain back! Need it for think!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_K_00010_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bear, in last moments, thinks of cubs starving for Helium-4. Bear was brave and strong! And... dead.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_K_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Grab brain!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_L_00010_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Story is done!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_L_00020_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Those poor cubs... I DIDN'T KNOW!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar02_L_00030_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Boldur, the only part of the story you liked telling was about the bear! Let me show you how it's done.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_A_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I for one am interested in hearing Shayne's version of the story!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_A_00020_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I used to tell stories to the other orphans to distract us all between weekly meals. See, you have to sweep them in with atmosphere, the details – y'know, with adjectives.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_A_00030_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Boldur is unaware of these terms.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_B_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It all began one dark and stormy night, ripe with salacious mystery.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_B_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We must rendezvous. I am in grave danger. Make your way expediently to the nearby hamlet and... tell no one.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_B_00030_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ohhhh.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_C_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Perfidy! My computer core has been stolen! Make them all pay with their spines!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_C_00020_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Aurox! I'm telling the story.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_C_00030_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It needed flavor!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_D_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Scores of Thrall appeared, their putrid breath reeking of fetid meat!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_D_00020_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ooh! Boldur is getting hungry.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_E_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The very air seemed to tremble in fear as the Demon Bear revealed himself!\nAurox, this is all you.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_E_00020_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="“Lchhgrhgglchglghrlchl!”",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_F_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The ship went down in a maelstrom of fire and destruction!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_F_00020_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Cacophony!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_G_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The bear leapt over a cavernous maw, like the very mouth of Hell itself!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_G_00020_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, very subtle.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_G_00030_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Subtle's for shuttles!\nWow, that one could have spent more time in the oven.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_H_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The gluey scent of fresh voidsap hung chokingly thick in the air, lugubriously.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_I_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The feculent Demon Bear was jealously guarding the computer core, but anything was worth it to save Nova.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_I_00020_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="FRIENDSHIP IS BOUNDLESS!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_J_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Expeditiously dispatch that iniquitous malefactor!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_J_00020_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Huh?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_J_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hurry up and kill that thing!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_K_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Exemplary! Now purloin that treasured heirloom!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_L_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The end! Boom! You're welcome.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_L_00020_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That was exactly the way it went in my head! I can just never think of the, uh... y'know... words. Yeah, words.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar03_L_00030_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Plot was adequate. Typical mass market genre fiction. Yet you lack poetry, conviction, true passion. I will demonstrate.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_A_00010_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Shayne, your version of the story was held back by your desire to feel joy. You cannot tell a truly moving story until your entire family is dead.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_A_00020_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I opened with that whole orphan thing!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_A_00030_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="But you did not sell it. You must embrace the ardent yearning for a parent's warmth in this barren and uncaring universe. Shall we?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_B_00010_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Montana could no long remember his mother's face. But when he heard Nova calling, her voice reminded him of her anguished cries that fateful day.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_B_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Montana. I fear my time grows short. If I mean anything to you at all, please, make haste to the village.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_B_00030_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ehhh, this feels like we're losing the morale-building spirit of the exercise. Heh-heh.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_C_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Montana! My heart! My very heart has been taken!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_C_00020_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="He had already known. Perhaps what had really been stolen... was hope itself.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_D_00010_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The dead rose to meet him, seeking oblivion at his hand.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_D_00020_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Usually we do robots at this part.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_D_00030_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Robots, zombies, it does not matter. They are the most fortunate, for they can feel nothing.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_E_00010_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The gate towered above him like his father's legacy. When the Demon Bear appeared, he saw in it the face of his own father!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_E_00020_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="“I am disappointed in you and your life decisions! Rrrrrghhh!”",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_F_00010_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The fires consumed the centuries of knowledge within the library. Montana knew that in order to redeem Nova, he too would have to burn.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_F_00020_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey – could you pass the marshmallows?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_G_00010_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Pursuing his demon, he came upon a chasm as vast as the empty chamber of his heart.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_G_00020_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Empty chamber? Wait... does he have a heart or not?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_G_00030_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="True poetry is ambiguous.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_H_00010_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The voidsap tree, once young and overflowing with parents, stood desiccated and numb.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_I_00010_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It was time. Time to save Nova, to surpass his father's legacy, to break the chains of the past and become... Thorn, the Forgiven.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_I_00020_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh...",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_J_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You can do it! I only missed your dance recital because of traffic! I wanted to be there!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_K_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Go get that core, Thorn. I'm proud of you.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_L_00010_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[sobbing] The end. No... a beginning.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_L_00020_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, jeez.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_L_00030_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I, uh...",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_L_00040_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeaaaah.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar04_L_00050_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Boldur's mighty heart breaks! Hold Boldur! Hoooooold!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_A_00010_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I think you're all missing the point. Stories should be... happy! And inspiring! Full of joy and wonder.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_A_00020_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Boring. Pfftbh.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_A_00030_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ohohoho! Boldur agrees with fart noise.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_A_00040_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Okay, well, we'll see about that. This is the happy tale of Montana and the... misunderstood Demon Bear.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_B_00010_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Montana whistled, basking in the sun's radiant glow.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_B_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey, Montana. Nothing's wrong. Just saying hey. Meet me in the village for a picnic!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_B_00030_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Um, this is a nightmare-scape.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_B_00040_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Some people like those!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_C_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Now where did I put that dang processing core? It was right here a second ago!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_C_00020_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Knowing everything was fine, Montana admired the bridge as he crossed it. The craftsmanship was exquisite.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_D_00010_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Some robots had heard about the picnic! They wanted to join in!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_E_00010_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Montana hoped he was on time for the picnic! He didn't want to miss any of the...",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_E_00020_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah, tell us what they have at picnics.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_E_00030_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Crab... yogurt.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_E_00040_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You tried, and that's what counts.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_E_00050_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey, best friend! I found Nova's processing core, whatever that is. Betcha can't catch me!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_F_00010_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The dropship decided it was time for a nap, and no one was injured. At all.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_F_00020_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What about—",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_F_00030_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[gritting teeth] At all.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_G_00010_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It looked like the Demon Bear wanted to play hide and seek! That was Montana's favorite game!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_G_00020_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="How did you know that?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_G_00030_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You sent out that memo, remember?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_H_00010_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This was where the Jennerit harvested voidsap, which is the primary ingredient in... bubblegum!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_H_00020_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uhhh... that's not what—",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_H_00030_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't tell her.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_I_00010_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="He had found the Demon Bear, and he was going to have a nice long chat about the importance of sharing.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_I_00020_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Gross.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_J_00010_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And they hugged it out and were friends forever!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_J_00020_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="R-really?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_J_00030_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yep, he went right over to the Demon Bear and hugged her.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_K_00010_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="“Thanks for the hug! You found me fair and square, so go pick up that processing core!”",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_K_00020_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uggghhh.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_L_00010_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="See? Not everything has to end with a big fight. Sometimes it's fun to just get along with people!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_L_00020_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nah, I definitely super-killed it. But your heart's in the right place.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar05_L_00030_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Crab yogurt. Ughghgh.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_A_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alright, this is a campfire, who wants to hear a spooky story?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_A_00020_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I don't like being scared!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_A_00030_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It is good to learn fear, child. I say spooky.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_A_00040_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Boldur is never afraid!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_A_00050_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ha-ha-ha-haaa! We shall see. Once... there was a bear. A DEMON BEAR!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_A_00060_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[uneasy yelp]",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_B_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="According to legend, the bear could steal your soul right out of your body!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_B_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Demon Bear stole my soul right out of my body! I mean ship! I guess the ship is my body. I've never really thought about it.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_C_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Another legend said that if you crossed the Bridge of Lost Souls on a moonless night, the Demon Bear would—",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_C_00020_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Steal your soul?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_C_00030_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah! How'd you know?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_D_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Suddenly, the corpses of all the people whose souls the bear had stolen came to life! And they wanted souls!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_D_00020_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No! My soul!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_E_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="If Nova's soul wasn't rescued in time, she would be lost forever in the graveyard of souls.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_E_00020_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="EAT YOUR SOUL!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_F_00010_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What about the souls of the Thrall? Do they get eaten?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_F_00020_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You know, that's a super good point. Aurox, how do Thrall souls taste?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_F_00030_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Like meringue covered in vinegar!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_F_00040_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Gonna say that's a hard pass, then.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_G_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Demon Bear lured its prey closer and closer to its lair, where it planned to feast. On souls!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_G_00020_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="ZOINKS!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_H_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The voidsap tree, long a stable source of souls for the Demon Bear, had run dry. Which is why it was now stealing them.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_H_00020_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Character motivation. Good!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_I_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No one had ever come out of the Demon Bear's lair with their soul intact before. At least, according to legend.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_I_00020_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I dunno, the legend seems pretty legit, you guys.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_J_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Get my core back, or I'll lose my soul!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_K_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah! Take that, stupid legend! No soul for you today! Go get that core, I do still need that.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_L_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nova's soul was safe – but at what cost?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_L_00020_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="My soul is still intact.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_L_00030_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah, just checked. Soul's all good.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_L_00040_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Or is it?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar06_L_00050_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Pretty sure?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_A_00010_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ooh! Ooh! Let me tell one!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_A_00020_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I think I know how this is going to go.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_A_00030_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Everyone else already got a turn!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_A_00040_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Some got two turns.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_A_00050_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This sounds right up Boldur's alley. Aurox, begin the story!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_B_00010_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ahem. It was a lovely autumn evening. The breeze tickled at the tree branches like an old childhood friend.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_B_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I think I'm going out for a stroll. Feel free to join me if it strikes your fancy.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_B_00030_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Huh.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_C_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I have to set down and take a break, but you take your time. Enjoy the scenery.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_C_00020_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey, Aurox, are you feelin' alright?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_C_00030_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Never better! Why?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_C_00040_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nnnothing. Go ahead.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_D_00010_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Zombies, robots, they're all good in my book. Could be either.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_E_00010_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whoever was in charge of this gate was probably busy somewhere else. No worries. All the time in the world.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_E_00020_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="“Heyyyy.”",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_F_00010_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No big deal.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_F_00020_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="But didn't the whole building blow up?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_F_00030_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Just going with the flow.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_G_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alright, Aurox, what's going on? Why's this so chill?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_G_00020_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You wanted scary stories! What could be more terrifying than a calm night with no bloodshed at all?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_G_00030_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Boldur gets it now.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_H_00010_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The workers in the refinery had all taken vacation days. Gotta use those, they don't roll over.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_I_00010_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It was time to mosey on down and see what the Demon Bear was up to. Or maybe time for a snack. The possibilities were limitless.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_J_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'll need that core at some point, but go at your own pace.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_K_00010_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There was probably time for a nap before grabbing the processing core. It wasn't going anywhere.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_L_00010_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And everything was chill forever. The end!\nGhghgh! I creeped MYSELF out on that one!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_L_00020_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'll admit, that did not go the way I expected.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_L_00030_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah, Aurox, good job!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar07_L_00040_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I contributed!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_A_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="My turn again! This one's gonna be exciting and dangerous! Ooh, like Crucial Armament 7!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_A_00020_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ooh! Ooh! Boldur's favorite holofilm! 94% explosions and chase scenes!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_A_00030_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ooh. Tell it. Tell it, tell it, tell it, tell it!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_B_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I was one day from retirement from the Space Police Muscle Squad when I got the call.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_B_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Officer Montana, this is the president of space. There's been a big big crime. We need you to come out of pre-retirement.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_B_00030_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bureaucrats! Boldur smells conspiracy.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_C_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="“This is the Demon Bear. I've kidnapped the President's processing core. If you want to save her, meet me in town. Come alone. Okay, three people, max. Ohohohoh!”",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_D_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Some lowlifes tried to mug me on the way to the meetup. I gave them a mug, all right, heh! It said, “World's Deadest Criminals”.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_D_00020_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nice.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_E_00010_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It is obviously a trap.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_E_00020_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What? Oh, yeah. Pshh. Obviously.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_E_00030_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="“You've fallen into my obvious trap! Now, uh, die!”",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_F_00010_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="WOOHOO! Sorry, sorry, got... got too excited.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_F_00020_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Never apologize for loving explosions!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_F_00030_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah, they're sweet as hell!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_F_00040_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Okay, yeah! Woo! Feeling included.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_G_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I knew if I didn't get to the Demon Bear in time, the bomb would go off!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_G_00020_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bomb? You did not say anything about a bomb.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_G_00030_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="He's right. Those holos always have a bomb.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_H_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Time was ticking away. I'd already booked my retirement vacation, and the 24-hour cancellation window was rapidly closing!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_I_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sergeant Montana! There's something you have to know. My core IS the bomb! It was the bomb the whole time!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_I_00020_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Conspiracy! Called it!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_J_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hurry, Secret Agent Montana! Deactivate the bomb!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_K_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm stepping down from my post, and naming you my successor. You saved us all, President Montana.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_L_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Those stories are... great and all, but I feel like we've been missing something.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_L_00020_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Context.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_L_00030_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Motive.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_L_00040_badDjinn]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Backstory!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar08_L_00050_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah – Montana, why were you there in the first place?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_A_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Tell it one more time, I've got some questions!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_A_00020_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yes, there are some suspicious elements here.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_A_00030_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I mean, sure? I can tell it again. I don't know what you're looking for exactly, but...",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_A_00040_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ungh. Tell story, NOW!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_B_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Okayyy! So as you know, it started with Nova saying...",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_B_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey Montana, meet me at that busy town over there.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_B_00030_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You said it was abandoned!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_B_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I mean abandoned town. That's what I said.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_C_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Help! My processing core is—",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_C_00020_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="How did Demon Bear get onboard Nova?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_C_00030_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And how did it know to take the processing core out? That is very delicate hardware!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_C_00040_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uhhhhhh, heh-heh...",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_D_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Like I said, I was attacked by zombies.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_D_00020_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You said robots last time!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_D_00030_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Riiiight! Robots! Of course.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_E_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So... I walked up to the abandoned town gate, and that's when I saw it!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_E_00020_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="“Rrrrraaagh! Roar! R-roar.”",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_E_00030_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm not buyin' this.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_F_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Did it REALLY almost hit you?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_F_00020_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah! I was right there!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_F_00030_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Suuuuure.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_G_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So the Demon Bear runs off toward the refinery, right?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_G_00020_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I don't know. You tell us.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_G_00030_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Then yeah, yeah. That... that's what happened.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_H_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="To be completely honest, the voidsap tree gave me the creeps. Did you guys know it's not really a tree? It's actually—",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_H_00020_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Quit stalling! Continue the story.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_I_00010_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Did you really even fight the Demon Bear?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_I_00020_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Psh. Whaaaat?! Yeah, of course I did! Why would I make that up?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_I_00030_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I don't know, why WOULD you?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_J_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You guys can doubt all you want, but I know what happened next – I kicked the Demon Bear's butt!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_K_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah! See? I totally fought the Demon Bear, saved Nova's processing core, and got out of there!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_L_00010_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Boldur is... slightly more convinced.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_L_00020_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah, okay, I believe you fought the Demon Bear. But something's still off.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_L_00030_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yes. You are still hiding why you and Nova were on Tempest!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_L_00040_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, uh, you see, that is to say, uh... look over there!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_L_00050_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Where?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_L_00060_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I think you were supposed to run while we looked.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar09_L_00070_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Aw, dang it.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_A_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Tell us the truth, Montana! Why was Nova on Tempest? Is that why we're stuck out here?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_A_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I think I can answer that.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_A_00030_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uhhhh... hey, who wants to hear a hip-hop interpretation of Montana and the Demon Bear?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_A_00040_DarkElfRanger]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Pass.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_A_00050_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Montana's been covering for me, but it's actually my fault you guys had to wait for my repairs. Here's what really happened.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_B_00010_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Are you sure about this, Nova? I feel like Ghalt should know where we are.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_B_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's fine. We'll be back in no time. This sapping village is totally abandoned, I just want to check it out for a little while.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_C_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I still don't know how that Varelsi thing got onboard, but it tore my primary processing core right out of its socket and ran off. Luckily, Montana saw it happen and came to rescue me.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_D_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's when Montana was ambushed by Varelsi.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_D_00020_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Actually, it was robots.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_D_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sorry, still a little hazy on the details.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_E_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="If Montana hadn't been there, I don't know what would have happened to me.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_E_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="“Rrrrraaaaaagh!”",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_F_00010_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So why did you want to look at this old refinery anyway?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_F_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I... I was hoping they had left behind an old robotic exosuit from the refinery. It didn't seem like Kleese was ever going to make me one, so I wanted to see if I could make my own.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_G_00010_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Why did you want a robot body so badly?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_G_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I thought if I could walk around outside of the ship, then I could go on missions with you guys! I wanted to be part of the team!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_H_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The bear was some sort of Varelsi pet, lured to the town by the remaining voidsap. I think it just ripped the first thing it saw out of me and ran away.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_I_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Without my processing core, I'd be useless to you guys. I wanted to be part of the team so bad that I almost messed it all up.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_I_00020_DwarvenWarrior]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="B-Boldur isn't crying, YOU are crying!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_J_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Montana was the only person around who could get my core back.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_K_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Montana really saved my butt down there in the cavern. He defeated the Demon Bear and got my core back.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_L_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And that's how it REALLY happened.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_L_00020_MachineGunner]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Aw, feels good for you guys to know the real story. I'm sorry for telling you all those fibs. I think I just wanted to get it out in some way.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_L_00030_WaterMonk]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's okay, you were trying to protect your friend!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_L_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And I'm sorry you guys got stranded out here.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Nar10_L_00050_badBoy]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nova, you're as much a part of the team as any of us!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side01_A_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What were they mining here? Grab some samples for analysis.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side01_A_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Great, grab a couple more samples.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side01_A_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One more ought to do it.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side01_A_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Looks like voidsap. Yikes! This stuff is toxic in, like, every way. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side01_B_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What does it say on that gravestone?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side01_B_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="“Here lies a writer who died before he could think of something funny to put on his gravestone.” Tragic. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side01_C_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There sure are a lot of shards around here. Pick some up for the team when we get back.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side01_C_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good going. That will power our devices for an additional thirty-five seconds. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side01_D_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Try knocking one of those guys off the cliff. No reason, just in that headspace right now.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side01_D_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nice. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side01_E_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Those sniper bots sure are annoying. Take them out!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side01_E_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Two more snipers to go.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side01_E_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One more sniper left.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side01_E_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Got 'em! Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side01_F_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Blow up an enemy with an explosive barrel!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side01_F_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Awesome. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side02_A_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Is this town really abandoned? See if there is anyone still hiding in these houses.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side02_A_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No one here. Check another one.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side02_A_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Huh. All gone. Weird. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side02_B_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Could there really only be one entrance to this town? Look around for another gate.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side02_B_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That doesn't seem remotely useful. Who even designed this town? Ops Points awarded. I guess.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side02_C_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Try and get up on that balcony for a better view.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side02_C_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sometimes it's nice to just enjoy the scenery. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side02_D_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="If you build a turret, that might buy you some time to find those antennae.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side02_D_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That'll keep them busy. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side02_E_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh oh, that's a Bulwark bot. Take it out!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side02_E_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Phew. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side02_F_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Try killing an enemy from that balcony! I'm getting bored just watching.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side02_F_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah, trick shot! Thanks for indulging me. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side03_A_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What's that book over there? Go check it out.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side03_A_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Huh, “In Passion's Thrall”. Glad I never read that. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side03_B_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Grab the blackbox from the crashed ship.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side03_B_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The pilot's last words were, “At least I'm taking out a stupid library.” Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side03_C_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I think I see something strange at the base of that statue. Go check it out. ",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side03_C_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oooh, it's someone's diary. That's gonna be Nova's vacation day reading. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side03_D_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I really want you to knock a guy into the void. Do it for Nova.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side03_D_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thanks for letting me kill vicariously through you. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side03_E_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Think you can kill that shaman before he summons any more Thrall?",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side03_E_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good hustle. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side03_E_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Too bad, he already summoned his friends.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side03_F_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Stupid snipers, thinking they're invincible. Go melee them to death.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side03_F_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That'll learn them! Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side03_F_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You were supposed to melee them! No points!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side04_A_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Those crates look like they were left behind hastily. Go check them out.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side04_A_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="They're full of voidsap! And it looks fresh, too. Check the others.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side04_A_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'd say we should take it with us, but I don't want that stuff onboard. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side04_B_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Destroy the sapping equipment, so the Jennerit can't start this refinery up again later.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side04_B_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Two more.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side04_B_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Last one.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side04_B_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No one's sapping that tree again. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side04_C_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I think I see some hidden loot over there behind that fence. Go check it out.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side04_C_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Find a way to get in there. We can always use more stuff.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side04_C_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This stuff looks awesome. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side04_D_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A conservator! Try to kill it with a skill.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side04_D_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good job! Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side04_D_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That wasn't what I asked for. No points!",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side04_E_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Looks like there's something in the bottom of that hanging cage. See if you can knock it open.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side04_E_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good find! Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side04_F_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Think you can kill an enemy while you are in mid-air? Give it a try.",Time=0)
+
+[Poplar_VO_DLC_DemonBear_Side04_F_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nice! Ops Points awarded.",Time=0)
+

@@ -1,0 +1,143 @@
+[Subtitles]
+SkipMovie=Press Escape to skip
+SkipMovieGlyph=Press [SkipMovie] to skip
+SkipDisabledLoading=Loading...
+Loading=Loading
+
+; bink cinematics subtitles
+
+; C1, “Prologue” intro (“the stone”)
+
+C1_Kleese_01="Let's bring you up to speed, shall we?"
+C1_Kleese_02="So, once upon a whole hell of a long time ago, the very first civilization in all the known universe carved an idea into a STONE."
+C1_Kleese_03="And this, of course, meant it was important."
+C1_Kleese_04="Their idea was about...\n "
+C1_Kleese_05="Their idea was about...\nTHE END."
+C1_Kleese_06="According to... the stone... a time would come when EVERYTHING would disappear, including the very stars themselves."
+C1_Kleese_07="A vast darkness would devour the heavens, and after YEARS of...\nlet's call it the longest chain of very bad days ever, only ONE star would remain."
+C1_Kleese_08="All those capable would travel to this last star, fleeing the darkness and death throes of a dying universe."
+C1_Kleese_09="However, this gathering would not produce unity, but WAR."
+C1_Kleese_10="War among beings and civilizations, and war against great foes: the Varelsi, and the Betrayer, Rendain."
+C1_Kleese_11="But the stone also speaks of hope: champions who arise from the ashes of conflict."
+C1_Kleese_12="Those who, well... those who want to keep the lights on."
+C1_Kleese_13="And this is where YOU show up."
+C1_Kleese_14="From among these heroes, you will recruit a force forged in conflict."
+C1_Kleese_15="You will direct and train them, and through you, there is hope for light."
+C1_Kleese_16="This force will be...\n "
+C1_Kleese_17="This force will be...\nthe BATTLEBORN."
+C1_Kleese_18="And for you, Commander, they will fight together, or they will die alone."
+C1_Kleese_19="If you believe stones, that is."
+C1_Kleese_20="Which brings us back to the star..."
+
+; C2, “Prologue” outro
+
+C2_Deande_01="DEANDE\nMellka, come on!"
+C2_Kleese_02="KLEESE\nI say we airlock her."
+C2_Mellka_03="MELLKA\nI'm with him."
+C2_Ghalt_04="GHALT\nDeande's our only hope of a shot at Rendain, and we only get that shot when he makes his play at the star."
+C2_Mellka_05="MELLKA\nAnd until then? What's our plan?\nI mean, if we HAVE a plan."
+C2_Ghalt_06="GHALT\nWe're gonna bust up the Imperium's operations around Solus, buy ourselves as much time as we can, and rally support from the factions.\nFortunately for us, they need all the help they can get."
+C2_Ghalt_07="GHALT\nBlowing stuff up's workin' out good so far. I was thinkin' we'd do more of that."
+C2_Ghalt_08="GHALT\nWhile Rendain's repairing the Heliophage, we'll help the other factions get back on their feet.\nWe'll need 'em all behind us if we're gonna pull this off."
+C2_Ghalt_09="GHALT\nThe UPR's been taking heavy losses tryin' to reclaim their old settlements on Bliss.\nAdmiral Bannon put out a call for assistance. We could start there."
+C2_Mellka_10="MELLKA\nWord from the Observatory is that Ekkunar is crawling with Jennerit harvest crews. We could disrupt their energy supply lines if we hit 'em hard."
+C2_Deande_11="DEANDE\nTempest is more vulnerable than even Rendain realizes. It'll be dangerous... but they probably won't see us coming."
+C2_Kleese_12="KLEESE\nSo, we're not airlocking... anybody?"
+C2_Ghalt_13="GHALT\nShut up, Kleese."
+C2_Deande_14="DEANDE\nThis is our last chance to save Solus. We must not fail."
+C2_Ghalt_15="GHALT\nWe won't."
+C2_Kleese_16="KLEESE\nEhhh, we might."
+C2_Mellka_17="MELLKA\nOh my god, SHUT UP, Kleese!"
+
+; C3, “The Heliophage” outro
+
+C3_Mellka_01="MELLKA\nEverybody out! NOW!"
+C3_DangerWarning_02=" "
+C3_Ghalt_03="GHALT\nWhat's happening to the star?!"
+C3_Kleese_04="KLEESE\nThe star is...\n "
+C3_Kleese_05="KLEESE\nThe star is...\nSensors indicate..."
+C3_Kleese_06="KLEESE\nOh, how the hell should I know?! How often do YOU break the laws of physics in a given afternoon?!"
+C3_WelcomeToHell_07=" "
+C3_Kleese_08="KLEESE\nOh, s**t."
+C3_Deande_09="DEANDE\nIt can't be..."
+C3_Mellka_10="MELLKA\nWere we too late?"
+C3_WeeksLater_11=" "
+C3_Ghalt_12="GHALT\nHey! Still savin' the world?"
+C3_Deande_13="DEANDE\nSomething like that. We're tracking down the last of Rendain's lieutenants, but..."
+C3_Ghalt_14="GHALT\nDeande? Still with me?"
+C3_Deande_15="DEANDE\nHm. It's a beautiful day."
+C3_Deande_16="DEANDE\nWhat news from Bliss?"
+C3_Ghalt_17="GHALT\nOh, you know. Not great. Ran into another portal bloom... probably gonna die..."
+C3_Ghalt_18="GHALT\nAw, COME ON!"
+C3_Deande_19="DEANDE\nYou guys get all that?"
+C3_Kleese_20="KLEESE\nNaturally! Climb aboard!"
+C3_Deande_21="DEANDE\nRendain's defeated, and Solus is safe. For the moment."
+C3_Deande_22="DEANDE\nBut this war may never end. Triumph bought us time... not peace."
+C3_Deande_23="DEANDE\nThe Varelsi may never relent... and neither will we."
+C3_Deande_24="DEANDE\nMay our battle never end."
+C3_EndTitle_25=" "
+
+; PvE_DEF_CAP, “The Renegade”
+
+Captains_Intro_Deande_01="DEANDE\nMy spies on Tempest tell me that the Imperium is mobilizing to capture an escaped prisoner they've been hunting for weeks."
+Captains_Intro_Deande_02="DEANDE\nI know of only one that would merit such a response. It MUST be Caldarius."
+Captains_Intro_Deande_03="DEANDE\nHis jailers are in hot pursuit, but if we can beat them to Bliss, we may have a potent new ally in our war against Rendain... provided he makes it out of there alive."
+
+; PvE_DEF_OBS, “The Experiment”
+
+Observ_Intro_Mellka_01="MELLKA\nGood news first. The Eldrid are really, really close to figuring out Varelsi portaling tech."
+Observ_Intro_Mellka_02="MELLKA\nBad news? Minutes before the big breakthrough, a shardstorm tore the research team to shreds."
+Observ_Intro_Mellka_03="MELLKA\nThe sole surviving member of the team has called for reinforcements to help finish the experiment, and apparently... it's Boldur."
+Observ_Intro_Mellka_04="MELLKA\nMeh. This'll be interesting."
+
+;PvE_DEF_REF, “The Saboteur”
+
+Refinery_Intro_Kleese_01="KLEESE\nOne of Deande's spies has provided the location of a Jennerit energy refinery with a HILARIOUS staffing problem.\nNova? We've got a job for you."
+Refinery_Intro_Nova_02="NOVA\nOoh. Ooh. Are you going to put me in the robot suit? Are you?"
+Refinery_Intro_Nova_03="NOVA\nKleese? Robot suit. Kleese?"
+Refinery_Intro_Kleese_04="KLEESE\nNo, we'll digitally upload you into a network that you will hack!"
+Refinery_Intro_Nova_05="NOVA\n... I guess that could be fun, too."
+
+; PvE_ESC_EVA, “The Archive”
+
+Evac_Intro_Voicemail_01="VOICEMAIL\nHey, it's Mellka. I'm too important to talk to you right now, so leave a message."
+Evac_Intro_Rendain_02="RENDAIN\nUgh, I got her machine. Whatever."
+Evac_Intro_Rendain_03="RENDAIN\nHi. It's Rendain. Remember the other day, when you foiled my plans?\nWell, you finally convinced me that the Eldrid threat can no longer be ignored."
+Evac_Intro_Rendain_04="RENDAIN\nSo I'm destroying Ekkunar, and all the life it harbors, and perhaps most notably the Eldrid Codex."
+Evac_Intro_Rendain_05="RENDAIN\nDo enjoy having your spirit broken, little Eldrid."
+Evac_Intro_Rendain_06="RENDAIN\nOH! And tell Deande that Lothar says, ''What's up?''."
+
+; PvE_ESC_POR, “The Void's Edge”
+
+Portal_Intro_Kleese_01="KLEESE\nA portal bloom has erupted on Bliss, and with it, one colossal hole in the fabric of spacetime -- a massive gateway directly to Varelsi space!\nIf it stabilizes, Solus will be overrun in hours!"
+Portal_Intro_Ghalt_02="GHALT\nThis is priority number one, people. We gotta get that portal closed."
+
+; PvE_RAD_CAT, “The Heliophage”
+
+Cath_Intro_Ghalt_01="GHALT\nRepairs on the Heliophage are complete. Time to see if all that preparation paid off."
+Cath_Intro_Ghalt_02="GHALT\nKleese and I will be fighting alongside the fleets in low orbit. The rest of you have one job: kill Lothar Rendain."
+Cath_Intro_Mellka_03="MELLKA\nDo we really have a chance at pulling this off?"
+Cath_Intro_Ghalt_04="GHALT\nNo idea, but I know one thing for sure: none of us are gonna die in the dark."
+Cath_Intro_Kleese_05="KLEESE\nOh my god, you walking movie poster! Let's just get on with the apocalypse already!"
+Cath_Intro_Battleborn_06="BATTLEBORN\n--Ughhhhh!\n--You butthole.\n--Friggin' buzzkill.\n--Thanks, Kleese!"
+Cath_Intro_Kleese_07="KLEESE\nPahahaha! Oh, I love you morons! LET'S DO IT!"
+
+; PvE_RAD_CAV, “The Algorithm”
+
+Caverns_Intro_Ghalt_01="GHALT\nThe UPR's got a big problem."
+Caverns_Intro_Ghalt_02="GHALT\nA rogue Magnus AI has seized control of one of their old Bliss settlements, and they've called us to help clear it out."
+Caverns_Intro_Kleese_03="KLEESE\nPsh! Nothing we can't handle."
+Caverns_Intro_Kleese_04="KLEESE\nApropos of nothing, did the UPR mention a name?"
+Caverns_Intro_Ghalt_05="GHALT\nYeah, actually. ISIC."
+Caverns_Intro_Kleese_06="KLEESE\nOh! Well then, heh! We're all going to die! Lovely."
+
+; PvE_RAD_RUN, “The Sentinel”
+
+Ruins_Intro_Mellka_01="MELLKA\nEvery kid who grows up Eldrid hears the stories about the Old Sentinel: an artifact/doomsday weapon that's been on Ekkunar for, like, at least a thousand years. Maybe zillions, who knows?"
+Ruins_Intro_Mellka_02="MELLKA\nAnyway. Rendain's found it, and the Observatory would sooner see the Sentinel dead than in his hands, so... guess what hilarious bummer of a job we get to do today? If you guessed ''kill my childhood hero'', you, sir, are correct!"
+
+; PvE_RAD_SLU, “Attikus and the Thrall Rebellion” (DLC_Azalea_02)
+
+Slums_Intro_Attikus_01="ATTIKUS\nIt's the kind of night the whole planet's lookin' to chew you up and use your femur as a toothpick."
+Slums_Intro_Attikus_02="ATTIKUS\nTempest: the giant fist hanging in space, in search of a face to punch. Maybe mine."
+Slums_Intro_Attikus_03="ATTIKUS\nBut somewhere deep in the city, there's another fight brewin'..."

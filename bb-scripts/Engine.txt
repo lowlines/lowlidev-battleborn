@@ -1,0 +1,445 @@
+[AccessControl]
+ACDescText[0]="If this password is set, players will have to enter it to join this server."
+ACDescText[1]="Specifies IP addresses or address ranges which have been banned."
+ACDescText[2]="Password required to login with administrator privileges on this server."
+ACDisplayText[0]="Game Password"
+ACDisplayText[1]="Access Policies"
+ACDisplayText[2]="Admin Password"
+DefaultKickReason="None specified"
+IdleKickReason="Kicked for idling."
+IPBanned="Your IP address has been banned on this server."
+KickedMsg="You have been forcibly removed from the game."
+NeedPassword="You need to enter a password to join this game."
+SessionBanned="Your IP address has been banned from the current game session."
+WrongPassword="The password you entered is incorrect."
+AuthenticationFailed="Authentication failed"
+SpammingServerAuth="Spamming server auth"
+AccessDenied="Access denied."
+MatchEnded="The match has ended."
+InvalidMap="Server is not in a valid map."
+
+[Admin]
+NoPauseMessage="Game is not pauseable"
+OwnCamera="Now viewing from own camera"
+QuickSaveString="Quick Saving"
+ViewingFrom="Now viewing from"
+
+[AudioBspVolume]
+LocationName=""
+
+[BlockingVolume]
+LocationName=""
+
+[ColorScaleVolume]
+LocationName=""
+
+[CullDistanceVolume]
+LocationName=""
+
+[CurveEdPresetCurve]
+CurveName=""
+
+[DamageType]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[DebugCameraController]
+NoPauseMessage="Game is not pauseable"
+OwnCamera="Now viewing from own camera"
+QuickSaveString="Quick Saving"
+ViewingFrom="Now viewing from"
+
+[Default__ConsoleEntry]
+InputBoxTemplate.InitialValue="Initial Editbox Value"
+
+[Default__ScriptConsoleEntry]
+ConsoleInputTemplate.InitialValue="Initial Editbox Value"
+
+[Default__UIButton]
+ButtonClickHandler.Description=""
+
+[Default__UIObject]
+WidgetInitializedEvent.Description=""
+
+[Default__UIScene]
+EnteredStateEvent.Description="Activated whenever a widget enters a new menu state, such as disabled or focused"
+LeftStateEvent.Description="Activated whenever a widget leaves a menu state, such as disabled or focused"
+SceneActivatedEvent.Description=""
+SceneDeactivatedEvent.Description=""
+SceneInitializedEvent.Description=""
+
+[DefaultPhysicsVolume]
+LocationName=""
+
+[DmgType_Crushed]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[DmgType_Fell]
+DeathString="`k pushed `o over the edge."
+FemaleSuicide="`o left a small crater"
+MaleSuicide="`o left a small crater"
+
+[DmgType_Suicided]
+DeathString="`o had an aneurysm."
+FemaleSuicide="`o had an aneurysm."
+MaleSuicide="`o had an aneurysm."
+
+[DmgType_Telefragged]
+DeathString="`o was telefragged by `k"
+FemaleSuicide="`o was telefragged by `k"
+MaleSuicide="`o was telefragged by `k"
+
+[DynamicBlockingVolume]
+LocationName=""
+
+[DynamicPhysicsVolume]
+LocationName=""
+
+[DynamicTriggerVolume]
+LocationName=""
+
+[FailedConnect]
+FailMessage[0]="FAILED TO JOIN GAME.  NEED PASSWORD."
+FailMessage[1]="FAILED TO JOIN GAME.  WRONG PASSWORD."
+FailMessage[2]="FAILED TO JOIN GAME.  GAME HAS STARTED."
+FailMessage[3]="FAILED TO JOIN GAME."
+
+[FoliageFactory]
+LocationName=""
+
+[GameInfo]
+DefaultPlayerName="Player"
+GameName="Game"
+
+[GameMessage]
+ArbitrationMessage="The session has already started."
+BecameSpectator="became a spectator."
+CantBePlayer="Sorry, you cannot become an active player at this time."
+CantBeSpectator="Sorry, you cannot become a spectator at this time."
+EnteredMessage=" entered the game."
+FailedPlaceMessage="Could not find a starting spot"
+FailedSpawnMessage="Could not spawn player"
+FailedTeamMessage="Could not find team for player"
+GlobalNameChange="changed name to"
+KickWarning="You are about to be kicked for idling!"
+LeftMessage=" left the game."
+MaxedOutMessage="Server is already at capacity."
+MustHaveStats="Must have stats enabled to join this server."
+NewPlayerMessage="A new player entered the game."
+NewSpecMessage="A spectator entered the game/"
+NewTeamMessage="is now on"
+NewTeamMessageTrailer=""
+NoNameChange="Name is already in use."
+OvertimeMessage="Score tied at the end of regulation. Sudden Death Overtime!!!"
+SpecEnteredMessage=" joined as a spectator."
+SwitchLevelMessage="Switching Levels"
+VotePassed="Vote passed."
+VoteStarted="started a vote."
+
+[GameViewportClient]
+ConnectingMessage="CONNECTING"
+LoadingMessage="LOADING"
+PausedMessage=""
+PrecachingMessage="PRECACHING"
+SavingMessage="SAVING"
+
+[GravityVolume]
+LocationName=""
+
+[KillZDamageType]
+DeathString="`o was killed by `k."
+FemaleSuicide="`o killed herself."
+MaleSuicide="`o killed himself."
+
+[LadderVolume]
+LocationName=""
+
+[LevelStreamingVolume]
+LocationName=""
+
+[LightVolume]
+LocationName=""
+
+[NxGenericForceFieldBrush]
+LocationName=""
+
+[OnlinePlaylistGameTypeProvider]
+Description=""
+DisplayName=""
+
+[OnlinePlaylistProvider]
+DisplayName=""
+
+[OnlineProfileSettings]
+OwnerMappings[1]=(Name="Online Service Setting")
+OwnerMappings[2]=(Name="Game Setting")
+; GBX:cpickett - we don't use any of Epic's profile settings and this causes problems with localization for our settings that share indices
+;ProfileMappings[0]=(ValueMappings=((Name="Off"),(Name="On")))
+;ProfileMappings[1]=(ValueMappings=((Name="Off"),(Name="On")))
+;ProfileMappings[10]=(ValueMappings=((Name="Off"),(Name="On")))
+;ProfileMappings[11]=(ValueMappings=((Name="Left Thumbstick"),(Name="Right Thumbstick")))
+;ProfileMappings[12]=(ValueMappings=((Name="Auto"),(Name="Manual")))
+;ProfileMappings[13]=(ValueMappings=((Name="Behind"),(Name="Front"),(Name="Inside")))
+;ProfileMappings[14]=(ValueMappings=((Name="Trigger"),(Name="Button")))
+;ProfileMappings[15]=(ValueMappings=((Name="Trigger"),(Name="Button")))
+;ProfileMappings[2]=(ValueMappings=((Name="No"),(Name="Yes")))
+;ProfileMappings[3]=(ValueMappings=((Name="Off"),(Name="On"),(Name="Both")))
+;ProfileMappings[5]=(ValueMappings=((Name="Normal"),(Name="Easy"),(Name="Hard")))
+;ProfileMappings[6]=(ValueMappings=((Name="Medium"),(Name="Low"),(Name="High")))
+;ProfileMappings[7]=(ValueMappings=(,(Name="Black"),(Name="White"),(Name="Yellow"),(Name="Orange"),(Name="Pink"),(Name="Red"),(Name="Purple"),(Name="Blue"),(Name="Green"),(Name="Brown"),(Name="Silver")))
+;ProfileMappings[8]=(ValueMappings=(,(Name="Black"),(Name="White"),(Name="Yellow"),(Name="Orange"),(Name="Pink"),(Name="Red"),(Name="Purple"),(Name="Blue"),(Name="Green"),(Name="Brown"),(Name="Silver")))
+;ProfileMappings[9]=(ValueMappings=((Name="Off"),(Name="On")))
+
+[PathBlockingVolume]
+LocationName=""
+
+[Pawn]
+MenuName=""
+
+[PhysicsVolume]
+LocationName=""
+
+[PlayerController]
+NoPauseMessage="Game is not pauseable"
+OwnCamera="Now viewing from own camera"
+QuickSaveString="Quick Saving"
+ViewingFrom="Now viewing from"
+
+[PlayerReplicationInfo]
+StringDead="Dead"
+StringSpectating="Spectating"
+StringUnknown="Unknown"
+
+[PortalVolume]
+LocationName=""
+
+[PostProcessVolume]
+LocationName=""
+
+[Progress]
+Connecting=
+
+[RB_ForceFieldExcludeVolume]
+LocationName=""
+
+[ResourceDefinition]
+ResourceName=""
+
+[ReverbVolume]
+LocationName=""
+
+[Scout]
+MenuName=""
+
+[ServerCommandlet]
+HelpDescription="Network game server"
+HelpParamDescriptions[0]="Specify the log file to generate"
+HelpParamDescriptions[1]="Give all players admin privelages"
+HelpParamNames[0]="Log"
+HelpParamNames[1]="AllAdmin"
+HelpUsage="server map.unr[?game=gametype] [-option...] [parm=value]..."
+HelpWebLink="http://unreal.epicgames.com/servertips.htm"
+
+[ShadowRelevanceVolume]
+LocationName=""
+
+[SmokeTestCommandlet]
+HelpDescription="This commandlet runs a series of tests to validate a build"
+HelpParamDescriptions[0]="Runs the game as a server for one tick to validate startup and first frame code"
+HelpParamDescriptions[1]="Validates that all native classes match their script classes in member layout"
+HelpParamNames[0]="SERVER"
+HelpParamNames[1]="CHECK_NATIVE_CLASS_SIZES"
+HelpUsage="gamename.exe smoketest <SERVER | CHECK_NATIVE_CLASS_SIZES>"
+HelpWebLink=""
+
+[SoundNodeWave]
+bManualWordWrap=False
+bMature=False
+Comment=""
+SpokenText=""
+
+[SoundVolume]
+LocationName=""
+
+[SoundVolumeCrossfader]
+LocationName=""
+
+[SVehicle]
+MenuName=""
+
+[TeamInfo]
+TeamName="Team"
+
+[TriggerVolume]
+LocationName=""
+
+[UICharacterSummary]
+CharacterBio=""
+CharacterName=""
+
+[UIDataProvider_MenuItem]
+Description=""
+FriendlyName=""
+
+[UIDataProvider_OnlineFriendMessages]
+bIsFriendInviteCol="Friend Invitation"
+bWasAcceptedCol="Friend Was Accepted"
+bWasDeniedCol="Friend Was Denied"
+MessageCol="Message"
+SendingPlayerNameCol="Sender's Name"
+
+[UIDataProvider_OnlineFriends]
+AwayText="Away"
+bHasInvitedYouCol=""
+bHasRequestedYouCol=""
+bHasVoiceSupportCol="Has Voice Support"
+bHaveInvitedCol=""
+bHaveRequestedCol=""
+bIsJoinableCol="Is Joinable"
+bIsOnlineCol="Is Online"
+bIsPlayingCol="Is Playing"
+bIsPlayingThisGameCol="Is Playing This Game"
+BusyText="Busy"
+FriendStateCol=""
+NickNameCol="Name"
+OfflineText="Offline"
+OnlineText="Online"
+PresenceInfoCol="Online Status"
+
+[UIDataStore_OnlineStats]
+PlayerNickData.PlayerNickColumnName="Player Nick"
+RankNameMetaData.RankColumnName="Rank"
+
+[UIEditBox]
+InitialValue="Initial Editbox Value"
+
+[UIEvent]
+Description=""
+
+[UIEvent_CalloutButtonInputProxy]
+Description=""
+
+[UIEvent_CheckValueChanged]
+Description=""
+
+[UIEvent_ComboboxValueChanged]
+Description=""
+
+[UIEvent_Initialized]
+Description=""
+
+[UIEvent_ListIndexChanged]
+Description=""
+
+[UIEvent_MetaObject]
+Description=""
+
+[UIEvent_NumericOptionListValueChanged]
+Description=""
+
+[UIEvent_OnClick]
+Description=""
+
+[UIEvent_OnDoubleClick]
+Description=""
+
+[UIEvent_OnEnterState]
+Description="Activated whenever a widget enters a new menu state, such as disabled or focused"
+
+[UIEvent_OnLeaveState]
+Description="Activated whenever a widget leaves a menu state, such as disabled or focused"
+
+[UIEvent_OptionListValueChanged]
+Description=""
+
+[UIEvent_ProcessInput]
+Description="Executes actions in response to an input event, such as a keypress or mouse movement"
+
+[UIEvent_ProgressBarValueChanged]
+Description=""
+
+[UIEvent_Scene]
+Description=""
+
+[UIEvent_SceneActivated]
+Description=""
+
+[UIEvent_SceneDeactivated]
+Description=""
+
+[UIEvent_SliderValueChanged]
+Description=""
+
+[UIEvent_State]
+Description=""
+
+[UIEvent_SubmitData]
+Description=""
+
+[UIEvent_SubmitListData]
+Description=""
+
+[UIEvent_SubmitTextData]
+Description=""
+
+[UIEvent_TabControl]
+Description=""
+
+[UIEvent_TabPageActivated]
+Description=""
+
+[UIEvent_TabPageEnabled]
+Description=""
+
+[UIEvent_TabPageInserted]
+Description=""
+
+[UIEvent_TabPageRemoved]
+Description=""
+
+[UIEvent_TextValueChanged]
+Description=""
+
+[UIEvent_ValueChanged]
+Description=""
+
+[UIGameInfoSummary]
+Description=""
+GameName=""
+
+[UIMapSummary]
+Description=""
+DisplayName=""
+
+[UINumericEditBox]
+InitialValue="Initial Editbox Value"
+
+[UIStyle]
+StyleName="Default Style"
+
+[UIWeaponSummary]
+FriendlyName=""
+WeaponDescription=""
+
+[Vehicle]
+MenuName=""
+
+[Volume]
+LocationName=""
+
+[WaterVolume]
+LocationName="under water"
+
+[WillowInventoryDefinition]
+NoManufacturerName="Generic"
+PickupMessage="You got %s"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureConstraintsMessage="You cannot use this item."
+UseFailureLevelMessage="You must be at least level %d to use this item."
+
+[WorldInfo]
+Title=""
+

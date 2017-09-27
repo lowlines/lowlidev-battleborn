@@ -1,0 +1,14 @@
+[Missions.Mission_Cavern:EnterLair PoplarMissionObjectiveDefinition]
+ProgressMessage="Enter ISIC's lair"
+
+[Missions.Mission_Cavern:FindSIC PoplarMissionObjectiveDefinition]
+ProgressMessage="Enter facility"
+
+[Missions.Mission_Cavern:InvestigateBase PoplarMissionObjectiveDefinition]
+ProgressMessage="Investigate base"
+
+[Missions.Mission_Cavern:Open_Cave PoplarMissionObjectiveDefinition]
+ProgressMessage="Open cave door"
+
+[Missions.Mission_Cavern:Turnonheat PoplarMissionObjectiveDefinition]
+ProgressMessage="Turn on heater"

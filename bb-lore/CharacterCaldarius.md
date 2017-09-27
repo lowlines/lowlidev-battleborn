@@ -1,0 +1,13 @@
+Caldarius began as a slave who fought his way up the leaderboards in the Jennerit Fighting Pits where he was once able to take down an Ankrosa warrior, nearly thrice his size without taking a single hit. After showing his combat prowness in front of Empress Lenore herself, he then demanded to be granted ascension into the Jennerit Elite through Sustainment, a rite that had previously only been granted to those with "noble blood" ([AssaultJump_KillJennerit_LoreReward]).
+
+As punishment for challenging his slavery bonds, he was assigned to the 999th Shock Division where he served the Jennerit Empire for 100 years fighting on the front lines ([AssaultJump_AerialAssault_LoreReward]). It was there that he was fitted with a HTX Assault Frame custom built to fit his small stature ([AssaultJump_DoubleJump_LoreReward]).
+
+Now having the entire Empire behind him, having recognized his efforts, Caldarius once again demanded to be Sustained ([AssaultJump_AerialAssault_LoreReward]). With the pressure he was getting from the citizens and advisement from Deande, Rendain granted his request and Caldarius was Sustained and then imprisoned as punishment for being a hero of the people.
+
+Caldarius spent 100 years in a prison on Tempest where he was tortured by Jailer Hylis and driven insane with nothing but his hate for his jailers and the guy who put him there, Rendain to keep him going, which he documented through a solitary log ([AssaultJump_KillBlinded_LoreReward]).
+
+To help start a second Thrall uprising, Deande with the help of Rath, broke him out of prison ([DarkAssassin_StealthKills_LoreReward]). Rath forged a phasic blade specifically adapted to fit Caldarius' Shock armor using the metal from the very walls of his cell ([Deathblade_WithCaldarius_LoreReward]).
+
+For a while it was believed he went rogue going under the alias of "The Kemessian", hellbent on getting his revenge on the Jennerit Elite who were responsible for all his suffering. He was last seen participating in the Battle of Penarch ([AssaultJump_WithRath_LoreReward]), where his rebellion against the Jennerit Imperium drew the attention of his jailers. Low on power, Caldarius made an emergency landing on Bliss where he planned to use an abandoned Ocoban Mining Facility to recharge his power cells.
+
+Deande led a mission (The Renegade) to intercept Caldarius before Jailer Hylis could recapture him and subsequently recruited Caldarius into the Battleborn.

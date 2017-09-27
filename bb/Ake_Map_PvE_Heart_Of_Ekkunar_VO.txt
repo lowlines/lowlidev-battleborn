@@ -1,0 +1,1951 @@
+[Poplar_VO_DLC_HeartOfEkkunar_BinkIntro_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We have always wondered what arcane breaches of natural law were keeping Ekkunar's pieces together. Royal “we”, of course. But now, we may have a clue. There is a signal emanating from deep within the planet's core.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_BinkIntro_00020_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What sort of signal?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_BinkIntro_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It isn't like any sort of transmission we use, um... it's more of a... continuous pandimensional polyvibration with a phasic magnitude that exceeds the Swoszowski limit.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_BinkIntro_00040_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Right. That.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_BinkIntro_00050_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="As I said, it's a signal. And WE are going to investigate!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Ops_Intro01_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome to Battleborn Operations, the hot new trend that's sweeping the universe. You have selected “Phoebe and the Heart of Ekkunar”. Sounds science-y as heck, but that doesn't mean we can't have fun.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Ops_Intro01_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Throughout the mission, I'll alert you to opportunities to earn Ops Points, up to a maximum of fifty for your first playthrough. Increased Ops Points means higher difficulty and greater rewards such as titles and customizations.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Ops_Intro01_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good luck. Beginning Operation in three, two, one...",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Ops_Intro02_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome back to Battleborn Operations. Looks like someone's got the archaeological itch! Better get that checked! This being your second playthrough, you will now begin with five Ops Points and be able to reach a maximum of fifty-five. Earning forty Ops Points will unlock a new skin for your character, and there are even greater rewards later on.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Ops_Intro03_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Already back for more space-lunking? That was a portmanteau of space and spelunking, and I'm still workshopping it. This is your third playthrough, so you will begin with ten Ops Points and can reach a maximum of sixty. If you haven't already, you can earn a new character skin at forty and a title at fifty. Get all the way to sixty, and you'll unlock a Commander Loot Pack!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Ops_Intro04_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey again! You really seem into this science stuff, so I'm just going to let you head on to the mission. But don't forget about getting those Ops Points, they're the key to harder difficulty and sweeter loot.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_01_ActivateShard_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There is a jump pad to that far ledge, but it appears to be disabled. Fill up those shard banks and get it running!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_01_ActivateShard_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're at no loss for shards down here. Look! They're growing right on the wall!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_02_JumpChasm_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="My scans of the cavern are picking up an elevator. It should take you deeper into the core.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_03_Elevator_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm detecting a lot of movement in the cavern ahead. Try and take down the shards powering the shields as quickly as you can.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_04_DropShields_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Take down that first shield!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_04_DropShields_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The first shield is down! Push forward!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_04_DropShields_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Second shield down! Hurry, or you'll be overwhelmed!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_04_DropShields_Nag_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I cannot stress enough the importance of maintaining your inertia. Stagnation is death!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_04_DropShields_Nag_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="If you don't keep moving, you'll be overrun! Hurry!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_05_OpenDoor_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The chamber is behind that door up there! Destroy the shards keeping the last shield up!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_05_OpenDoor_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="First shard destroyed! Two more! Keep going!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_05_OpenDoor_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Second shard destroyed. Almost there! One left!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_05_OpenDoor_00040_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's all of the shards! There's a panel in the center of the room. Step on it and open the door. Quickly! The Varelsi are swarming!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_06_BossFight1_A_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That construct is siphoning power from nearby chambers! Fend it off while I figure out a way to open the doors.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_06_BossFight1_A_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, brilliant. The Varelsi have gotten in. Stay alive!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_06_BossFight1_A_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm attempting to recreate the Aztanti language to open the doors! Ahem. Mmh. Mememememe. Oooghhhh, wohhhhhh, blpblpblpblpblp. Did that work?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_06_BossFight1_B_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whhhoooppp? Yes! The door is open! Destroy the energy source in the other chamber!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_06_BossFight1_C_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That seems to have weakened it! Strike now!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_06_BossFight2_A_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You've hurt it, but it's going to take more than that to destroy a construct of that size!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_06_BossFight2_A_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You: survive! I'll get this next door open! Mmmmmhmm, blpblpblp, mmmbbllpppffrrdy!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_06_BossFight2_B_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mmmmwhh, mwwwwmmhmm, mmwwwh! It worked! Get in there and destroy that energy source!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_06_BossFight2_C_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The construct is weakened again! Hit it hard!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_06_BossFight3_A_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Rrgh, blast! The Aztanti certainly knew how to build an animated guardian construct. Keep at it!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_06_BossFight3_A_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Moooohbblpblpb, oooohhhblpblp! Ohhh! This last door is giving me trouble. Try not to die while I work on it!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_06_BossFight3_B_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ooonhn? Ooohnhn? Hnnnhoohn! Yes! The last door is open! I knew that summer immersion study in paleoxenolinguistics would pay off someday.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_06_BossFight3_C_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That did it! You should be able to destroy it this time.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_06_BossFightNag_B_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The chamber to the energy source is open! This is the only way to make the construct vulnerable!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_06_BossFightNag_B_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The door to the side room is open! Get in there and destroy the energy source!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_06_BossFightNag_B_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What are you waiting for?! Get into the other room and destroy that energy source!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_06_BossFightNag_C_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Tarry not, the construct is vulnerable! Re-engage it!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_06_BossFightNag_C_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Go back to the central room! The construct is vulnerable!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_06_BossFightNag_C_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Get in there and attack that construct! Time is of the essence!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_A_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We are dropping you off at the lowest relative depth Nova's engines can sustain lift. That cleft in the rock is the entrance to an Aztanti ruin. Make your way through and find the source of the signal. Mind your step, wouldn't want you falling! [giggle]\nBut if you do, take notes.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_B_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Aztanti lived tens of thousands of years ago, predating even the Jennerit. We still don't know what—",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_B_00020_ThrallCapt]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This dig site has been commandeered by Imperium forces! You are trespassing!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_B_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ah. It seems we are NOT the first to notice the signal.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_B_00040_ThrallCapt]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You can hear it, too?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_C1_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One down! Keep this up, we cannot let the Thrall get there first.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_C1_00020_ThrallCapt]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Get where? Do you know what's down there? Come on, tell us!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_C1_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What? Ha! No.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_C2_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One more to go! Hurry up, we MUST be the first to reach the anomaly!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_C2_00020_ThrallCapt]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh... “anomaly”? What is that? Is that what's in our heads? It calls to us!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_C3_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well done! That jump pad should be functional now.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_C3_00020_ThrallCapt]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You ain't not going... nowhere! The voice is ours! It's calling us, not you!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_D1_00010_VoidWalker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Turn. Back.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_D2_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uhm, heh-heh... d-d-did... did that Varelsi just... speak?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_D3_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, diplomacy doesn't seem to be on their minds after all. Wipe them out!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_D4_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Direct communication. This is most perturbatory. Activate the elevator and continue the expedition.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_E_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The signal is coming from a room carved deep into the rock. The archaeologists who first discovered this place erected a series of shields before leaving, presumably to protect their find from robbers. And rival scientists! [giggle]",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_F_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Third shield down! How odd that they put the power sources in front of the shields. You know, you'd think if they were trying to keep people out, they'd put them on the other side.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_G_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That light... it COMPLETELY destroyed the Varelsi. Could the Aztanti have encountered the Varelsi in their time? I mean, it seems unlikely, given the eons between their era and ours, but... it bears further study.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_H_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I know what you're thinking: abandoned dig site, ancient signal come to life, forces of evil vying for control over it... you're wondering if I'll credit you in any research papers resulting from this expedition. The answer is yes, and I've got a draft ready right here.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_H_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ahem. “This stunning scientific achievement of mine would not have been possible without...” and then I've left up to three spaces for names, depending on how this all shakes out.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_I_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Egad! The shields weren't to keep people out, they were to seal this monstrosity in! Oh. Seems a bit obvious now, really. KILL IT!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_J_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good show all around, everyone. Oh, now the real fun begins – collecting, cleaning, tagging, cataloguing, and meticulously preserving every piece of these ruins! Ahhhh.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_J_00020_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You enjoy the archiving, Miss Hemsworth. I'll be investigating the real questions here.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_J_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Beatrix, who said you could horn in on my expedition? And, um, heh... what questions would those be?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar01_J_00040_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, I don't know, maybe why that forty-thousand-year-old golem, created by a race more advanced than we could ever dream, looks intriguingly like a Thrall.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_A_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="If we intend to find out what connection the Thrall have with this ruin, then—",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_A_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Beatrix, this is my expedition, and I am calling the shots.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_A_00030_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, by all means, Miss Hemsworth. Knock yourself out.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_A_00040_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good. Thank you. Ahem. Uh... alright! Heh. Let's find out what the Thrall are doing here.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_B_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yoo-hoo? Ah, Mister Thrall? Are you still here?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_B_00020_ThrallCapt]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This dig site has been commandeered by—",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_B_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Right, right, Imperium forces, yadda yadda. You said before you could “hear” the signal coming from this place. What does it sound like?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_B_00040_ThrallCapt]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Like a prissy scientist lady trespassing on our property!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_B_00050_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bother.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_C1_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We'd really only take a moment of your time!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_C1_00020_ThrallCapt]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bugger off!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_C1_00030_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Not quite a savant when it comes to interpersonal skills, are we?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_C1_00040_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, shut up!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_C2_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You! Thrall! What is its rank?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_C2_00020_ThrallCapt]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="W-what? Captain, mum!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_C2_00030_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Excellent. Tell us. What does it hear?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_C2_00040_ThrallCapt]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The voice, mum! It calls us! All Thrall!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_C3_00010_ThrallCapt]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Had to come to Ekkunar! Had to... return! Rrrrgh! So loud! SO LOUD!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_C3_00020_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I think that's all we'll get out of him. Dispose of the rest and make your way across the chasm.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_C3_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Dr. Lucavi, you are... quite the piece of work.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_D1_00010_VoidWalker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Flee. Now.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_D2_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's a new development. I wonder if all Varelsi possess telepathic abilities, or just these apex specimens. Oh, I'd just love to crack one open.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_D3_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Looks like this could be your chance.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_D4_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Shame they dissolve upon death, but then, that's why I always prefer vivisection to dissection. Well, that and the sounds.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_E_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, Beatrix, we appear to have this covered, so thank you for all your help! You may leave now.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_E_00020_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Not a problem! But... I'll stick around for when you require my further expertise.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_E_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hhhhnh.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_F_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Third shield disabled!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_F_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yes, third shield... oh hell, you heard her.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_G_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That light must have four-dimensional phasic resonance to affect the Varelsi in that way. Fascinating.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_G_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="How could YOU possibly know that?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_G_00030_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Just theorizing, Miss Hemsworth. It's the scientific method at work.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_G_00040_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Rrrrgghghgh.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_H_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alright, Beatrix – why are you butting in on my expedition?! Is it just to make me look bad, is that it?! Or are you applying for some grant I don't know about?!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_H_00020_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Why, Miss Hemsworth, I am in this purely for the pursuit of knowledge and the betterment of all society. And also, yes, I've got a cover deal with Galactic Archaeology magazine.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_H_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ah-HA!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_I_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Fascinating. Now that I see it up close, the construct more closely resembles the Thrall before I modified their genome: macrobrachus cornifaustis, the Tempestian Grayhorn.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_I_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, good. KILL IT!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_J_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="If only the Aztanti had left behind any writings or records... any hint of what that construct was guarding down here.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_J_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="As luck or perhaps genius would have it, I know an expert on the Aztanti.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_J_00030_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="More of an expert than you? Color me surprised.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar02_J_00040_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, you know what they say – you don't know an ancient species until you walk a mile in their skeleton.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_A_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Kelvin, I was hoping you could offer us some insight on the Aztanti?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_A_00020_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="They have very roomy skeletons!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_A_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well... um... that's not very helpful.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_B_00010_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This place makes me vibrate.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_B_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Okay, THAT is FAR MORE than I needed to know.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_B_00030_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No, fool. I mean the very bones that form my body are singing in harmony with the stones of the mountain!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_B_00040_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Heh. Yeah. That isn't much clearer, honestly.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_C1_00010_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="These Thrall are crazed. Perhaps they too are vibrating.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_C1_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One of them did mention hearing a voice.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_C2_00010_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I hear no voice, but perhaps meat is required.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_C2_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh, heh-heh. What do you mean, “meat”?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_C2_00030_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thinking meat. Brains, you call them.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_C3_00010_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Thrall might be experiencing the same thing I am, but their meat bodies and meat minds can translate it into a message.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_C3_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What message, though?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_C3_00030_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The same as fish traveling upstream to spawn. “Come home.”",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_D1_00010_VoidWalker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Belongs to us!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_D2_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What does? What belongs to you? Wait! Come back!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_D3_00010_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Wasn't the start of a conversation, I guess.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_D4_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="They wouldn't break years of silence arbitrarily. There must be a reason beyond mere intimidation.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_E_00010_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The vibration is intensifying! Sensation is... intriguing.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_E_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh... blech.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_E_00030_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I cannot tell if it is meant to excite, or to warn.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_E_00040_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A bit of both, judging by the temperament of the Thralls.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_F_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Third shield is down! Kelvin, can you sense anything changing?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_F_00020_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Feeling something new. Could be indigestion.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_F_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Please, do keep me updated.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_G_00010_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The light sings along to the same tune!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_G_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, fascinating! Perhaps the light and the signal share a power source.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_H_00010_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A conclusion – the song is being produced by a tear in the fabric of the universe.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_H_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What makes you think that?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_H_00030_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's something I can't really explain to you if you aren't also a crystalline structure. But it is a tear that is being pinched together with considerable energy.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_H_00040_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A tear being kept shut. Interesting.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_I_00010_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This thing gives me the bone-shivers! Get rid of it!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_J_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh good, you're all still alive. I was wondering, Kevin, if I could ask a favor of you?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_J_00020_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Kelvin. And you may ask.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar03_J_00030_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You see, Kevin, I have a theory, and I will need to run some tests in order to confirm it. May I borrow just the tiniest smidgen of your bones?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_A_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, Beatrix, what did your tests show you?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_A_00020_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Something has been gnawing at me since this all began – and for once, it wasn't something that escaped from its jar. It was a suspicion. Which now, thanks to Kevin, I have confirmed.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_A_00030_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You are welcome. And it's Kelvin.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_B_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I compared the genetic code of the Aztanti sample I got from Kevin with that of the Thrall.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_B_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And they are related?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_B_00030_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Related? No, Miss Hemsworth – they're a perfect match!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_B_00040_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What?! That's impossible!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_C1_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're telling me these brutes are the same species that built this place before the first Jennerit smacked two rocks together?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_C1_00020_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="In layman's terms, yes.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_C1_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Huh. Quite the trade-down.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_C2_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="When I first investigated the proto-Thrall, I uncovered a treasure trove of seemingly dormant portions of their genetic code. Untapped potential for intelligence, strength, and life-spans far in excess of where their species was at the time. Of course, I only activated a careful selection, to keep them as useful servants.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_C3_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Looking back, it seems obvious now. Most species have excess code in their DNA, but these genes held the blueprints for beings far beyond the drooling primitives they had been taken from. I should have known then that they came from heartier stock.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_D1_00010_VoidWalker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Out. Of. The. Way.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_D2_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bossy, aren't they?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_D3_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's get in their way.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_D4_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, I DO hope we haven't inconvenienced them too dearly.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_E_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So if the Thrall ARE, or rather WERE, the Aztanti, and something in these ruins is calling them home, the next question is clear: why?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_F_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's the third shield down! Don't worry, the archaeologists who claimed this place are likely long-dead.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_G_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The light seems to not simply destroy the Varelsi, but actually unbind their matter from this universe. They denature before our eyes like a jelly slug in a lithium perchlorate bath. Ah, science fair.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_H_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Have you asked Attikus if he can hear the signal?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_H_00020_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Not... exactly, no. He refuses to talk to me.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_H_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, really? Whatever did you do?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_H_00040_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It was all a misunderstanding. Which is to say, I misunderstood what was an appropriate amount of tranquilizer for a Thrall his size, and he woke up before I could begin what was supposed to be a completely routine brainstem biopsy.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_I_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What could this room have been intended for? How long has this portal been here?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_J_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Long story short, Attikus threw me out of an airlock and now we don't chat much.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_J_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What? How did you survive?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_J_00030_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, please. I replaced my lungs centuries ago.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar04_J_00040_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You really are the creepiest person I know.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_A_00010_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="If it is true that the Varelsi spoke to you, then I will join you on this mission.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_A_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Do you plan on making contact yourself?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_A_00030_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="They have much to answer for.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_B_00010_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What have you discovered since you—",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_B_00020_ThrallCapt]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This dig site has been commandeered by Imperium forces! You are trespassing!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_B_00030_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Shut UP! I hate your voice.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_B_00040_ThrallCapt]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're not so light on the ears either, traitor!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_C1_00010_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So... the Thrall are the descendants of the Aztanti?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_C1_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, genetically-speaking, they ARE the Aztanti. The work Beatrix did simply reactivated genes that for some reason had gone dormant.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_C1_00030_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All I needed to do was flick the switch, and they went from non-sentient beasts to soldiers capable of wielding our weapons.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_C2_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Why do the Thrall still fight for the Imperium, even after Rendain is gone?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_C2_00020_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="They are mentally incapable of breaking away from a strong leader. It took Attikus demonstrating that he was stronger than the Silent Sisters to break away even a small portion of the population.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_C3_00010_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The enslavement of the Thrall was the first crack in the great edifice of Lenore's empire.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_C3_00020_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You didn't have many qualms while our newly bred armies brought hundreds of planets under our control.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_C3_00030_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yes, I... should have spoken up. Yet one more way in which I failed the Empress.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_D1_00010_VoidWalker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Empress... walks... the Void.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_D2_00010_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="How dare you even speak of her?!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_D3_00010_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Destroy them! Wring the blood of trillions from their hands!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_D4_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, that's one way to make contact.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_E_00010_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What did it mean? Was it taunting me?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_E_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Their intentions still elude me.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_E_00030_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I will tear a path into their wretched dimension with my bare hands if it means getting answers.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_F_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Third shield is down! Oh. The Varelsi seem to be getting desperate. What could be down here that they desire for themselves?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_G_00010_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Back to the shadows! You see?! They fear the light as only cowards can! Only in darkness can they strike those more powerful than them.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_H_00010_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thank you for allowing me to join you. When I heard that the Varelsi had contacted you directly, I knew I had to see for myself.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_H_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You have as much right to be here as I do. Rendain's betrayal hurt us all.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_H_00030_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="He took from me what was most precious and sold it away to save his own life. He was the worst kind of coward.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_I_00010_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's guarding that portal. We must destroy it!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_J_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This machine is far too complex for even MY mind to comprehend its inner mechanisms!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_J_00020_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We are dealing with a threat more ancient than we can understand.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_J_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hmm. A shame the Thrall are unable to tell us how their ancestors built this device, or for what purpose.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar05_J_00040_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There is one who is old enough to know. One and many.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_A_00010_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Miko. We require your consensus on an important matter.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_A_00020_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yes, yes... the song is keen and clear to us.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_A_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So you can hear it as well?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_A_00040_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We do not need ears to hear what has no sound.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_B_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We are attempting to the discern the purpose of these ruins, and the proper place to start is at the beginning.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_B_00020_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We remember the beginning. Before the song, when there was silence that could not be heard.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_C1_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="When did you start hearing the... not sound?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_C1_00020_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Which metrics do you desire? We perceive the river of time differently than you do.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_C1_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh... days?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_C1_00040_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Forty thousand years ago.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_C2_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You mean to say that you've been hearing THIS sound, the signal coming from these ruins, since the height of the Aztanti empire?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_C2_00020_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yes.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_C2_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And you never mentioned it to anyone?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_C2_00040_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It did not make for interesting conversation.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_C3_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Do you know what the Aztanti did that began this song?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_C3_00020_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No. We were not present. We know only that the song began, then their murmur receded even as the soundless tone continued.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_C3_00030_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sounds like the worst case of tinnitus in recorded history.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_D1_00010_VoidWalker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Should... have joined.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_D2_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Rendain joined you. How did that work out for him?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_D3_00010_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Joining is harmony. Subservience is discord.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_D4_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Steal our stars, murder trillions. The Varelsi have an odd way of inviting us to join them.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_E_00010_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The song is not one voice, but two. Singing in harmony.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_E_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What does THAT mean?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_E_00030_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It is what we hear. We do not know what it means.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_F_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Third shield down! Get a move on!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_G_00010_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The light sings in chorus!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_G_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Kelvin made a similar observation.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_G_00030_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It is a counter-point. Negating.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_H_00010_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We anticipate witnessing the song-source. We sometimes dream of it.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_H_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh? What are these dreams like?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_H_00030_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Less screaming, fewer explosions.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_I_00010_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This construct is as old as the song! It will defend until annihilation.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_J_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That portal... could it be the source of the song you hear?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_J_00020_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yes. Two universes, carrying a soundless duet across all things.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_J_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="But that would predate the first contact with the Varelsi by twenty thousand years.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar06_J_00040_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Perhaps we should amend that to “first KNOWN contact”.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_A_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Varelsi have been invading our universe for thousands of years, but the portal technology in this ruin predates them by thousands more. Hmm... we should investigate this further.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_B_00010_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Shadow-walkers came here to steal stars. How did they KNOW to come?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_B_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And how many other universes fell to them before us?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_C1_00010_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We assumed Varelsi found US. What if instead, they were the ones FOUND?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_C1_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What do you mean?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_C1_00030_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Spiders do not search for prey. Prey comes to the spiders.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_C2_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're suggesting that the Aztanti were the ones that breached the Varelsi universe, not the other way around?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_C2_00020_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It is a theory.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_C3_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Huh... the timeline supports it, but what happened to the Aztanti between then and now? What caused their entire civilization to decline so rapidly after they made contact? There's no evidence of a Varelsi invasion in that time period.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_C3_00020_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Perhaps the wound was self-inflicted?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_D1_00010_VoidWalker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Too... late.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_D2_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Excuse me! A Hemsworth is NEVER late!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_D3_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I do believe they are trying to scare us. Show them how well that's worked so far.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_D4_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="See? Never too late to teach your enemies the agony of defeat.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_E_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mikollopria is right. There is one way a species could fall so quickly. A bespoke retrovirus, tailored to rewrite segments of their genetic code.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_E_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Aztanti de-evolved themselves on purpose? Wh... that's... inconceivable!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_E_00030_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Effective way to keep a secret.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_F_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Aztanti peeked into another universe, and the Varelsi came spilling out like a kicked-over anthill.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_G_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Varelsi were clearly no match for the Aztanti. It was their own dimensional gate technology that threatened the entirety of existence.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_H_00010_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="To self-lobotomize is the ultimate sacrifice. Even if all records were destroyed, there would still be memory as long as the Aztanti existed.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_H_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So they chose to not exist. And it almost worked – but the Varelsi still found their way back here.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_I_00010_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This construct is the last handiwork of the Aztanti. Shame to break it.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_I_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's still trying to kill us!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_J_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This portal, this door into the Varelsi universe... it must be the original breach. This is where the Aztanti made first contact with the Varelsi.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_J_00020_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And were so horrified by the implications that they immediately slammed it shut, then scuttled their entire civilization so that no one else could ever develop the same technology.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar07_J_00030_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And here we are, trying to decide what to do with it.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_A_00010_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We should go down there and destroy this ancient portal device, if it's truly as powerful and as dangerous as you say.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_A_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That could be an irrevocable mistake. We need to better understand this technology before we decide to destroy it.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_B_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What do we truly know about how Varelsi portals work?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_B_00020_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Only what we have seen them do to countless planets and stars.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_B_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Exactly. We have only ever observed the process, and never the result.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_C1_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We have largely been operating under the assumption that the planets and stars veiled by the Varelsi are destroyed in the process.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_C1_00020_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What do you mean, assumption? I've seen it with my own eyes, no living thing could survive the energy released by a veiling.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_C2_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And yet we commonly see individual Varelsi step out of portals, unharmed by the massive energy discharges necessary to hold open a portal from one universe to another.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_C3_00010_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Are you suggesting that all the planets, all the people on them that were taken...",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_C3_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="May well remain alive on the other side of those portals.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_C3_00030_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Preposterous.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_D1_00010_VoidWalker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nuisance!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_D2_00010_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I will continue to be a nuisance to you until one of us is no more.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_D3_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Any opportunity to upend the Varelsi's plans.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_D4_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We appear to be frustrating them. [amused chuckle] Good.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_E_00010_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Do you truly believe that... that people could have survived on the other side of the veil?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_E_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The secrets held by these ruins changed a great many of our preconceptions. I can no longer be sure.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_F_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The third shield is down! Quickly, we need to get into that portal chamber!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_G_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The light unbinds them from this reality, like... like a permit being revoked. Or a doctor's license. [pointed cough] Beatrix.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_H_00010_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Could this portal be used to bring things back from the other side?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_H_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I just don't know. We've never had access to a stable portal before, and we don't even know how to get it open yet.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_H_00030_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="If there is even a remote chance that my Empress is alive behind that veil, I will find a way to get her back and restore the rightful honor of the Jennerit Empire!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_I_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, there's about three tonnes of golem between you and that portal. Have at it!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_J_00010_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The portal remains closed. For now.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar08_J_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You almost sound... disappointed.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_A_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I believe I have figured out why the Varelsi are so interested in the original portal. It is imperative that we go down there and prevent them from reaching it.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_B_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I theorize that while the Varelsi have the ability to create portals between their universe and ours, they themselves cannot breach into other universes.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_B_00020_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Which the Aztanti were able to do all those years ago.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_B_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Exactly. The Aztanti opened the door for them. The Varelsi want the master key.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_C1_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Why would the Aztanti have left a portal device intact if they went through such trouble to hide all evidence of it ever existing?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_C1_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Because it was the original device keeping the portal shut. They must have hoped that keeping that door closed would be enough. They were wrong.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_C2_00010_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="If the portal was kept closed... how did the Shadow-Walkers return?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_C2_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The first portal was just the beginning. Linking the two universes inextricably tethered them together, making them much more easily accessible to one another. It took the Varelsi millennia to figure it out, but... they eventually tunneled back into our universe.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_C3_00010_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And now that they have bled this one dry, they are eager to get to another.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_C3_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Precisely. And the only remaining device able to do so lies at the heart of this ruin.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_D1_00010_VoidWalker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Stop... this...",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_D2_00010_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Desperation in their voices.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_D3_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Careful. A desperate enemy is far deadlier than a confident one.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_D4_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That should slow them down for a bit.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_E_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, I think we can all agree that if the Varelsi want something, we should do our utmost to prevent them from getting it.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_E_00020_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Cheers to that.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_F_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Third shield down! We can still beat them!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_G_00010_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The light clears our path. Forward!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_H_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Aztanti construct is powered by the same source as the portal device. If we shut it down for good, will the portal re-open?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_H_00020_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That, or the latent energy of the portal being kept closed for millennia will be expelled all at once, destroying the solar system.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_H_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh! Heh-heh. Delightful.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_I_00010_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Knowing that this thing was put here to protect the universe does not endear me to it.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_J_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The device is shut down, but the portal remains closed. Perhaps it lacks the energy required to fully open.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_J_00020_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We must decide on a course of action.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_J_00030_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Much is at stake.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar09_J_00040_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'll just do whatever you guys do.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_A_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We cannot allow the Varelsi to obtain this technology. In their hands, it would be the doom of infinite realities.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_A_00020_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="But if we destroy the device, there may never be another chance to retrieve those who have been veiled.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_B_00010_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I find it most interesting that—",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_B_00020_ThrallCapt]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This dig site has been commandeered by Imperium forces! You are trespassing!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_B_00030_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This guy again?! Hey Thrall, your commander is dead! Rendain is gone!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_B_00040_ThrallCapt]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Come and say that to my face!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_C1_00010_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ahem. As I was saying, it is quite interesting that the signal from the portal only became noticeable to others besides Miko recently. It's an unknown variable.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_C2_00010_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What are you suggesting?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_C2_00020_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Of the possible influences on the portal, none had occurred before this mission, due to the protection by the Aztanti construct. Only remaining potentiality... is that something is affecting it from the other side.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_C3_00010_TribalHealer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You suggest these manipulations are the work of the Shadow-Walkers?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_C3_00020_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Not at all. They can make portals into our world at any time they choose.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_C3_00030_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Lenore! The Empress is trying to return!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_C3_00040_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's not be hasty.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_D1_00010_VoidWalker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Must... fight...",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_D2_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ooh! Fight, you say?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_D3_00010_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Give them what they ask for, I suppose.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_D4_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Their communications still confuse me. I wonder what they're trying to accomplish?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_E_00010_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Empress is a scientific genius. If anyone could figure out that there was a stable portal back from the veil, it would be her!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_E_00020_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Someone is knocking on the door to the universe, and your idea is to let them in?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_E_00030_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sounds bad when you say it like that.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_F_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Third shield down! I'm detecting spikes of activity from the portal. We're running out of time!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_G_00010_IceGolem]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Varelsi are being pushed back! Hurry into the chamber!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_H_00010_PlagueBringer]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What if the Varelsi have a larger reason for harvesting our universe? Could it be that there is a larger threat where they come from, and they are simply collecting material for their own war effort?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_H_00020_DeathBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Even if that is true, their actions are irredeemable.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_I_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There! The portal's energy readings are stronger than they've ever been – you have to defeat this thing for good!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Nar10_J_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Something is wrong. The portal isn't subsiding! Wait, what's that?",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side01_A_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There sure are a lot of dead Thrall around here. Try to investigate the bodies.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side01_A_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All of these Thrall look like they were beaten to death. Strange. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side01_B_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm detecting a hidden loot cache somewhere in the cave. See if you can find it.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side01_B_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're near the loot cache. Keep looking!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side01_B_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sweet, sweet loot. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side01_C_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Thrall have set up a communications relay in the cave. Take it out to disrupt their operations.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side01_C_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good job – the Thrall are in complete disarray. I mean, it's hard to tell the difference, but you still did good. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side01_D_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm getting strange readings from a room to the side of the cave. Go investigate!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side01_D_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="My word! That's a missing link between the Aztanti and the modern Thrall! Oh, it's one-of-a-kind!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side01_D_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sounds like a perfect time to earn some Ops Points. Kill it!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side01_D_00040_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hhhhnh. Oh well. Try and save its corpse for study, at least.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side01_D_00050_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Take that, history! Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side01_E_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's a whole bombing crew of Primal Thrall headed your way. Take them out!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side01_E_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And boom go the Thrall. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side01_F_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That Enforcer is a high-value target. Take it out!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side01_F_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Who's the Enforcer now? It's you. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side02_A_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's a treasure room nearby. Take down the shield protecting it, quickly!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side02_A_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hurry, before the shards are gone!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side02_A_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Take that treasure, you earned it. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side02_B_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm picking up a Varelsi signal nearby. See what's over there.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side02_B_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Fascinating. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side02_C_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Thrall were trying to set up a power generator. Destroying it will set them back.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side02_C_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good work, those Thrall are back at square one. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side02_D_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Destroy that Alpha!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side02_D_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good kill. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side02_E_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Destroy that Menagerie!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side02_E_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Varelsi horror destroyed. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side02_F_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Take those Varelsi down, quickly!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side02_F_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Impressive! Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side02_F_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Too slow.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side03_A_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Looks like the archaeologists left some minion bots behind. Activate them to help you through the cavern.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side03_A_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good find! There should be more somewhere in the cavern.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side03_A_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="These guys have been down here a while! Now they have purpose again! Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side03_B_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's bound to be some loot stashed away down there. Try and find it!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side03_B_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I knew it! There's always loot. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side03_C_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Thrall have a communications relay down there! We can't let them get word out. Destroy it.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side03_C_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That'll keep their mouths shut. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side03_D_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Destroy that Veil-Walker!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side03_D_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good riddance. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side03_E_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Destroy that Defiler!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side03_E_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nicely done. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side03_F_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's a horde of Berserkers coming your way! Destroy them!",Time=0)
+
+[Poplar_VO_DLC_HeartOfEkkunar_Side03_F_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nice try, Varelsi. Ops Points awarded.",Time=0)
+
+[Poplar_VO_Tempest_Cathedral_17D_RendainFight_FirstFightIntro_1D_00010_Rendain]
+bMature=False
+bManualWordWrap=True
+bHideSpeakerName=True
+Subtitles[0]=(Text=" ")
+Subtitles[1]=(Text="[Rendain] Hi.",Time=3.6)

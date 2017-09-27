@@ -1,0 +1,229 @@
+[Poplar_VOCT_PapaBase_General_Match_Countdown_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Three. \n Two. \n One.",Time=0)
+
+[Poplar_VOCT_PapaBase_General_Match_Countdown_Begin_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Strap in, people, 'cuz those bay doors are opening in:",Time=0)
+
+[Poplar_VOCT_PapaBase_General_Match_Countdown_Begin_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's showtime, ladies and gentlemen. Doors open in:",Time=0)
+
+[Poplar_VOCT_PapaBase_General_Match_Start_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bring delicious ruin upon them all, baby.",Time=0)
+
+[Poplar_VOCT_PapaBase_General_Match_Start_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's get it on.",Time=0)
+
+[Poplar_VOCT_PapaBase_General_Match_Start_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alllriiiiiight.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Match_Countdown_Pre_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Minion fabrication initialized. Gotta love it.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Match_Countdown_Pre_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A fresh batch of minions is comin' hot off the line. Oh yeah.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Match_Type_Intro_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You know the drill, my friends. Blow up their stuff, and keep 'em off our stuff.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Match_Type_Intro_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You know how the song goes. Fight your way to the enemy base and destroy those Magnus cores.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Match_Type_Intro_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Smash up the enemy base, and keep 'em away from our big-ass Magnus.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Ally_Spawn_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Minions are comin' in hot, everybody.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Ally_Spawn_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Got more minions, made special just for you.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Ally_Spawn_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Minions are movin' along for that objective.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Ally_Spawn_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mechanical killin' machines are on the move.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Ally_Spawn_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Did someone say ''more minions''? Heh, you got it, baby.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Line_Advance_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our minions could use a hand with a sentry. Be a pal.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Line_Advance_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Minions are engaging a sentry. How 'bout you help 'em out?",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Line_Advance_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Minions can't take out a sentry all on their lonesome.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Line_Advance_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Minions have reached a sentry. How 'bout a little backup?",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Line_Advance_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our minions are workin' a sentry. Go strike the killing blow.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Line_Broken_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy forces are crushing our minions. Escort them to their objectives, please.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Line_Broken_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our minions are getting crushed. Defend them.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Line_Broken_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hear those mechanical shrieks of agony? Those would be minions. Look after 'em.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Line_Broken_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Just a heads up: our minions are gettin' picked off.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Line_Broken_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Those minions won't get far without a little support.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Line_Objective_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A minion – or six – could make short work of those shields.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Line_Objective_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We get by with a little help from our friends. Minions are our friends.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Line_Objective_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Aw, come now, you're doing this the hard way. Escort minions to the sentry.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Line_Objective_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Remember: minions can disable enemy sentry shields.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Minion_Line_Objective_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bring minions along to weaken that enemy sentry.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Sentry_Ally_Attack_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A friendly sentry is under attack.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Sentry_Ally_Attack_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="An allied sentry is besieged.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Sentry_Ally_Attack_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One of our sentries is under attack.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Sentry_Ally_Attack_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy forces are attacking a sentry.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Sentry_Ally_Attack_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A sentry is under fire.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Sentry_Ally_Destroy_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy forces have destroyed a sentry.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Sentry_Ally_Destroy_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our sentry has been destroyed.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Sentry_Ally_Destroy_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Raw deal. A friendly sentry just blew the hell up.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Sentry_Ally_Destroy_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ohhh man, an allied sentry has been destroyed.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Sentry_Ally_Destroy_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One of our sentries has fallen. Big tears from Papa Base.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Sentry_Enemy_Destroy_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy sentry destroyed. Hooray.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Sentry_Enemy_Destroy_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Who's destroyed an enemy sentry? We have.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Sentry_Enemy_Destroy_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Booyah. Hostile sentry destroyed.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Sentry_Enemy_Destroy_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy sentry down. Waaaaaaay down.",Time=0)
+
+[Poplar_VOCT_PapaBase_Incursion_Sentry_Enemy_Destroy_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy sentry eliminated.",Time=0)

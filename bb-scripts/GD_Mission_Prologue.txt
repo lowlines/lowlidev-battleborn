@@ -1,0 +1,2 @@
+[Missions.Mission_Prologue:DefeatThrallPatrol PoplarMissionObjectiveDefinition]
+ProgressMessage="Defeat Thrall patrol"

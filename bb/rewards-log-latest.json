@@ -1,0 +1,125 @@
+{
+    "items": 40,
+    "mutations": 0,
+    "lore": 150,
+    "titles": 322,
+    "skins": 742,
+    "taunts": 232,
+    "changes": 5,
+    "diffs": [
+        {
+            "status": "changed",
+            "type": "titles",
+            "id": "IShotTheSentry_MetaTitle",
+            "source": "GD_Metagame_Inventory_DAH.Titles.IShotTheSentry_MetaTitle",
+            "changes": {
+                "tags": {
+                    "old": [
+                        "Title"
+                    ],
+                    "new": [
+                        "Title",
+                        "GentSniper",
+                        "Character"
+                    ]
+                }
+            }
+        },
+        {
+            "status": "added",
+            "type": "titles",
+            "id": 293,
+            "data": {
+                "id": "AmpChamp_MetaTitle",
+                "source": "GD_Musketeers_Challenges.Titles.AmpChamp_MetaTitle",
+                "name": "Amp Champ",
+                "icon": "DAH00\/MetaTitles_I3D.png",
+                "description": "Successfully escort 5 Super Minions built in a Supercharge match, 10 times.",
+                "tags": [
+                    "Title",
+                    "Supercharge"
+                ],
+                "unlock": [
+                    {
+                        "id": "NoChallengeUnlock",
+                        "name": "Hidden Unlock",
+                        "description": "Successfully escort 5 Super Minions built in a Supercharge match, 10 times."
+                    }
+                ],
+                "isNew": true
+            }
+        },
+        {
+            "status": "added",
+            "type": "titles",
+            "id": 294,
+            "data": {
+                "id": "CircuitBreaker_MetaTitle",
+                "source": "GD_Musketeers_Challenges.Titles.CircuitBreaker_MetaTitle",
+                "name": "Circuit Breaker",
+                "icon": "DAH00\/MetaTitles_I3B.png",
+                "description": "Win 10 Supercharge matches by 300 points.",
+                "tags": [
+                    "Title",
+                    "Supercharge"
+                ],
+                "unlock": [
+                    {
+                        "id": "NoChallengeUnlock",
+                        "name": "Hidden Unlock",
+                        "description": "Win 10 Supercharge matches by 300 points."
+                    }
+                ],
+                "isNew": true
+            }
+        },
+        {
+            "status": "added",
+            "type": "titles",
+            "id": 295,
+            "data": {
+                "id": "Galvanized_MetaTitle",
+                "source": "GD_Musketeers_Challenges.Titles.Galvanized_MetaTitle",
+                "name": "Galvanized",
+                "icon": "DAH00\/MetaTitles_I39.png",
+                "description": "Lose fewer than 10 minions in a Supercharge match, 10 times.",
+                "tags": [
+                    "Title",
+                    "Supercharge"
+                ],
+                "unlock": [
+                    {
+                        "id": "NoChallengeUnlock",
+                        "name": "Hidden Unlock",
+                        "description": "Lose fewer than 10 minions in a Supercharge match, 10 times."
+                    }
+                ],
+                "isNew": true
+            }
+        },
+        {
+            "status": "added",
+            "type": "titles",
+            "id": 296,
+            "data": {
+                "id": "Ohmnipotent_MetaTitle",
+                "source": "GD_Musketeers_Challenges.Titles.Ohmnipotent_MetaTitle",
+                "name": "Ohm-nipotent",
+                "icon": "DAH00\/MetaTitles_I37.png",
+                "description": "Prevent the enemy from ever securing the supercharger in a Supercharge match, 10 times.",
+                "tags": [
+                    "Title",
+                    "Supercharge"
+                ],
+                "unlock": [
+                    {
+                        "id": "NoChallengeUnlock",
+                        "name": "Hidden Unlock",
+                        "description": "Prevent the enemy from ever securing the supercharger in a Supercharge match, 10 times."
+                    }
+                ],
+                "isNew": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+<img src="Kid-Ultra-Announce.jpg">
+
+Once a prototype for a line of LLC nanny-bots, Kid Ultra is hardwired to lend a helping hand. He’s the pinnacle of LLC support technology, programmed with all sorts of gadgets to assist or subdue a target as he sees fit. Due to some unforeseen disruptions in the universe, though, Kid Ultra – along with all other LLC Magnuses – was severed from the governing AI. While the others may have gone all-out crazy (*ahem* ISIC), Kid Ultra seems to have made it out with just a rather skewed perception of the real world.

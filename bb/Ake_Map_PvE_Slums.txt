@@ -1,0 +1,1887 @@
+[Poplar_VO_DLC_Tempest_Slums_BinkIntro_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's the kinda night the whole planet's looking to chew you up and use your femur as a toothpick. Tempest... a giant fist hanging in space, in search of a face to punch. Maybe mine. But somewhere deep in this city, there's another fight brewing.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_01_MissionStart_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome to Battleborn Operations. You have chosen “Attikus and the Thrall Rebellion”. Complete optional objectives to gain Ops Points and unlock increased difficulty modes for greater rewards.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_01_MissionStart_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Loading narrative feed and splicing with simulation replay...",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02_DestroyJammers_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We need to set up a rally beacon so our forces can join up and assault the Silent Sister stronghold, but the Imperium is jamming communications. Take out the nearby jamming towers to clear the airwaves.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02_DestroyJammers_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="First jammer down. One more left.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02_DestroyJammers_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Second jammer down. One more left.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02_DestroyJammers_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All jammers destroyed. Airwaves clear. Move to beacon deployment area.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02A_Snipers_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There are Deadeye snipers on the rooftops. Try and take them out.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02A_Snipers_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="First sniper down. See what you can do about the rest.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02A_Snipers_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All snipers eliminated. Good job. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02B_Assassins_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Assassin bots are patrolling the streets. Try to eliminate them.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02B_Assassins_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Assassin assassinated. Go get the rest.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02B_Assassins_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All assassins taken care of. Good job. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02C_Shamans_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A Thrall Shaman loyal to the Imperium has been reported in the area. Try to track him down.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02C_Shamans_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's the Shaman. Take him out.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02C_Shamans_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That Shaman won't bother anyone else. Good job. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02D_Shards_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm detecting a large deposit of shards nearby. Try to find them.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02D_Shards_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Keep those shards coming.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02D_Shards_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good job getting those shards. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02E_Broadcasts_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Silent Sisters are broadcasting propaganda across town. Try to shut down their signal.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02E_Broadcasts_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good start. Now take out the rest of them.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02E_Broadcasts_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That'll shut them up. Good job, Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02F_VarelsiSignal_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm detecting a bizarre Varelsi energy signal nearby. See if you can determine the source.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02F_VarelsiSignal_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That must be the source of the signal. Try to scan it.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02F_VarelsiSignal_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Scan complete. Good job – that should give us some more information about their technology. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03_DefendBeacon_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Rally beacon deployed. Head to the drop point and secure the area.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03_DefendBeacon_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Incoming Jennerit. Defend the beacon at all cost.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03_DefendBeacon_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="More Imperium forces inbound.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03_DefendBeacon_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The beacon is taking damage!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03_DefendBeacon_00050_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The beacon has taken serious damage!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03_DefendBeacon_00060_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The beacon is about to be destroyed!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03_DefendBeacon_00070_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Rally beacon signal lock achieved. Attikus is en route to your location.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03_DefendBeacon_00080_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Beacon destroyed. Operation failed.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03A_Boombots_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A wave of Boombots is inbound! Try to destroy them all before they can damage the beacon!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03A_Boombots_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="More Boombots incoming. Keep them from damaging the beacon!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03A_Boombots_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No more Boombots detected. Good work. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03B_Snipers_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We're detecting snipers in the vicinity. Find them and destroy them.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03B_Snipers_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One sniper eliminated. Clean up the rest.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03B_Snipers_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All snipers eliminated. Good job, Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03C_Bulwark_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Imperium has sent a Bulwark bot your way. Find it and destroy it using a skill for extra Ops Points.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03C_Bulwark_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Destroy the Bulwark with a skill for extra Ops Points.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03C_Bulwark_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bulwark destroyed, and with style. Well done. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03D_Turrets_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Build multiple turrets to defend the beacon for additional Ops Points.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03D_Turrets_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's one turret online. See if you can put up a second one.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03D_Turrets_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Turrets online and ready to engage enemy forces. Good work. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03E_LootCache_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sensors have detected a loot cache in the vicinity. Locate it for extra Ops Points.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03E_LootCache_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Loot cache secured. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03F_DataBeacons_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We've detected old data beacons in the area. Locate them and secure the information they hold.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03F_DataBeacons_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One beacon located, but the data cache is incomplete. Find the other one.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03F_DataBeacons_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Great job finding all that tasty data. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04_WaveCombat_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You lot! Follow me! We got bones to break!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04_WaveCombat_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Energy signature detected. Something's coming your way.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04_WaveCombat_00030_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Submit now or be scourged for your insolence!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04_WaveCombat_00040_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mongrels get put down!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04_WaveCombat_00050_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This one's a real piece o' work.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04_WaveCombat_00060_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Slaughter your own kind, then! Rally to me, Thrall!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04_WaveCombat_00070_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oi! I'll have your neck for that!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04_WaveCombat_00080_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="More! More! Slaughter them all!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04_WaveCombat_00090_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Damn it – she got away. After her!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04A_WarpPylons_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Her Warp Pylons seem weak to melee attacks. Try taking a few down.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04A_WarpPylons_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Warp Pylons destroyed. Excellent work. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04B_HoverTank_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Jennerit Hover Tank moving to engage. Avoid its fire for bonus Ops Points.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04B_HoverTank_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Hover Tank's moving in for another attack. Avoid the fire.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04B_HoverTank_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Dodging skills: confirmed. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04C_EliteBots_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Elite Minions closing in. Destroy one with a skill for bonus Ops Points.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04C_EliteBots_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Elite is nearly destroyed. Finish it off with a skill!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04C_EliteBots_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Elite minion destroyed, but without the use of a skill. Try again.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04C_EliteBots_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Regrettably, no Elites killed with skills means no bonus Ops Points.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04C_EliteBots_00050_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Elite slayed with style. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04D_Propaganda_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The area is littered with pro-Rendain propaganda. Take it down to earn extra Ops Points.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04D_Propaganda_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="More propaganda machines nearby. Find them.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04D_Propaganda_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's all of them. Well done. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04E_LootCrate_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Loot cache detected nearby. Locate it to earn more Ops Points.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04E_LootCrate_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There it is. Secure that loot crate.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04E_LootCrate_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Loot crate secured. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04F_DamagedBeacons_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Support is standing by, but first we must triangulate your position. Activate the nearby damaged beacons.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04F_DamagedBeacons_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We've got a signal lock on the first beacon. Find two more.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04F_DamagedBeacons_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's two. Just one left.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04F_DamagedBeacons_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Position confirmed, support incoming. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05_Stronghold_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We can still catch her! C'mon, this way!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05_Stronghold_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[smashing effort]",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05_Stronghold_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Sister's retreated to her stronghold. We'll have to dig her out with our bare hands!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05_Stronghold_00040_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="She's just inside! Oh – where are my manners? I'll get the door.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05A_Statues_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Rendain's built a number of statues in his own image. Give his bloated ego a good kick in the throat by tearing them down.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05A_Statues_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One statue down. Two more to go.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05A_Statues_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Love what you're doing with the place. Take down one more statue.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05A_Statues_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Excellent work. Objective complete.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05B_Tank_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Warning: a Jennerit hover tank has been detected in the vicinity. Try your best to avoid its fire.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05B_Tank_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The tank's charging up again. Watch yourselves.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05B_Tank_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, that looked painful. Try being a little lighter on your feet next time.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05B_Tank_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Dodging skills: confirmed. Nice work.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05C_Turrets_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Some defensive turrets would certainly help in securing this area. Try to get some up and running.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05C_Turrets_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's a good start, but we'll need another turret before this area is secured.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05C_Turrets_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Imperium will have their hands full with these defenses. Well done.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05D_LootCache_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Loot cache detected nearby. See if you can find it.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05D_LootCache_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's the cache. Crack it open and let's see what's inside.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05D_LootCache_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sweet, sweet loot. That'll come in handy.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05E_Snipers_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Snipers detected in your area. Get up close and defeat them with melee attacks.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05E_Snipers_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sniper smashed. Take out the others.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05E_Snipers_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All snipers destroyed with your bare-ass hands. Well done.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05E_Snipers_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sniper destroyed, but without the use of a melee attack. Try again.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05F_Harvester_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A Jennerit Harvester's cleaning out a shard deposit. Those are resources we could use. Go and claim them.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05F_Harvester_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Harvester's nearly finished. Hurry up!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05F_Harvester_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well done. Shards secured. As Kleese would say, “we're rich, and everything's beautiful forever.”",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_05F_Harvester_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Harvester got away with our shards, dooming us to a month of gelatinous protein blocks in lieu of real food. Bon appétit!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_OpsPoint_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ops Point awarded.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_OpsPoint_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One more Ops Point in the bag.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_OpsPoint_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Awarding one Ops Point.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_OpsPoint_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ops Point accumulated.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_OpsPoint_00050_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One Ops Point collected.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_OpsPoint_00060_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You picked up an extra Ops Point.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_OpsPoint_00070_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Who got another Ops Point? You did.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_OpsPoint_00080_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Another Ops Point. Look at you go.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_06_BossIntro_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Damn it, you go ahead! Get after Aria! I'll handle this one!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_06_BossIntro_00020_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You should know better than to follow a spider back to its web.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_07_AriaFight_00010_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mongrels! All of you!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_07_AriaFight_00020_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You disgusting filth!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_07_AriaFight_00030_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This rebellion ends here!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_07_AriaFight_00040_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hurry up and kill that wretched banshee!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_07_AriaFight_00050_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy shields recharging! Don't let them power back up!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_07_AriaFight_00060_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Energy readings are spiking! Watch yourself!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_07_AriaFight_00070_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm gonna kill you if you let her kill you!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_07_AriaFight_00080_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="She's weak! Finish her!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_07_AriaFight_00090_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Any deed...",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_07_AriaFight_00100_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Simulation complete. Ending program.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_A_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The name's Attikus. I ain't a proper detective or nothing, I just solve people's problems. Usually there's someone with a fist deficiency, but a problem of my own was about to come knockin'.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_A_00020_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Evening, mister. I was just passing through this grimy edge of town and saw your sign. Are you available for hire?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_A_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="She wore red in a way that could make a sunset leave a party to go change into somethin' else. She was ten shards of nice wrapped in ten thousand of trouble. I couldn't afford to say no... but she didn't have to know that.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_A_00040_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Maybe. What's the case?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_A_00050_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nothing your underdeveloped brain can't handle. In fact, I think only a Thrall could pull it off.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_A_00060_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And what is that?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_A_00070_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I am in need of someone to start a revolution.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_B_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I tried to put the war behind me, but I had to admit the dame was right. The rebel Thrall were scattered, like a box of matches overturned on the kitchen floor. Light 'em up one at a time and they'd flicker, die alone. They needed to join up, burn together. Burn down the Imperium's house.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_C_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's always more to a case than what the client tells you, and this was no exception. She told me she wanted to help the Thrall shake off their bonds, said it was what they deserve. She left out the part where it was all a ploy to put one over on her sister.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_D_00010_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Consider this recompense for reordering my doll collection by hair color instead of by last-name alphabetical, Aria! MY VENGEANCE IS AT HAND!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_D_00020_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ambra! I should have known! This had your manipulations all over it. And that was ELEVEN THOUSAND YEARS AGO!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_D_00030_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="YOU KNOW WHAT YOU DID!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_E_00010_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ambralia, I can't believe you would ally yourself with these mangy creatures over your own blood.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_E_00020_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I would rather have Rendain's shivering lapdog for a sister than YOU, Ariana!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_E_00030_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Now that I think about it, I remember a young Claudia Ambralia Divia that quite loved dogs.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_E_00040_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="How dare you...",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_E_00050_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What was that puppy's name? The one I drowned on your tenth birthday.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_E_00060_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Theodore!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_E_00070_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Right! You used to love rolling around in the dirt with that thing. Good to see nothing has changed, sister.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_F_00010_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Goodbye, sister!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_F_00020_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thrall, your fee. A job... efficiently done.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_F_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The case was closed. The dame left faster than she'd come in. I could get some rest, maybe even pay my rent this month.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_F_00040_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Evening, mister.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar01_F_00050_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Aw, bollocks.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_A_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The names Attikus, private eye. I run a no-questions-asked kind of business. But sometimes, you don't need to ask a question for an answer to waltz right in your front door.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_A_00020_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Evening, mister. I was hoping you and your brutish services were available for hire.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_A_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="She wore red the way a knife does after it's been in someone's back, with sharper edges. I recognized her immediately, but played it cooler than a Bliss ice-tornado.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_A_00040_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What's the spymistress of the Imperium need from me?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_A_00050_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ex-spymistress, soon enough. But I've got some... “housecleaning” to do before I leave.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_A_00060_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And where do I come in?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_A_00070_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You'll be holding the broom.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_B_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The spymistress knew all about the Thrall rebellion, told me she could help out. She said we needed to take down a Silent Sister, name of Aria, so she couldn't run off and warn Rendain. But I knew a grudge when I saw one. This was personal.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_C_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hard to believe I was working with Rendain's right hand. Maybe she really meant what she said about defecting. Only time would tell, and even time would think twice about snitchin' on the spymistress.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_D_00010_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Rendain will hear of this, once I —\nWhat? What does this mean, “access denied”?! I am the Incantress Superior!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_D_00020_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Aw, forgot your password, Aria?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_D_00030_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Deande! I always told Lothar he couldn't trust you, but treason is a new low even for you. I'll get the message out if I have to manually override the comm relay myself!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_D_00040_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Can she do that?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_D_00050_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Best to err on the side of caution and kill her before she can get there.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_E_00010_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Deande, I've just thought of something. All those purges, the cullings I proposed... it was you who shot them down, wasn't it?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_E_00020_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It was my job to keep people like you from getting their way. Rendain needed competent commanders, not sadistic tyrants.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_E_00030_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="With you gone, Lothar just might change his mind about what he needs. Once I'm done putting every rebellious Thrall on Tempest to the knife, I think I'll go through those old files and see what kind of fun we can have undoing your orders.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_F_00010_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well done, Thrall. You've bought your brethren some time to organize, and me some cover by which to make my escape. You've earned your fee.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_F_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The job was finished. I couldn't say I enjoyed working with the spymistress, but she sure knew how to fight a war. I was looking forward to havin' some time to myself.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_F_00030_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey there, good lookin'!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar02_F_00040_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[weary sigh]",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_A_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The name's Attikus. Somehow I'd gotten myself into the business of running this rebellion. Seemed like a job for someone else, but I guess they were stuck with me. I thought I'd locked the door for the night, but it looked like fate had taken my key and made copies.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_A_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey there, good lookin'! Got a job for you, or maybe I don't. I bet you're confused as to my true intentions, huh?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_A_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="He wore red like he'd tripped and fallen into a bucket of external hull paint... which is exactly what I think happened.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_A_00040_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I don't have time for this.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_A_00050_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No, wait! We can still hang out! There's totally a job. Yeah! A real good one, too!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_A_00060_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What is it?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_A_00070_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Right! I... am, uh... missing something? Yeah! Yeah, and you need to find it!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_B_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So what is it I'm looking for?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_B_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sort of a, uh, thing. I'll know it when I see it... detective.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_B_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Stop talking like that.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_B_00040_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="But... the ladies got to do it!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_B_00050_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's a very specific cultural reference and you're ruining it.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_C_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ooh! Go in there!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_C_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're not gonna like this part.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_C_00030_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm just having fun hanging out, detective.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_C_00040_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[irritable sigh]",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_D_00010_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You think you can assassinate ME?! How dare you even —",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_D_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Huh? Who the hockey sticks are you?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_D_00030_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You don't... I'm the Incantress Superior of the Silent Sisters! Aren't you... trying to kill me?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_D_00040_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Not particularly. You seem nice enough!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_D_00050_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're a few rounds short of a full magazine, aren't you?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_E_00010_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You aren't trying to kill me? Even a little?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_E_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm just here to hang out! With my bros! In fact, I'm naming you an honorary bro! I'll need your mailing address to send you your official bro certificate. It's laminated, so you can carry it around in your wallet.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_E_00030_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="WHAT ARE YOU EVEN TALKING ABOUT?!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_F_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="BRO! NOOOOOO!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_F_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="She thought you were an idiot.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_F_00030_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No! She was just... givin' me a hard time! Like a real... like a real bro-hoh-hoh!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_F_00040_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thanks for finding me a bro! Case closed!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar03_F_00050_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[sigh] I've got to start screening my clients.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar04_A_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The name's Attikus. I used to solve people's problems, but lately the problems skip the middleman. Now they come right in my front door and pretend they didn't pick the lock.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar04_A_00020_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Evening, mister. I've got another job for you, if you're interested.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar04_A_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="She was all shadow and crimson edges, like a graphite rose from the slate gardens of Balmerra. Can't pick one without losin' a lot of blood. Too bad the Balmerians were hopeless romantics, or they might not be extinct.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar04_A_00040_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your rebellion again?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar04_A_00050_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's not mine, and that's the problem. There's a leadership vacuum amongst the Thrall, and I want you to fill it.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar04_B_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Not sure I'm the commanding type. I don't really have a way with, uh... ehm... words.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar04_B_00020_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Thrall don't need a diplomat; they need a general. Maybe talking with your fists isn't a good way to parlay with the LLC, but to a race of pugilists like yourself, you're leadership material.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar04_C_00010_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What's most important to the Thrall?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar04_C_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What you have punched, and what you plan to punch in the future.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar04_C_00030_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ahem. Right. So Thrall respect power over all else, and who holds the reins right now?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar04_C_00040_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Silent Sisters.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar04_C_00050_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Exactly. Defeat a Sister, and they'll flock to you.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar04_D_00010_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A classic Thrall battle plan: smash everything that moves into pieces. This is why your species is only fit for shackles and a tight leash.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar04_D_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's time for the Thrall to lead themselves! Smashing things is all we've ever been used for, and now you're gonna regret giving us so much practice.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar04_E_00010_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Thrall are INCAPABLE of leading themselves. The only thing you dogs will listen to is the smash of an iron fist!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar04_E_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Then it's a good thing I LITERALLY HAVE ONE OF THOSE!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar04_E_00030_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, s**t.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar04_F_00010_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Do you hear that, Thrall? They're chanting your name. You've shown them that you are stronger than their oppressors. That THEY are stronger.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar04_F_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Maybe the spymistress was right. Maybe we COULD seize our freedom. All I had to do was keep winning these fights.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar05_A_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The name's Attikus. You get called a lot of things when you're leading a rebellion. Hero. Criminal. Savior. I've heard them all, and I know enough to let some calls go straight to the machine.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar05_A_00020_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This message is intended for the alpha of the insurgent Thrall. In your misguided scramble for independence, you will find that you have earned something far worse: my attention.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar05_A_00030_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I now have hundreds of your brethren imprisoned, awaiting judgment for their crimes of disobedience. Since their easily swayed minds wouldn't be in this position without your prodding, I am willing to propose a trade. You, for them.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar05_A_00040_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Of course, a beast would only care for his own life. Go ahead, prove me wrong.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar05_B_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I didn't trust this Silent Sister to keep her word any farther than I could throw her – which was admittedly a considerable distance. But she had a point. My imprisonment in exchange for hundreds going free? There are worse fates.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar05_C_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Aria! Show yourself! I've kept my end of the deal. I'm turning myself in. Release the prisoners!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar05_C_00020_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I stand corrected – the beast has a heart! I accept your surrender and sentence both you and your incarcerated brethren to... mmm, oh, let's be boring and go with death. Shame – given time you might have evolved enough of a brain to recognize yourself in the mirror.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar05_C_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That wasn't the deal!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar05_D_00010_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I knew I couldn't trust a dog to heel. Once I've taken care of the imprisoned Thrall, I'll show you the consequences of biting the hand that feeds you!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar05_E_00010_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Even though you reneged on your obligation, I've decided to be the bigger person and release the Thrall anyway. Perhaps you might pick up something about responsibility if you pay attention.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar05_E_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm still comin' to kill you.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar05_E_00030_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's so hard to be a teacher these days. They just don't want to learn.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar05_F_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Sister had released the insurgent Thrall all right. Directly into a lava pit. They were all dead, on my account. Maybe there was no way I could have saved 'em, but how many more would I lead to their doom before this rebellion was over?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar06_A_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The name's Attikus. I'm just another bug under the boot of the Imperium. I've learned attracting attention gets you stepped on real quick. The trick to surviving as a bug is to assume everyone you meet has a magnifying glass behind their back.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar06_A_00020_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Evening, mister. I —",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar06_A_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Get outta here.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar06_A_00040_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What?! I am here to offer my help with —",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar06_A_00050_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Last thing the Thrall need is the help of a Silent Sister. Go find someone else to be your cannon fodder!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar06_A_00060_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I... but, I...",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar06_A_00070_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I SAID GET OUT!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar06_B_00010_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You can't expect to win this war if you turn me away, Thrall. You need all the assistance you can get.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar06_B_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And what happens to us when you no longer feel like assisting us? This rebellion only started 'cause it served your purposes. What'll happen to us when it's no longer convenient for you to be on our side?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar06_C_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't think I've forgotten the part you played in enslaving my species.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar06_C_00020_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You weren't even sentient when we found you. We uplifted you, brought you out of the darkness.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar06_C_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That wasn't your right to decide! We were denied the chance to learn for ourselves. You used our very sentience as a weapon against us. We were given just enough sight to see the walls of our cage. You should have left us as beasts. At least then we might think we were content to be your menial labor.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar06_D_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You Sisters are the worst of 'em, holding your magicks over our heads, waiting for any sign of disobedience to bring 'em crashing down. You're nothing but whips in Rendain's hand.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar06_D_00020_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Silent Sisters were never meant to be your jailors. What you are describing are the contortions of Rendain's tyranny! We have a shared enemy in him, Thrall.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar06_E_00010_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We have more immediate threats to deal with than each other, Thrall. The deal Rendain has struck with the Varelsi spells doom for your race along with all the rest. Before we can learn to coexist, we must ensure that we can exist at all!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar06_F_00010_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We are saying the same things, you dolt! Don't you see? If you continue this fight, you have the opportunity to win back the future you were denied! You must fight on in the name of your people!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar06_F_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Name? What name?! You high-born spit your fancy words around, and I've seen why: change the word, change the world! You didn't enslave us, you “uplifted” us! I ain't a hero, I'm an “insurgent”! We don't HAVE a name anymore, BECAUSE WE'RE JUST YOUR THRALLS!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_A_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The name's Attikus. I used to think I could build something here, unite the Thrall in a way that'd never been done before. Instead, it seems I burned just about every bridge I ever had.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_A_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Guess no clients tonight. I needed to blow off some steam. Figured I could drop the act a little, while no one's watching.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_B_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey bro! It's your bro! What's good in this creepy hood? Need a case?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_B_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm not in the mood.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_B_00030_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's cool with me! Maybe I could be the detective this time! Or... ooh! Or YOU could be a murderer!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_B_00040_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't give me any ideas.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_C_00010_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Come to kill me again so soon?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_C_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Shut up, lady! The big guy here is working through some serious emotional baggage, and he needs support from his best friends! Like me!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_C_00030_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, I'd love to help. Would fighting for your life provide a suitable catharsis?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_C_00040_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Cat harness? No, I just let them walk around. All eight of 'em!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_C_00050_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[exasperated sigh]",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_D_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah! See, this is the good stuff! Boil those tears away in the fiery truth of combat!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_D_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I wasn't crying.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_D_00030_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Course not! You don't have a sweet helmet to hide your tears from onlookers such as children and small animals who have evolved the ability to point and laugh without understanding the hurt they're causin'!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_D_00040_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh... is this still about me or —",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_D_00050_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Probably!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_E_00010_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What are you trying to prove, coming at me again? And to whom? Are you just throwing yourself at a wall to see which will break first?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_E_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hrrrrgh, SHUT UP! I'll make you pay for the blood you spilled! I'll kill you ten thousand times over!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_E_00030_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You'll only get diminishing returns. Because I'm not really evil, I'm just very well programmed.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_F_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hrggh! Nothing! Even killing her makes me feel nothing!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_F_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey big guy, I gotta ask: why do you keep running this simulation over and over if it just makes you feel bad?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar07_F_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Just... go away.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_A_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The name's Attikus. I thought I knew where I stood, but everything's gone cloudy. Usually that means it's time to step inside, because sometimes lightning strikes twice.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_A_00020_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Evening, mister. I got your call.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_A_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Her crimson edges glittered like C-beams in the —",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_A_00040_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Despite my best judgment, I've decided to – Deande, what are you doing here? What's going on?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_A_00050_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hah! I called you both here pretending to be him, and now you'll all make up! It works every time on “One Star To Live”, and I've never missed a single episode!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_A_00060_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This is excruciating! I'm leaving.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_A_00070_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah – wait, no! That's off-script!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_A_00080_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hmm. Well, even if it wasn't your idea, I do have a job for you.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_A_00090_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Anything to get away from him.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_B_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So what's this job?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_B_00020_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="More of a conversation, really. I want you to see the Thrall rebellion from my perspective.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_B_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What's there to say? You sit back and watch from your ultravelvet-lined hiding spot, while I spill all the blood here on the ground.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_B_00040_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That is precisely the illusion I wish to dispel.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_C_00010_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One well-placed soldier can be worth a hundred lumbering about without direction. It's up to me to do the placing.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_C_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I suppose I wouldn't understand your cloak and dagger maneuvering, since I'm just dumb muscle and all.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_C_00030_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Not at all. One must simply play to one's strengths. I fight wars in a logistical capacity, while you specialize in liberating limbs from sockets.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_D_00010_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Take Aria, for example. The only reason she rose within the Sisterhood was the power vacuum Ambra left behind. Short-sighted and cruel doesn't get you far.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_D_00020_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You know this is open channel, right? I CAN hear you.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_E_00010_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Please understand, I am merely trying to instill in you an appreciation for the intricacies of a well-laid plan.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_E_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Eh... my heart doesn't exactly go aflutter at the thought of being included in a Jennerit's plans. It's never really worked out to my benefit before.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_E_00030_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh really? How do you think a Thrall with a known rebellious streak was chosen to be fitted with some of the most advanced hardware in the Imperium?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_F_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So... I have you to thank for my new arm. Why?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_F_00020_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm not going to lie and say it wasn't to make you more useful. I needed a Thrall with power and the brains to use it. I watched the first two Thrall rebellions go down in flames. I knew there would never be a third without one of your own leading the charge. More importantly, with your boosted intellect, you could lead them further, not just against Rendain but to a new, better life.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar08_F_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Heh. So, no pressure then.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_A_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The name's Attikus. I was always pretty good at making enemies. Making friends was harder. Making amends... well, there's a first time for everything.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_A_00020_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_A_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The dame was seething around the edges, like a burning slip of paper rimmed with ruby-red embers.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_A_00040_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm glad you came.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_A_00050_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I almost didn't.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_A_00060_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I didn't give you a chance to speak before. I am... uh, that is to say, I want to... uh... eh...",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_A_00070_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Apologize?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_A_00080_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah, that one! Never used that word before.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_B_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Tell me why you turned away from Rendain.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_B_00020_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One crystal-clear reason: he betrayed Empress Lenore. I swore an eternal oath to her, not to him or the twisted thing he wrought out of her empire. She would never have taken us down this path, committed the atrocities with which he sullies the Jennerit name every day.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_B_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Right, right – I also heard something about a dog?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_B_00040_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That wretched, shivering little gremlin Constable Cuddles SLOBBERED on an AZTANTI RUG older than the EMPIRE ITSELF! AND RENDAIN JUST STOOD THERE COOING LIKE IT WAS A GIGGLING CHILD!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_C_00010_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You might think Rendain and I have the same agenda, but it isn't so simple. We both believe in the importance of order, and that it is our responsibility to hold back the natural entropy of the universe. But he believes order can be instilled through domination. You yourself are proof of that idea's fallacy. Order can only be built from the foundation upward, not demanded from the highest tower!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_D_00010_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your weakness for the Thrall will be your undoing, dear sister.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_D_00020_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your reliance on them will be yours. Without their backbreaking labor keeping Rendain's Imperium standing, it will all come crashing down on your heads.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_E_00010_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You were right to see that my offer of assistance was self-serving. I wanted to use you to cut out the rotten core from what was once a beautiful tree. The Jennerit Empire achieved greatness without the need for the subjugation of a less evolved race. I may not understand the plight of the Thrall, and indeed share a portion of the blame for it, but through your eyes I have seen how the dream of my Empress has gone dark.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_F_00010_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well done, Thr... Attikus. In truth, I once considered you little more than a brutish pawn. I hope you will forgive me that oversight.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_F_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And I'm sorry for ever calling you a radio antenna with a superiority complex.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_F_00030_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="When did you —",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_F_00040_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="But that's all behind us now! I've got my sights set on the future! I'll need your help to win this fight, if you still offer it.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar09_F_00050_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ahem. Yes. Of course.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar10_A_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The name's Attikus. And for the first time in my life, I'm part of something bigger than myself.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar10_A_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Thrall were itching for freedom, and I was going to scratch that – wow, you know what, I am terrible at metaphors. Just really, really bad. I can't believe it took me this long to notice.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar10_A_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Only one thing stood between me and the liberation of my people. The Silent Sister Aria had thrown her entire remaining force into the streets to stop us. If I could take her out, this fight would be over. Luckily, I wasn't alone.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar10_B_00010_SunPriestess]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sisters! We have been led astray from our vows by a cruel tyrant! We swore to preserve the tenets and ideals as set forth by Empress Lenore twenty millennia ago! The Empire itself is our charge, and immortality is our instrument! Abjure the lies of Rendain and fight once again for Lenore!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar10_C_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah! Yeah! Get some! Get what? I don't know! Run for your lives, Imperium meatbags! I'm doing my two favorite things in the world: shooting and hanging with my bros! This is the best day of my LIFE!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar10_D_00010_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enough of this! I'll wipe you and your mongrel uprising off the map before you get close to our stronghold. Prepare the neo-titan cannons aboard the Exodus for surface bombardment!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar10_D_00020_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What?! What do you MEAN they've been decommissioned? Where did they go?!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar10_D_00030_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="An entire branch of your orbital defense grid went missing and it escaped your notice? How clumsy.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar10_D_00040_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Damn you! I'll take care of you myself!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar10_E_00010_Aria]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Miserable whelps! I'll destroy this entire city before I hand control of it over to you! The very idea of your feral minds at the reins of our Imperium makes me sick!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar10_E_00020_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, in case we weren't completely sure she'd gone mad by now, she's overriding the safeguards on the ultrafusion reactor beneath the Silent Sister stronghold. On the plus side, if we don't stop her, we'll soon be part of a shiny new ring system around Tempest.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar10_F_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All of those who have been known as Thrall, hear me! I am Attikus, the fist of liberation, smasher of bonds, and pulverizer of faces!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar10_F_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="For generations, with a whip in one hand and a leash in the other, the Imperium has screamed: “YOU MUST!”",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar10_F_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This war is for your very right to exist! The right to chase our own destinies! The right to twist the whip back around the necks of our oppressors and say to them, “I AM!”",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_Nar10_F_00040_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Jennerit used to be afraid of us – we, who were born deadly! We whose broken backs formed the foundations of their towers! Let's show them the price of forgetting their nightmares!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_OpComplete_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hell yeah! Woo! That. Is. What. I'm. Talkin' about! So – was that how it really went down?",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_OpComplete_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I don't know. I actually can't remember the details anymore. I run this simulation to try and get the feeling I had in those moments. But this time, fighting alongside my friends, this was the closest I think I'll ever get. Thank you for joining me in the fight.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_OpComplete_00030_DarkAssassin]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What are you boys up to in the holo-sim room? You've been in here for four hours.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_OpComplete_00040_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nothing! Just... going through some old memories.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_OpComplete_00050_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And making new ones! Yeah!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_OpComplete_00051_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey! Can someone, uh... can someone get me down? I'm scared!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_OpComplete_00052_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh, this is new. Oscar Mike can fly! Hey Benedict, SUCK IT!",Time=0)
+
+; pickups
+
+[Poplar_VO_DLC_Tempest_Slums_01_MissionStart_00001_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome to the simulation room, Commander. The hardlight technology in here allows me to generate digital holo-reconstructions of just about anything, but I really want to stress that nothing you're about to see is real. Kleese tried to live in here after he discovered it could replicate the beach resorts of Luxuria 6, and it took us a week to flush him out.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_01_MissionStart_00002_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The program you are about to enter is Attikus' account of the Third Thrall Rebellion on the planet Tempest. It's supposed to be therapeutic for him, but as you're about to see, he's taking some... creative liberties with it.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_01_MissionStart_00003_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="As you run the simulation, look for chances to earn Ops Points, up to a maximum of fifty for your first playthrough. Increased Ops Points means higher difficulty and greater rewards such as titles and customizations.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_01_MissionStart_00004_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good luck, Commander. Beginning simulation in three, two, one...",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_01_MissionStart_00005_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome back to the simulation room, Commander. Since this is your second time back, you will now begin with five Ops Points, and be able to earn up to fifty five. Earning forty Ops Points will unlock a shiny new skin for your character, and there are even greater rewards later on.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_01_MissionStart_00006_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Attikus says you played along nicely last time, but there's more to the story... a lot more. Since this is his little party, I'll let him explain.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_01_MissionStart_00007_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome back to the simulation room, Commander. You're really getting the hang of this. This is your third playthrough, meaning you begin with ten Ops Points and can reach a maximum of sixty. If you haven't already, you can earn a new character skin at forty and the title of “Slumlord” at fifty. Get all the way to sixty, and you'll unlock a Commander Loot Pack!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_01_MissionStart_00008_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Attikus says there's something weird going on, like there might be someone else in here with you. It's not my job to keep track of you people – go check it out for yourself.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02_DestroyJammers_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You need to set up a rally beacon, so I can come help you assault the Silent Sister stronghold – but the Imperium is jamming communications. Take out the nearby jamming towers to clear the airwaves.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02_DestroyJammers_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="First jammer down! One more left.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02_DestroyJammers_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Second jammer down! One more left.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_02_DestroyJammers_00040_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All jammers destroyed! Airwaves clear. Move to beacon deployment area.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03_DefendBeacon_00010_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The rally beacon's been deployed. Head to the drop point and secure the area.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03_DefendBeacon_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Incoming Imperium-loyal Thrall! Defend the beacon at all cost!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03_DefendBeacon_00030_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="More Imperium forces inbound.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03_DefendBeacon_00040_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The beacon is taking damage!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03_DefendBeacon_00050_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The beacon has taken serious damage!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03_DefendBeacon_00060_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The beacon is about to be destroyed!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03_DefendBeacon_00070_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I've got a lock on your rally signal. On my way!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_03_DefendBeacon_00080_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The beacon's been destroyed. This operation's a failure.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_04_WaveCombat_00020_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Something big's coming!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_ResetOpsPoints_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Activate my hologram to reset your Ops Points.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_ResetOpsPoints_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Combat too intense? Reset your Ops Points here.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_ResetOpsPoints_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Use me to reset your Ops Points back to zero.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_ResetOpsPointsSuccess_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ops Points reset to zero.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_ResetOpsPointsSuccess_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ops Points cleared.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_ResetOpsPointsSuccess_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your Ops Points have been reset. Get back on that ladder!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_ExplainOpsPoints_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Completing side objectives rewards you with Ops Points.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_ExplainOpsPoints_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ops Points can be gained by completing side objectives and uncovering loot caches.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_ExplainOpsPoints_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The more Ops Points you collect through side objectives and loot pickups, the harder the challenge!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_LootTierUp_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your reward tier has increased – keep it up!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_LootTierUp_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your Ops Points score has made you eligible for better loot! Nice!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_LootTierUp_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Higher reward tier reached. Good job!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_LootTierUp_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You've reached a new reward tier for accumulating Ops Points!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_LootTierUp_00050_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="New reward tier achieved! Oh frabjous day! Callooh! Callay!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_LootTierMax_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You have reached the maximum Ops Points reward tier. Amazing!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_LootTierMax_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Maximum reward tier achieved. Hot dang!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_CallOut_LootTierMax_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You've maxed out our reward tier! I'm looking at it and the damn thing is broken! Look what you did! I mean, you still get the loot and whatever, I'm just saying that fixing this is really going to eat into my weekend.",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_07_AriaFight_00050_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Her shields are recharging! Don't let 'em power back up!",Time=0)
+
+[Poplar_VO_DLC_Tempest_Slums_07_AriaFight_00060_SoulCollector]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Her energy readings are spiking! Watch yourself!",Time=0)
+

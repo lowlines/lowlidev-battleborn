@@ -1,0 +1,225 @@
+{
+    "items": 817,
+    "skills": 300,
+    "formulas": 133,
+    "attributes": 155,
+    "changes": 10,
+    "diffs": [
+        {
+            "status": "changed",
+            "type": "gear",
+            "id": "PF_Gear_SkillDamage_Legendary_LLC2",
+            "name": "Phlogiston Propulsor",
+            "changes": {
+                "cost": {
+                    "old": {
+                        "value": 0,
+                        "formula": 1680220906
+                    },
+                    "new": {
+                        "value": 0,
+                        "formula": 1680220906,
+                        "offset": {
+                            "value": 250
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "status": "changed",
+            "type": "gear",
+            "id": "PF_Gear_AttackDamage_Legendary_ELD",
+            "name": "Symbiotic Gauntlet",
+            "changes": {
+                "cost": {
+                    "old": {
+                        "value": 0,
+                        "formula": 1680220906
+                    },
+                    "new": {
+                        "value": 0,
+                        "formula": 1680220906,
+                        "offset": {
+                            "value": 250
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "status": "changed",
+            "type": "gear",
+            "id": "PF_Gear_CooldownRedux_Legendary_ROG",
+            "name": "Firmware Update 1.51C",
+            "changes": {
+                "cost": {
+                    "old": {
+                        "value": 0,
+                        "formula": 1680220906
+                    },
+                    "new": {
+                        "value": 0,
+                        "formula": 1680220906,
+                        "offset": {
+                            "value": 250
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "status": "changed",
+            "type": "gear",
+            "id": "PF_Gear_CooldownRedux_Legendary_UPR",
+            "name": "Borrowed Timer",
+            "changes": {
+                "cost": {
+                    "old": {
+                        "value": 0,
+                        "formula": 1680220906
+                    },
+                    "new": {
+                        "value": 0,
+                        "formula": 1680220906,
+                        "offset": {
+                            "value": 500
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "status": "changed",
+            "type": "gear",
+            "id": "PF_Gear_DamageRedux_Legendary_UPR",
+            "name": "\u201cAlamo-7\u201d Armor",
+            "changes": {
+                "cost": {
+                    "old": {
+                        "value": 0,
+                        "formula": 1680220906
+                    },
+                    "new": {
+                        "value": 0,
+                        "formula": 1680220906,
+                        "offset": {
+                            "value": 250
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "status": "changed",
+            "type": "gear",
+            "id": "PF_Gear_MaxShield_Legendary_JNT",
+            "name": "Voxis Core",
+            "changes": {
+                "cost": {
+                    "old": {
+                        "value": 0,
+                        "formula": 1680220906
+                    },
+                    "new": {
+                        "value": 0,
+                        "formula": 1680220906,
+                        "offset": {
+                            "value": 500
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "status": "changed",
+            "type": "gear",
+            "id": "PF_Gear_MoveSpeed_Legendary_JNT",
+            "name": "Boots of the Brute",
+            "changes": {
+                "cost": {
+                    "old": {
+                        "value": 0,
+                        "formula": 1680220906
+                    },
+                    "new": {
+                        "value": 0,
+                        "formula": 1680220906,
+                        "offset": {
+                            "value": 250
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "status": "added",
+            "type": "gear",
+            "id": "PF_Gear_ShardGain_Legendary_LLC_FOUNDER",
+            "item": {
+                "source": "GD_Gear.Gear.Legendary.PF_Gear_ShardGain_Legendary_LLC_FOUNDER",
+                "id": "PF_Gear_ShardGain_Legendary_LLC_FOUNDER",
+                "hash": 4009490057,
+                "icon": "Perk_Icon_ShardGain-Device-LLC2",
+                "prefix": "",
+                "name": "Shard of Solus",
+                "text": "$MAJOR$",
+                "flavorText": "\u201cWelcome to the LLC Founder's Club! Do you have your ID Shard?\u201d",
+                "cost": {
+                    "attr": 3070555987
+                },
+                "rarity": "Legendary",
+                "type": "ShardGain",
+                "faction": "LLC",
+                "character": "",
+                "skills": [
+                    "Skill_Gear_Major_ShardGain"
+                ],
+                "isFixedLevel": true,
+                "isNew": true
+            }
+        },
+        {
+            "status": "changed",
+            "type": "gear",
+            "id": "PF_Gear_SkillDamage_Legendary_JNT",
+            "name": "Bola's Target Finder",
+            "changes": {
+                "cost": {
+                    "old": {
+                        "value": 0,
+                        "formula": 1680220906
+                    },
+                    "new": {
+                        "value": 0,
+                        "formula": 1680220906,
+                        "offset": {
+                            "value": 500
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "status": "changed",
+            "type": "gear",
+            "id": "PF_Gear_SkillDamage_Legendary_ROG",
+            "name": "Lorrian Skill Spike",
+            "changes": {
+                "cost": {
+                    "old": {
+                        "value": 0,
+                        "formula": 1680220906
+                    },
+                    "new": {
+                        "value": 0,
+                        "formula": 1680220906,
+                        "offset": {
+                            "value": 250
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

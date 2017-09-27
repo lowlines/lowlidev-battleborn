@@ -1,0 +1,17 @@
+[Missions.Mission_Captains:AllyWithCaldarius PoplarMissionObjectiveDefinition]
+ProgressMessage="Ally with Caldarius"
+
+[Missions.Mission_Captains:EliminateEnemiesHeadquartersInterior PoplarMissionObjectiveDefinition]
+ProgressMessage="Secure Peacekeeper headquarters"
+
+[Missions.Mission_Captains:EliminateEnforcerCaves PoplarMissionObjectiveDefinition]
+ProgressMessage="Eliminate the Thrall Enforcer guarding the core in the cave system"
+
+[Missions.Mission_Captains:TravelHeadquarters PoplarMissionObjectiveDefinition]
+ProgressMessage="Reach Peacekeeper headquarters"
+
+[Missions.Mission_Captains:TravelHeadquartersInterior PoplarMissionObjectiveDefinition]
+ProgressMessage="Enter Peacekeeper headquarters"
+
+[Missions.Mission_Captains:EliminateEnemiesPowerPlant PoplarMissionObjectiveDefinition]
+ProgressMessage="Secure power plant facility"

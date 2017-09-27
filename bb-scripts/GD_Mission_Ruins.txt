@@ -1,0 +1,5 @@
+[Missions.Mission_Ruins:SurviveAmbush1 PoplarMissionObjectiveDefinition]
+ProgressMessage="Survive Thrall ambush"
+
+[Missions.Mission_Ruins:SurviveAmbush2 PoplarMissionObjectiveDefinition]
+ProgressMessage="Survive Thrall ambush"

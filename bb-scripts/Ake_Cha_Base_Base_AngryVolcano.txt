@@ -1,0 +1,680 @@
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_AI_Ambient_Chatter_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mhmhmhmh, MINREC just remembered a really funny joke! MHMHMWAHAHA!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_AI_Ambient_Chatter_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="FROM RUINOUS ASH, YOU SHALL RE-EMERGE!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_AI_Ambient_Chatter_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="FROM PILES OF SCRAP, YOU SHALL BE REMADE!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_AI_Ambient_Chatter_06]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="ALL COME! ALL ARE JUDGED!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_AI_Ambient_Chatter_07]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The LLC thanks you for your commitment to a clean and efficient cosmos!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_AI_Ambient_Chatter_08]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="My smiting subroutine is RESTLESS INDEED!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_AI_Ambient_Chatter_09]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Volcanos are just the best, you guys!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_AI_Ambient_Chatter_10]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The flames of rebirth are RISING!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_AI_Ambient_Chatter_11]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MINREC hopes you are enjoying your tour of this LLC Minerals Reclamation and RECYCLING FACILITY!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_AI_Ambient_Chatter_12]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MINREC approves of this battle, and is live-tweeting it AS HE SPEAKS!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_AI_Ambient_Chatter_13]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This facility processes 14% of the LLC's total annual mineral reclamation efforts! ARE YOU NOT INFOTAINED?!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_AI_Ambient_Chatter_14]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All will be judged! ALLLL WILL BE JUDGED!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_AI_Ambient_Chatter_15]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="In this everlasting crucible, ALL SHALL BE REBORN!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_AI_Ambient_Chatter_16]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MINREC is long overdue for program maintenance!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_AI_Ambient_Chatter_17]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MELTDOWN!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_AI_Ambient_Chatter_18]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The cycle of recycling is neverending!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_AI_Ambient_Chatter_19]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Behold my majesty, and TREMBLE!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_AI_Ambient_Chatter_20]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Rebirth is a hobby of mine! HAHAHAHAAAA!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="HMWHMWHAHAHA! Excellent!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You may yet survive the WRATH OF MINREC!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yes! This PLEASES MINREC!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A sacrifice befitting my majesty!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MINREC bestows his FAVOR unto you!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_06]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bask in the SHRIEKS of the DAMNED!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_07]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="ANOTHER SACRIFICE! MINREC is sated – for now! Mhwhmwahaha!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_08]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sacrifice accepted! I am feeling totally appeased right now, YOU GUYS!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_09]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A gift unto MINREC! THAT WAS VERY SWEET OF YOU!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_10]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Minion JUDGED!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_11]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sacrifice ACCEPTED!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_12]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MINREC's DELIGHT approaching INCALCULABLE LEVELS!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_13]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The scrap shall be remade! All come! All are REPURPOSED!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_14]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="BEHOLD, the FELL POWER of RECYCLING!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_15]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MINREC's iron heart stirs, but your task is yet unfinished!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_16]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="My dominion is unending! BRING ME MORE!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_17]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="SACRIFICE! MWAHAHAHAHAHA!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_18]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="HMHMWAHAHAHAA! Why, thank YOU!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_19]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: BICYCLE PARTS!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_20]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: SODA CANS!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_21]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: THREE-RING BINDERS!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_22]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: PLUMBING!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_23]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: A MOBILE PHONE!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_24]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: ALUMINUM ROOFING!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_25]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: CORPORATE SCULPTURE!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_26]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: PAPER CLIPS!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_27]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as, IRONICALLY: ANOTHER MINION!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_28]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: BOBBY PINS!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_29]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: DISPOSABLE RAZORS!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_30]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: HUBCAPS!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_31]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: ORTHADONTIC RETAINERS!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_32]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: A FANCY WATCH!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_33]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: A FORK, OR SOMETHING!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_34]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: A MUFFIN PAN!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_35]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: A COOKIE SHEET!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_36]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: A SEWER GRATE!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_37]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: A SHOPPING CART WITH A WOBBLY WHEEL!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_38]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: A REPLICA SWORD!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_39]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: IRRITATING WIND CHIMES!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_40]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: COLLECTIBLE LAPEL PINS!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Ally_Minion_Score_41]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Be reborn as: WIDGETS! WIDGETS!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Big_Minion_Spawn_Ally_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yes, a giant minion! Bring it to MINREC NOW!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Big_Minion_Spawn_Ally_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A colossal minion? For MINREC? You shouldn't have! SACRIFICE IT IMMEDIATELY!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Big_Minion_Spawn_Ally_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A colossal minion has arrived! Shepherd it to the altar!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Big_Minion_Spawn_Enemy_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your rivals have brought a mighty sacrifice! STOP THEM!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Big_Minion_Spawn_Enemy_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your enemies bring a great sacrifice to my altar! DESTROY IT!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Big_Minion_Spawn_Enemy_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Rival acolytes have spawned a colossal minion!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Countdown_Pre_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The SLAUGHTER begins in:",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Countdown_Pre_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="TREMBLE, minions! Meltdown BEGINS in:",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Countdown_Pre_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Meltdown begins in:",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_End_Defeat_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Acolytes, you have FAILED! PREPARE FOR MELTDOWN!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_End_Defeat_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Did you not LISTEN to a DAMN THING MINREC screamed at you?! RRRGGGHRGH – LET THE SMITING BEGIN!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_End_Defeat_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MINREC's disappointment is BOUNDLESS! Now is the part where I KILL YOU!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_End_Defeat_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your failure must be punished! Five tickets to SMITEBERG!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_End_Defeat_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Such feeble effort! MINREC's disgust is mathematically INCALCULABLE!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_End_Victory_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Glory is yours! HMHMHWMWAHAHAHAHA! But mostly MINREC's.",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_End_Victory_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MINREC is pleased, acolyte! You may live!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_End_Victory_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Glory to MINREC! Glory to his acolytes! Death to literally everyone else!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_End_Victory_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Live forever, Little Recycler! See Margie at reception for your BADGE!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_End_Victory_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Glory unto the champions of MINREC! Swift and immediate smiting to the other guys!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Intro_01_1A]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome to this Minion Robotics recycling facility! I am MINREC! AND THIS IS MELTDOWN!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Intro_01_1B]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome, acolytes! I am MINREC, head of recycling at Minion RBX! And THIS... IS... MELTDOWN!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Intro_01_1C]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Behold! I am MINREC! AND I LOVE TO RECYCLE! THIS IS MELTDOWN!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Intro_01_1D]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome to this LLC recycling plant, acolytes! I am MINREC, the Arbiter of Robot Death, and this... is... MELTDOWN!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Intro_02_1A]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Shepherd minions to my altars! Sacrifice them to my glory and majesty! Destroy enemy minions before they can be sacrificed!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Intro_02_1B]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Shepherd minions to my altars! Sacrifice them to my glory and majesty! Destroy enemy minions before they can be sacrificed!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Intro_02_1C]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Shepherd minions to my altars! Hurl them to their hilarious deaths, and sate my bloodlust! Minions don't HAVE blood! MINREC DOESN'T CARE!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Intro_02_1D]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bring your minions to my altars! Spill their robotic guts to my glory and majesty, while I laugh hysterically! [beat] DO THAT OVER AND OVER UNTIL I AM SATISFIED!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Intro_03_1A]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The first team to reach 500 points will earn MINREC's favor! THE LOSERS WILL BE KILLED!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Intro_03_1B]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The acolytes who gather 500 points will earn MINREC's favor! The losers will be mocked, and then KILLED!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Intro_03_1C]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The acolytes who first reach 500 points will win my favor, and their freedom! Losers will be KILLED!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Intro_03_1D]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Reach 500 points to become MINREC's favored acolytes! Fail to do so, and become MINREC's most hated enemies, WHO HE WILL KILL!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Intro_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="THE OTHER GUYS WILL BE KILLED! MHMHMWAHAHA!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Start_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MINREC demands sacrifice – BRING ME MINIONS! MHMHMWHAHAHA!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Start_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Render unto MINREC that which is MINREC's! HAHA! AHAHAHAHA!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Start_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't forget, the winning team takes home LLC “Little Recycler” badges! THE LOSERS WILL BE KILLED!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Start_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome to this LLC recycling plant, where today's scrapped bots become tomorrow's manufacturing materials! ALL SHALL COME! ALL SHALL BE JUDGED!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Start_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Life! Death! Recycling! Environmental stewardship! BWAHAHAHAHA!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Start_06]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Tremble! TREMMMMBLE! You are now in MINREC's domain!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Start_07]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sacrifice the crap out of something cute before I BURN THE WORLD TO ASHES!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Start_08]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Shed your mechanical husks unto my mighty countenance and be REBORN!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Start_09]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Remember: all LLC employees are required to wear hard hats on the facility floor! SAFETY FIRST!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Match_Start_10]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Submit to reclamation! Relinquish your metals! Be consumed in the fires of MINREC!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Halfway_Ally_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your efforts have pleased MINREC, but a greater challenge awaits!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Halfway_Ally_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Great job, Little Recycler, but MINREC is not yet sated!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Halfway_Ally_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MINREC is roughly half-appeased! His altar quakes, and is moved! HARD MODE!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Halfway_Ally_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Perhaps MINREC made this too easy for you – fixing that!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Halfway_Ally_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You are halfway to victory, but the real test begins NOW!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Halfway_Enemy_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Rival acolytes are halfway to victory! Their altar shifts!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Halfway_Enemy_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your rivals' altar has been relocated, because they're doing PRETTY GOOD!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Halfway_Enemy_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your enemies excel! 50% appeasement!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Halfway_Enemy_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="UH OH! Your foes have reached 50% appeasement!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Halfway_Enemy_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your enemies advance! Their altar has been MOVED!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Update_Losing_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Rival acolytes have earned my favor! I demand MORE minions!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Update_Losing_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your rivals are winning my favor! Win it back, or DIE!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Update_Losing_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The other team is winning! Welcome to MINREC's KILL LIST!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Update_Losing_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Rival subjects are doing a bang-up job! You guys, NOT SO MUCH!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Update_Losing_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You are losing! Excel, or be CONSUMED!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Update_Winning_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You've killed lots of innocent robots, and I like you BEST! CONTINUE!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Update_Winning_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Know that you are my FAVORED CHILDREN!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Update_Winning_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You are on your way to your infernal reward: an LLC “LITTLE RECYCLERS” BADGE!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Update_Winning_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Fortune favors you – as does MINREC! HMHMMWAHAHAHA!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Score_Update_Winning_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're appeasing the HELL out of MINREC right now! JUST AN FYI!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Timeout_Warning_10min_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The arrow of time soldiers onward! You have but TEN MINUTES to appease MINREC!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Timeout_Warning_10min_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Only ten minutes until MINREC renders his FINAL JUDGMENT!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Timeout_Warning_10min_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ten minutes remain! MINREC is getting BORED! HMWHMWAHAHAHA!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Timeout_Warning_10min_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ten minutes to MELTDOWN!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Timeout_Warning_10min_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ten minutes before I smite the hell out of someone! HOHOHAHAHAHA!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Timeout_Warning_5min_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="HEAR MY WORDS: ONLY FIVE MINUTES TO TOTAL MELTDOWN!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Timeout_Warning_5min_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Look, this has been great, but MINREC needs to wrap this up! FIVE MINUTES REMAIN!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Timeout_Warning_5min_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The hour of judgment is NEAR! FIVE MINUTES REMAIN!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Timeout_Warning_5min_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Only five minutes left! Spill robot innards in the name of MINREC!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Timeout_Warning_5min_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Five minutes to FINAL JUDGMENT!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Timeout_Warning_60sec_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sixty seconds to MELTDOWN!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Timeout_Warning_60sec_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sixty seconds to FINAL JUDGMENT!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Timeout_Warning_60sec_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One minute remains! My fury SWELLS! HA, HAHAHAHAHA!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Timeout_Warning_60sec_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your tour of this LLC Minerals Reclamation Facility COMES TO A HORRIBLE END IN ONE MINUTE!",Time=0)
+
+[Poplar_VOCT_AngryVolcanoBase_Meltdown_Timeout_Warning_60sec_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sixty seconds of appeasement REMAIN!",Time=0)
+

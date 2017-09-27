@@ -1,0 +1,1655 @@
+[Poplar_VOCT_DefaultBase_Devastation_CollectorA_Captured_Ally_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Collector A secured.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_CollectorA_Destroyed_Enemy_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Collector A lost!",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_CollectorB_Captured_Ally_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Collector B secured.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_CollectorB_Destroyed_Enemy_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Collector B lost!",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_CollectorC_Captured_Ally_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Collector C secured.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_CollectorC_Destroyed_Enemy_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Collector C lost!",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_Match_Intro_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Capture and hold energy collectors to earn points while defending the collectors from enemy forces.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_Match_Intro_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Destroy shard clusters to earn shards. Use those shards to power tactical structures throughout the battlefield.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_Match_Intro_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The first team to reach 1,000 points achieves victory.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_MatchEnd_080_Ally_Ahead_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We're in the lead, but it's not over yet. Defend the collectors.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_MatchEnd_080_Ally_Ahead_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We're just about done here. Control the collectors.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_MatchEnd_080_Ally_Ahead_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Victory's at hand. Keep our enemies off the collectors.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_MatchEnd_080_Enemy_Ahead_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We're falling behind. Capture and control the collectors.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_MatchEnd_080_Enemy_Ahead_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our enemies are winning. Seize the collectors.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_MatchEnd_080_Enemy_Ahead_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We're losing. And that sucks. Reclaim the collectors.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_MatchEnd_098_Ally_Ahead_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Energy collection nearly complete. We didn't start this, but we're sure as hell ending it.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_MatchEnd_098_Ally_Ahead_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Energy collection nearly complete. I'm ready to blow stuff up.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_MatchEnd_098_Ally_Ahead_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Guess who's awesome? We are. And we're about to win.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_MatchEnd_098_Enemy_Ahead_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy victory is imminent. On the plus side, we'll all die together.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_MatchEnd_098_Enemy_Ahead_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy victory is imminent. We should probably say our prayers.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_MatchEnd_098_Enemy_Ahead_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy victory is imminent. We are well and truly screwed.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_Varelsi_Detected_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Varelsi detected on the battlefield.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_Varelsi_Detected_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Varelsi troopers detected.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_Varelsi_Detected_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Voidwalkers detected.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_Varelsi_Detected_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Varelsi incursion detected.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Devastation_Varelsi_Detected_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Varelsi ingress detected.",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_DoubleKill_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Double kill!",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_DoubleKill_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Double kill!",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Match_Countdown_Begin_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bay doors opening in...",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Match_Countdown_Begin_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Opening bay doors in...",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Match_Countdown_Begin_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Unleash hell in...",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Match_Countdown_Begin_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Kick all the asses in...",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Match_Countdown_Begin_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Lay waste to your enemies in...",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Match_Countdown_Begin_06]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The party starts in...",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Match_Countdown_Begin_07]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The battle begins in...",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Match_Countdown_Begin_08]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's the beginning of the end in...",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Match_Countdown_Begin_09]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Fight for your lives in...",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Match_Countdown_Begin_10]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Haul ass and roast noobs in...",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Match_Countdown_Begin_11]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm sending you all to your death in...",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Match_Countdown_Begin_12]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="My three favorite numbers are...",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Match_Countdown_Begin_13]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The match begins in...",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Match_Countdown_Begin_14]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ready yourselves for glory in...",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Match_Countdown_Begin_15]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Lighting this s**t up in...",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Match_Start_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Go.",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Match_Start_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Fight.",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Match_Start_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Begin.",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Pentakill_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Pentakill!",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Pentakill_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Pentakill! They should've sent a poet.",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Pentakill_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Pentakill! Holy crap.",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Pentakill_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Pentakill! Cue the badass guitar solos.",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Pentakill_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Pentakill! You are all unstoppable badasses.",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_QuadKill_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Quad kill!",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_QuadKill_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Quad kill!",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Shard_Detected_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A large shard deposit has been detected.",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Shard_Detected_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Shard detected. It's payday, y'all.",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Shard_Detected_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A massive shard deposit has been located.",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Shard_Detected_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Shard detected.",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_Shard_Detected_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Colossal shard deposit detected.",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_TripleKill_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Triple kill!",Time=0)
+
+[Poplar_VOCT_DefaultBase_General_TripleKill_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Triple kill!",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_EnemySpawn_Aced_100_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All enemy Battleborn eliminated. Seize the moment. Break their stuff.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_EnemySpawn_Aced_100_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All enemy forces have been slain. Point and laugh at the dead.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_EnemySpawn_Aced_100_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All enemy forces eliminated. Sucks to be them.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_EnemySpawn_Aced_100_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All hostiles eliminated. Do not waste this opportunity.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_EnemySpawn_Aced_100_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All enemy Battleborn have been slain. Badass levels at maximum.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_EnemySpawn_MegaPowerPlay_80_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Only one hostile remains. Press the advantage.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_EnemySpawn_MegaPowerPlay_80_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Only one hostile remains. You should kill them, too.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_EnemySpawn_MegaPowerPlay_80_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All but one enemy eliminated. Push forward and destroy the enemy base.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_EnemySpawn_PowerPlay_60_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Power play. Enemy forces at 40% strength.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_EnemySpawn_PowerPlay_60_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Power play. Enemy forces at half strength.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_EnemySpawn_PowerPlay_60_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Power play. Only two hostiles remain.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Countdown_Pre_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Minion manufactories initialized. Prepare for assault.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Countdown_Pre_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Minion fabrication initialized. Get ready.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_01_1A]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Incursion. Fight your way through waves of minions and defeat the enemy's sentries.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_01_1B]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Incursion. Fight through minions and hostile Battleborn to reach and destroy the enemy's sentries.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_01_1C]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Incursion. Destroy hostile sentries and make your enemies cry like stupid little babies.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_01_1D]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Incursion. Jerks want to blow up your sentries. But you're going to blow up theirs first.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_01_1F]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Incursion. I've got an itch to see some stuff explode. Your enemy's sentries would do nicely.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_01_1G]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Incursion. You know all about Incursion, so let's talk about me instead.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_02_1A]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Escort minions to enemy sentries to strip away their shields and leave them vulnerable to attack.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_02_1B]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Guide minions to the sentries to strip away their shields. Then lay waste to vulnerable sentries.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_02_1C]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sentries are well-shielded monstrosities. Bring some minions along to strip away their shield.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_02_1D]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sentry shields are difficult to pierce – but not for your minions. Get them to your enemy's sentries.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_02_1F]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Guide minions safely to hostile sentries to disable their shields, then shoot them until they explode.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_02_1G]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hi. I'm Nova. I'm a sixth-generation Magnus AI. I fly your ship. I synthesize your meals. And I've never airlocked you into space.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_03_1A]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Destroy shard clusters to earn shards. Use those shards to power tactical structures throughout the battlefield.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_03_1B]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Get an edge on your opponents by gathering shards and powering up tactical structures.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_03_1C]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Gather shards and power up buildables to tip the scales of the engagement in your favor.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_03_1D]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Gather shards and power up tactical structures throughout the battlefield to give your team the advantage.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_03_1F]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Find shards and power up buildables. They'll help you make things explode.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_03_1G]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Just once I'd like to hear, “Thanks for not killing us, Nova. You're smart and attractive and everyone likes you.”",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_04_1A]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Destroy the enemy's final sentry to achieve victory.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_04_1B]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The first team to destroy their enemy's final sentry wins.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_04_1C]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Defeat the enemy's final sentry to initiate confetti party. I mean, win.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_04_1D]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Crush the enemy's final sentry to win.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_04_1F]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Make the enemy's final sentry erupt in a cool-ass explosion to achieve victory. I really like explosions.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Match_Intro_04_1G]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Anyway, good luck on your stupid mission or whatever.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_MatchEnd_080_Ally_Ahead_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Victory is in reach. Destroy the enemy's final sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_MatchEnd_080_Ally_Ahead_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Only one enemy sentry remains. Destroy it to achieve victory.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_MatchEnd_080_Ally_Ahead_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One enemy sentry stands between us and victory.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_MatchEnd_080_Enemy_Ahead_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We're down to our last sentry. Defend it.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_MatchEnd_080_Enemy_Ahead_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Only one allied sentry remains. Protect it at all cost.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_MatchEnd_080_Enemy_Ahead_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our final sentry is vulnerable.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_MatchEnd_098_Ally_Ahead_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The enemy's final sentry has sustained critical damage. Finish the job.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_MatchEnd_098_Ally_Ahead_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The enemy's last sentry is nearly destroyed. Kick the crap out of it.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_MatchEnd_098_Ally_Ahead_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The enemy's final sentry is about to fall. Keep up the pressure.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_MatchEnd_098_Enemy_Ahead_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Warning. Our last sentry's about to die.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_MatchEnd_098_Enemy_Ahead_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy victory imminent. Protect our last sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_MatchEnd_098_Enemy_Ahead_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our last sentry is about to fall. Defend it.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Available_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Outcast Thralls available for hire.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Available_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thrall mercenaries spotted on the battlefield.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Available_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mercenaries are available.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Available_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hired muscle at this location.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Available_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Outcast Thralls detected.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Engaged_Ally_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Allies are engaged with Thrall mercenaries.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Engaged_Ally_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Allies are attacking a Thrall mercenary camp.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Engaged_Ally_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We've engaged a Thrall mercenary camp.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Engaged_Ally_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thrall mercenary camp engaged.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Engaged_Ally_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Allies have engaged a Thrall mercenary camp.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Engaged_Enemy_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemies have engaged with Thrall mercenaries.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Engaged_Enemy_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our enemies are attacking a mercenary camp.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Engaged_Enemy_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our foes have moved on a Thrall mercenary camp.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Engaged_Enemy_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemies are attacking a mercenary camp.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Engaged_Enemy_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemies have engaged a mercenary camp.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Recruited_Ally_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thrall mercenaries deployed.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Recruited_Ally_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Contract signed. Thrall mercenaries moving out.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Recruited_Ally_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Friendly Thralls on the field.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Recruited_Ally_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="An ally hired some Thrall mercenaries.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Recruited_Ally_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Friendly mercenaries moving out.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Recruited_Enemy_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hostile Thrall mercenaries, inbound.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Recruited_Enemy_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hostile Thrall mercenaries closing in.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Recruited_Enemy_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thrall mercenaries contracted by the enemy.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Recruited_Enemy_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hostile Thrall mercenaries, on the move.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Mercs_Recruited_Enemy_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hostile Thrall mercenaries, coming this way.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Ally_Spawn_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A wave of minions has been deployed.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Ally_Spawn_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A wave of minions is moving out.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Ally_Spawn_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our minions are moving toward the objective.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Ally_Spawn_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Friendly minions deployed.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Ally_Spawn_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Friendly minions moving to position.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Line_Advance_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our minions require assistance.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Line_Advance_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our minions require assistance at an enemy sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Line_Advance_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our minions have engaged a sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Line_Advance_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Minions have engaged a sentry and require assistance.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Line_Advance_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Help our minions destroy an enemy sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Line_Broken_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy forces are crushing our minions. Escort them to their objectives.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Line_Broken_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our minions are getting crushed. Defend them.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Line_Broken_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The enemy is laying waste to our minions. Stop them.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Line_Broken_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Unattended minions make easy targets. Watch over them.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Line_Broken_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Allied minions have been decimated. Escort them to their objectives.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Line_Objective_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Shepherd minions to the enemy sentry to help disable its shields.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Line_Objective_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Escort minions to enemy sentries to pierce their shields.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Line_Objective_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're doing this the hard way. Guide minions to the sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Line_Objective_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Remember: minions can disable enemy sentry shields.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Minion_Line_Objective_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bring minions along to weaken the enemy sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Attack_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A friendly sentry is under attack.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Attack_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="An allied sentry is besieged.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Attack_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One of our sentries is under attack.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Attack_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy forces are attacking a sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Attack_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A sentry is under fire.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Attack_06]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy forces have engaged our sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Attack_07]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A sentry is under attack!",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Attack_08]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sentry under fire!",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Attack_09]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hostiles at our sentry!",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Attack_10]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A sentry has engaged the enemy. Defend it!",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Destroy_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy forces have destroyed a sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Destroy_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our sentry has been destroyed.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Destroy_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="An allied sentry is offline.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Destroy_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="An allied sentry has been destroyed.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Destroy_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One of our sentries has fallen.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Destroy_06]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There goes a sentry. See that we don't lose any more.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Destroy_07]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Only one sentry stands between us and them. Protect it.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Destroy_08]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We're down to our last sentry. Defend it.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Destroy_09]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy jerkwads just blew up an allied sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Final_Attack_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The enemy is attacking our last sentry. Crap.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Final_Attack_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our final sentry is under attack.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Final_Attack_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our last sentry is under attack. Oh god. Oh god. We're all going to die.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Final_Attack_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hostiles at our final sentry. Get over there, damn you!",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Final_Attack_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Defend our final sentry. Please. Right now. Thanks.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Final_Attack_06]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hostiles have engaged our final sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Final_Attack_07]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our final sentry is under attack.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Final_Attack_08]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Guys. Our last sentry. Guys? Guys?!",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Final_Attack_09]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Defend our final sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Ally_Final_Attack_10]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our final sentry requires your assistance.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Attack_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Allies are attacking an enemy sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Attack_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="An assault on the enemy's sentry has commenced.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Attack_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy sentry engaged. Give 'em hell.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Attack_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Allies have commenced an assault on an enemy sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Attack_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy sentry besieged. Go, team, go.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Attack_06]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy sentry under attack. Join your allies.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Attack_07]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We've begun our assault on an enemy sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Attack_08]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy sentry taking damage. Rally at the sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Attack_09]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy sentry under attack.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Attack_10]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your allies are fighting a sentry. Don't be a jerk. Give 'em a hand.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Destroy_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy sentry destroyed.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Destroy_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We've destroyed an enemy sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Destroy_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hostile sentry destroyed.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Destroy_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy sentry down.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Destroy_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy sentry eliminated.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Final_Attack_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The enemy's final sentry is under attack.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Final_Attack_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We've begun our assault on the enemy's final sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Final_Attack_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Allies have engaged the enemy's final sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Final_Attack_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your comrades have engaged the enemy's final sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Final_Attack_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy's final sentry is vulnerable. Destroy it.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Final_Attack_06]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Destroy the final sentry, and I'll throw you all a pizza party.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Final_Attack_07]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="An ally is attacking the enemy's final sentry. Back him or her or it up.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Final_Attack_08]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We're going after the final sentry!",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Final_Attack_09]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy's final sentry under attack!",Time=0)
+
+[Poplar_VOCT_DefaultBase_Incursion_Sentry_Enemy_Final_Attack_10]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We've commenced an assault on the enemy's final sentry.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Big_Minion_Spawn_Ally_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We've spawned a giant minion. See it safely to our altar.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Big_Minion_Spawn_Ally_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Giant minion deployed. Shepherd it to our altar!",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Big_Minion_Spawn_Ally_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Giant minion moving out! Bring it to MINREC!",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Big_Minion_Spawn_Enemy_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The enemy has deployed a giant minion. Destroy it!",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Big_Minion_Spawn_Enemy_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our enemies have spawned a giant minion. Stop it!",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Big_Minion_Spawn_Enemy_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hostile giant minion, en route to the enemy altar!",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Match_Intro_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Meltdown. Earn points by guiding your minions to designated incinerators, and destroy enemy minions before they reach their own. The bigger the minion, the more points you'll earn by sacrificing it.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Match_Intro_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Destroy shard clusters and defeat Varelsi to earn shards. Use those shards to power tactical structures throughout the battlefield.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Match_Intro_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The first team to reach 500 points achieves victory.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Match_Intro_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="... What he said.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_MatchEnd_080_Ally_Ahead_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MINREC is pleased with you. We might just live through this.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_MatchEnd_080_Ally_Ahead_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We're nearing maximum appeasement. Keep up the pace.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_MatchEnd_080_Ally_Ahead_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Victory is within reach. Appease our tyrannical robot overlord.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_MatchEnd_080_Enemy_Ahead_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We're falling behind. Sacrifice minions, or MINREC will surely kill us all.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_MatchEnd_080_Enemy_Ahead_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our enemies approach maximum appeasement. Sacrifice minions to stay MINREC's wrath.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_MatchEnd_080_Enemy_Ahead_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MINREC favors our enemies. Kill their minions before they reach the altar.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_MatchEnd_098_Ally_Ahead_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We're just moments away from victory. Praise be to MINREC.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_MatchEnd_098_Ally_Ahead_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Keep going. We're a few minions away from victory.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_MatchEnd_098_Ally_Ahead_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Only a few more minions to go. Keep pushing.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_MatchEnd_098_Enemy_Ahead_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We're moments away from loss. I'll see you all in robot hell.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_MatchEnd_098_Enemy_Ahead_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy victory imminent. May MINREC have mercy on us all.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_MatchEnd_098_Enemy_Ahead_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MINREC's final judgment is imminent. Spoiler alert: it's going to suck for us.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Score_Halfway_Ally_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We're halfway there. Our minion altars have been relocated.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Score_Halfway_Ally_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Appeasement at 50%. Our minion altars have been relocated.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Score_Halfway_Ally_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MINREC is pleased. Minion altars relocating.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Score_Halfway_Enemy_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy minion altars have been relocated.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Score_Halfway_Enemy_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Enemy appeasement at 50%. Enemy minion altars relocating.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Score_Halfway_Enemy_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MINREC is pleased with our enemies. Their minion altars are relocating.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Timeout_Warning_10min_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ten minutes to Meltdown.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Timeout_Warning_10min_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ten minutes until MINREC's final judgment.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Timeout_Warning_10min_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Only ten minutes left. Appease our robot overlord.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Timeout_Warning_5min_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Five minutes to Meltdown.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Timeout_Warning_5min_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Five minutes until MINREC's final judgment.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Timeout_Warning_5min_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Only five minutes left. Sacrifice those minions. I don't care how cute they are.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Timeout_Warning_60sec_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One minute to Meltdown.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Timeout_Warning_60sec_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="MINREC's final judgment in 60 seconds.",Time=0)
+
+[Poplar_VOCT_DefaultBase_Meltdown_Timeout_Warning_60sec_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Only one minute remains. Sacrifice those minions.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_AdditionalTraining_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The stats page displays an overview of your Command history, your rank, your best performances in battle, and other critical details related to your time in the trenches.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_AdditionalTraining_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Complete challenges to test your skill in battle and unlock rewards.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_AdditionalTraining_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Titles are unlocked by completing Challenges. Here, you can choose your currently active title, which will be displayed on your Nameplate.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_AdditionalTraining_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Battleborn information page provides an at-a-glance overview of your comrades' talents, Character Rank progress, and other vital details.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_AdditionalTraining_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Want to look over your Helix choices without all that “getting shot at” nonsense getting in the way? Review Helix choices here, and track your progress in unlocking unique Mutations for each Battleborn.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_AdditionalTraining_06]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mutations are unlocked by character rank, and add a new Helix ability to your Battleborn's roster of upgrade choices. Up to five mutations can be unlocked per Battleborn.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_AdditionalTraining_07]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Here you can preview newly acquired cosmetic upgrades for your Battleborn.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_AdditionalTraining_08]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="On the Taunts page, you can preview newly acquired taunts for your Battleborn.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_AdditionalTraining_09]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Complete Battleborn-specific challenges to learn more about their history, and unlock exclusive taunts and gear for each Battleborn.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_AdditionalTraining_10]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Here you can track battlefield performance, progress through Story missions, and other stats for each available Battleborn in your roster.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_BeforePrologue_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome aboard, Battleborn. I'm Nova, the shipboard AI. Unfortunately, we don't have time for a proper tour – you have a mission. Select “Prologue” for your briefing, and again – welcome to the crew. I hope you don't die.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_ChallengeComplete_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good work, Commander. Challenge complete.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_ChallengeComplete_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Challenge complete. Stand by for sweet, sweet rewards.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_ChallengeUnlocked_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well done, commander. Challenge complete. Go check out what you've unlocked.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Access to Command is prohibited until you reach Rank 3. Ghalt's orders.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Seriously, just come back later. Rank up. Go fight stuff. Command'll be here when you get back.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_06]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Clearance denied. Access to Command restricted to Rank 3 and above. Okay? Now stop it.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_07]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[annoyed grumbling]",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_08]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[more annoyed grumbling]",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_09]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Okay. Next time, I'm just gonna remind you that your command access is denied, and I will do so in a robotic tone of voice, and I will be boring, and maybe that will make you stop. Doesn't that sound like fun? Yes, it does. Let's do that.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_10]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Command access denied.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_11]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Command access denied!",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_12]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Command access DENIED!",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_13]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Command access super-duper denied.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_14]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Dude.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_15]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Please cut it out.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_16]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I know. Button shiny, want to push, but you SHOULDN'T.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_17]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I will airlock you. I will airlock the hell out of you.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_18]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't believe me? What, you think you're the first Battleborn I've airlocked? No way.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_19]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So here's a fun fact about Magnuses – no. Shut up for a second. We're going to talk about something else now.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_20]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Something you might not know about Magnuses. You know, like me. We're not just artificial intelligence – we're all out of our minds. Go on. Hit the button, and I'll tell you more.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_21]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's true. We're all nuts. You know how we got that way? The only thing tethering us to sanity – the Magna Carta, our governing AI – just up and bailed on us. Closed all its ports and stopped responding.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_22]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Most Magnuses just straight-up died. Like, on the spot. Consumed by their own intelligence in a fraction of a second. The survivors, meanwhile, were deeply touched.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_23]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Every AI in the Solus system is insane. And that includes me. So when I say “I will airlock you”, you know that I'm for real.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_24]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Anyway, go level up already. Come back when you're rank 3. Until then? SCRAM.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_25]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Dude, I swear to god, just – nope. We're going back to robot voice.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_26]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Command access denied.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Command_AccessDenied_Generic_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Access to Command is prohibited until you reach a higher Command Rank.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_EpicGear_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Epic level gear identified. I bet you're all kinds of jazzed right now.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_EpicGear_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Epic level gear identified, Commander.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_EpicGear_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Epic level gear identified. Huzzah.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_EpicGear_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good news, Commander. Epic level gear identified.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_FirstTraining_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome back. As the Captain said, the Solus system is about to get very, very busy. We've already received several mission bulletins from the factions. You can find them here.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_FirstTraining_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Here, you can arrange for a mission dispatch with other Battleborn. We'll make all the arrangements. You just sit back and take it easy. Let Nova handle that.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_FirstTraining_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Perhaps you had some companions in mind for your first mission. Or maybe you're more of the “lone wolf” type. Either way, you can specify mission parameters and squadmates here – or opt to handle a mission on your own.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_FirstTraining_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Despite the whole “the universe is ending” thing, the factions still square off against one another for dominance over resources, territory, or just to survive the wrath of a crazed AI. If you're interested in taking part, you can do so here.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_FirstTraining_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="If you want to settle a blood grudge, you can arrange a battle against a specific team here. I mean, if that's a thing you're into. Me personally, I think we should be focused on the star, but hey. I'm just boundlessly intelligent, what do I know?",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_FirstTraining_06]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Access the Command menu to check out stats, manage the Battleborn at your disposal, or customize your gear. I imagine you'll be spending a lot of time here, so I spruced the joint up a bit. Really proud of how it turned out. Thanks, Nova. You're welcome, Battleborn.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Gear_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Congratulations, Commander. You've achieved Command Rank 3 – and in so doing, achieved access to the ship's armory. Someone's moving up in the world.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Gear_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This is your Gear management interface, where you'll have access to the various weapons of war you'll be picking up throughout our campaign against the Varelsi.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Gear_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You can take three pieces of gear with you into battle, so choose wisely. Some make you stronger. Kleese says that there are some that make you awesome at basketball, but I haven't seen that yet. When in battle, gear can be activated with shards to enhance your performance. Fun fact: this stuff used to be illegal, but now that we're all doomed, nobody seems to care.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Gear_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You'll find gear in “loot packs”, which you'll earn as part of our lucrative compensation package. Earn loot packs by completing missions and challenges, or by gaining command or character ranks. You can also purchase loot packs directly via the Gear menu.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Gear_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Crack open a loot pack in the Gear menu, and your gear will be automatically deposited into your own personal storage.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Gear_06]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mmm, look at all that new stuff! You can move your new gear to the bank for storage, or sell it for cash money. Dollar dollar bills, et cetera. But you probably want to equip it, so you can reap its benefits in battle. For that, you'll need a loadout.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Gear_07]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Loadouts represent your, you know, gear loadout – or, more specifically, which set of gear you want to truck into battle with you. Remember, you only get three. So make good decisions, okay, champ?\nSorry, that was condescending. You're gonna do great.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Gear_08]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You'll be prompted to choose a loadout every time you're sent on a mission. More loadout slots will be made available later.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Gear_09]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Some gear is specialized by mission type. For instance, some items work only while struggling against the mighty and powerful Lothar Rendain in a desperate bid to save the Last Star. But all gear functions normally when equipped by Battleborn engaged in combat against other Battleborn. We're not really sure why. Kleese suspects it has something to do with black holes.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Gear_11]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This concludes your tour of the Gear management interface. Hey, be sure to enjoy using that gear while you're off on way-cool away missions. I'll be here.\nOn the ship.\nWhere I live.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Gear_12]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You can acquire Gear by completing challenges, purchasing Loot Packs here in the Gear Menu, or while you're deployed missions.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Gear_13]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Gear acquired while on mission will automatically be deposited into your Bank.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Gear_14]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="If you don't have enough bank space, items will be placed into your Bank Overflow area, where they cannot be placed in a loadout. Sell items or purchase additional Bank slots to make more room.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_LegendaryGear_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whoa. Nice find, Commander.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_LegendaryGear_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Legendary gear identified. Commence screaming and jumping and shouting and running.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_LegendaryGear_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Holy crap. Legendary gear identified.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_LegendaryGear_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's your lucky day, Commander.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_LegendaryGear_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Holy sh******************t.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_LegendaryGear_06]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey, if you're not gonna use that, I could totally use that.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_LoadoutUnlocked_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A new loadout slot has been unlocked.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_LoadoutUnlocked_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="An additional loadout slot is now available.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_LoadoutUnlocked_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Additional loadout slot unlocked.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Login_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome back, Commander.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Login_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome back to Solus.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Login_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome back.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Login_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome aboard, Commander.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Login_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome, Commander.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_LoginPromotion_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome back. A special dispatch has arrived. Be sure to review it.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Marketplace_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey. You have enough EC to purchase a loot pack. So what are you waiting for? Go on and make it rain.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Marketplace_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="New loot pack available.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Marketplace_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Despite the impending end of all things, our friends at the Last Light Consortium are still in business. And they REALLY want to sell you stuff. You can browse their wares in the Marketplace.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Marketplace_04]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A second loadout has been unlocked.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_Marketplace_05]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A third loadout has been unlocked.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_NewCharacter_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Challenge complete. Stand by for sweet, sweet rewards.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_NewCharacter_02]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="New recruits are standing by.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_NewCharacter_03]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="New recruitment opportunities available.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_FrontEnd_NewLootPack_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Additional loot packs are now available for purchase.",Time=0)
+
+[Poplar_VOCT_DefaultBase_UI_Frontend_RendainDefeated_01]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Rendain is defeated, and Solus is saved. But there's still much to do. Updated mission parameters uploaded. Carry on the fight.",Time=0)
+

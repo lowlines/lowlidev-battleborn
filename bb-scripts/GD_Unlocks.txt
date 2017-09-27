@@ -1,0 +1,11 @@
+[BossUnlocks.GearUnlock_DamageRedux_Leg_UPR UnlockDefinition]
+UnlockDescription="“Alamo-7” Armor"
+
+[BossUnlocks.GearUnlock_MaxShield_Leg_UPR UnlockDefinition]
+UnlockDescription="One-4-All™ Shield Array"
+
+[BossUnlocks.GearUnlock_ShieldRegen_Leg_UPR UnlockDefinition]
+UnlockDescription="UPR-SG12 “Wolfskin”"
+
+[BossUnlocks.GearUnlock_HealPower_Leg_ELD UnlockDefinition]
+UnlockDescription="Symbiotic Spores"

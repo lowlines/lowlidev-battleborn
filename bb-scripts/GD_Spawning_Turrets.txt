@@ -1,0 +1,2 @@
+[PvP.PawnBalance_ShockTurret AIPawnBalanceDefinition]
+PlayThroughs[0]=(DisplayName="Shock Turret")

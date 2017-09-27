@@ -1,0 +1,2439 @@
+[Poplar_VO_DLC_TobyRaid_Ops_Intro_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome to Battleborn Operations, where the elite meet to earn sweet, sweet Ops Points that you can trade in for new stuff – because no matter how many eons pass in the universe, one truth remains: stuff equals happiness! You've selected Toby's Friendship Raid.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Ops_Intro_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're about to help Toby recover his mech suit, Berg, which was actually stolen by... whoa, Nova, you almost spoiled the entire story. That was a close one. The point is that Toby needs our help, and who could say no to that adorable little guy? And don't forget those shiny Ops Points.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Ops_Intro_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good luck. Beginning operation in three, two, one...",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Ops_Intro_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome back. You will now begin with five Ops Points and be able to earn up to fifty. Earning forty Ops Points will unlock a new skin for your character, and there are even greater rewards later on. I've seen some of them, and seriously guys, as soon as I'm done telling you about Ops Points, I'm gonna get me some. Plus, Toby still needs your help.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Ops_Intro_00050_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey there, champ. You're doing great – I mean that. This is your third playthrough, so you begin with ten Ops Points and can reach a maximum of sixty. If you haven't already, you can earn a new character skin at forty and the title of “Penguin Master” at fifty. Get all the way to sixty, and you'll unlock a Commander Loot Pack!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Ops_Intro_00060_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There you are. Wow, I must say that no one destroys ships like you. You really must want to help Toby find his stolen mech suit... or love those sweet, sweet Ops skins. Either way, keep going!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Mission_Intro_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We're about to drop you off on a factory ship convoy hurtling through the Detritus Ring at unthinkable speeds. Try not to think about it.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Mission_Intro_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The fleet was stolen by a rogue LLC employee, AND he kidnapped Toby! So let's rescue everyone's favorite penguin and stop this LLC reject before he causes any more trouble. Valkyrie out.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Mission_Intro_00030_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The fleet was stolen by a rogue LLC employee, and we think he's building an army to take over Solus. Let's find out what this LLC reject is planning and stop him. Valkyrie out.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Mission_Intro_00040_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Detritus Ring is our home, Rogues. Let's take this convoy out!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_01_Elevator_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Take that elevator down to the hangar.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02_SecurityBots_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You tripped the alarms!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02_SecurityBots_00015_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Take out those security bots!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02_SecurityBots_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Get back on that elevator and head to the lower decks.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02A_Transport_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Shut down the cargo transport system.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02A_Transport_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's the transport control – turn it off.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02A_Transport_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That did it! Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02B_LootRooms_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Check the nearby cargo holds for any valuable cargo. That seems self-explanatory, but you never know.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02B_LootRooms_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Looks like that cargo hold was a bust. Try the other one.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02B_LootRooms_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh shiny loot, come to mama! Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02C_Turrets_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Build some turrets to help you take out those bots. I'd like to see that.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02C_Turrets_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One turret down, one to go.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02C_Turrets_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's two for two. Way to rain down hellfire on those robots. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02D_BulwarkBots_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bulwark bot incoming. Try to damage him with a critical hit and make mama proud.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02D_BulwarkBots_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nice hit, but you'll need to damage him with a crit. You didn't listen. You never listen.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02D_BulwarkBots_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good kill, but no crit shots. Objective failed. Zero Points. I know, I'm sad too.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02E_Elites_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Detecting an Elite. Try to kill it without getting stunned. You're not pretty when you're stunned.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02E_Elites_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I said, “don't get stunned”. Now I have to look at you all stunned and confused. Objective failed. Zero Points.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02E_Elites_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nice kill. I mean that. Really, I do. Ops Point awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02F_Ronin_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ronins in the area. Try to win a duel by killing one with a melee strike.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02F_Ronin_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Close, but not really. You have to kill that last Ronin with a melee strike, or you get nothing. Nothing!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02F_Ronin_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You didn't kill either one with a melee. Objective failed. Zero Points. That was literally seconds of your life wasted.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_02F_Ronin_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Great kill shot. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03_Hanger_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Clear out the hangar – we've got to get to the engine room!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03_Hanger_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nice work! Now keep moving.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03A_DockingPort_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Close off the docking ports! We don't want any ships escaping, now do we?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03A_DockingPort_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One docking port down, one more to go.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03A_DockingPort_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Docking bay sealed. I'm surprised and impressed. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03B_Drone_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Build a drone for backup, will you please?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03B_Drone_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Drone secured. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03C_Loot_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm detecting some sort of storage room nearby. Pillage it for loot, because loot makes the world go round!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03C_Loot_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Storage room unlocked. Now grab that loot.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03C_Loot_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Loot secured. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03D_Beastmaster_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thrall Beastmaster in the area. Kill him before he escapes.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03D_Beastmaster_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's the Beastmaster. Take him out quickly, now.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03D_Beastmaster_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Beastmaster escaped. Wow. Just wow. Objective failed. Zero Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03D_Beastmaster_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Beastmaster down. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03E_Boombots_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Boombots incoming. Avoid taking any damage from them and I'll grant you some shiny Ops Points.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03E_Boombots_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Even more boombots are incoming. Don't let them hit you – they have space cooties.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03E_Boombots_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I told you not to let the boombot hit you. Now you have space cooties. Objective failed. Zero Points.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03E_Boombots_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Boombots destroyed. Wowie. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03F_Bonecrusher_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Detecting a Thrall Bonecrusher. I double-dog dare you to kill him with a skill.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03F_Bonecrusher_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That Bonecrusher is almost dead. Finish him off with a skill.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03F_Bonecrusher_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonecrusher down, but you didn't use a skill. Objective failed. Zero Points awarded. Nova sad.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_03F_Bonecrusher_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Great skill kill. I'm... happy. You thought I was going to say thrilled, didn't you? Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04_ShipEngines_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We've got to slow down the ship. Disable those engines!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04_ShipEngines_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Okay, that's one engine down! Two more to go!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04_ShipEngines_00030_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nice! Just one more!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04_ShipEngines_00040_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's all three! Time to take this ship out!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04_ShipEngines_00050_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Engine's still going... must be another shard powering it.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04_ShipEngines_00060_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That engine isn't disabled! Find the other shard.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04A_DataTerminals_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Detecting some data terminals nearby. Hack them to totally mess up their systems. Wouldn't that be fun?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04A_DataTerminals_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's one terminal down. Now hack the others.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04A_DataTerminals_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Just one more data terminal to go.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04A_DataTerminals_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Great job. They are as hacked as they are ever going to be. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04B_Turrets_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Make yourself useful and build some turrets to help secure the engine room.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04B_Turrets_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's one turret. One more to go.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04B_Turrets_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Engine room secured. That's better. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04C_Varelsi_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Picking up a bizarre Varelsi energy signature. Investigate it, would you?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04C_Varelsi_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's the signal source. Scan it. Scan it now.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04C_Varelsi_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That was enlightening. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04D_Brute_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Some Brutes are patrolling the engine room. Clear them out. No survivors.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04D_Brute_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One Brute down. Now get the rest.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04D_Brute_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hunt down that final Brute – for me.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04D_Brute_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Brutes cleared. Nova happy. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04E_TimeChallenge_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sure are a lot of minions in here. I'll bet you some Ops Points you can't kill 10 in 30 seconds.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04E_TimeChallenge_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sure are a lot of minions in here. Try to kill 10 in 45 seconds, why don't ya?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04E_TimeChallenge_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="30 seconds left.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04E_TimeChallenge_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="20 seconds left. You are running out of time.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04E_TimeChallenge_00050_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="10 seconds. I thought you'd be done by now. Boy, did I overestimate your skills.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04E_TimeChallenge_00060_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Five.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04E_TimeChallenge_00070_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Four.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04E_TimeChallenge_00080_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Three.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04E_TimeChallenge_00090_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Two.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04E_TimeChallenge_00100_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04E_TimeChallenge_00110_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[buzzer] Wow, what an abject failure. Abject means total, by the way. Zero Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04E_TimeChallenge_00120_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You smash robots real good! Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04F_Bonecrusher_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Picking up a Thrall Bonecrusher in the area. Try to take him out.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04F_Bonecrusher_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Looks like that Bonecrusher won't go down without a fight. So bring it!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_04F_Bonecrusher_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonecrusher down. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_05_BotFactory_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The factory should be just up ahead.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06_StopBot_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="They're using the Toby mech as a prototype to build an army. We can't let that happen.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06_StopBot_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Take out this mech factory's power supply.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06_StopBot_00030_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One down, one to go.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06_StopBot_00040_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That'll do it.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06A_LootCache_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Detecting a sweet, sweet loot cache nearby. Try to open it up.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06A_LootCache_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That did the trick. Now grab that loot.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06A_LootCache_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Loot secure. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06B_Barrels_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Why would anyone store so many explosive barrels in one room? I mean, honestly. Blow them all up and make mama proud.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06B_Barrels_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I love it when things go boom. Always have. Don't know why. Is that wrong? Oh well, now find the rest.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06B_Barrels_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No more barrels. Well, the fun had to end sometime. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06C_DataTerminals_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Unsecured data terminals nearby. Hack their systems.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06C_DataTerminals_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One terminal hacked. Get the rest.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06C_DataTerminals_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One terminal left. Track it down.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06C_DataTerminals_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's all the data terminals. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06D_Elites_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Elite bot detected. Take it out without getting stunned.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06D_Elites_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You got stunned, son. Objective failed. Zero Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06D_Elites_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Elite bot down. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06E_Assassins_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ronin bots nearby. Try to kill one with a skill, please.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06E_Assassins_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ronin down – but you didn't use a skill. Try again.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06E_Assassins_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ronins gone, but you didn't use a skill for the killshots. Objective failed. Zero Points.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_06E_Assassins_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Great kill. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_07_FindMech_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Keep going – we need to find that guy in the mech suit!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_07_FindMech_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Destroy those shards to take out the shields.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_07_FindMech_00030_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You'll need to take out some of the shards to drop that defense shield.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_07_FindMech_00040_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That shield ain't going down until those shards are destroyed.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_07_FindMech_00050_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Great job – that shield is down! Keep going.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_07_FindMech_00060_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Another shield down! Almost there.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_07_FindMech_00070_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Looks like the way is clear. Time to find the guy in the mech suit.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_08_DestroyMech_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Stop that mech!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_09_Powercores_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You need to destroy the ship – we can't risk a single one of Toby's mechs escaping.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_09_Powercores_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Take out those shards and you'll overload the cores.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_10_Escape_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ha-HA! Time to get out of here!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_10_Escape_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Head to the escape pods!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_10_Escape_00030_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nice work! Let's catch up to the next ship.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_A_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="My tracker's picking up signs of Toby! Toby, are you there? What happened?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_A_00020_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A maniac seal ambushed me on Bliss! When I woke up I was cold and alone... Reyna... HE STOLE BERG! I'm freakin' out here! I FEEL SO NAKED!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_A_00030_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And there goes my left ear. We're coming, Toby. Hang tight.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_B_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Reyna?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_B_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Toby, I...",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_B_00030_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="HE STOLE MY MECH SUIT! Where are you?! WHERE ARE YOU?!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_B_00040_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And there goes the other ear.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_B_00050_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Toby!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_B_00060_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hardly. This is Thaddeus Wishingbone, future Emperor of Solus. Doesn't my spiffy new death suit make you want to pee all over yourself in a whirl of jealousy and fear? This suit's going to come in handy when I take over Solus, but you won't be around for that historic moment as you will be dying... momentarily.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_C_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mmm, by the way, when I stole this ship I renamed it “The Pinniped's Lament”. I thought you would like to know the name since you're going to die here. 'Kay.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_D_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ooh, good to put a face to the name, Reyna Valeria. Nice command glove. Fine craftsmanship.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_D_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, I ain't got time for you right now, whatever your silly-ass name is.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_E_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We're coming for you, Thaddeus. And we're gonna wreck ya.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_E_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mmmm, agree to disagree.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_F1_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I must admit. I find myself beside myself. If you continue into my disincentivization hallways, you will find your end uncomfortable and your funeral uncatered.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_F2_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hmm, I'm not surprised you got through. I used Thrall contractors on that first hallway. Their work can sometimes be shoddy, but they're cheap, and I used the budgetary surplus to purchase an additional underwater castle for my pet catfish, Whiskers. He never plays there, stupid catfish. Actually I misspoke – it's a goldfish. Does that matter? Sorry.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_F3_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You know, when I took command of this ship, my first act was to increase the standard issue disincentivization chambers by a hundo percent. They called me... mad. But who's laughing now? [cough] I had a spicy sandwich for lunch.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_F4_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, if you think you're going to make it out of here alive with your little penguin friend, you are sad-ly mis-tak-en.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_F5_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thaddeus Wishingbone.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_G1_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oooh, welcome to my death arena. It's sparse, but then again that cuts down on carcass disposal costs. En garde!\n— Or whatever, I don't care.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_G2_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ughh, stupid malfunctioning mech suit, if your diminutive penguin friend had just cooperated and given me the full schematics, you'd be burnt toast by now.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_G3_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Now I'm getting a little tee'd off cause I'm a busy seal and it's a lot of work to take over the last star of a dying universe, you guys, so please die now.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_G4_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uhngh, ngh... AGHHHHH! Hrk...",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_H_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="According to my tracker, Toby should be on the other side. Let's get him out of here.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_H2_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let me out of here, RIGHT NOW!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_H2_00020_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Help! SAVE ME!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_H2_00030_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey! Over here!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_H2_00040_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Get me outta here!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_H2_00050_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thanks! Wow, I thought I was a goner!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_H2_00060_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We've got to get out of here!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_H2_00070_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Come on! This way.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_H2_00080_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thanks for saving me. Sorry if this is interrupting your day or something.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_H2_00090_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I owe ya one.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_H2_00100_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There are the escape pods. Let's go!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_I_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thanks for saving me, Reyna.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_I_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No problem, buddy.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_I_00030_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Now let's catch up to that next ship! WE GOTTA SAVE BERG!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar01_I_00040_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And... now I'm deaf. But glad you're safe, Toby.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_A_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome back, Toby. Now...",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_A_00020_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="REYNA, WE'VE GOT TO GET BERG BACK!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_A_00030_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Toby... if you don't stop shouting I'll throw you out into the vacuum of space, and LAST TIME I CHECKED THAT'S NOT A PENGUIN'S NATURAL HABITAT!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_A_00040_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Wow. Just... wow, ya know?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_A_00050_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You shout, I shout. Now, where was I... We need to destroy this convoy ASAP before they can cause any more trouble.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_A_00060_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="LET THE HEAVENS RAIN WITH OUR ENEMIES' BLOOD! [coughing] Does anyone have a glass of water?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_B_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This is Truffles LeReaux, captain of this ship. All intruders will be... oh, you're back. That's... unexpected. Hmm.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_B_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You again?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_B_00030_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Audible sigh. These ships were supposed to be untrackable. Damn Thrall engineers, but I used the...",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_B_00040_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'LL MURDER YOU, YOU SLIPPERY MECH STEALER!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_B_00050_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Rude!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_B_00060_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So, it's actually more cost-effective for me if you lower your weapons, assume the acceptance-of-mortality position, and simply let my minions wash over you like a shower of murder. Oooh! Fun fact, “Shower of Murder” was my college ska band. Would you like to hear our stuff sometime? Let me see if I've got a track I can cue up... hang on, hang on, hang on.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_C_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[singing] Fala, la-dee dee la... it was love that spurred her... La-la-ladee dee la... into the shower of murder!\nEncore, thank you. Yeah, I'm very good. Very good.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_D_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Our title track was called Purple Biscuit Dagger, and it was highly regarded on the blogosphere. I'm sure you've heard of it.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_E_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oooh, when I take over Solus, I'll probably get Shower of Murder back together and have, like, a big show. I'd invite you but you won't be able to attend because you'll be floating in the cold vacuum of space where there's no sound... ooh, bummer.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_F1_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ugh, you again? Why are you bothering me, Reyna? Ugh!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_F1_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Is this fool serious?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_F1_00030_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Very serious. Very, VERY serious. Very very very VERY --",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_F1_00040_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I am going to murder you if you say very one more time.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_F1_00050_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Verrrrrry.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_F1_00060_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Permission to yell.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_F1_00070_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Permission granted.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_F1_00080_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="YOU'RE GONNA DIE!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_F2_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I like you Rogues. You're sort of messy as an organization, but you're also ruthless and get things done. Wanna join up with me instead of this whole you-trying-to-stop-me-ship-by-ship-charade?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_F2_00020_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I would prefer to simply MURDER YOU!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_F2_00030_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Suit yourself! Hahahaha! Because it's a mech suit... doy.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_F3_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh, because, if you think about it, it's not like you all have an allegiance to anything, and I mean, you live in the Detritus zone, hello, which is just a fancy way of saying trash zone, I mean isn't it? Wouldn't you like a whole planet? Ekkunar, perhaps?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_F4_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, now you've done it... I'm gonna make Shower of Murder look like a kiddie pool with a dragon – and I don't even know what that means, I'll figure it out after your corpses are in space.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_F5_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Truffles LeReaux.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_G1_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="How'd you steal my suit schematics?!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_G1_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let's just say if you don't cross your Ts, little penguin, all you've got is a bunch of little L's, hahaha! You should know that I'm making an L for loser on my forehead right now, because you are a loser.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_G1_00030_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Okay... okay. Seriously. Seriously! NUKE THIS GUY!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_G2_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I find your fighting sloppy and predictable, but I'm, like, busy so if you could please die now that be very very convenient for me.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_G3_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm not panting, for the record. I'm salivating because I thought I'd treat myself to a strawberry sundae after I murder you... totally not hurt.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_G4_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You can't defeat me, because I am like the sun. At the end of the day I disappear, but I always return... I should put that on a tee-shirt. Laters...",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_H_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Is... is he gone?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_H_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't think so... and this guy's starting to piss me off.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar02_I_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alright, onto the next ship, Rogues. We've got a job to do.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_A_00010_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hallo, everyone! Pendles the cold-blooded assassin at your service!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_A_00020_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Pendles! What're you doing here?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_A_00030_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sooo, funny thing, a fellow named... Milky Grontawnamuss hired me to murder you lot.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_A_00040_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="But... you're not going to murder us... right?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_A_00050_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="'Course not! His check bounced.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_B_00010_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So Tobes, Reyna told me you're having trouble killin' the fellow who kidnapped you. Well, I'm here to help.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_B_00020_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh. Thanks, Pendles.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_B_00030_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Right. Hallo, Mr. Milky, mate. You hired me to kill the Rogues. Thing is, I've been on retainer with them for quite some time.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_B_00040_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh... well, can I have my credits back then?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_B_00050_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Funny! I'm gonna enjoy murderin' you! What are you, by the way? A manatee?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_B_00060_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uhm, actually, I'm a leopard seal, and I'm gonna murder your face.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_C_00010_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't think I've killed one of your species before, Tobes.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_C_00020_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Heh-heh-eh-heh... why start now?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_D_00010_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So, what can you tell me about this ship, Reyna?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_D_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Just that these production ships are practically identical.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_D_00030_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Um, 'scuse me but you clearly haven't been paying attention, and personally I think the minor cosmetic changes really make it feel fresh and new thank you.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_E_00010_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Tobes, mate – I think we got off on the wrong foot. Put 'er there.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_E_00020_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Get away from me! REYNA!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_E_00030_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Blimey! Hard on the ears, ain't he?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_E_00040_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ohhh yeah.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_F1_00010_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ah, there he is! What's he do, mock you from there? Brilliant!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_F1_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Um, Mr. Pendles, no offense, but I'm going to squash you like a bug.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_F1_00030_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="But I'm not a bug, mate.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_F1_00040_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nevertheless...",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_F2_00010_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mr. Grontawnamuss, I thought you should know: I'm going to slit your throat from ear to ear.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_F2_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Excuse me, but think your thoughts on your own time. I'm very busy here hiring a new assassin to assassinate you. K?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_F2_00030_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="If you'd like a referral, I recommend Jake Varg!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_F2_00040_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, thank you, I'll take that into consideration.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_F3_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mister Snake Man, I'll pay you double if you murder Reyna and the others right now.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_F3_00020_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You got the credits with you?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_F3_00030_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sure do.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_F3_00040_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="New plan. I kill you, then take the credits.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_F3_00050_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mmmm... that's not a desirable outcome for me.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_F4_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Come face me, snake man. After I kill you, I'm gonna use you as a jump rope.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_F5_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Milky Grontawnamuss.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_G1_00010_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alright, let's take this guy out then, shall we?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_G1_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You know what you are, Mister Snake? A double-crosser. So I'm going to cut you in half and make you into a pair of boots. Awesome boots.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_G1_00030_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ah, I've always said I'd make a GREAT pair of boots. Good luck!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_G2_00010_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="When I kill you, I'm gonna treat my new friends here to a BBQ!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_G2_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Um, I recommend not doing that!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_G3_00010_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="How you feeling, Mr. Milky? Lookin' a bit rough.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_G3_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Tip-top shape... I've never felt better, but... how about I increase your murder fee to triple? How's that sound?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_G3_00030_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Do you have the credits on you?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_G3_00040_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I... no.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_G3_00050_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Then I'm going to murder you!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_G4_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Jake Varg... is on his way.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_G4_00020_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good! That SOB owes me credits!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_H_00010_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'll reach out to a few old contacts I haven't killed yet – they might be able to help us figure out who this fellow really is.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar03_H_00020_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Keep him on the run, Rogues!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_A_00010_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Heya, fellas. I thought I should tell you that I've known about Thaddeus's plan to conquer Solus for awhile now.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_A_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Are you f*ckin' KIDDIN' ME, ISIC?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_A_00030_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I know. I'm pretty beat up about the whole thing, but I can explain – and then help you make him pay. Trust me, Reyna. No one wants to club him and use his flesh to stitch a pair of fuzzy boots more than me!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_B_00010_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="See, when the Magna Carta abandoned me, I was lost. But an LLC patent clerk named Thaddeus helped me through that dark time. He was my first (and therefore best) friend! When I left to find myself, we became pen pals and wrote each other every day, then every other day, and then... he just stopped writing me!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_B_00020_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh hello, Thaddeus! Long time no where the hell have you been, you sack of toilet garbage?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_B_00030_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Um, you must be mistaken. I am Pizza Masterson Jr. and --",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_B_00040_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And twenty-seven other known aliases, Thaddeus. What are you running from? Is it me? You should be, because I'm going to destroy you!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_C_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Wow – he must've really hurt your feelings.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_C_00020_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yes! There's a hole in my emotional processing unit that will never be filled... except by destroying his hopes and dreams in a fiery maelstrom of death!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_D_00010_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Did you even READ my letters?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_D_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nah. Listen, friendship's over, ISIC. I've a lot going on right now. I gotta complete my army so I can subjugate the last existing solar system, plus I got a turtle... Mend and move on, brah.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_E_00010_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thaddeus always said, what good is standing over the cooling corpses of your enemies if you don't have a friend to share it with? Sob.\nThat is me crying, by the way.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_F1_00010_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You said we'd be best friends forever! I can compute forever, Thaddeus, and it's longer than a year.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_F1_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mmm, that was before you hacked into my work station and read all of my private emails... your silence speaks volumes.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_F2_00010_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You had a pool party and didn't invite me? How could you?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_F2_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It was actually fairly easy to not invite you, if that's what you're asking.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_F3_00010_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're always running from something, Thaddeus. Your family. The Varelsi. Me.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_F3_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh, you all want to kill me!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_F3_00030_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yes! We do!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_F4_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Stay out, ISIC – I am warning you!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_F5_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Pizza Masterson, Jr.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_G1_00010_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You don't care about anybody but yourself.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_G1_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh, that's, like, your opinion or whatever, cause I've changed a lot, actually. I have a spin class now.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_G2_00010_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We were never friends, were we, Thaddeus? You were just using me to get access to secure LLC databases.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_G2_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Guilty as charged.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_G3_00010_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well now, we are enemies. Are you happy now?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_G3_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Moderately. But you know, that's life. Ups and downs, right? Ups and downs.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_G4_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm sorry, ISIC. I... wasn't a good friend to you. I'm sorry... brah.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_G4_00020_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Heya Toby, will YOU be my friend?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_G4_00030_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh, yeah. Maybe.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_H_00010_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Toby, I'm really sorry for everything Thaddeus did to you. But I'll make it up to you by ensuring he can't escape the Detritus Ring. And then when we finally kill him, I'll cook up some seal tacos for us! And I don't even eat!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_H_00020_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh... thanks?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar04_I_00010_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This way, fellas. I've got a lock on the next ship. It's called “The Slippery Skipper”. How disgusting!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_A_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You got bullied a lot as a kid, didn't you Toby?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_A_00020_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="How'd you know?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_A_00030_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're a two-foot tall nerdy engineer...",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_A_00040_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="HEY!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_A_00050_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't get mad at facts! Now listen: when it comes to bullies, you've got to stand up to them. Trust me.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_A_00060_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alright, I'll try...",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_B_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hello, intruders. Flisky Dumpholder, Vice Viceroy of...",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_B_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Okay, Toby – like we practiced.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_B_00030_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[imitating] “Uh, welcome to my boring ship, which looks like the other ships except for minor cosmetic changes, and I've got a weird new name and title, and let me tell you about my poorly-thought-out plan for taking over Solus using a stolen mech suit cause I'm not smart enough to invent something by myself.”",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_B_00040_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Stop it I hate you die.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_B_00050_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[imitating] “Uh, I wear this mech suit cause I'm a fat seal and I'm super ugly and I need to hide my gross face cause I'm sad and lonely and no one loves me.”",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_B_00060_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm gonna kill you. I'm gonna wear your teeth like a helmet! It's a small helmet. Yeah.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_B_00070_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah, whatever! We've already beaten you like four times, but you go ahead and try, you pathetic seal!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_C_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well done, Toby. That'll get him off his game.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_C_00020_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="But what if he really is just sad and lonely?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_C_00030_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I am beyond caring at this point.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_D_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Reyna... you were bullied too, weren't you?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_D_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Why do you say that?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_D_00030_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No one wears that much leather if they haven't been bullied at some point in their life.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_D_00040_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Excuse me?!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_E_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We must have REALLY hurt his feelings.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_E_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Why do you care? He stole your life's work.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_E_00030_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh, I don't. I'm pretty happy about it actually.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_F1_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So first of all, I am NOT super ugly with a gross face. That's not even my real face, it's a disguise. You can't even see my real face, so I know you were just trying to hurt me, and also your face is ugly because penguins are ugly and you are a penguin and I'm gonna turn you into a sandwich. A spicy sandwich.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_F2_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And number two. I have lots of friends and you don't even KNOW ME. My pool parties are very well attended – they're in magazines, famous people are there. We have a f*cking nacho fountain. FACE! FYI, you are not invited.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_F3_00030_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And third, those hurtful things you said don't even bother me and whatever 'cause I'm totally taking over Solus because Solus needs me to protect it from jerkbags like you Rogues!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_F4_00040_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So come get me, you – you BULLIES! I'LL DESTROY YOU AND I'M NOT EVEN KIDDING THIS TIME!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_F5_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Flisky Dumpholder.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_G1_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Okay, you have seriously P'd me O. Pissed me off. Did that read? This isn't even funny anymore!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_G1_00020_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You stole my suit! Why don't you make your own instead of just taking other peoples' stuff?!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_G2_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Stop hiding behind that suit! What are you so afraid of, Thaddeus?!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_G2_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="My name is Flisky Dumpholder... I think, hang on. — Is that right? Yes... yes.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_G2_00030_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No! You're just hiding behind increasingly ridiculous names because you're SCARED!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_G2_00040_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No I'm not, you are.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_G3_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="WHAT ARE YOU HIDING FROM?!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_G3_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Stop harshing my mellow, lemoncello! My GOSH, just STOP IT! Stop it, stop it, STOP IT!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_G4_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And don't come back!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_G4_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't tell me what to do you lame-guin! Heh, nice.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_H_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You did good, Toby.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_H_00020_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Reyna, I don't like being a bully.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_H_00030_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Then be a leader.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_H_00040_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Wow. I really feel like we really learned a lesson this time. For reals.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar05_I_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alright, everyone. Great work! Let's do this thing! And kids... don't be a bully! Be a leader! YEAH!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_A_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Attention. Lay down your weapons. It's time for your annual employee review.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_A_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah, denied. This is a splinter group, which means I'm not under your purview, so walk into the ocean and drown.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_A_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, it was worth a shot. Tell me: is your entire plan to take over Solus with a few ships and an untrained mech army?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_A_00040_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, I mean, that's just the preliminary phase, and honestly I don't know if you really even get the full genius of my plan. Plus, I have lasers, so...",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_A_00050_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Lasers. Adorable! Well, let the inspection begin!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_B_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Where is your security? These Rogues have already destroyed half your fleet, and yet you can't put two and two together and defend this elevator! It's like you WANT your ships to add to that delightful cornucopia of floating garbage that we call the Detritus Ring.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_B_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey! That's my home you're talking about!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_B_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And WHY are you piloting that mech suit instead of verifying manufacturing quotas and finalizing invasion plans?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_B_00040_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh, the suit really establishes me as, you know, the head honcho of, uh... brrring, brrring! Oh, whoops, uh – getting a phone call. Super important. The laser general of my army... he needs me for a... laser business? Yeah, hi. Real phone call. Yeah... hi, how ya doin'?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_C_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="My goodness... if I have to suffer another minute of your inept management, I might kill you twice.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_C_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your accent is inefficient.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_C_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And you sound like an endangered species to me!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_D_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Now, most of your output occurs between...",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_D_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Woman, would ya please stop giving him pointers on how to take over the last bit of free universe?!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_D_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That would imply that I think this blubber-brain has a chance in hell of taking over Solus.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_D_00040_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh, I can still hear you. Just an FYI.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_E_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm disappointed in you, Thaddeus. We at the LLC take pride in our ruthless efficiency. For shame!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_E_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh, I'm gonna shame... your... brrring, brrring! Oh, hang on, getting another phone call... for real.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_F1_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't you have anything better to do with your time than to sit there and watch the pretty beams?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_F1_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="My disincentivization hallway's like my zen garden, bro. It brings me peace and relaxation during this uber-stressful time.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_F2_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Tell me, Thaddeus. Do you think you're even up to the task of running an entire solar system? It's an awful lot of work, dear. It's not just about the conquest – you've got to MANAGE what you've conquered, too. Sure you don't want to just, you know, quit this whole charade?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_F2_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh, no, 'cause I've put a lot of time into this and I am in it to win it.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_F3_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Let me guess. Thrall contractors? Ugh, that is just pathetic.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_F3_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No. The only thing pathetic here is your pointed, strangely accurate insults. Got you. I got her.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_F4_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Honestly, I don't know why we hired you as a patent clerk. You're hardly fit to clean the FLOORS of the LLC. I might have to dig into your files, dear.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_F5_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Snutchel Crundledumpster.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_G1_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's that LLC reject now. Let's obliterate this maniac so we can have a nice tea.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_G2_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sigh. Another obvious photon discharge pattern. Is it bring your cub to work day?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_G3_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ah, the final stage of attack. Some classics never die, do they? But you will!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_G4_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And kindly don't return, please. Splinter group or not, you are an embarassment to the LLC.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_H_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whaddup, girl! Nice work.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_H_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And a grand “whaddup” to you!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_I_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good show, everyone. Now how many more of these bloody ships are there?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_I_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Three, I think. No, four. Ah, hell, I've lost count.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar06_I_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh... oh my. I need a drink.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_A_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[sing-song] I've got a present for you, Toby! It's your worst nightmare! An evil, more confident version of you!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_A_00020_EvilToby]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hiya, little guy. It's me... NEGA-TOBY!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_A_00030_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="DON'T CALL ME LITTLE GUY!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_A_00040_EvilToby]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh cheer up, Toby. Something YOU built will end up enslaving the last solar system in the universe! You'll go down in history as one of the biggest but littlest and most adorable villains... ever! Oh yeah, and remember when we got caught at Miss Bonaparte's Preparatory Academy for peeing on dry land?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_A_00050_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What? How did you know?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_A_00060_EvilToby]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I know ALL your weaknesses! This is gonna be a HOOT!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_B_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Reyna!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_B_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's not really you, Toby. It's just a trick. Put it out of your mind.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_B_00030_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="But... he knew about the... dry land thing.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_B_00040_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Almost everyone in the entire universe pees on dry land. I wouldn't worry about it.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_B_00050_EvilToby]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey, Toby. I was thinking – if you were smarter, you would have probably designed an anti-theft system for Berg, ya know? Guess it's that tiny penguin brain of yours! Now, don't get mad at me – that's just how biology works. I mean, when was the last time you met a cockroach scientist? Ya know, Toby? Don't worry – Berg's in good hands. Mwahahaha!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_C_00010_EvilToby]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Heya, Toby!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_C_00020_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Leave me alone!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_C_00030_EvilToby]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Aw, don't be like that, Toby. Come on, scream a bunch of stuff! Please? Please, SCREAM A BUNCH OF STUFF! Ohhh, I feel SO ALIVE!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_D_00010_EvilToby]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh Tobyyyy!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_D_00020_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_D_00030_EvilToby]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="When I kill you, don't use your dying breath to apologize, 'kay?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_E_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Reyna... do I really say “sorry” too much?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_E_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You once apologized to me because you thought your beak was being too loud. Beaks don't make a sound, Toby.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_F1_00010_EvilToby]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You can't beat me, Toby. I'm a better version of you, ya know? Remember when you called up Emma McGuire to ask her to the dance, but then you got the answering machine, and you were SO nervous when it beeped that you said, “Hi Toby, it's Emma!” Hi-LARIOUS!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_F2_00010_EvilToby]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I do admire your determination though, my special little guy. But if you really stop to think about it, none of this really matters. Like, when me and Thaddeus take over Solus, you'll probably just be like, “Geez guys, I'm really sorry my mech design was responsible for the end of the universe. My bad!” Ya know? Toby? Right?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_F3_00010_EvilToby]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Honestly, I wish I were a clone of Reyna. At least SHE'S brave. Say, Toby – should we tell the good people why you always follow her around? Because you've got a CRUSH on her! Don't you, Toby?!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_F4_00020_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I AM GOING TO UNMAKE YOU!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_F4_00010_EvilToby]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You made it, Toby! Now come stare into the adorable eyes of your own doom!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_F5_00010_EvilToby]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nega Toby",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_G1_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You know what, evil me?! I might apologize and freak out from time to time, but I've got something you don't!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_G1_00020_EvilToby]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Wow, a revelation. Fun, Toby. Tell ya what: if you and your friends survive, I'll let ya tell me all about it! But if they're like every other friend you've ever had, they sure will die horribly, huh? Hahahaha!\n— What? Too soon?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_G2_00010_EvilToby]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thing is, Toby – if you'd been a better engineer, you PROBABLY would have been able to save more lives along the way, ya know? Gosh, I'm like the personification of your own crippling insecurity! This must be HELL for you!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_G3_00010_EvilToby]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You've gotta realize this is hopeless, right Toby? Even if you beat me, it's only a matter of time before Thaddeus fully unlocks Berg. Remember: no matter what happens, I'm you – and this debilitating self-doubt will never die! NEVER!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_G4_00010_EvilToby]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="See ya in your nightmares, Toby.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_H_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well... I guess all my secrets are out now...",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_H_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All of us are stunned by these revelations.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_I_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey, Reyna?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_I_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah, Toby?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar07_I_00030_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Never mind.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_A_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alright, Toby. We did some opposition research, like you asked.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_A_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What? I didn't authorize this! And I'M the leader of this mission.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_A_00030_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Right, so I thumbed through my little black book of assassination targets, past and future? Basically everyone in existence.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_A_00040_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I pulled Thaddeus's LLC employee records.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_A_00050_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And I read some old letters and got sad!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_A_00060_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Awesome! So what did you find out?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_B_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Bureau of Intergalactic Patent Enforcement for the Ongoing Protection of Intellectual Property... fired our dear Thaddeus on suspicion of patent theft.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_B_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh, for the record it's not stolen if the paperwork isn't in order. Without a paperclip all you've got is a stack of papers that will blow away with the slightest breeze – and in this metaphor, I am that breeze.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_B_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The LLC is going to liquidate you, reanimate you, and then make you into perfume.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_B_00040_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh, not if I do whatever you just said to you first.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_C_00010_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I rooted around in some of the convoy's trash and found a few receipts made out to someone named Hazel Orion.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_C_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You stole my trash, I stole your database of vulnerable production ships. Fair trade. Move on.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_D_00010_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Is that your real name, Thaddeus? Hazel Orion?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_D_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="On the advice of counsel I have no comment at this time.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_E_00010_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So I did some digging on this Hazel Orion, and you won't believe this. He's the Lorrian – a black market kingpin I used to work for! Tobes, what's the matter?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_E_00020_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I might have bought materials from the Lorrian to make my mech suit. Then he tried to kill me.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_E_00030_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I think the word is bingo!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_F1_00010_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You bastard! You only became friends with me so you could gain access to the LLC patent vault!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_F1_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Isn't that what friendship is? Pretending you care about someone so they can unknowingly help you take over the last star in the universe?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_F2_00010_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This bastard paid me a pretty penny to assassinate everyone who suspected that he was the Lorrian! I've been used! Still got the money though.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_F3_00010_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The LLC patent Thaddeus stole was for a security override device that can... oh, dear. “Bypass any defense technology manufactured by the LLC.” We – we might actually be in trouble.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_F3_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You most certainly are.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_F4_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It's time to end this charade once and for all.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_F5_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Dr. Garrius Winglehopper.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_G1_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So big deal, you know my true identify. Now let me tell what I know. It's too late, you can't stop me, and everything I'm doing is perfectly legal – except for some of the murders, but history remembers the winners and you are capital L losers.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_G2_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And b-t-dubs, Tobes, you're half-sized and also half-right. But I didn't JUST help you with your fancy mech suit, which is now mine, but I also helped your super-crush Reyna with her gauntlet.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_G3_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="When the time came, she refused to pay me back. Isn't that right, Reyna? Not so strong now, are you my dear?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_G4_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're too late. I'm taking Solus whether you like it or not.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_H_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Reyna? Reyna... is what he said true? Reyna. REYNA?! ANSWER ME RIGHT NOW!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar08_I_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Toby, I can explain!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_A_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Reyna – how do you know the Lorrian?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_A_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="My home was under attack, and I wasn't strong enough to defend it. So... I went to the Lorrian for help. After the Heliophage, the Lorrian came to collect. He wanted Fortune's Favor and a fleet as payment. I knew he was up to no good, so I went back on our deal. He said the Rogues would be nothing without him, and he's sort of right! He swore he'd make me pay...",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_A_00030_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="HE STOLE BERG BECAUSE OF YOU!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_B_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Why didn't you tell me, Reyna?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_B_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Tell you what? That the leader of the Rogues was a fraud? I'm not like you, Toby – I can't build things. I'm a THIEF – just like the Lorrian, I guess.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_B_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whoa...",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_B_00040_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I know... it's like watching a holo-drama, but with people I was hired to kill.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_B_00050_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I find it inspiring! She betrayed her friend!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_B_00060_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You should have sided with me, Reyna. It's game over, now. For cereal this time.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_C_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I thought you were the bravest person I knew, Reyna. But you're a fraud.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_C_00020_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ouch.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_C_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So disappointing.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_C_00040_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Fraud is such an accurate word!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_D_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Why didn't you tell me you were in trouble? I could've helped you.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_D_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="People saw me as a leader, and leaders don't show weakness.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_E_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Leaders have to show weakness so everyone else knows it's okay to be afraid sometimes! Note to self: inspirational poster idea.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_F1_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Um, personally I'm finding this all very touching, if a tad melodramatic. But if you insist on destroying my ships, I must stop you.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_F2_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Also, and this isn't the hugest deal, but I'm sort of the hero, aren't I? I gave you the tools you needed to beat the Varelsi, so if anyone would like to applaud or clap or whatever please do, please do. Oh, thank you, thank you Thaddeus for saving the solar system. You're the emperor that Solus deserves.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_F3_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Pretty soon there'll be statues of me, and if you just stop destroying my ships maybe I'll have them make a statue of you, too, like, a little one? Just consider it.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_F4_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I have called the statues off.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_F5_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bangle Janglejeans.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_G1_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="But I can't be mad at you, Reyna... because you just wanted to be stronger, and no one gets that more than me.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_G1_00020_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Awwwww! That is so cute!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_G1_00030_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="DON'T SAY CUTE OR I'LL NUKE YOU!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_G1_00040_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh... hello, scary boss battle occurring.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_G2_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You taught me to stand up for myself.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_G2_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I mean, I'm trying to kill you, you know, so pay attention to my lasers and whatnot. You can mend your broken friendships when you're dead.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_G3_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So... I forgive you, Reyna. Now let's trash this guy.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_G3_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm so sorry, Toby. I should've trusted you.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_G3_00030_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I am SO barfing in this mech suit right now from this semi-touching scene, I hope this suit has an auto-cleaner.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_G4_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="From the icy grip of death's frigid fingers, I will end you.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_H_00010_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're a real leader, Toby. I mean that.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_H_00020_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="THAT'S RIGHT, I'M THE BEST! Now let's go kill the Lorrian and GET MY MECH SUIT BACK!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar09_I_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="One more ship. It's been a loooong ride, but thanks for sticking it out! Let's do this!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_A_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Okay! You all know what to do!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_A_00020_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm locking down the ship's hyperspace, and... you know what, the point is that the Lorrian won't be able to escape this time!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_A_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Blocking all frequencies!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_A_00040_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'll kill anyone who tries to escape. And anyone who doesn't if the fee's to my liking!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_A_00050_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alright Rogues, let's —\nNo. Toby – this is your mission now. You say it.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_A_00060_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="WE'RE COMIN', BERG!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_B_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're too late, Toby. I've un-encrypted the final piece of your mech suit, and my army is ready to land. Now I've got something to say.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_B_00020_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I am the Lorrian. I have existed since the dawn of time – practically – and I will rule Solus. I am the bug in your ear. I am the last drop of water. I am, and have always been, the rightful ruler of the universe. 'Kay?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_C_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I will make Rendain look like a party favor, and not the good kind like candy, but the bad kind, like when you get a pencil eraser.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_D_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="My plan is almost complete. Okay? Soon I will exert my dominance over Solus, and all will know my name. Or whatever name I choose cause I had like ten.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_E_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh, Solus will either kneel before me, or die before me, it really doesn't matter, if I'm honest.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_F1_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I am the Lorrian. Without me, you'd be nothing! You hear that, Reyna Valeria and Toby... Penguin... guy?",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_F2_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I will not clean your corpses from my floor but laminate and preserve them, so when kindergarteners tour the historic ship that started my reign they will reach for you with their snot-glazed fingers. Bladow!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_F3_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I am the crusty bits of sleep that annoy you when you wake. I am the silent moth who waits for the moonlight. I am the coffee creamer gone slightly bad but you have no other option and must drink me.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_F4_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I am all things. I am your doom. I am the past. I am your destiny. I am the future. I am the emperor of Solus.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_F5_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Lorrian.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_G1_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I will destroy the Jennerit, the Peacekeepers, the LLC, the Eldrid, the ROGUES! And my reign will be all thanks to you, Toby.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_G2_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Your children's children will polish statues of me as part of unpaid internships!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_G3_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No! It cannot be! I am the Lorrian. I am invincible. I am cold. I am frightened. I am so frightened.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_G4_00010_ShipCaptain]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I am friendless. I have regrets. I am only two hole punches away from a free ice cream. I am... Thaddeus Wishingbone. Ice cream... I want... ice cream... strawberry... please, mother... please.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_H_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We did it!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_H_00020_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You did it, Toby. You did it.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_I_00010_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="BERG! I missed you!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_I_00020_SpiritMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Congrats, Toby! You are now my best and only friend!",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_I_00030_MageBlade]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, that was an ordeal! Congratulations, Toby. You might have a future in the LLC.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_I_00040_CornerSneaker]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Later, Tobes. Next time I see ya, I'm gonna kill ya. Just kidding, mate.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_I_00050_RogueCommander]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, Toby. Anything to say? Permission to shout.",Time=0)
+
+[Poplar_VO_DLC_TobyRaid_Nar10_I_00060_PenguinMech]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thank you, thank you, THANK YOU, THANK YOU!",Time=0)

@@ -1,0 +1,98 @@
+{
+    "classes": 30,
+    "buffs": 692,
+    "skills": 193,
+    "weapons": 50,
+    "resources": 115,
+    "attributes": 1310,
+    "changes": 1,
+    "diffs": [
+        {
+            "status": "changed",
+            "type": "attributes",
+            "id": 1822811796,
+            "source": "GD_LeapingLuchador_Skills.Balance.Init_LeapingLuchador_Passive_DamageReduction",
+            "name": "GD_LeapingLuchador_Skills.Balance.Init_LeapingLuchador_Passive_DamageReduction",
+            "changes": {
+                "conditionalFormula": {
+                    "old": {
+                        "conditional": true,
+                        "enabled": true,
+                        "default": 0,
+                        "expressionList": [
+                            {
+                                "value": {
+                                    "value": 0,
+                                    "attr": 3342361862,
+                                    "formula": 3364473910,
+                                    "scale": 1
+                                },
+                                "expressions": [
+                                    {
+                                        "operand1": {
+                                            "buff": 4190985158
+                                        },
+                                        "operand2": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "value": {
+                                    "value": 0,
+                                    "attr": 3342361862,
+                                    "scale": 1
+                                },
+                                "expressions": [
+                                    {
+                                        "operand1": {
+                                            "buff": 4190985158
+                                        },
+                                        "operand2": 1
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "new": {
+                        "conditional": true,
+                        "enabled": true,
+                        "default": 0,
+                        "expressionList": [
+                            {
+                                "value": {
+                                    "value": 0,
+                                    "attr": 3342361862,
+                                    "formula": 3364473910,
+                                    "scale": 1
+                                },
+                                "expressions": [
+                                    {
+                                        "operand1": {
+                                            "buff": 4190985158
+                                        },
+                                        "operand2": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "value": {
+                                    "value": 0,
+                                    "attr": 3342361862,
+                                    "scale": 1
+                                },
+                                "expressions": [
+                                    {
+                                        "operand1": {
+                                            "buff": 4190985158
+                                        },
+                                        "operand2": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

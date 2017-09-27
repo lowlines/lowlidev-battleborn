@@ -1,0 +1,1336 @@
+[
+    {
+        "id": "Abomination_MetaTitle",
+        "name": "Abomination",
+        "icon": "MetaTitles_I32",
+        "unlock": "Any Deed: Play as a Jennerit character 50 times.",
+        "description": "Any Deed: Play as a Jennerit character 50 times."
+    },
+    {
+        "id": "Admiral_MetaTitle",
+        "name": "Admiral",
+        "icon": "MetaTitles_I14",
+        "unlock": "The United Peacekeeping Republics: Play as a Peacekeeper character 250 times.",
+        "description": "The United Peacekeeping Republics: Play as a Peacekeeper character 250 times."
+    },
+    {
+        "id": "Aggressor_MetaTitle",
+        "name": "Aggressor",
+        "icon": "MetaTitles_I16E",
+        "unlock": "Born for Battle: Win a Versus match.",
+        "description": "Born for Battle: Win a Versus match."
+    },
+    {
+        "id": "AllAClone_MetaTitle",
+        "name": "All A Clone",
+        "icon": "MetaTitles_ID4",
+        "unlock": "RDC-OM83-1101: Win 10 games as Oscar Mike.",
+        "description": "RDC-OM83-1101: Win 10 games as Oscar Mike."
+    },
+    {
+        "id": "AlwaysLate_MetaTitle",
+        "name": "Always Late",
+        "icon": "MetaTitles_I14A",
+        "unlock": "Tactical Support: Assist in killing 10,000 Battleborn.",
+        "description": "Tactical Support: Assist in killing 10,000 Battleborn."
+    },
+    {
+        "id": "AngelOfDeath_MetaTitle",
+        "name": "Angel of Death",
+        "icon": "MetaTitles_I16A",
+        "unlock": "Hunt them Down: Kill 10,000 Battleborn.",
+        "description": "Hunt them Down: Kill 10,000 Battleborn."
+    },
+    {
+        "id": "Angel_MetaTitle",
+        "name": "Angel",
+        "icon": "MetaTitles_IC6",
+        "unlock": "Tactical Support: Assist in killing 500 Battleborn.",
+        "description": "Tactical Support: Assist in killing 2000 Battleborn."
+    },
+    {
+        "id": "Archon_MetaTitle",
+        "name": "Archon",
+        "icon": "MetaTitles_I4E",
+        "unlock": "Observing the End: Play as an Eldrid character 250 times.",
+        "description": "Observing the End: Play as an Eldrid character 250 times."
+    },
+    {
+        "id": "Aspirant_MetaTitle",
+        "name": "Aspirant",
+        "icon": "MetaTitles_I2C",
+        "unlock": "Any Price: Win as a Jennerit character once.",
+        "description": "Any Price: Win as a Jennerit character once."
+    },
+    {
+        "id": "Assassin_MetaTitle",
+        "name": "Assassin",
+        "icon": "MetaTitles_I166",
+        "unlock": "Hunt them Down: Kill 50 Battleborn.",
+        "description": "Hunt them Down: Kill 50 Battleborn."
+    },
+    {
+        "id": "Astromancer_MetaTitle",
+        "name": "Astromancer",
+        "icon": "MetaTitles_I4A",
+        "unlock": "Observing the End: Play as an Eldrid character 100 times.",
+        "description": "Observing the End: Play as an Eldrid character 100 times."
+    },
+    {
+        "id": "BadaBadaBoom_MetaTitle",
+        "name": "BADA BADA BOOOOM",
+        "icon": "MetaTitles_I11A",
+        "unlock": "Unleash Hell: In a single match, kill 12 Battleborn with your Ultimate skill.",
+        "description": "Unleash Hell: In a single match, kill 12 Battleborn with your Ultimate skill."
+    },
+    {
+        "id": "Bandit_MetaTitle",
+        "name": "Bandit",
+        "icon": "MetaTitles_I54",
+        "unlock": "Free Peoples of Solus: Win as a Rogue character once.",
+        "description": "Free Peoples of Solus: Win as a Rogue character once."
+    },
+    {
+        "id": "Battleborn_MetaTitle",
+        "name": "Battleborn",
+        "icon": "MetaTitles_I164",
+        "unlock": "Reach Command Rank 100.",
+        "description": "You are a true Battleborn."
+    },
+    {
+        "id": "Blackguard_MetaTitle",
+        "name": "Blackguard",
+        "icon": "MetaTitles_I182",
+        "unlock": "Reach Character Rank 2 with Galilea.",
+        "description": "Reach Character Rank 2 with Galilea."
+    },
+    {
+        "id": "BornForBattle_MetaTitle",
+        "name": "Born for Battle",
+        "icon": "MetaTitles_I164",
+        "unlock": "Reach Command Rank 50.",
+        "description": "You show promise."
+    },
+    {
+        "id": "Botanist_MetaTitle",
+        "name": "Botanist",
+        "icon": "MetaTitles_I40",
+        "unlock": "Preserving the Future: Win as an Eldrid character once.",
+        "description": "Preserving the Future: Win as an Eldrid character once."
+    },
+    {
+        "id": "Broken_MetaTitle",
+        "name": "Broken",
+        "icon": "MetaTitles_I12E",
+        "unlock": "Streakbreaker: Break 25 enemy killstreaks.",
+        "description": "Streakbreaker: Break 25 enemy killstreaks."
+    },
+    {
+        "id": "CaptainAmazing_MetaTitle",
+        "name": "Captain Amazing",
+        "icon": "MetaTitles_IE4",
+        "unlock": "Rockets on Rockets on Rockets: Win 10 games as Benedict.",
+        "description": "Rockets on Rockets on Rockets: Win 10 games as Benedict."
+    },
+    {
+        "id": "Captain_MetaTitle",
+        "name": "Captain",
+        "icon": "MetaTitles_IC",
+        "unlock": "The United Peacekeeping Republics: Play as a Peacekeeper character 50 times.",
+        "description": "The United Peacekeeping Republics: Play as a Peacekeeper character 200 times."
+    },
+    {
+        "id": "ChairBrained_MetaTitle",
+        "name": "Chair Brained",
+        "icon": "MetaTitles_I178",
+        "unlock": "BATTLETHROOOOOOONE: Win 10 games as Kleese.",
+        "description": "BATTLETHROOOOOOONE: Win 10 games as Kleese."
+    },
+    {
+        "id": "ChaoticEvil_MetaTitle",
+        "name": "CHAOTIC EVIL",
+        "icon": "MetaTitles_I104",
+        "unlock": "Varimorphic Victory: Win 10 games as Orendi.",
+        "description": "Varimorphic Victory: Win 10 games as Orendi."
+    },
+    {
+        "id": "ColdOrSwarm_MetaTitle",
+        "name": "Cold or Swarm",
+        "icon": "MetaTitles_I17E",
+        "unlock": "Reach Character Rank 2 with Kelvin.",
+        "description": "Reach Character Rank 2 with Kelvin."
+    },
+    {
+        "id": "Colonel_MetaTitle",
+        "name": "Colonel",
+        "icon": "MetaTitles_I10",
+        "unlock": "The United Peacekeeping Republics: Play as a Peacekeeper character 100 times.",
+        "description": "The United Peacekeeping Republics: Play as a Peacekeeper character 100 times."
+    },
+    {
+        "id": "Comptroller_MetaTitle",
+        "name": "Comptroller",
+        "icon": "MetaTitles_I1E",
+        "unlock": "Investing in the Future: Play as a LLC character 50 times.",
+        "description": "Investing in the Future: Play as a LLC character 50 times."
+    },
+    {
+        "id": "Coopetition_MetaTitle",
+        "name": "Coopetition",
+        "icon": "MetaTitles_I15C",
+        "unlock": "By a Landslide: In a single match, achieve 60 Battleborn kills as a team.",
+        "description": "By a Landslide: In a single match, achieve 60 Battleborn kills as a team."
+    },
+    {
+        "id": "Count_MetaTitle",
+        "name": "Count",
+        "icon": "MetaTitles_I20",
+        "unlock": "Projected Outcome: Profit!: Win as a LLC character 25 times.",
+        "description": "Projected Outcome: Profit!: Win as a LLC character 100 times."
+    },
+    {
+        "id": "DarknessIncarnate_MetaTitle",
+        "name": "Darkness Incarnate",
+        "icon": "MetaTitles_IBA",
+        "unlock": "The Wraith Slayer: Kill 500 Varelsi.",
+        "description": "The Wraith Slayer: Kill 500 Varelsi."
+    },
+    {
+        "id": "DaughterOfSolus_MetaTitle",
+        "name": "Daughter of Solus",
+        "icon": "MetaTitles_I110",
+        "unlock": "Rogue Leader: Win 10 games as Reyna.",
+        "description": "Rogue Leader: Win 10 games as Reyna."
+    },
+    {
+        "id": "Deathbringer_MetaTitle",
+        "name": "Deathbringer",
+        "icon": "MetaTitles_I194",
+        "unlock": "Reach Character Rank 2 with Thorn.",
+        "description": "Reach Character Rank 2 with Thorn."
+    },
+    {
+        "id": "Destroyer_MetaTitle",
+        "name": "Destroyer",
+        "icon": "MetaTitles_I118",
+        "unlock": "Born for Battle: Win 50 Versus matches.",
+        "description": "Born for Battle: Win 50 Versus matches."
+    },
+    {
+        "id": "DevMetaTitle",
+        "name": "Gearbox Dev",
+        "icon": "MetaTitles_GearboxDev",
+        "unlock": "Gearbox Dev",
+        "description": "Gearbox Dev",
+        "hidden": true
+    },
+    {
+        "id": "Duke_MetaTitle",
+        "name": "Duke",
+        "icon": "MetaTitles_I22",
+        "unlock": "Investing in the Future: Play as an LLC character 100 times.",
+        "description": "Investing in the Future: Play as an LLC character 400 times."
+    },
+    {
+        "id": "Elite_MetaTitle",
+        "name": "Elite",
+        "icon": "MetaTitles_I66",
+        "unlock": "Digital Deluxe Exclusive",
+        "description": "Digital Deluxe Exclusive",
+        "hidden": true
+    },
+    {
+        "id": "EndlessAgeless_MetaTitle",
+        "name": "Endless, Ageless",
+        "icon": "MetaTitles_I18E",
+        "unlock": "Reach Character Rank 2 with Miko.",
+        "description": "Reach Character Rank 2 with Miko."
+    },
+    {
+        "id": "Enthralled_MetaTitle",
+        "name": "Enthralled",
+        "icon": "MetaTitles_I176",
+        "unlock": "Enthralled: In Incursion, capture the Outcast Thrall capture pad, 25 times.",
+        "description": "Enthralled: In Incursion, capture the Outcast Thrall capture pad, 25 times."
+    },
+    {
+        "id": "EntropyIsBliss_MetaTitle",
+        "name": "Entropy is Bliss",
+        "icon": "MetaTitles_IAE",
+        "unlock": "I Killed Everyone! :D: Win 10 games as ISIC.",
+        "description": "I Killed Everyone! :D: Win 10 games as ISIC."
+    },
+    {
+        "id": "EvOLVEd_MetaTitle",
+        "name": "EvOLVEd",
+        "icon": "MetaTitles_IB2",
+        "unlock": "Fist of the Thrall: Win 10 games as Attikus.",
+        "description": "Fist of the Thrall: Win 10 games as Attikus."
+    },
+    {
+        "id": "ExCeo_MetaTitle",
+        "name": "Ex-CEO",
+        "icon": "MetaTitles_I96",
+        "unlock": "Reach Character Rank 2 with ISIC.",
+        "description": "Reach Character Rank 2 with ISIC."
+    },
+    {
+        "id": "Exterminator_MetaTitle",
+        "name": "Exterminator",
+        "icon": "MetaTitles_IEE",
+        "unlock": "Widow of Opporunity: In Incursion, destroy a Sentry without taking damage, 25 times.",
+        "description": "Widow of Opporunity: In Incursion, destroy a Sentry without taking damage, 25 times."
+    },
+    {
+        "id": "FanOfTheEmpire_MetaTitle",
+        "name": "Fan of the Empire",
+        "icon": "MetaTitles_I184",
+        "unlock": "Reach Character Rank 2 with Deande.",
+        "description": "Reach Character Rank 2 with Deande."
+    },
+    {
+        "id": "FighHives_MetaTitle",
+        "name": "Figh Hives",
+        "icon": "MetaTitles_I1A2",
+        "unlock": "Tic Attack: Kill 50 Swarmers.",
+        "description": "Tic Attack: Kill 50 Swarmers."
+    },
+    {
+        "id": "FirstAmongBattleborn_MetaTitle",
+        "name": "First Among Battleborn",
+        "icon": "MetaTitles_I180",
+        "unlock": "Reach Character Rank 2 with Ghalt.",
+        "description": "Reach Character Rank 2 with Ghalt."
+    },
+    {
+        "id": "FirstOfTheLastStar_MetaTitle",
+        "name": "First of the Last Star",
+        "icon": "MetaTitles_I156",
+        "unlock": "First Blood: Be the first to kill an enemy Battleborn in a match, 250 times.",
+        "description": "First Blood: Be the first to kill an enemy Battleborn in a match, 250 times."
+    },
+    {
+        "id": "First_MetaTitle",
+        "name": "First",
+        "icon": "MetaTitles_I14C",
+        "unlock": "First Blood: Be the first to kill an enemy Battleborn in a match.",
+        "description": "First Blood: Be the first to kill an enemy Battleborn in a match."
+    },
+    {
+        "id": "Firstborn_MetaTitle",
+        "name": "Firstborn",
+        "icon": "MetaTitles_I6A",
+        "unlock": "Pre-order Exclusive",
+        "description": "Title granted to those who pre-ordered Battleborn",
+        "hidden": true
+    },
+    {
+        "id": "FoursSensitive_MetaTitle",
+        "name": "Fours Sensitive",
+        "icon": "MetaTitles_I160",
+        "unlock": "Four on the Floor: Get 20 Quad Kills in Versus.",
+        "description": "Four on the Floor: Get 20 Quad Kills in Versus."
+    },
+    {
+        "id": "FriendToAll_MetaTitle",
+        "name": "Friend to All",
+        "icon": "MetaTitles_ID2",
+        "unlock": "Fresh Out of Bubble Gum: Win 10 games as Montana.",
+        "description": "Fresh Out of Bubble Gum: Win 10 games as Montana."
+    },
+    {
+        "id": "FullOfStars_MetaTitle",
+        "name": "Full of Stars",
+        "icon": "MetaTitles_IFC",
+        "unlock": "Grossly Incandescent: Win 10 games as Ambra.",
+        "description": "Grossly Incandescent: Win 10 games as Ambra."
+    },
+    {
+        "id": "GalacticChampion_MetaTitle",
+        "name": "Galactic Champion",
+        "icon": "MetaTitles_I186",
+        "unlock": "Reach Character Rank 2 with El Drag\u00f3n.",
+        "description": "Reach Character Rank 2 with El Drag\u00f3n."
+    },
+    {
+        "id": "General_MetaTitle",
+        "name": "General",
+        "icon": "MetaTitles_I12",
+        "unlock": "Defender of the Week: Win as a Peacekeeper Battleborn 50 times.",
+        "description": "Defender of the Week: Win as a Peacekeeper Battleborn 50 times."
+    },
+    {
+        "id": "GentlemanRobotSniper_MetaTitle",
+        "name": "Gentleman, Robot, Sniper",
+        "icon": "MetaTitles_IB4",
+        "unlock": "Reach Character Rank 2 with Marquis.",
+        "description": "Reach Character Rank 2 with Marquis."
+    },
+    {
+        "id": "Gladiator_MetaTitle",
+        "name": "Gladiator",
+        "icon": "MetaTitles_I2E",
+        "unlock": "Any Deed: Play as a Jennerit Battleborn 25 times.",
+        "description": "Any Deed: Play as a Jennerit Battleborn 25 times."
+    },
+    {
+        "id": "HalfAndHalf_MetaTitle",
+        "name": "Half-and-Half",
+        "icon": "MetaTitles_I92",
+        "unlock": "Reach Character Rank 2 with Mellka.",
+        "description": "Reach Character Rank 2 with Mellka."
+    },
+    {
+        "id": "Heliophage_MetaTitle",
+        "name": "Heliophage",
+        "icon": "MetaTitles_I3A",
+        "unlock": "Any Deed: Play as a Jennerit Battleborn 250 times.",
+        "description": "Any Deed: Play as a Jennerit Battleborn 250 times."
+    },
+    {
+        "id": "HelpingHand_MetaTitle",
+        "name": "Helping Hand",
+        "icon": "MetaTitles_I13E",
+        "unlock": "Tactical Support: Assist in killing 100 Battleborn.",
+        "description": "Tactical Support: Assist in killing 100 Battleborn."
+    },
+    {
+        "id": "HighCommander_MetaTitle",
+        "name": "High Commander",
+        "icon": "MetaTitles_I1",
+        "unlock": "Defender of the Week: Win as a Peacekeeper Battleborn 100 times.",
+        "description": "Defender of the Week: Win as a Peacekeeper Battleborn 100 times."
+    },
+    {
+        "id": "HoboRemover_MetaTitle",
+        "name": "Hobo Remover",
+        "icon": "MetaTitles_ID8",
+        "unlock": "Capital Gains: Win 10 games as Marquis.",
+        "description": "Capital Gains: Win 10 games as Marquis."
+    },
+    {
+        "id": "Hobo_MetaTitle",
+        "name": "Hobo",
+        "icon": "MetaTitles_I16",
+        "unlock": "Investing in the Future: Play as a LLC Battleborn.",
+        "description": "Investing in the Future: Play as a LLC Battleborn."
+    },
+    {
+        "id": "HumanCyborgLiason_MetaTitle",
+        "name": "Human Cyborg Liaison",
+        "icon": "MetaTitles_I98",
+        "unlock": "Reach Character Rank 2 with Kleese.",
+        "description": "Reach Character Rank 2 with Kleese."
+    },
+    {
+        "id": "IceWhole_MetaTitle",
+        "name": "Ice Whole",
+        "icon": "MetaTitles_I130",
+        "unlock": "Insert Ice Pun Here: Win 10 games as Kelvin.",
+        "description": "Insert Ice Pun Here: Win 10 games as Kelvin."
+    },
+    {
+        "id": "ImperiumScum_MetaTitle",
+        "name": "Imperium Scum",
+        "icon": "MetaTitles_IC4",
+        "unlock": "Enemy of the Imperium: Kill 500 Jennerit Imperium Troops.",
+        "description": "Enemy of the Imperium: Kill 500 Jennerit Imperium Troops."
+    },
+    {
+        "id": "Inquisitor_MetaTitle",
+        "name": "Inquisitor",
+        "icon": "MetaTitles_I36",
+        "unlock": "Any Deed: Play as a Jennerit Battleborn 100 times.",
+        "description": "Any Deed: Play as a Jennerit Battleborn 100 times."
+    },
+    {
+        "id": "Insurgent_MetaTitle",
+        "name": "Insurgent",
+        "icon": "MetaTitles_I100",
+        "unlock": "Speedy Delivery: Build 1,000 Accelerators.",
+        "description": "Speedy Delivery: Build 1,000 Accelerators."
+    },
+    {
+        "id": "KeeperOfTheBlade_MetaTitle",
+        "name": "Keeper of the Blade",
+        "icon": "MetaTitles_I190",
+        "unlock": "Reach Character Rank 2 with Rath.",
+        "description": "Reach Character Rank 2 with Rath."
+    },
+    {
+        "id": "KitchenOfSync_MetaTitle",
+        "name": "Kitchen of Sync",
+        "icon": "MetaTitles_I12A",
+        "unlock": "Hostile Takeover: Resecure two collectors from the enemy within 5 seconds of each other during a Capture match, 10 times.",
+        "description": "Hostile Takeover: Resecure two collectors from the enemy within 5 seconds of each other during a Capture match, 10 times."
+    },
+    {
+        "id": "Landlord_MetaTitle",
+        "name": "Landlord",
+        "icon": "MetaTitles_I142",
+        "unlock": "Dominate This: Win 25 matches of Capture.",
+        "description": "Dominate This: Win 25 matches of Capture."
+    },
+    {
+        "id": "LastChildOfEshteni_MetaTitle",
+        "name": "Last Child of Eshteni",
+        "icon": "MetaTitles_IDE",
+        "unlock": "An Arrow for Every Head: Win 10 games as Thorn.",
+        "description": "An Arrow for Every Head: Win 10 games as Thorn."
+    },
+    {
+        "id": "Legend_MetaTitle",
+        "name": "Legend",
+        "icon": "MetaTitles_I64",
+        "unlock": "Free Peoples of Solus: Win as a Rogue Battleborn 100 times.",
+        "description": "Free Peoples of Solus: Win as a Rogue Battleborn 100 times."
+    },
+    {
+        "id": "Lieutenant_MetaTitle",
+        "name": "Lieutenant",
+        "icon": "MetaTitles_IA",
+        "unlock": "Defender of the Week: Win as a Peacekeeper Battleborn 10 times.",
+        "description": "Defender of the Week: Win as a Peacekeeper Battleborn 10 times."
+    },
+    {
+        "id": "LilRecycler_MetaTitle",
+        "name": "Lil' Recycler",
+        "icon": "MetaTitles_IBC",
+        "unlock": "Li'l Recycler's Badge: Win 25 matches of Meltdown.",
+        "description": "Li'l Recycler's Badge: Win 25 matches of Meltdown."
+    },
+    {
+        "id": "LittleBuddy_MetaTitle",
+        "name": "Little Buddy",
+        "icon": "MetaTitles_IA2",
+        "unlock": "Welcoming Committee: Build 50 Stinger Turrets.",
+        "description": "Welcoming Committee: Build 50 Stinger Turrets."
+    },
+    {
+        "id": "Luchadorable_MetaTitle",
+        "name": "Luchadorable",
+        "icon": "MetaTitles_I174",
+        "unlock": "Cosmic Champion: Win 10 games as El Drag\u00f3n.",
+        "description": "Cosmic Champion: Win 10 games as El Drag\u00f3n."
+    },
+    {
+        "id": "LumberjackGo_MetaTitle",
+        "name": "Lumberjack GO!",
+        "icon": "MetaTitles_I192",
+        "unlock": "Reach Character Rank 2 with Montana.",
+        "description": "Reach Character Rank 2 with Montana."
+    },
+    {
+        "id": "Machinist_MetaTitle",
+        "name": "Machinist",
+        "icon": "MetaTitles_I18",
+        "unlock": "Projected Outcome: Profit!: Win as a LLC Battleborn.",
+        "description": "Projected Outcome: Profit!: Win as a LLC Battleborn."
+    },
+    {
+        "id": "Mageblade_MetaTitle",
+        "name": "Mage Blade",
+        "icon": "MetaTitles_I17A",
+        "unlock": "Reach Character Rank 2 with Phoebe.",
+        "description": "Reach Character Rank 2 with Phoebe."
+    },
+    {
+        "id": "Major_MetaTitle",
+        "name": "Major",
+        "icon": "MetaTitles_IE",
+        "unlock": "Defender of the Week: Win as a Peacekeeper Battleborn 25 times.",
+        "description": "Defender of the Week: Win as a Peacekeeper Battleborn 25 times."
+    },
+    {
+        "id": "MasterOfAmbra_MetaTitle",
+        "name": "Master of Ambra",
+        "icon": "MetaTitles_I6C",
+        "unlock": "Master of Ambra: Complete all Ambra lore challenges and complete a match as Ambra at character rank 15.",
+        "description": "Master of Ambra: Complete all Ambra lore challenges and complete a match as Ambra at character rank 15."
+    },
+    {
+        "id": "MasterOfAttikus_MetaTitle",
+        "name": "Master of Attikus",
+        "icon": "MetaTitles_I6E",
+        "unlock": "Master of Attikus: Complete all Attikus lore challenges and complete a match as Attikus at character rank 15.",
+        "description": "Master of Attikus: Complete all Attikus lore challenges and complete a match as Attikus at character rank 15."
+    },
+    {
+        "id": "MasterOfBenedict_MetaTitle",
+        "name": "Master of Benedict",
+        "icon": "MetaTitles_I70",
+        "unlock": "Master of Benedict: Complete all Benedict lore challenges and complete a match as Benedict at character rank 15.",
+        "description": "Master of Benedict: Complete all Benedict lore challenges and complete a match as Benedict at character rank 15."
+    },
+    {
+        "id": "MasterOfBoldur_MetaTitle",
+        "name": "Master of Boldur",
+        "icon": "MetaTitles_I72",
+        "unlock": "Master of Boldur: Complete all Boldur lore challenges and complete a match as Boldur at character rank 15.",
+        "description": "Master of Boldur: Complete all Boldur lore challenges and complete a match as Boldur at character rank 15."
+    },
+    {
+        "id": "MasterOfCaldarius_MetaTitle",
+        "name": "Master of Caldarius",
+        "icon": "MetaTitles_I74",
+        "unlock": "Master of Caldarius: Complete all Caldarius lore challenges and complete a match as Caldarius at character rank 15.",
+        "description": "Master of Caldarius: Complete all Caldarius lore challenges and complete a match as Caldarius at character rank 15."
+    },
+    {
+        "id": "MasterOfDeande_MetaTitle",
+        "name": "Master of Deande",
+        "icon": "MetaTitles_I76",
+        "unlock": "Master of Deande: Complete all Deande lore challenges and complete a match as Deande at character rank 15.",
+        "description": "Master of Deande: Complete all Deande lore challenges and complete a match as Deande at character rank 15."
+    },
+    {
+        "id": "MasterOfElDragon_MetaTitle",
+        "name": "Master of El Drag\u00f3n",
+        "icon": "MetaTitles_I78",
+        "unlock": "Master of El Drag\u00f3n: Complete all El Drag\u00f3n lore challenges and complete a match as El Drag\u00f3n at character rank 15.",
+        "description": "Master of El Drag\u00f3n: Complete all El Drag\u00f3n lore challenges and complete a match as El Drag\u00f3n at character rank 15."
+    },
+    {
+        "id": "MasterOfGalilea_MetaTitle",
+        "name": "Master of Galilea",
+        "icon": "MetaTitles_I19A",
+        "unlock": "Master of Galilea: Complete all Galilea lore challenges and complete a match as Galilea at character rank 15.",
+        "description": "Master of Galilea: Complete all Galilea lore challenges and complete a match as Galilea at character rank 15."
+    },
+    {
+        "id": "MasterOfGhalt_MetaTitle",
+        "name": "Master of Ghalt",
+        "icon": "MetaTitles_I7A",
+        "unlock": "Master of Ghalt: Complete all Ghalt lore challenges and complete a match as Ghalt at character rank 15.",
+        "description": "Master of Ghalt: Complete all Ghalt lore challenges and complete a match as Ghalt at character rank 15."
+    },
+    {
+        "id": "MasterOfIsic_MetaTitle",
+        "name": "Master of ISIC",
+        "icon": "MetaTitles_I19E",
+        "unlock": "Master of ISIC: Complete all ISIC lore challenges and complete a match as ISIC at character rank 15.",
+        "description": "Master of ISIC: Complete all ISIC lore challenges and complete a match as ISIC at character rank 15."
+    },
+    {
+        "id": "MasterOfKelvin_MetaTitle",
+        "name": "Master of Kelvin",
+        "icon": "MetaTitles_I7C",
+        "unlock": "Master of Kelvin: Complete all Kelvin lore challenges and complete a match as Kelvin at character rank 15.",
+        "description": "Master of Kelvin: Complete all Kelvin lore challenges and complete a match as Kelvin at character rank 15."
+    },
+    {
+        "id": "MasterOfKleese_MetaTitle",
+        "name": "Master of Kleese",
+        "icon": "MetaTitles_I19C",
+        "unlock": "Master of Kleese: Complete all Kleese lore challenges and complete a match as Kleese at character rank 15.",
+        "description": "Master of Kleese: Complete all Kleese lore challenges and complete a match as Kleese at character rank 15."
+    },
+    {
+        "id": "MasterOfMarquis_MetaTitle",
+        "name": "Master of Marquis",
+        "icon": "MetaTitles_I90",
+        "unlock": "Master of Marquis: Complete all Marquis lore challenges and complete a match as Marquis at character rank 15.",
+        "description": "Master of Marquis: Complete all Marquis lore challenges and complete a match as Marquis at character rank 15."
+    },
+    {
+        "id": "MasterOfMellka_MetaTitle",
+        "name": "Master of Mellka",
+        "icon": "MetaTitles_I8E",
+        "unlock": "Master of Mellka: Complete all Mellka lore challenges and complete a match as Mellka at character rank 15.",
+        "description": "Master of Mellka: Complete all Mellka lore challenges and complete a match as Mellka at character rank 15."
+    },
+    {
+        "id": "MasterOfMiko_MetaTitle",
+        "name": "Master of Miko",
+        "icon": "MetaTitles_I8C",
+        "unlock": "Master of Miko: Complete all Miko lore challenges and complete a match as Miko at character rank 15.",
+        "description": "Master of Miko: Complete all Miko lore challenges and complete a match as Miko at character rank 15."
+    },
+    {
+        "id": "MasterOfMinions_MetaTitle",
+        "name": "Master of Minions",
+        "icon": "MetaTitles_I120",
+        "unlock": "Minion Mayhem: Kill 1000 Blade Bots, Gun Bots, or Boom Bots.",
+        "description": "Minion Mayhem: Kill 1000 Blade Bots, Gun Bots, or Boom Bots."
+    },
+    {
+        "id": "MasterOfMontana_MetaTitle",
+        "name": "Master of Montana",
+        "icon": "MetaTitles_I8A",
+        "unlock": "Master of Montana: Complete all Montana lore challenges and complete a match as Montana at character rank 15.",
+        "description": "Master of Montana: Complete all Montana lore challenges and complete a match as Montana at character rank 15."
+    },
+    {
+        "id": "MasterOfOrendi_MetaTitle",
+        "name": "Master of Orendi",
+        "icon": "MetaTitles_I86",
+        "unlock": "Master of Orendi: Complete all Orendi lore challenges and complete a match as Orendi at character rank 15.",
+        "description": "Master of Orendi: Complete all Orendi lore challenges and complete a match as Orendi at character rank 15."
+    },
+    {
+        "id": "MasterOfOscarMike_MetaTitle",
+        "name": "Master of Oscar Mike",
+        "icon": "MetaTitles_I84",
+        "unlock": "Master of Oscar Mike: Complete all Oscar Mike lore challenges and complete a match as Oscar Mike at character rank 15.",
+        "description": "Master of Oscar Mike: Complete all Oscar Mike lore challenges and complete a match as Oscar Mike at character rank 15."
+    },
+    {
+        "id": "MasterOfPhoebe_MetaTitle",
+        "name": "Master of Phoebe",
+        "icon": "MetaTitles_I82",
+        "unlock": "Master of Phoebe: Complete all Phoebe lore challenges and complete a match as Phoebe at character rank 15.",
+        "description": "Master of Phoebe: Complete all Phoebe lore challenges and complete a match as Phoebe at character rank 15."
+    },
+    {
+        "id": "MasterOfRath_MetaTitle",
+        "name": "Master of Rath",
+        "icon": "MetaTitles_I1A0",
+        "unlock": "Master of Rath: Complete all Rath lore challenges and complete a match as Rath at character rank 15.",
+        "description": "Master of Rath: Complete all Rath lore challenges and complete a match as Rath at character rank 15."
+    },
+    {
+        "id": "MasterOfReyna_MetaTitle",
+        "name": "Master of Reyna",
+        "icon": "MetaTitles_I80",
+        "unlock": "Master of Reyna: Complete all Reyna lore challenges and complete a match as Reyna at character rank 15.",
+        "description": "Master of Reyna: Complete all Reyna lore challenges and complete a match as Reyna at character rank 15."
+    },
+    {
+        "id": "MasterOfShayneAndAurox_MetaTitle",
+        "name": "Master of Shayne & Aurox",
+        "icon": "MetaTitles_I198",
+        "unlock": "Master of Shayne & Aurox: Complete all Shayne & Aurox lore challenges and complete a match as Shayne & Aurox at character rank 15.",
+        "description": "Master of Shayne & Aurox: Complete all Shayne & Aurox lore challenges and complete a match as Shayne & Aurox at character rank 15."
+    },
+    {
+        "id": "MasterOfSpies_MetaTitle",
+        "name": "Master of Spies",
+        "icon": "MetaTitles_IFE",
+        "unlock": "The Blade at Your Back: Win 10 games as Deande.",
+        "description": "The Blade at Your Back: Win 10 games as Deande."
+    },
+    {
+        "id": "MasterOfThorn_MetaTitle",
+        "name": "Master of Thorn",
+        "icon": "MetaTitles_I88",
+        "unlock": "Master of Thorn: Complete all Thorn lore challenges and complete a match as Thorn at character rank 15.",
+        "description": "Master of Thorn: Complete all Thorn lore challenges and complete a match as Thorn at character rank 15."
+    },
+    {
+        "id": "MasterOfToby_MetaTitle",
+        "name": "Master of Toby",
+        "icon": "MetaTitles_I7E",
+        "unlock": "Master of Toby: Complete all Toby lore challenges and complete a match as Toby at character rank 15.",
+        "description": "Master of Toby: Complete all Toby lore challenges and complete a match as Toby at character rank 15."
+    },
+    {
+        "id": "MasterOfWhiskeyFoxtrot_MetaTitle",
+        "name": "Master of Whiskey Foxtrot",
+        "icon": "MetaTitles_I196",
+        "unlock": "Master of Whiskey Foxtrot: Complete all Whiskey Foxtrot lore challenges and complete a match as Whiskey Foxtrot at character rank 15.",
+        "description": "Master of Whiskey Foxtrot: Complete all Whiskey Foxtrot lore challenges and complete a match as Whiskey Foxtrot at character rank 15."
+    },
+    {
+        "id": "MedicinalUseOnly_MetaTitle",
+        "name": "MEDICINAL USE ONLY",
+        "icon": "MetaTitles_I112",
+        "unlock": "Tactical Support: Assist in killing 20,000 Battleborn.",
+        "description": "Tactical Support: Assist in killing 20,000 Battleborn."
+    },
+    {
+        "id": "Mercenary_MetaTitle",
+        "name": "Mercenary",
+        "icon": "MetaTitles_I9A",
+        "unlock": "Reach Character Rank 2 with Whiskey Foxtrot.",
+        "description": "Reach Character Rank 2 with Whiskey Foxtrot."
+    },
+    {
+        "id": "MikeCheck_MetaTitle",
+        "name": "Mike Check",
+        "icon": "MetaTitles_I9C",
+        "unlock": "Reach Character Rank 2 with Oscar Mike.",
+        "description": "Reach Character Rank 2 with Oscar Mike."
+    },
+    {
+        "id": "MiniMinrec_MetaTitle",
+        "name": "Mini Minrec",
+        "icon": "MetaTitles_I15A",
+        "unlock": "The Angel of Robot Death: Win 10 Meltdown matches with the most Minions kills.",
+        "description": "The Angel of Robot Death: Win 10 Meltdown matches with the most Minions kills."
+    },
+    {
+        "id": "MissileMe_MetaTitle",
+        "name": "Missile Me?",
+        "icon": "MetaTitles_I154",
+        "unlock": "You Missiled!: Destroy 50 Thumper Turrets.",
+        "description": "You Missiled!: Destroy 50 Thumper Turrets."
+    },
+    {
+        "id": "Mogul_MetaTitle",
+        "name": "Mogul",
+        "icon": "MetaTitles_I1C",
+        "unlock": "Projected Outcome: Profit!: Win as a LLC Battleborn 10 times.",
+        "description": "Projected Outcome: Profit!: Win as a LLC Battleborn 10 times."
+    },
+    {
+        "id": "NoCamping_MetaTitle",
+        "name": "NO CAMPING",
+        "icon": "MetaTitles_IEC",
+        "unlock": "Camper's Delight: Destroy 1,000 Healing Stations.",
+        "description": "Camper's Delight: Destroy 1,000 Healing Stations."
+    },
+    {
+        "id": "NobodyNode_MetaTitle",
+        "name": "Nobody Node",
+        "icon": "MetaTitles_I138",
+        "unlock": "Set It, Forget It: Kill 50 enemies with Stinger Turrets.",
+        "description": "Set It, Forget It: Kill 50 enemies with Stinger Turrets."
+    },
+    {
+        "id": "NoobToob_MetaTitle",
+        "name": "Noob Toob",
+        "icon": "MetaTitles_ID6",
+        "unlock": "Missile Command: Build 50 Thumper Turrets.",
+        "description": "Missile Command: Build 50 Thumper Turrets."
+    },
+    {
+        "id": "NopeNopeNope_MetaTitle",
+        "name": "NOPE NOPE NOPE",
+        "icon": "MetaTitles_IC2",
+        "unlock": "Nope Nope Nope: Kill 50 Spider Sentries.",
+        "description": "Nope Nope Nope: Kill 50 Spider Sentries."
+    },
+    {
+        "id": "NotAVampire_MetaTitle",
+        "name": "NOT A VAMPIRE",
+        "icon": "MetaTitles_I128",
+        "unlock": "Keeper of the Blade: Win 10 games as Rath.",
+        "description": "Keeper of the Blade: Win 10 games as Rath."
+    },
+    {
+        "id": "NutBuster_MetaTitle",
+        "name": "Nut Buster",
+        "icon": "MetaTitles_I140",
+        "unlock": "The Nuts and Bolts of War: Kill 500 Minion Robotics enemies.",
+        "description": "The Nuts and Bolts of War: Kill 500 Minion Robotics enemies."
+    },
+    {
+        "id": "Obliterator_MetaTitle",
+        "name": "Obliterator",
+        "icon": "MetaTitles_I16C",
+        "unlock": "Born for Battle: Win 500 Versus matches.",
+        "description": "Born for Battle: Win 500 Versus matches."
+    },
+    {
+        "id": "Observer_MetaTitle",
+        "name": "Observer",
+        "icon": "MetaTitles_I50",
+        "unlock": "Preserving the Future: Win as an Eldrid Battleborn 100 times.",
+        "description": "Preserving the Future: Win as an Eldrid Battleborn 100 times."
+    },
+    {
+        "id": "OldManCranky_MetaTitle",
+        "name": "Old Man Cranky",
+        "icon": "MetaTitles_IA0",
+        "unlock": "Real Estate Tyrant: Win a Capture match by 1,000 points.",
+        "description": "Real Estate Tyrant: Win a Capture match by 1,000 points."
+    },
+    {
+        "id": "Oracle_MetaTitle",
+        "name": "Oracle",
+        "icon": "MetaTitles_I4C",
+        "unlock": "Preserving the Future: Win as an Eldrid Battleborn 50 times.",
+        "description": "Preserving the Future: Win as an Eldrid Battleborn 50 times."
+    },
+    {
+        "id": "PapaShotgun_MetaTitle",
+        "name": "Papa Shotgun",
+        "icon": "MetaTitles_ICC",
+        "unlock": "Captain's Prerogative: Win 10 games as Ghalt.",
+        "description": "Captain's Prerogative: Win 10 games as Ghalt."
+    },
+    {
+        "id": "Pentastrike_MetaTitle",
+        "name": "Pentastrike!",
+        "icon": "MetaTitles_I15E",
+        "unlock": "Oh Holy Crap Did You See That: Get 8 Pentakills in Versus.",
+        "description": "Oh Holy Crap Did You See That: Get 8 Pentakills in Versus."
+    },
+    {
+        "id": "PingWing_MetaTitle",
+        "name": "Ping Wing",
+        "icon": "MetaTitles_IB0",
+        "unlock": "Killing with Kindness: Win 10 games as Toby.",
+        "description": "Killing with Kindness: Win 10 games as Toby."
+    },
+    {
+        "id": "Powerplay_MetaTitle",
+        "name": "Powerplay",
+        "icon": "MetaTitles_I10A",
+        "unlock": "Life! Death! Environmental Stewardship!: Play 50 matches of Meltdown.",
+        "description": "Life! Death! Environmental Stewardship!: Play 50 matches of Meltdown."
+    },
+    {
+        "id": "Predator_MetaTitle",
+        "name": "Predator",
+        "icon": "MetaTitles_I168",
+        "unlock": "Hunt them Down: Kill 1,000 Battleborn.",
+        "description": "Hunt them Down: Kill 1,000 Battleborn."
+    },
+    {
+        "id": "PricklyPrincess_MetaTitle",
+        "name": "Prickly Princess",
+        "icon": "MetaTitles_IFA",
+        "unlock": "Inventor, Investor, Adventurer: Win 10 games as Phoebe.",
+        "description": "Inventor, Investor, Adventurer: Win 10 games as Phoebe."
+    },
+    {
+        "id": "Private_MetaTitle",
+        "name": "Private",
+        "icon": "MetaTitles_I6",
+        "unlock": "Defender of the Week: Win as a Peacekeeper Battleborn.",
+        "description": "Defender of the Week: Win as a Peacekeeper Battleborn."
+    },
+    {
+        "id": "Ranger_MetaTitle",
+        "name": "Ranger",
+        "icon": "MetaTitles_I44",
+        "unlock": "Preserving the Future: Win as an Eldrid Battleborn 10 times.",
+        "description": "Preserving the Future: Win as an Eldrid Battleborn 10 times."
+    },
+    {
+        "id": "Reaver_MetaTitle",
+        "name": "Reaver",
+        "icon": "MetaTitles_I5E",
+        "unlock": "Independent Daze: Play as a Rogue Battleborn 100 times.",
+        "description": "Independent Daze: Play as a Rogue Battleborn 100 times."
+    },
+    {
+        "id": "Rebellious_MetaTitle",
+        "name": "Rebellious",
+        "icon": "MetaTitles_I18A",
+        "unlock": "Reach Character Rank 2 with Attikus.",
+        "description": "Reach Character Rank 2 with Attikus."
+    },
+    {
+        "id": "RebornAsBadass_MetaTitle",
+        "name": "REBORN AS: BADASS",
+        "icon": "MetaTitles_I148",
+        "unlock": "Be Reborn as... A STEAMROLLER!: Win 10 Meltdown matches before the enemy team scores 100 points.",
+        "description": "Be Reborn as... A STEAMROLLER!: Win 10 Meltdown matches before the enemy team scores 100 points."
+    },
+    {
+        "id": "Recruit_MetaTitle",
+        "name": "Recruit",
+        "icon": "MetaTitles_I4",
+        "unlock": "The United Peacekeeping Rupublics: Play as a Peacekeeper Battleborn.",
+        "description": "The United Peacekeeping Rupublics: Play as a Peacekeeper Battleborn."
+    },
+    {
+        "id": "Retired_MetaTitle",
+        "name": "Retired",
+        "icon": "MetaTitles_I158",
+        "unlock": "RDC-WF02-1221: Win 10 games as Whiskey Foxtrot.",
+        "description": "RDC-WF02-1221: Win 10 games as Whiskey Foxtrot."
+    },
+    {
+        "id": "RevengeINate_MetaTitle",
+        "name": "Revenge-i-nate",
+        "icon": "MetaTitles_I114",
+        "unlock": "Revengeance: Avenge 50 slain teammates.",
+        "description": "Revengeance: Avenge 50 slain teammates."
+    },
+    {
+        "id": "RightBehindYou_MetaTitle",
+        "name": "Right Behind You",
+        "icon": "MetaTitles_I170",
+        "unlock": "Executive Assistant: In a single match, assist in killing 30 Battleborn.",
+        "description": "Executive Assistant: In a single match, assist in killing 30 Battleborn."
+    },
+    {
+        "id": "RockAndTroll_MetaTitle",
+        "name": "Rock & Troll",
+        "icon": "MetaTitles_IE2",
+        "unlock": "A Girl and her Rock Monster: Win 10 games as Shayne & Aurox.",
+        "description": "A Girl and her Rock Monster: Win 10 games as Shayne & Aurox."
+    },
+    {
+        "id": "RocketHawk_MetaTitle",
+        "name": "Rocket Hawk",
+        "icon": "MetaTitles_IB6",
+        "unlock": "Reach Character Rank 2 with Benedict.",
+        "description": "Reach Character Rank 2 with Benedict."
+    },
+    {
+        "id": "RogueCommander_MetaTitle",
+        "name": "Rogue Commander",
+        "icon": "MetaTitles_I188",
+        "unlock": "Reach Character Rank 2 with Reyna.",
+        "description": "Reach Character Rank 2 with Reyna."
+    },
+    {
+        "id": "Scion_MetaTitle",
+        "name": "Scion",
+        "icon": "MetaTitles_I34",
+        "unlock": "Any Price: Win as a Jennerit Battleborn 25 times.",
+        "description": "Any Price: Win as a Jennerit Battleborn 25 times."
+    },
+    {
+        "id": "Scourge_MetaTitle",
+        "name": "Scourge",
+        "icon": "MetaTitles_I5C",
+        "unlock": "Free Peoples of Solus: Win as a Rogue Battleborn 25 times.",
+        "description": "Free Peoples of Solus: Win as a Rogue Battleborn 100 times."
+    },
+    {
+        "id": "Scout_MetaTitle",
+        "name": "Scout",
+        "icon": "MetaTitles_I42",
+        "unlock": "Observing the End: Play as an Eldrid Battleborn 25 times.",
+        "description": "Observing the End: Play as an Eldrid Battleborn 40 times."
+    },
+    {
+        "id": "SeasonPass_MetaTitle",
+        "name": "Season Pass Holder",
+        "icon": "MetaTitles_I68",
+        "unlock": "Unlocked Via Season Pass",
+        "description": "Unlocked Via Season Pass",
+        "hidden": true
+    },
+    {
+        "id": "Seeker_MetaTitle",
+        "name": "Seeker",
+        "icon": "MetaTitles_I3E",
+        "unlock": "Observing the End: Play as an Eldrid Battleborn.",
+        "description": "Observing the End: Play as an Eldrid Battleborn."
+    },
+    {
+        "id": "Seer_MetaTitle",
+        "name": "Seer",
+        "icon": "MetaTitles_I48",
+        "unlock": "Preserving the Future: Win as an Eldrid Battleborn 25 times.",
+        "description": "Preserving the Future: Win as an Eldrid Battleborn 25 times."
+    },
+    {
+        "id": "Sergeant_MetaTitle",
+        "name": "Sergeant",
+        "icon": "MetaTitles_I8",
+        "unlock": "The United Peacekeeping Rupublics: Play as a Peacekeeper Battleborn 25 times.",
+        "description": "The United Peacekeeping Rupublics: Play as a Peacekeeper Battleborn 40 times."
+    },
+    {
+        "id": "ShardPirate_MetaTitle",
+        "name": "Shard Pirate",
+        "icon": "MetaTitles_I5A",
+        "unlock": "Independent Daze: Play as a Rogue Battleborn 50 times.",
+        "description": "Independent Daze: Play as a Rogue Battleborn 50 times."
+    },
+    {
+        "id": "Sheepish_MetaTitle",
+        "name": "Sheepish",
+        "icon": "MetaTitles_I108",
+        "unlock": "This Won't Hurt a Bit: Escort 20 minions to a chomper in a single match, 10 times.",
+        "description": "This Won't Hurt a Bit: Escort 20 minions to a chomper in a single match, 10 times."
+    },
+    {
+        "id": "ShockTrooper_MetaTitle",
+        "name": "Shock Trooper",
+        "icon": "MetaTitles_I30",
+        "unlock": "Any Price: Win as a Jennerit Battleborn 10 times.",
+        "description": "Any Price: Win as a Jennerit Battleborn 10 times."
+    },
+    {
+        "id": "ShortTemper_MetaTitle",
+        "name": "Short Temper",
+        "icon": "MetaTitles_IE8",
+        "unlock": "Heavy Gear Boxes: Kill 50 Bulwark Bots.",
+        "description": "Heavy Gear Boxes: Kill 50 Bulwark Bots."
+    },
+    {
+        "id": "SilentSister_MetaTitle",
+        "name": "Silent Sister",
+        "icon": "MetaTitles_IA8",
+        "unlock": "Reach Character Rank 2 with Ambra.",
+        "description": "Reach Character Rank 2 with Ambra."
+    },
+    {
+        "id": "Smuggler_MetaTitle",
+        "name": "Smuggler",
+        "icon": "MetaTitles_I58",
+        "unlock": "Free Peoples of Solus: Win as a Rogue Battleborn 10 times.",
+        "description": "Free Peoples of Solus: Win as a Rogue Battleborn 10 times."
+    },
+    {
+        "id": "SolusBound_MetaTitle",
+        "name": "Solus Bound",
+        "icon": "MetaTitles_I164",
+        "unlock": "Reach Command Rank 25.",
+        "description": "You are bound for the last star."
+    },
+    {
+        "id": "SpaceInvader_MetaTitle",
+        "name": "Space Invader",
+        "icon": "MetaTitles_I94",
+        "unlock": "Invader: Win 25 Incursion matches.",
+        "description": "Invader: Win 25 Incursion matches."
+    },
+    {
+        "id": "SpacePunkPartnership_MetaTitle",
+        "name": "Space Punk Partnership",
+        "icon": "MetaTitles_IA6",
+        "unlock": "Reach Character Rank 2 with Shayne & Aurox.",
+        "description": "Reach Character Rank 2 with Shayne & Aurox."
+    },
+    {
+        "id": "SporeAddict_MetaTitle",
+        "name": "Spore Addict",
+        "icon": "MetaTitles_IE0",
+        "unlock": "Fungi Rarely Misses: Win 10 games as Miko.",
+        "description": "Fungi Rarely Misses: Win 10 games as Miko."
+    },
+    {
+        "id": "StillFirst_MetaTitle",
+        "name": "Still First",
+        "icon": "MetaTitles_I116",
+        "unlock": "First Blood: Be the first to kill an enemy Battleborn in a match, 25 times.",
+        "description": "First Blood: Be the first to kill an enemy Battleborn in a match, 25 times."
+    },
+    {
+        "id": "StoneCold_MetaTitle",
+        "name": "Stone Cold",
+        "icon": "MetaTitles_IC0",
+        "unlock": "Stone Cold: Kill 50 Golems.",
+        "description": "Stone Cold: Kill 50 Golems."
+    },
+    {
+        "id": "Supportive_MetaTitle",
+        "name": "Supportive",
+        "icon": "MetaTitles_I124",
+        "unlock": "Tactical Support: Assist in killing 500 Battleborn.",
+        "description": "Tactical Support: Assist in killing 500 Battleborn."
+    },
+    {
+        "id": "Sustained_MetaTitle",
+        "name": "Sustained",
+        "icon": "MetaTitles_I3C",
+        "unlock": "Any Price: Win as a Jennerit Battleborn 100 times.",
+        "description": "Any Price: Win as a Jennerit Battleborn 100 times."
+    },
+    {
+        "id": "TeamMated_MetaTitle",
+        "name": "Team Mated",
+        "icon": "MetaTitles_I14E",
+        "unlock": "Shock Therapy: Secure all collectors from neutral before the enemy can within the first minute of a Capture match, 10 times",
+        "description": "Shock Therapy: Secure all collectors from neutral before the enemy can within the first minute of a Capture match, 10 times"
+    },
+    {
+        "id": "Technocrat_MetaTitle",
+        "name": "Technocrat",
+        "icon": "MetaTitles_I26",
+        "unlock": "Investing in the Future: Play as a LLC Battleborn 250 times.",
+        "description": "Investing in the Future: Play as a LLC Battleborn 250 times."
+    },
+    {
+        "id": "Territorial_MetaTitle",
+        "name": "Territorial",
+        "icon": "MetaTitles_I11E",
+        "unlock": "Locked Out: Win 10 Capture matches while your team has all three collectors secured.",
+        "description": "Locked Out: Win 10 Capture matches while your team has all three collectors secured."
+    },
+    {
+        "id": "The999th_MetaTitle",
+        "name": "The 999th",
+        "icon": "MetaTitles_I9E",
+        "unlock": "Reach Character Rank 2 with Caldarius.",
+        "description": "Reach Character Rank 2 with Caldarius."
+    },
+    {
+        "id": "TheDestroyer_MetaTitle",
+        "name": "The DESTROYER",
+        "icon": "MetaTitles_I17C",
+        "unlock": "Reach Character Rank 2 with Toby.",
+        "description": "Reach Character Rank 2 with Toby."
+    },
+    {
+        "id": "TheKemessian_MetaTitle",
+        "name": "The Kemessian",
+        "icon": "MetaTitles_IDA",
+        "unlock": "The Kemessian: Win 10 games as Caldarius.",
+        "description": "The Kemessian: Win 10 games as Caldarius."
+    },
+    {
+        "id": "TheLastStar_MetaTitle",
+        "name": "The Last Star",
+        "icon": "MetaTitles_I164",
+        "unlock": "Reach Command Rank 75.",
+        "description": "You are a beacon of light against the encroaching darkness."
+    },
+    {
+        "id": "TheRedObserver_MetaTitle",
+        "name": "The Red Observer",
+        "icon": "MetaTitles_ID0",
+        "unlock": "Aggressive Mutation: Win 10 games as Mellka.",
+        "description": "Aggressive Mutation: Win 10 games as Mellka."
+    },
+    {
+        "id": "Thrall_MetaTitle",
+        "name": "Thrall",
+        "icon": "MetaTitles_I2A",
+        "unlock": "Any Deed: Play as a Jennerit Battleborn.",
+        "description": "Any Deed: Play as a Jennerit Battleborn."
+    },
+    {
+        "id": "ThreeSum_MetaTitle",
+        "name": "Three Sum",
+        "icon": "MetaTitles_I162",
+        "unlock": "Trifecta: Get 25 Triple Kills in Versus.",
+        "description": "Trifecta: Get 25 Triple Kills in Versus."
+    },
+    {
+        "id": "Thug_MetaTitle",
+        "name": "Thug",
+        "icon": "MetaTitles_I52",
+        "unlock": "Independent Daze: Play as a Rogue Battleborn.",
+        "description": "Independent Daze: Play as a Rogue Battleborn."
+    },
+    {
+        "id": "ToddlerPlayTime_MetaTitle",
+        "name": "Toddler Play Time",
+        "icon": "MetaTitles_IE6",
+        "unlock": "Didn't Feel That Super: Kill 50 MX.Elite_Bots.",
+        "description": "Didn't Feel That Super: Kill 50 MX.Elite_Bots."
+    },
+    {
+        "id": "Towering_MetaTitle",
+        "name": "Towering",
+        "icon": "MetaTitles_IEA",
+        "unlock": "Towering Over All: Build 50 Tier 3 buildables.",
+        "description": "Towering Over All: Build 50 Tier 3 buildables."
+    },
+    {
+        "id": "Tradelord_MetaTitle",
+        "name": "Tradelord",
+        "icon": "MetaTitles_I28",
+        "unlock": "Projected Outcome: Profit!: Win as a LLC Battleborn 100 times.",
+        "description": "Projected Outcome: Profit!: Win as a LLC Battleborn 100 times."
+    },
+    {
+        "id": "Trader_MetaTitle",
+        "name": "Trader",
+        "icon": "MetaTitles_I1A",
+        "unlock": "Investing in the Future: Play as a LLC Battleborn 25 times.",
+        "description": "Investing in the Future: Play as a LLC Battleborn 25 times."
+    },
+    {
+        "id": "Tyrant_MetaTitle",
+        "name": "Tyrant",
+        "icon": "MetaTitles_I38",
+        "unlock": "Any Price: Win as a Jennerit Battleborn 50 times.",
+        "description": "Any Price: Win as a Jennerit Battleborn 50 times."
+    },
+    {
+        "id": "Unbearable_MetaTitle",
+        "name": "Unbearable",
+        "icon": "MetaTitles_I18C",
+        "unlock": "Reach Character Rank 2 with Boldur.",
+        "description": "Reach Character Rank 2 with Boldur."
+    },
+    {
+        "id": "Unbreakable_MetaTitle",
+        "name": "Unbreakable",
+        "icon": "MetaTitles_I146",
+        "unlock": "Unbreakable: In a Incursion match, spend the least amount of time dead, 10 times.",
+        "description": "Unbreakable: In a Incursion match, spend the least amount of time dead, 10 times."
+    },
+    {
+        "id": "Unkillable_MetaTitle",
+        "name": "Unkillable",
+        "icon": "MetaTitles_I10E",
+        "unlock": "Unkillable: Win an Incursion match without dying, 10 times.",
+        "description": "Unkillable: Win an Incursion match without dying, 10 times."
+    },
+    {
+        "id": "Vagabond_MetaTitle",
+        "name": "Vagabond",
+        "icon": "MetaTitles_I56",
+        "unlock": "Independent Daze: Play as a Rogue Battleborn 25 times.",
+        "description": "Independent Daze: Play as a Rogue Battleborn 25 times."
+    },
+    {
+        "id": "Valkyrie_MetaTitle",
+        "name": "Valkyrie",
+        "icon": "MetaTitles_I62",
+        "unlock": "Independent Daze: Play as a Rogue Battleborn 250 times.",
+        "description": "Independent Daze: Play as a Rogue Battleborn 250 times."
+    },
+    {
+        "id": "Varimorphic_MetaTitle",
+        "name": "Varimorphic",
+        "icon": "MetaTitles_IC8",
+        "unlock": "Reach Character Rank 2 with Orendi.",
+        "description": "Reach Character Rank 2 with Orendi."
+    },
+    {
+        "id": "Warden_MetaTitle",
+        "name": "Warden",
+        "icon": "MetaTitles_I46",
+        "unlock": "Observing the End: Play as an Eldrid Battleborn 50 times.",
+        "description": "Observing the End: Play as an Eldrid Battleborn 50 times."
+    },
+    {
+        "id": "Warlord_MetaTitle",
+        "name": "Warlord",
+        "icon": "MetaTitles_I60",
+        "unlock": "Free Peoples of Solus: Win as a Rogue Battleborn 50 times.",
+        "description": "Free Peoples of Solus: Win as a Rogue Battleborn 50 times."
+    },
+    {
+        "id": "Warmonger_MetaTitle",
+        "name": "Warmonger",
+        "icon": "MetaTitles_I24",
+        "unlock": "Projected Outcome: Profit!: Win as a LLC Battleborn 25 times.",
+        "description": "Projected Outcome: Profit!: Win as a LLC Battleborn 25 times."
+    },
+    {
+        "id": "WavesOfGoodbye_MetaTitle",
+        "name": "Waves of Goodbye",
+        "icon": "MetaTitles_IBE",
+        "unlock": "Unravel the Veil: Kill 50 Varelsi Disruptors or Veil Walkers.",
+        "description": "Unravel the Veil: Kill 50 Varelsi Disruptors or Veil Walkers."
+    },
+    {
+        "id": "Woodsworn_MetaTitle",
+        "name": "Woodsworn",
+        "icon": "MetaTitles_IDC",
+        "unlock": "First of the Woodsworn: Win 10 games as Boldur.",
+        "description": "First of the Woodsworn: Win 10 games as Boldur."
+    },
+    {
+        "id": "WorthyOfSong_MetaTitle",
+        "name": "Worthy of Song",
+        "icon": "MetaTitles_I172",
+        "unlock": "Battlebest: In a single match, kill 25 Battleborn.",
+        "description": "Battlebest: In a single match, kill 25 Battleborn."
+    },
+    {
+        "id": "WraithOfBliss_MetaTitle",
+        "name": "Wraith of Bliss",
+        "icon": "MetaTitles_IF0",
+        "unlock": "The Wraith: Win 10 games as Galilea.",
+        "description": "The Wraith: Win 10 games as Galilea."
+    },
+    {
+        "id": "WreckerOnPatrol_MetaTitle",
+        "name": "Wrecker on Patrol",
+        "icon": "MetaTitles_I144",
+        "unlock": "Reverse Engineering: Destroy 1,000 Buildable structures.",
+        "description": "Reverse Engineering: Destroy 1,000 Buildable structures."
+    },
+    {
+        "id": "Yield_MetaTitle",
+        "name": "YIELD",
+        "icon": "MetaTitles_I13C",
+        "unlock": "Slow it Waaaaay Down: Destroy 1,000 Accelerators.",
+        "description": "Slow it Waaaaay Down: Destroy 1,000 Accelerators."
+    }
+]

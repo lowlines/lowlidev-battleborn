@@ -1,0 +1,1330 @@
+[Poplar_VO_DLC_BattleSchool_BinkIntro_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Dear diary, new entry! Subject: internal conflict! Ghalt wants me to reopen contact with the other Mikes. I'm excited to see them, but I'm worried they'll still be mad at me. What if they turn me away?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_BinkIntro_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You know what? No! You can't keep a Mike down! They kicked me out, but I'm gonna kick myself right back in! Thanks for the pick-me-up, diary! Mike out!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Ops_Intro01_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome to Battleborn Operations, the biggest thing since using a particle accelerator to slice bread. You have selected Oscar Mike vs. the Battle School. Hope you're down with the whole clone thing, because wow, it can be a lot to deal with sometimes.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Ops_Intro01_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Throughout the operation, you'll have opportunities to earn Ops Points, up to a maximum of fifty for your first playthrough. Increased Ops Points means higher difficulty and greater rewards such as titles and customizations.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Ops_Intro01_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Good luck. Beginning operation in three, two, one...",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Ops_Intro02_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome back. Can't get enough of the Battle School, huh? I don't blame you. Since this is your second playthrough, you will now begin with five Ops Points and be able to reach a maximum of fifty-five. Earning forty Ops Points will unlock a new skin for your character, and there are even greater rewards later on.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Ops_Intro03_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You again! This is your third playthrough, so you will begin with ten Ops Points and can reach a maximum of sixty. If you haven't already, you can earn a new character skin at forty and a title at fifty. Get all the way to sixty, and you'll unlock a Commander Loot Pack!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Ops_Intro04_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome back to Battleborn Operations. I think you know the deal at this point. Be sure to earn and/or pick up those Ops Points, because they ramp up the difficulty and get you sweeter loot.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_01_FirstWave_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You must clear the room of enemies in order to advance, or else be obliterated in the man-barbecue of combat!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_01_FirstWave_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well done! We now have exact knowledge of where the line between failure and pathetic technical victory lies.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_02_SecondWave_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You have so far comported yourself just above mediocrity. This will be an advanced test of your martial prowess!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_02_SecondWave_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Area clear! I must begrudgingly admit that your aptitude is within satisfactory limits.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_03_ThirdWave_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="If you cannot withstand just three rounds in the gauntlet, how can you hope to protect the brothers and sister-brothers fighting at your side?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_03_ThirdWave_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I didn't think you'd make it this far! In fact, I don't think you did! Who are you, impostor?!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_04_BossFight_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="A true Mike knows that his greatest enemy always comes at the END of the mission! Sic 'em, sentry!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_ProdLines_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hurry up, soldier! The Battle School waits for no Mike!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_ProdLines_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="How do you expect to pass the test if you can't even find it?! Make your way to the combat simulator!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar01_A_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="OM83-1101? I thought you were dead to me! What in the high thread count linens of King Mike's summer palace's eighth guest bedroom do you think you're doing here? You're still exiled.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar01_A_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sir, I am exercising my right to a Trial by Elaborate Obstacle Course, sir! I'm saluting! In case you can't see.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar01_A_00030_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I can hear a salute through the radio – just like I can hear the softness in your glutes! But I see you've been reading the Clonestitution, and I respect that! Alright, OM83-1101, I'll give you your shot. Step forward and enter... the Battle School!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar01_B_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This is our Combat Readiness Gauntlet. We send every new Mike in here, fresh from the vats. Don't even give them armor! I really want you to think about that. Think about how many naked, amniotic gel-glazed Mikes have earned their first combat kills right here in this very room!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar01_C_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Kingdom of Mikes has thrived in your absence, OM83-1101. We've rebuilt everything since the veiling of Planet Mike! Ours is now a society of artists, philosophers, and tradesmen!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar01_C_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You mean... there are Mikes that aren't soldiers?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar01_C_00030_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Every Mike is a soldier, soldier! You'd do well to remember that! Baker Mike experiences combat every day! His enemy: empty bellies, and his ammunition: croissants so buttery and flaky as to make a grown Thrall weep!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar01_D_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I was invited to King and Queen Mike's black-armor masquerade ball tonight! I could be eating Charcuterie Mike's finest Swarmer pâté on tiny little crackers, but instead I'm here babysitting a deserter.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar01_D_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Huh. Do you put the masks on over the helmet, or... like, somewhere else?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar01_D_00030_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, now I'll never know, will I?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar01_E_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sir? Uh... how many Mikes survived from Planet Mike?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar01_E_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I was able to get King and Queen Mike onboard a shuttle, along with a single cloning vat, and escape the planet just before it was veiled! We had to start again from scratch, the last three Mikes in the universe.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar01_E_00030_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="But I could've helped!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar01_E_00040_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The key to a good banishment is completely forgetting the person isn't dead, and then not caring.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar01_F_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well fought, OM83-1101. You are ten percent of the way to your reinstatement.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar01_F_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ten percent? But, I beat the trial fair and square, sir! And I'm still salutin'!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar01_F_00030_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I am exercising my Clonestitutional right to overly complex bureaucracy!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar01_F_00040_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Aw, man! I hate the Seven Hundred and Seventy-Threeth Amendment!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar02_A_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Back for more, OM83-1101? I'm a little surprised.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar02_A_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sir, you can call me Oscar, sir!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar02_A_00030_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The only person I call by their first name is my wife, and even THAT was only after she bested me in single combat. Rachael, darling, say hi.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar02_A_00040_RachaelMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar02_A_00050_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="She's a sweetheart. Anyway, get in the death room!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar02_B_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We designed this combat testing chamber with the goal of preparing soldiers for any locale in the known universe.\nPretty easy since there's only three planets left.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar02_C_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So, uh, Rachael, what do you do?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar02_C_00020_RachaelMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm the assistant director at the Royal Mike Ballet. We focus on neoclassical performances that evoke the bolder, more aggressive traditions like the kind you might have seen on Lenore-era Jennar, with a higher emphasis on individual freedom of motion over synchronized group arrangements.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar02_C_00030_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh. That's cool.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar02_D_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="How'd you guys meet?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar02_D_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="She was arranging a grand gala for King and Queen Mike's anniversary celebration, and I was there as head of security. We met while doing pushups in line for the punch bowl. It was love at first ironsights.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar02_E_00010_RachaelMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We get along really well, and we have a lot of the same hobbies. Plus, he's from an earlier clone batch, and I've always had a thing for older Mikes.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar02_E_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're the love of my life, darling!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar02_E_00030_RachaelMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're so sweet!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar02_E_00040_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[sobbing] Love... is so... beautiful!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar02_F_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm really happy for you guys! It's like... you were made for each other!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar02_F_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thank you, Osc... OM83-1101! Now quit tryin' to butter me up! You've still got 80% of your appeal to fight through! Get a move on, soldier!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_A_00010_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alright you dweebs, what's going on here? You having a family reunion or something?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_A_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Audible gasp! You're one of the defectives! I didn't know any had survived.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_A_00030_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's Whiskey. He can be a little bit of a total jerk, but he also kicks ass! So... net positive!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_A_00040_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You're damn right I kick ass. What's this wussy playground all about? Ever turn it up past pre-school level? Hah!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_B_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'll have you know this “wussy playground” is the finest combat simulator in Solus!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_B_00020_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="More like wuss simulator!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_B_00030_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What was that?!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_B_00040_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You heard me!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_C_00010_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You guys think this is hard?! I'm glad I got rejected, or I'd be BORED out of my MIND with you Mikes!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_C_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You sure? You could join in on my appeal, and try to get into the Mikes again too!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_C_00030_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ahh, I'm not really a joiner.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_D_00010_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What's there even to do in the Mikes? Are you guys even a functioning society? You guys probably don't even have a crudball team!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_D_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We have three! There's the Mad Mikes, the Mikes of Fury, and the Irate Marks.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_D_00030_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You mean Mikes?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_D_00040_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah! What did I say?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_E_00010_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, what about art? Do you guys have your own music?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_E_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Of course! Bassoon Mike and Drummer Mike have been hosting Open Mike night every month at our local watering hole: the Olde Mangy Mike. You see, it's short for microphone and it also --",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_E_00030_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yep. Got there without a map.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_F_00010_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Alright, I admit you guys are a lot farther along than I thought you'd be. Still, I'd rather be the cook for the Rogues than be the smartest of you lot.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_F_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Cook? They don't even have you on the front lines?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_F_00030_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I mean, well, sometimes they need my help with some--",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_F_00040_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ha! HA! That is a knee-slapper! OM83-1101, make a note that I just slapped my knee!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_F_00050_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="“Slapped... knee...”",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar03_F_00060_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ugh, I hate you guys.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar04_A_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sir, I have a confession to make, sir! My only copy of the Clonestitution is an audiobook.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar04_A_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The audiobook is held in high regard within Mike culture! Unless it's one of those low-budget ones that only uses one voice actor!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar04_A_00030_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I hate that!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar04_A_00040_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I know, right?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar04_A_00050_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Right?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar04_B_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="As you know, it is the Clonestitutional duty of every Mike to keep themselves at peak combat performance levels at all times! No exceptions! Well, not counting Fat Mike.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar04_B_00020_FatMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I contribute moral support!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar04_C_00010_FatMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mmm! Oh man. These croissants are just killer, Baker Mike! What's your secret?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar04_C_00020_BakerMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You have to let the butter get cold in the refrigerator before you layer it into the dough. If it's too warm, it loses shape and you don't get those delicious fluffy pockets inside as the croissant bakes!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar04_C_00030_FatMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Genius!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar04_D_00010_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey, Baker Mike. Uh... do you have any pro tips to avoid overproofing my sourdough? It always comes out too dense and I just get so f***ing g*ddamned angry!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar04_D_00020_BakerMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Easy, my friend! Try not to over-score your loaves or proof them longer than an hour! Otherwise, the gluten inside has too much time to relax and won't have the structural integrity necessary to give it that springiness you want.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar04_E_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Baker Mike, I tried to make the wife a soufflé for Mikentine's Day, but it fell as soon as I put it on the table!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar04_E_00020_BakerMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's no fault of your own, General. All souffles fall a few minutes out of the oven, it's actually a good sign that you didn't overmix your batter.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar04_E_00030_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's a relief! Thanks, Baker Mike!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar04_F_00010_BakerMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The secret to good baking is to keep experimenting. All it takes is determination, patience, and a lot of practice. Ohohoho!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar04_F_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Wow, I feel like I learned a lot!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar04_F_00030_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="There's no reason that combat training can't also be educational!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_A_00010_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'm back, you dinguses! What's new?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_A_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whiskey Foxtrot! Did you finish peeling your potatoes and dicing your carrots?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_A_00030_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="First of all, carrots should be julienned, and second of all, SHUT UP!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_A_00040_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We were going to do some combat training, but feel free to tell us all about tonight's menu.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_B_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oooh, ooh-ooh, let me guess! Are we having lentil stew again?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_B_00020_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Close! It's a curried squash bisque with chive-infused harresbura yogurt!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_B_00030_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nerd.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_C_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey, Whiskey, why DID you get rejected from the RDC?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_C_00020_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I dunno, they were probably afraid I'd eat you guys or somethin'. Everyone's always afraid I'm gonna eat them! Seriously, I don't eat people!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_C_00030_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I remember hearing rumors about the Foxtrot batch. They rejected them for being too emotional.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_C_00040_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What? No! Shut up! You're emotional!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_D_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Emotions, huh? Is that why you're always hangin' out with that Jennerit lady?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_D_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Jennerit?! Foxtrot, have you been leaking information to the enemy? That's grounds for treason!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_D_00030_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Easy, guys, it's not like that. It's, uh... well, you know...",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_E_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What do you and Deande even DO together, anyway? She doesn't even have a gun! Ha!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_E_00020_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Heh. What do you think we do, you idiots?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_E_00030_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Seriously. We have no idea. We've been trying to figure it out for days now.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_E_00040_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah, I got nothin'.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_F_00010_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Never thought I'd be having this talk. Uh, you see... when two people have feelings for each other, sometimes they, um... whooo, um...",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_F_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Call in airstrikes together?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_F_00030_FatMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Share a pound cake?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_F_00040_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ooh! Write poems to each other!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar05_F_00050_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ugh. Yeah. Those things.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_A_00010_HeraldMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hear ye, hear ye! The royal personage does hark upon these very halls!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_A_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Audible gasp! The queen herself! Quick! Everybody bow!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_A_00030_QueenMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="General! I hear you are giving an exile a runthrough of the gauntlet. I thought I might observe.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_A_00040_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ma'am, it is an honor --",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_A_00050_QueenMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="By the creme of Baker Mike's cannolis! Oscar, you are ALIVE?!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_B_00010_QueenMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Do you not remember? It is I, OM91-0519! We were on the same infantry tug in the Garden Campaign!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_B_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bro! It's so good to see you! I didn't know YOU were Queen Mike! This is awesome!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_B_00030_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Heh! Okay! Great! Let's, uh... let's get this round started.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_C_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="How did YOU end up as Queen Mike?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_C_00020_QueenMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="KM51-0541 and I co-wrote the Clonestitution together! He took King and I took Queen. It just felt right, you know? Curious, how DID you get exiled?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_C_00030_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Uh oh! Looks like the next wave is starting! Better get in there!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_D_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ma'am, I must inform you that OM83-1101 was cast out of the Mikes for joining the Peacekeepers after Planet Mike was settled.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_D_00020_QueenMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oscar, is this true? You joined back up with those jerks? After the way they treated us?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_D_00030_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="They weren't all jerks! My best bro Montana fought with us in the Garden campaign!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_D_00040_QueenMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Tiny headed fellow! Yes! I adore that guy!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_E_00010_QueenMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Why did YOU not stay with us, Oscar? We were building a new society!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_E_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It all kinda happened at once, I guess. I was helping you guys settle Planet Mike, then General Mike told me I couldn't stay AND be part of the UPR, too. Montana was my best bro, and the Clonestitution clearly states never to leave a bro hangin'!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_E_00030_QueenMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="[sniff] Those words... those words are as true today as when I wrote them!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_F_00010_QueenMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="General Mike... you were right to exile Oscar Mike for dereliction of duty!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_F_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Phew! Awesome, okay, was getting worried there.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_F_00030_QueenMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="But Oscar Mike, you embodied the true spirit of Mike when you stuck by your bro. General, what was the original duration of his trial?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_F_00040_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ten rounds through the gauntlet, ma'am!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_F_00050_QueenMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Very well, Oscar Mike. I am commuting your trial down to four.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_F_00060_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="But I already did six of 'em!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar06_F_00070_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And now you've just got four more to go, OM83-1101!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar07_A_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="General, sir! I have a question: how does a Mike choose their role in Mike culture? Is it assigned?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar07_A_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Negative, soldier! Each Mike is encouraged from day zero to explore who and what they are! Some drive themselves to greatness in a single field. Others choose to be more well-rounded Mikes-of-all-trades. Not to be confused with Trader Mike. Who is not to be confused with Traitor Mike.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar07_A_00030_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Nope, I'm... I'm definitely confused.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar07_B_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="We were created to be soldiers. It is etched into our brains to excel on the battlefield, as basic as eating, sleeping, or that one dream where you're eating an entire truck.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar07_B_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I KNEW I couldn't be the only one!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar07_C_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Don't you ever wonder, OM83-1101, whether you feel something because of who you are, or do those feelings come from what you were programmed to be?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar07_C_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I always figured that if I'm doing the wondering, then that means I've already grown past the bounds of my own creation. To question is to exist, sir!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar07_C_00030_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Wait, really? You've thought that?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar07_C_00040_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Naw, I'm quoting Bradathon from “One Star To Live”. It's my favorite holo-drama!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar07_D_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The keystone of Mike culture is willful individuality! Our bodies are all identical and pre-programmed with the same knowledge – we do not have the luxury of a blank slate! Our lives are not written on fresh paper, but in red ink on the margins of a half-started manuscript!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar07_E_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So I could be anything I want?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar07_E_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Of course not! You have to be good at it! Well, except for Loan Shark Mike.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar07_E_00030_LoanSharkMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hey, either of you want this shark? I'll need it back at some point, but you can keep it for now.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar07_E_00040_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Still not what that means, buddy.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar07_F_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I mean, when I join you guys, can I still be Oscar? Would I have to be... uh... Push-Up Mike, or Poetry Mike?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar07_F_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Of course not!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar07_F_00030_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's a relief, I wouldn't want to be shoehorned into --",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar07_F_00040_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Those are already taken! In fact, Push-Up Mike has been going this entire time. I accidentally told her to drop and give me “twenteen”, and now she's just goin' until she gets there!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar08_A_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Guiding you through this combat gauntlet is monotonous! I'm going to turn on one of my favorite pod-holos and coast through this one. I might still yell at you occasionally. That cool?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar08_A_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="All good with me!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar08_A_00030_BakerMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Welcome back to Cloning Scones! I'm your host Baker Mike, and joining us today is a very special guest: it's our favorite regent, Queen Mike!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar08_A_00040_QueenMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thank you, Baker Mike. It is so nice to be here today.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar08_B_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Cloning Scones is the best! I can get all the hottest baking tips (pun intended) and they've been attracting bigger guest stars recently!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar08_C_00010_BakerMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="So, Queen Mike, tell me about this recipe you brought in.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar08_C_00020_QueenMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well Baker Mike, Lemon-Lime Meringue Pie is an old favorite in the Royal Palace. It requires three gallons of Go-Go Juice, and has a wonderfully flaky crust to provide the energy for success each and every morning.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar08_C_00030_BakerMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Delightful!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar08_D_00010_QueenMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The key to a fizzy pie is to use the freshest lemon-lime flavored Go-Go Juice available. Since the production facility was veiled several decades ago, that means you will have to perservere and find a hidden cache, or purchase such a cache from someone else.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar08_E_00010_QueenMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The traditional Lemon-Lime Meringue Pie, as first conceived by the Lorrians, utilized aviant eggs for the topping. Obviously, this shameful tradition is frowned upon in our modern society. Therefore, we made a better topping! A synthetic topping! Made with a protein slurry manufactured right here in this facility!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar08_F_00010_QueenMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Just twenty minutes in a four-hundred degree oven will give you those perfect golden neon peaks that remind you of the first days of your post-vat Mikehood.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar08_F_00020_BakerMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Absolutely wonderful, thank you so much for joining us, Queen Mike.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar08_F_00030_QueenMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="It was my pleasure, Baker Mike.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar08_F_00040_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="“Four hundred... degrees.” Alright! Gotta try this one out! Good job on the fighting and whatever, too.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_A_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="OM83-1101! You are almost to the final test! Do you believe you have the Mikeness to persevere?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_A_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sir, I do, sir!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_A_00030_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oscar! What are you doing?! You don't need these guys to fit in! They're talkin' all this crap about individuality, and then excluding you!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_A_00040_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Shut up, reject! You don't know anything about belonging!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_A_00050_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Guys! Stop fighting!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_B_00010_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I'd rather belong to a group of misfits like the Rogues than a bunch of prissy airheads like you!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_B_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Of course you would! They have no respect for the order of law, nor desire to better themselves. Easy to fit in when nothing is asked of you!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_C_00010_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="The Rogues would never ask me to change who I am just to be part of some greater society! They value me for who I am already!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_C_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Value you so much that they put you in the kitchen, huh? You think that's because they like your bisque? They're afraid of you!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_D_00010_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Maybe that's what I like, huh? Maybe I like being feared! That's what gets you respect! Honor and teamwork is just a bunch of words for everyone agreeing not to kill each other for now!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_D_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Would it help if I said I do fear you? That you scare the armored pants right off me?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_D_00030_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah. Actually, that would help a lot.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_E_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Sounds like you just want to be appreciated, Whiskey!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_E_00020_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah! That's all! I just want people to think I might rip them in half at a moment's notice! Is that so much to ask?!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_E_00030_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I absolutely already think that.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_E_00040_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, alright, then!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_F_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whiskey Foxtrot, I have been consulting the Clonestitution, and I believe it would be within Mike law to allow OM83-1101's appeal for reinstatement to also apply to you.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_F_00020_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Well, I've done a lot of thinking and soul-searching, and I've decided to tell you to shove your inclusion and family love up your --",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_F_00030_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Whoa, w-what Whiskey is trying to say, sir, is that he needs to sit on it for a little longer!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_F_00040_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You can sit on --",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar09_F_00050_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Okay! Think we're all done here! Movin' on!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar10_A_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="This is it, OM83-1101! Your final run through the gauntlet!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar10_A_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I couldn't have done it without the help of all my friends! And also the bullets in my gun! You know, when you think about it, friends are like rounds in a magazine.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar10_A_00030_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That simile makes no sense, soldier! Get your act together!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar10_A_00040_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Yeah, I'll work on it.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar10_B_00010_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Friends are like... napalm! You just can't shake 'em off, no matter how hard you try!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar10_B_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Getting better.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar10_C_00010_BakerMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Maybe friends are like croissants, rising in the oven together! Even if they are all made from the same recipe, they are each unique inside!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar10_C_00020_FatMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="And you can never have too many!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar10_D_00010_RachaelMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Maybe friends are like dancers on stage, performing in tandem to inspire others toward greatness!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar10_D_00020_RogueSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Or friends could be like a sous-vide, which takes a long time to get right, but once you put in that time they're exactly what you wanted!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar10_E_00010_QueenMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I believe friends are like subjects – always adoring you and never, ever questioning your orders.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar10_E_00020_LoanSharkMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You sure you don't want this shark, your highness?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar10_E_00030_QueenMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="What did I just say?!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar10_F_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I believe TRUE friendship is about bringing out the best in the people you care for. OM83-1101... Oscar Mike... you have shown that you are a true Mike. You have braved the gauntlet and torn a new victory from the hands of your old defeat. We welcome you back into the fold as one of us. Now, what did you come to ask us anyway?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar10_F_00020_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="My boss wanted to know if you guys would help us save the universe.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar10_F_00030_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Oh! Yeah, sure! We haven't had a good war in years. We'd have done that anyway. Coulda just asked that to start.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Nar10_F_00040_ModernSoldier]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="No regrets! Unh!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Flavor_Bots_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Thanks to a new green initiative, we're already recycling the wreckage of the bots you've killed. If you die, we'll put your pulpy residue to use too! With a little cayenne, I think we can pass you off as a red pepper bisque.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Flavor_Bots_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Using these robots as target practice technically violates manufacturer safety protocols. Take that, kindergarten culture!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Flavor_Thrall_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Who can't handle a few rampaging Thrall? What are you, a baby? I've never even SEEN a baby! Not once!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Flavor_Thrall_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="That's Grade Q Premium Thrall beef coming right at you, chuggalump!\nSorry, I blacked out, I have no idea what I just said!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Flavor_Varelsi_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Some say the Varelsi feed on souls. Luckily, you were incubated before we invented the soul injector, so you should be fine!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Flavor_Varelsi_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Hurry up and frag those V's soldier! What are you waiting for, the end of the universe?",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! If there is one constant in this ever-shifting universe, it is this: explosive barrels are everywhere! Destroy five in this round!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Build two turrets this round! That's one more than one, and one less than... uh, just build two turrets!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00030_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Build a drone to assist you, and care for it as if you were its parent! That last part isn't quantifiable, but I'm watchin' you!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00040_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Spawn one of them big minion bots! I love watching them walk around! Hah!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00050_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Get into this big one's face! Kill it with a melee strike!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00060_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! That thing doesn't look so tough! Kill it with a melee strike!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00070_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Don't die! So... I guess, same goal as ever, but this time there's Ops Points on the line!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00080_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Do this round without taking damage! I double-Mike dare you!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00090_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! A Mike knows when he's on his own! Build no turrets or drones this round!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00100_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Reach that button and melee it! It's been a bad, bad button!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00110_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Skip leg day? You'll be punished summarily! Until then, you'll have to jump through hoops to impress me! Literally!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00120_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! I've been livestreaming this to the MikeNet, but NOW they want me to put ads up! I'd rather you destroy the cameras than sell out! Do it!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00130_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! These BoomBots are as lethal to their friends as they are to you! Use them to take out your enemies! ",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00140_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Those explosive barrels are only there for decoration! They really bring the whole room together! I just changed my mind – blow them up and make sure they damage someone while they're doin' it!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00150_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Explosive barrels are all around you! I sleep with one under my pillow! Not for protection, it just reminds me of home! Use them to defeat your enemies!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00160_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! I didn't come here to see a snipe-fest! Get in close and melee your enemies into submission!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00170_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Speedrun! Destroy this wave before the timer hits zero!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00180_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Speedrun! Clear this round before the timer hits zero!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00190_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Build two turrets to defend yourself! Do your part to stimulate the Mike economy!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Any_00200_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! I put up these hoops to play crudball, and dang if I'm not all about sustainable re-use! Jump through those hoops, soldier!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_A_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Family should stay together! Destroy those twins simultaneously!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_A_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! You have sixty seconds to destroy those Henchmen duplicates! Get a move on!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_A_00030_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! You have sixty seconds to destroy the remaining Henchman Duplicate! Get a move on!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_B_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Kill that Shaman before it summons a second wave of enemies! Do it!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_C_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Pop that Devourer's head! Don't worry, that'll be Janitor Mike's problem!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_C_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Don't get blinded by that Varelsi Dancer's bubble! On the double! Or you're in trouble!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_D_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Stay away from those build nodes! They're one-use-only, and we have to replace them every time! I'm on a budget here!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_D_00020_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Hope you like punchin' spiders! I know I do. Finish off that sentry with a melee strike!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_E_00010_GeneralMike]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Bonus objective! Use the lay of the land to your advantage! Knock some enemies into those pits!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Success_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="General Mike is pleased. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Success_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="You really blew General Mike away with that one. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Success_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="General Mike has begrudgingly awarded you some Ops Points.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Success_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I've been authorized by General Mike to award you some Ops Points.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Success_00050_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="General Mike said you didn't deserve a reward, but here's some Ops Points on the down-low.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Success_00060_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="General Mike is impressed. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Success_00070_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="General Mike will remember that. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Success_00080_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="General Mike would love to congratulate you himself, but he seems busy. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Success_00090_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="General Mike approves of your skills. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Success_00100_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I don't care what General Mike says, you earned that one. Ops Points awarded.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Fail_00010_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="General Mike would like you to know that he knew you'd never succeed.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Fail_00020_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="General Mike told me to say this: “loser loser, ha-ha, loser ha-ha, loser ha.”",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Fail_00030_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="General Mike is shaking his head slowly in disappointment. Seriously, I'm looking right at him.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Fail_00040_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="General Mike has instructed me to communicate the following: “whomp whomp.”",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_Side_Arena_Fail_00050_DefaultBase]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="General Mike said I should play a trombone if you fail, but I'm not sure he understands that I can't use physical objects, so... whomp whomp whomp.",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_SentryLines_00010_S1Wolf]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Mom! Dad! I'm finally home! That death march was way longer than I expected!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_SentryLines_00020_S1Wolf]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Ohhhh! I came back wrong! I saw things! Old things!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_SentryLines_00030_Geoff]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="Arachnis time! The king is back, baby!",Time=0)
+
+[Poplar_VO_DLC_BattleSchool_SentryLines_00040_Geoff]
+bMature=False
+bManualWordWrap=False
+Subtitles[0]=(Text="I gots to spider this place up!",Time=0)
+

@@ -1,0 +1,4 @@
+[TemplateMapMetadata.DisplayNames]
+Test_Capture=PvP - Capture
+Test_Incursion=PvP - Incursion
+Test_Meltdown=PvP - Meltdown

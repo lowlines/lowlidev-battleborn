@@ -1,0 +1,3311 @@
+[CommonUIStrings]
+Cancel=Cancel
+No=No
+Ok=Ok
+Yes=Yes
+On=On
+Off=Off
+Low=Low
+Medium=Medium
+High=High
+Back=Back
+Select=Select
+Exit=Exit
+Close=Close
+Equip=Equip
+Accept=Accept
+Decline=Decline
+Start=Start
+Quit=Quit
+ShardGlyph=‰
+Reward=Reward
+Purchase=Purchase
+Sell=Sell
+Battleborn=Battleborn
+Incomplete=Incomplete
+Win=Win
+Loss=Loss
+Tie=Tie
+Zoom=Zoom
+Connecting=Connecting...
+Retrieving=Retrieving...
+QuestionmarkText=????????
+Loading=Loading
+PlayerNameAndLevel=<font face='$PoplarTitle' color='#38FFEF' size='28'>%i</font>  %s
+SelectSort=Select Sort
+Buy=Buy
+PercentagePresentation="%"
+OrCapitalized=OR
+LevelText=Level
+Player=Player
+Unlock=Unlock
+Unlocking=Unlocking...
+
+[PoplarCharacterSelectGFxMovie]
+GameModeTitle="Game Mode:"
+PickTypeTitle="Pick Type:"
+ChoosingCharacterMessage="Selecting..."
+RandomCharacterName="Random"
+DisconnectedPlayer="Disconnected!"
+RandomCharacterDescription="Choose a random character from those available."
+TeamMakeupTitle=TEAM MAKEUP
+HintRotate=Spin
+HintToggleInfoLabel=Toggle Info
+HintOptionsLabel=Options
+HintTaunt=Taunt
+HintScoreboard=Scoreboard
+AsyncWaitingMessage=Please wait...
+AsyncWaitingForCharacterHeader="Confirming Character With Server"
+CharacterLockedHeader="CHARACTER LOCKED"
+CharacterLockedMessage="The character you have chosen is not unlocked for your profile!"
+CharacterAlreadySelectedHeader="CHARACTER TAKEN"
+CharacterAlreadySelectedMessage="The character you have chosen is already selected by another player!"
+ConfirmCharacterHeader=Confirm Character
+ConfirmCharacterMessage=Are you sure you want to select %s?
+ExpertCharacterHeader=Challenging Character Chosen
+ExpertCharacterMessage=<font color="#F39B28">%s may be very challenging to play in this Story Episode.</font>\nContinue?
+CharacterDetailsTemplate=%s Details
+InvalidSkinHeader=Invalid Skin
+SkinLockedHeader=SKIN LOCKED
+SkinLockedMessage=The skin you have chosen is not unlocked for your profile!
+LoadoutLockedHeader=LOADOUT LOCKED
+LoadoutLockedMessage=The loadout you have chosen is not unlocked for your profile!
+QuestionmarkText=????????
+CharacterChosen=Character Chosen
+WaitingOnOtherPlayers=Waiting On Other Players
+MatchWillBeginSoon=The Match Will Begin Soon!
+SelectCharacter=Select Character
+Starring=Starring
+PlayingAs0=As
+PlayingAs1=Also As
+PlayingAs2=Also Also as
+PlayingAs3=As Yet Another
+PlayingAs4=As Hopefully The Last
+RandomUltimateDescription=Ultimate Skill!
+RandomLeftSkill=A Bomb or Something!
+RandomRightSkill=Some Other Crazy Skill!
+RandomPassiveSkill=Rando Passive Skill!
+
+[PoplarCommandGFxMovie]
+LoadingData=Loading data
+RetrievingStatData=Retrieving stats
+HintNextPageLabel="Next Page"
+HintPrevPageLabel="Prev Page"
+HintNextTabLabel="Next Tab"
+HintPrevTabLabel="Prev Tab"
+ArtifactsLabel="Gear"
+CareerLabel="Career"
+MarketplaceLabel="Marketplace"
+PlayerStatsLabel="Player Stats"
+ReputationPoints=Reputation Points
+CharacterNotOwnedFailureMessage="You don't own the character for this item."
+InsufficientFundsFailureMessage="You do not have enough currency for this item."
+MaximumCountOwnedFailureMessage="You already have the maximum number of this item."
+InvalidMetaIDFailureMessage="Invalid MetaID. Something is wrong here..."
+InvalidCostFailureMessage="Invalid price. Something is wrong here..."
+InsufficientMetaLevelFailureMessage="You must be Command Rank %i to purchase this item!"
+AnnouncementDelimiter="      "
+LocalizedOnSaleText=[onSaleText]Sale![-onSaleText]
+PercentDiscountText="%i% OFF"
+AmountDiscountText="%i OFF"
+LocalizedFeaturedText=[FeaturedYellow]Featured![-FeaturedYellow]
+LocalizedOnFreeRotationText=[FreeRotationGreen]Free Rotation![-FreeRotationGreen]
+LocalizedNewText=[NewOrange]New![-NewOrange]
+
+[PoplarCommandBattlebornGFxMovie]
+BattlebornCharacterLabel=Character
+BattlebornLoadoutLabel=Loadout
+BattlebornCareerLabel=Character Career
+LocalizedHealth=Health
+LocalizedPower=Power
+LocalizedRange=Range
+LocalizedSpeed=Speed
+QuestionmarkText=????????
+HintRotate=Spin
+HintToggleInfoLabel=Toggle Info
+HintSetDefault=Set as Default
+HintPurchaseCharacter=Purchase Character
+RankUnlock=Rank Unlock
+RankRequired=Command Rank %i
+PurchaseWithEC=Purchase with Credits
+PurchaseWithECDescription=Purchase with %i Credits
+CharacterTokenUnlock=Use Hero Key
+CharacterTokenUnlockDescriptionSingle=Unlock with a Hero Key
+CharacterTokenUnlockDescriptionPlural=Unlock with %i Hero Keys
+ChallengeUnlock=Challenge Unlock
+CharacterRank=Rank
+MasteryPercent=Lore and Rank Mastery
+
+[PoplarCommandBattlebornCharacterAppearanceGFxObject]
+LocalizedSkinsTitle=Skins
+LocalizedTauntsTitle=Taunts
+HintPlayTaunt=Play Taunt
+LocalizedCharacterRequired=Must Own %s
+LocalizedRankRequired=Unlocks at Command Rank %i
+LocalizedPlayerRampUnlock=Rewarded at Command Rank %i
+LocalizedCharacterRampUnlock=Rewarded at Character Rank %i
+LocalizedChallengeUnlock=Complete Challenge “%s”
+LocalizedLoreChallengeUnlock=Complete Lore Challenge “%s”
+
+[PoplarCommandBattlebornCharacterGFxObject]
+LocalizedHelix=Helix
+LocalizedSkills=Skills
+LocalizedCharacterRank=Character Rank
+LocalizedLoreCompletion=Lore and Rank Mastery
+LocalizedNextReward=Next Reward
+LoadingCharacterMessage=Loading Character Data...
+LocalizedPassive=Passive
+LocalizedWeapon=Weapon
+LocalizedTalent=Talent
+LocalizedSkill1=Skill 1
+LocalizedSkill2=Skill 2
+LocalizedUltimate=Ultimate
+FactionAndRoleFormat=%faction %role
+
+[PoplarCommandBattlebornCharacterChallengesGFxObject]
+LocalizedChallenges=Challenges
+Pause=Pause
+Resume=Resume
+Replay=Replay
+HideLoreInfo=Hide Lore Info
+ShowLoreInfo=Show Lore Info
+
+[PoplarCommandBattlebornCharacterStatsGFxObject]
+LocalizedStats=Stats
+
+[PoplarCommandTitleSelectPanelGFxObject]
+ChallengesCompleteText=Challenges Complete
+
+[PoplarCommandArtifactsGFxMovie]
+LocalizedPacks=Packs
+HintSellMetaItem=Sell
+HintTransferMetaItem=Transfer
+HintTransferAllItems=Transfer All
+HintRename=Rename Loadout
+HintRemoveGear=Remove Gear
+LocalizedBuyPackMessage=Buy A New Pack!
+LocalizedBuyPackDescription=Purchase additional Loot Packs.
+HintCancel=Cancel
+LocalizedOwnsMax=You already own the maximum amount of this item!
+DefaultLoadoutName=Loadout %i
+LocalizedBuyLoadoutLocked=<font color="#ff0000">\n\nUnlocks at Command Rank %i</font>
+LocalizedEquipGear=Equip Gear Into Loadouts
+LocalizedLoadoutCount=%i0/%i1
+LocalizedOperationFailMessage=Operation has failed!
+HintSaveLoadout=Save Loadout
+BankTitle=Gear Bank
+BuyBankPageTitle=Buy A Bank Page!
+BuyBankPageDescription=Yeah, buy a page!
+MaxBankPagesTitle=Maximum Pages Purchased!
+MaxBankPagesDescription=Congrats!
+ReminderMessageBuyPacks=Purchase New Loot Packs!
+ReminderMessagePacks=Purchase or Open Loot Packs!
+ReminderMessageSideboard=Place Contents into the Bank or Sell!
+ReminderMessageLoadouts=Equip Gear Into Loadouts!
+QuestionmarkText=??????
+LocalizedOwnedText=Owned
+
+[ItemFrameGFxObject]
+ActivationCostLabel =Activation Cost
+SellValueLabel =Sell Value
+
+
+[PoplarCommandCareerGFxMovie]
+LocalizedStats=Stats
+LocalizedHistory=History
+LocalizedChallenges=Challenges
+LocalizedTitles=Titles
+TitleText="“%s” Title"
+Collapse=Collapse
+
+[PoplarCommandChallengesPanelGFxObject]
+CompleteText=Complete
+RankText=Rank
+ProgressText=Progress
+RewardsText=Rewards
+
+[PoplarCommandPlayerStatsPanelGFxObject]
+LocalizedCareerExperienceLabel=Career Experience
+LocalizedCareerResultsLabel=Career Results
+LocalizedCharacterExperienceLabel=Character Experience
+LocalizedCharacterResultsLabel=Character Results
+LocalizedLevelLabel=Command Rank
+LocalizedCharacterLevelLabel=Character Rank
+LocalizedCurrentXPLabel=Current XP
+LocalizedNextXPLabel=Next XP
+LocalizedHoursPlayedLabel=Hours Played
+LocalizedPerModeLabel=Per Mode
+LocalizedMostWinsLabel=Most Wins
+LocalizedKillsLabel=Kills
+LocalizedDeathsLabel=Deaths
+LocalizedAssistsLabel=Assists
+LocalizedWinsLabel=Wins
+LocalizedLossesLabel=Losses
+LocalizedTimeLabel=Time
+LocalizedFavoritesLabel=Favorites
+LocalizedPVEMatchPlayedFormattedString=%d Mission
+LocalizedPVEMatchesPlayedFormattedString=%d Missions
+LocalizedPVPMatchPlayedFormattedString=%d Match
+LocalizedPVPMatchesPlayedFormattedString=%d Matches
+LocalizedBestsLabel=Bests!
+LocalizedNextRankXP=%d0/%d1 XP
+LocalizedTotalXP=Total: %d XP
+
+[PoplarCommandTitleSelectPanelGFxObject]
+UnlockNowText=Unlock Now!
+NextLevelText=Unlock Next!
+CommandRank=Command Rank
+ReputationPoints=Reputation Points
+TitleTip=TIP: Spend points to unlock new Faction Titles, then equip a title to display!
+
+[PoplarCommandMarketplaceGFxMovie]
+PlayStationStore=PlayStation®Store
+XboxStore=Xbox Store
+GearboxStore=Gearbox Store
+LocalizedOwnedText=Owned
+HintShowOwnedItems=Show Unpurchasable
+HintHideOwnedItems=Hide Unpurchasable
+HintReturnToPage=Return To Page
+QuestionmarkText=??????
+HintRedeemCodeText=Redeem Code
+
+[MarketItemInfoGFxObject]
+LocalizedPurchaseHistory=Purchase History
+LocalizedRemainingRefunds=Remaining Refunds: %i
+HintRefund=Refund
+HintShowPurchaseHistory=Show Purchase History
+HintHidePurchaseHistory=Hide Purchase History
+
+[PoplarMetaItemSortDialogGFxMovie]
+SortTypes=Sort Types
+Alphabetical=Alphabetical
+ReverseAlphabetical=Reverse Alphabetical
+HighToLowEC=High to Low Credits
+LowToHighEC=Low to High Credits
+HighToLowPC=High to Low Platinum
+LowToHighPC=Low to High Platinum
+HighToLowCT=High to Low Hero Keys
+LowToHighCT=Low to High Hero Keys
+HighToLowRarity=Rarity
+LowToHighRarity=Rarity (Reverse)
+HighToLowActivationCost=Activation Cost (Reverse)
+LowToHighActivationCost=Activation Cost
+HighToLowType=Type
+LowToHighType=Type (Reverse)
+Faction=Faction
+AcquisitionTime=Newest
+Unlocked=Unlocked
+LoreCompletion=Lore Completion
+CharacterRank=Character Rank
+PercentComplete=Completed
+
+[PoplarMetaItemPurchaseDialogGFxMovie]
+LocalizedGoToPC=Buy More Platinum
+LocalizedCantAfford=Can't Afford!
+LocalizedCantUnlock=Not Enough Hero Keys!
+LocalizedPurchasing=Purchasing...
+HeroKeyReturnExplination=Hero Keys will be returned if the Battleborn is unlocked via Command Rank or Challenge.
+MustScroll=Read full description to proceed.
+
+[CharacterCustomization]
+New=NEW
+
+[StatusMenu]
+Empty="(EMPTY)"
+SoldOut=SOLD OUT
+Unloadable="(OFFLINE)"
+
+[Minimap]
+HintTeleportLabel=Teleport
+HintPingLabel=Ping
+
+[PoplarPressStartGFxMovie]
+PressStart=Start
+Quit=Quit
+DisclaimerText_PC=•  The publisher does not commit to providing customer support for the game.
+DisclaimerText_XB1=•  Microsoft Software and the publisher do not commit to providing customer support for the game.
+DisclaimerText_PS4=•  Sony Computer Entertainment and the publisher do not commit to providing customer support for the game.
+
+[PoplarBuildNodeGFxMovie]
+CantAfford=Can't Afford
+ReplaceActiveDroneText=Only 1 Active Drone Per Player
+Active=Active
+
+
+[PoplarScoreboardGFxMovie]
+HintMuteAllLabel=Mute All
+HintUnmuteAllLabel=Unmute All
+Totals=Totals
+TogglePages=Toggle Page
+
+[PoplarFrontendGFxMovie]
+HintFrontendCancelMatchmaking="Leave Matchmaking"
+HintFrontendSwitchProfile="Switch Profile"
+HintFrontendShowPartyUI="Manage <StringAliasMap:Term_Party_Caps>"
+HintFrontendRefreshFriendsList="Refresh <StringAliasMap:Term_Friends>"
+HintFrontendChangeTeam="Change Team"
+HintFrontendChangeTeam_Durango="Change Local Team"
+HintFrontendChangeTeam_Orbis="Change Local Team"
+HintFrontendPrivateMatchScreenMapSelect="Choose Map"
+HintFrontendPrivateMatchScreenOptions="Private Match Options"
+MatchmakingLabel_FindTeam_Searching="Searching for teammates..."
+MathcmakingLabel_FindTeam_Creating="Creating team session..."
+MatchmakingLabel_FindTeam_Hosting="Waiting for teammates..."
+MatchmakingLabel_FindTeam_SessionJoin="Assembling team..."
+MatchmakingLabel_FindOpposingTeam_Searching="Searching for opposing team..."
+MatchmakingLabel_FindOpposingTeam_Creating="Creating game session..."
+MatchmakingLabel_FindOpposingTeam_Hosting="Waiting for opposing team..."
+MatchmakingLabel_FindOpposingTeam_SessionJoin="Assembling game..."
+MatchmakingLabel_ObtainingGameInformation="Obtaining game information..."
+MatchmakingLabel_RegisteringWithGame="Registering with game..."
+MatchmakingLabel_OptionVoting="Voting on game..."
+MatchmakingLabel_SettingUpGame="Setting up game..."
+MatchmakingLabel_ConnectingToDedicatedServer="Connecting to dedicated server..."
+MatchmakingLabel_DelayedResume="Resuming matchmaking soon..."
+MatchmakingLabel_PrivateMatch="Private Match"
+MatchmakingLabel_PrivateMission="Private Mission"
+ProductVersion=NAT: %NAT% (%VERSION%)
+CancelMatchmakingMessage_Generic="Exiting matchmaking"
+CancelMatchmakingMessage_HostChoseToCancel="The lobby host has chosen to exit matchmaking"
+CancelMatchmakingMessage_SparkError="There was a failure communicating with the Battleborn server; exiting matchmaking"
+CancelMatchmakingMessage_BeaconError="Failed to connect to other players; exiting matchmaking"
+CancelMatchmakingMessage_ConnectionTimedOut="Connection timed out; exiting matchmaking"
+CancelMatchmakingMessage_GameSessionError="Failed to establish online game session; exiting matchmaking"
+CancelMatchmakingMessage_ModifySessionError="Failed to update online game session; exiting matchmaking"
+CancelMatchmakingMessage_FindOnlineGamesError="Failed to search for online game sessions; exiting matchmaking"
+CancelMatchmakingMessage_ExperienceNotAvailable="Playlist not available; exiting matchmaking"
+CancelMatchmakingMessage_RateLimitError="Too many requests issued to the online service. Please wait before trying again; exiting matchmaking"
+CancelMatchmakingMessage_QualityOfServiceError="Failed to perform quality of service; exiting matchmaking"
+CancelMatchmakingMessage_PrivilegesChanged="Player does not have online permissions; exiting matchmaking"
+CancelMatchmakingMessage_PrivilegesChanged_Durango"=Player does not have the correct online permissions to access multiplayer features; exiting matchmaking"
+CancelMatchmakingMessage_PrivilegesChanged_Orbis="PlayStation®Plus is required to access multiplayer features. Please join PlayStation®Plus to proceed; exiting matchmaking"
+PlayerLeftMatchmakingMessage_Cancelled="A player has exited matchmaking"
+PlayerLeftMatchmakingMessage_ConnectionError="A player has left matchmaking due to a connection error"
+PlayerLeftMatchmakingMessage_SparkError="A player has left matchmaking due to a failure communicating with the Battleborn server"
+PlayerLeftPrivateMatchMessage_Cancelled="A player has exited the private match"
+PlayerLeftPrivateMatchMessage_ConnectionError="A player has left the private match due to a connection error"
+PlayerLeftPrivateMatchMessage_SparkError="A player has left the private match due to a failure communicating with the Battleborn server"
+SyncingFrontendState="Requesting lobby state from host"
+OptionVotingDialogHeader="Please vote for your preferred map choice!"
+OptionVotingDialogTooltip=<StringAliasMap:OptionVotingDialogTooltip>
+SplitJoinPartyRequestSent=Join request sent for %NICKNAME%
+OptionVotingStartedNotificationMessage="Voting has begun!  Choose your preferred option now."
+CancelPrivateMatchMessage_Generic="Exiting private match"
+CancelPrivateMatchMessage_HostChoseToCancel="The lobby host has chosen to exit private match"
+CancelPrivateMatchMessage_SparkError="There was a failure communicating with the Battleborn server; exiting private match"
+CancelPrivateMatchMessage_BeaconError="Failed to connect to other players; exiting private match"
+CancelPrivateMatchMessage_ConnectionTimedOut="Connection timed out; exiting private match"
+CancelPrivateMatchMessage_GameSessionError="Failed to establish online game session; exiting private match"
+CancelPrivateMatchMessage_ModifySessionError="Failed to update online game session; exiting private match"
+CancelPrivateMatchMessage_RateLimitError="Too many requests issued to the online service. Please wait before trying again; exiting private match"
+CancelPrivateMatchMessage_PrivilegesChanged="Player does not have online permissions; exiting private match"
+CancelPrivateMatchMessage_PrivilegesChanged_Durango="Player does not have the correct online permissions to access multiplayer features; exiting private match"
+CancelPrivateMatchMessage_PrivilegesChanged_Orbis="PlayStation®Plus is required to access multiplayer features. Please join PlayStation®Plus to proceed; exiting private match"
+TooFewPlayersError=You were kicked because not enough players were connected when the match began!
+RefreshingExperiencesMessage="Refreshing Playlists"
+LogoText_DigitalDeluxe="Digital Deluxe Edition"
+BestTimeTemplate="Best Time %s"
+
+[PoplarFrontendMatchmakingTransitionGFxMovie]
+MatchmakingTransition_Caption="Your game will be ready soon!"
+MatchmakingTransition_ConnectionTimeoutTemplate="Connection Timeout in %d:%.2d"
+MatchmakingTransition_EstimatedWaitTemplate="Estimated Server in %d:%.2d"
+
+[PoplarFrontendMatchmakingInfoGFxObject]
+GenericMatchmakingMessage="Playing Battleborn"
+
+[NATTypeStrings]
+NATTypeUnknown=<StringAliasMap:Term_NAT_Unknown>
+NATTypeOpen=<StringAliasMap:Term_NAT_Open>
+NATTypeModerate=<StringAliasMap:Term_NAT_Moderate>
+NATTypeStrict=<StringAliasMap:Term_NAT_Strict>
+
+[dlgNATHelp]
+Caption=%NAT_TYPE% NAT Detected
+Prompt=Your NAT type is %NAT_TYPE%. People on networks with this NAT type should be able to join games and hear people while playing online. <StringAliasMap:Term_NAT_Open> NATs provide the best online experience. Would you like to view information on how to change NAT settings?
+NoRemind=No, and don't ask again
+NATHelpURL_Durango=http://support.xbox.com/en-US/xbox-one/networking/nat-error-solution
+NATHelpURL_Orbis=http://manuals.playstation.net/document/en/ps4/settings/nw_test.html
+
+[dlgNATHelpLocal]
+Caption=<StringAliasMap:Term_NAT_Strict> NAT Detected
+Prompt=Your NAT type is <StringAliasMap:Term_NAT_Strict>. People on networks with this NAT type may not be able to join certain games or hear people while playing online. For the best online experience, you must change your NAT type to <StringAliasMap:Term_NAT_Open>. Would you like to view information on how to change NAT settings?
+
+[dlgNATHelpLocalAndRemote]
+Caption=<StringAliasMap:Term_NAT_Strict> NAT Detected
+Prompt=Both you and the player you are trying to connect to have a NAT that is <StringAliasMap:Term_NAT_Strict>. People on networks with this NAT type may not be able to join certain games or hear people while playing online. For the best online experience, both you and the other player must change your NAT type to <StringAliasMap:Term_NAT_Open>. Would you like to view information on how to change NAT settings?
+
+[dlgNATHelpRemote]
+Caption=<StringAliasMap:Term_NAT_Strict> NAT Detected
+Prompt=The player you are trying to connect to has a NAT that is <StringAliasMap:Term_NAT_Strict>. People on networks with this NAT type may not be able to join certain games or hear people while playing online. For the best online experience, they must change their NAT type to <StringAliasMap:Term_NAT_Open>. Would you like to view information on how to change NAT settings?
+
+[dlgNATHelpUnknown]
+Caption=NAT Type Unknown
+Prompt=Your NAT type is unknown. For the best online experience, consider changing your NAT type to <StringAliasMap:Term_NAT_Open>. Would you like to view information on how to change NAT settings?
+
+[dlgLoginWarning]
+Caption=Log In Abuse Warning
+Prompt=WARNING: Continuing to attempt to log in will result in a temporary account suspension.
+
+[dlgLoginSuspended]
+Caption=Log In Suspended
+Prompt=You have been suspended from logging in. The suspension will end on %END_DATE%.
+
+[PoplarFrontendScreenMainGFxObject]
+LabelMainMenu="Main Menu"
+LabelCompetitive="Versus Public"
+CaptionCompetitive="Play Against Live Opponents"
+LabelCampaign="Story Public"
+CaptionCampaign="Play Through the Story"
+LabelOperations="Operations Public"
+CaptionOperations="Play Operations"
+LabelCompetitivePrivateMatch="Versus Private"
+LabelCampaignPrivateMatch="Story Private"
+LabelOperationsPrivateMatch="Operations Private"
+LabelPrologue="Prologue"
+CaptionPrologue="Play the Prologue"
+LabelCommand="Command"
+CaptionCommand="Character and Loadout Management"
+LabelRejoin="Active Games"
+LabelMatchResults="Match History"
+LabelFriends="Friends"
+LabelMarketplace="Marketplace"
+LabelOptions="Options"
+LabelExtras="Extras"
+LabelAchievements=<StringAliasMap:Term_Achievements>
+LabelShift="SHiFT"
+LabelCredits="Credits"
+LabelQuit="Quit"
+LabelDisconnect="Disconnect"
+WaitTime_Short="Estimated wait: Short"
+WaitTime_Average="Estimated wait: Average"
+WaitTime_Long="Estimated wait: Long"
+RetrievingFriendDisplayDataMessage="Retrieving <StringAliasMap:Term_Friend> Info..."
+RetrievingFriendDisplayDataFailedMessage="FAILED"
+ReadingFriendsListMessage="Reading <StringAliasMap:Term_Friend> List..."
+NoFriendsFoundMessage="No <StringAliasMap:Term_Friends> found."
+FailedToFindFriendsMessage="Failed to refresh <StringAliasMap:Term_Friends>."
+FriendOnlinePresence="Online"
+FriendOfflinePresence=""
+LoadingMessageOfTheDay="Loading news..."
+LearnMore="Learn More"
+Incomplete=Incomplete
+Win=Win
+Loss=Loss
+Tie=Tie
+ShowMatchHistoryMessage="Reading match history"
+QueryForActiveGamesMessage="Requesting active games"
+DownloadingEULADataMessage="Downloading agreements"
+SubmittingEULADataMessage="Submitting agreements"
+ReadingOnlinePrivilegesMessage="Reading online privileges"
+
+[PoplarFrontendScreenVotingGFxObject]
+Caption_Vote="Please Vote for Your Preferred Option!"
+Caption_NoVote=""
+VoteOptionCaptionAbstain="No Preference"
+ButtonGlyph_0="Press <StringAliasMap:MatchmakingVoteOption1>"
+ButtonGlyph_1="Press <StringAliasMap:MatchmakingVoteOption2>"
+ButtonGlyph_2="Press <StringAliasMap:MatchmakingVoteOption3>"
+ButtonGlyph_Abstain="Press <StringAliasMap:MatchmakingVoteOptionAbstain>"
+AlreadyVoted=You have already voted.
+
+[PoplarFrontendScreenPrivateMatchGFxObject]
+LabelCharacterUniqueness="Unique Characters"
+LabelBotsTeam1="Bots On Team 1"
+LabelBotsTeam2="Bots On Team 2"
+BotsOnTeamFill="Fill"
+LabelGlobalChat="In Game Chat"
+LabelMatchTag="Match Tag"
+LabelCampaignDifficulty="Difficulty"
+LabelHardcore="Hardcore"
+LabelChooseMap="Choose Map"
+LabelStartMission="Start Mission"
+LabelStartMatch="Start Match"
+DescCharacterUniqueness="When enabled, each player on your team must select a unique Battleborn character."
+DescBotsTeam="Select the number of bots to spawn on this team.\nChoose “Fill” to fill all remaining team slots with bots."
+DescGlobalChat="Set in-game chat settings."
+DescMatchTag="Tag used for debugging purposes."
+DescCampaignDifficulty="Set story difficulty."
+DescChangeTeams="Change to the opposite team."
+DescChangeTeams_Durango="Change all local players to the opposite team."
+DescChangeTeams_Orbis="Change all local players to the opposite team."
+DescHardcore=When Hardcore mode is enabled, you have no Extra Lives. Play Carefully!
+DescChooseMapCompetitive="Select a map and begin the match."
+DescChooseMapCampaign="Select a map and begin the mission."
+DescStartMission="Begin the mission."
+DescStartMatch="Begin the match."
+SpinnerOptionOn="On"
+SpinnerOptionOff="Off"
+SpinnerOptionTeam="Team"
+SpinnerOptionGlobal="Global"
+SpinnerOptionNoTag="<no tag>"
+SpinnerOptionDifficulty0="Normal"
+SpinnerOptionDifficulty1="Advanced"
+LoadingPrivateMatchOptionsMessage="Loaded Private Match options from profile"
+NavigationBreadcrumbLabelOptions="Private Match Options"
+NavigationBreadcrumbLabelMapSelection="Choose Map"
+NavigationBreadcrumbLabelMissionOptions="Private Mission Options"
+NavigationBreadcrumbLabelMissionSelection="Choose Mission"
+
+
+[PoplarPartyNetworkOptions]
+FriendsOnly="Friends can join"
+Public="Anyone can join"
+Private="No one can join"
+
+[PoplarSkillCastStyleOptions]
+StandardCast="Standard"
+QuickCast="Quick"
+InstaCast="Instant"
+
+[PoplarAutoAimSettingOptions]
+On="On"
+Off="Off"
+Dynamic="Dynamic"
+
+[PoplarDamageFeedbackOptions]
+NumbersAndFlash=Numbers and Flash
+Numbers=Numbers Only
+Flash=Flash Only
+None=None
+
+[PoplarSpeakerSetupOptions]
+Hifi=Hifi
+SmallSpeaker=Small Speaker
+NightTime=Nighttime
+Headphones=Headphones
+Mono=Mono
+
+[PoplarChatDisplayLengthOptions]
+Short="Short"
+Normal="Normal"
+Long="Long"
+
+[PoplarMapDisplayOptions]
+Default=Default
+Minimap=Minimap Only
+Radar=Radar Only
+
+[PoplarParticleDetailSettingOptions]
+Minimum=Minimum
+Normal=Normal
+Maximum=Maximum
+
+[PoplarScrollingListDataProviderPartyOptions]
+MenuDisplayName=Lobby
+
+[PoplarPlayerDetailsGFxMovie]
+JoinGameCaption=Join Game
+;JoinGameDescription=Join this player's game.
+InviteGameCaption=Invite to Game
+;InviteGameDescription=Invite this player to the current game.
+ViewGamercardCaption=View <StringAliasMap:Term_GamerCard>
+;ViewGamercardDescription=View this player's gamercard.
+MuteCaption=Mute Player
+;MuteDescription=Mute this player.
+UnmuteCaption=Unmute Player
+;UnmuteDescription=Unmute this player.
+KickCaption=Kick Player
+;KickDescription=Kick this player from the current game.
+BackCaption=Back
+;BackDescription=Close this dialog.
+ReportCaption=Report Player
+ReportCheatingCaption=Cheating
+ReportIdleCaption=Frequently Idle
+ReportAbusiveCaption=Abusive Behavior/Language
+
+[PlayerDetailsGFxMovie]
+QualityTypeGreat=<font color="#00FF00">Optimal match!</font>
+QualityTypeGood=<font color="#CCFF00">Good match!</font>
+QualityTypeAcceptable=<font color="#FFFF00">Acceptable match!</font>
+QualityTypeBad=<font color="#F79898">Poor match!</font>
+QualityTypeNone=<font color="#FFFFFF"></font>
+
+[PoplarFrontEndPlayerListGFxObject]
+DefaultPresenceText=Playing Battleborn
+PresenceTextLobby=In a lobby
+PresenceTextMatchmaking=In matchmaking
+PresenceTextPlaying=In game
+PlayerConnectingString=Connecting...
+SplitJoinMessage=Press <StringAliasMap:HintAccept> to join!
+InviteFriendMessage=Invite friend...
+SearchingForTeamMemberMessage=Searching for teammate...
+SearchingForOpponentMessage=Searching for opponent...
+ResumingMatchmakingMessage=Resuming matchmaking soon...
+PlayerFoundMessage=Player found!
+Online=Online
+Offline=Offline
+PlayerLevel=Rank %LEVEL%
+Team1IndicatorText="Team 1"
+Team2IndicatorText="Team 2"
+Team3IndicatorText="Spectating"
+
+[PoplarDlgQuit]
+Caption=Quit Battleborn?
+Prompt=Are you sure you want to quit Battleborn?
+
+[PoplarDlgQuitNetworked]
+Caption=Quit Battleborn?
+Prompt=Are you sure you want to quit Battleborn? Performing this action will disconnect all networked players.
+
+[PoplarDlgQuitMatchmaking]
+Caption=Quit Battleborn?
+Prompt=Are you sure you want to quit Battleborn? Performing this action will remove you from the matchmaking queue.
+
+[PoplarDlgQuitNetworkedMatchmaking]
+Caption=Quit Battleborn?
+Prompt=Are you sure you want to quit Battleborn? Performing this action will disconnect all networked players and remove you from the matchmaking queue.
+
+[PoplarDlgDisconnectLobby]
+Caption=Disconnect?
+Prompt=Are you sure you want to disconnect from the current lobby?
+Yes=Disconnect
+No=Cancel
+
+[PoplarDlgConfirmPurchase]
+Caption=Purchase?
+Prompt=Are you sure you want to buy this?
+Yes=Purchase
+No=Cancel
+
+[PoplarDlgConfirmPackOpen]
+Caption=Open Loot Pack?
+Prompt=Are you sure you want to open this Loot Pack?
+Yes=Purchase
+No=Cancel
+
+[PoplarDlgConfirmSellItem]
+Caption=Sell Item?
+Prompt=Are you sure you want to sell this item?
+Yes=Sell
+No=Cancel
+
+[PoplarDlgConfirmSellEquippedGear]
+Caption=Sell Equipped Gear Item?
+Prompt=The Gear item you are selling is assigned to one or more Loadouts. Are you sure you want to sell this Gear item?
+Yes=Sell
+No=Cancel
+
+[PoplarDlgConfirmTransferAllSideboard]
+Caption=Transfer All?
+Prompt=Are you sure you want to transfer all remaining items to your bank?
+Yes=Transfer
+No=Cancel
+
+[PoplarDlgKickForRejoin]
+Caption=Kick Players?
+Prompt=Rejoining your previous game will kick players from your lobby!
+Yes=Continue
+No=Cancel
+
+[PoplarDlgDisconnecting]
+Caption=Disconnecting
+Prompt=Disconnecting from host, please wait.
+
+[PoplarDlgInvalidExperiencePartySize]
+Caption=Invalid <StringAliasMap:Term_Party_Caps> Size
+Prompt=You currently have too many players in your <StringAliasMap:Term_Party> for this playlist.
+
+[PoplarDlgInvalidTeamSizeMax]
+Caption=Invalid Team Size
+Prompt=You currently have too many players on a single team to begin this playlist. The maximum number of players per team is %MAX%.
+
+[PoplarDlgInvalidTeamSizeNoNonSpectators]
+Caption=Invalid Team Size
+Prompt=You currently have too few players on a single team to begin this playlist. You must have at least 1 player on a single team that is not the spectator team.
+
+[PoplarDlgInvalidSpectatorTeamSize]
+Caption=Invalid Team Size
+Prompt=You currently have too many players on the spectator team to begin this playlist. The maximum number of players for the spectator team is %MAX%.
+
+[PoplarDlgInvalidLocalSpectatorCount]
+Caption=Too Many Local Spectators
+Prompt=You currently have too many local players on the spectator team to begin this playlist. The maximum number of players for the spectator team is 1.
+
+[PoplarDlgInvalidTeamSizeMin]
+Caption=Invalid Team Size
+Prompt=You currently have too few players on a single team to begin this playlist. The minimum number of players per team is %MIN%.
+
+[PoplarDlgInvalidTeamSizeMinBots]
+Caption=Invalid Team Size
+Prompt=You currently have too few players on a single team to begin this playlist. The minimum number of players per team is %MIN%. You can enable bots to meet this requirement.
+
+[PoplarDlgCurrentlyMatchmaking]
+Caption=Currently Matchmaking
+Prompt=You cannot enter matchmaking for a new playlist until you leave the queue for your current playlist.
+
+[PoplarDlgCannotMatchmakeNewPlaylist]
+Caption=Currently Matchmaking
+Prompt=You cannot enter matchmaking for a new playlist at this time.
+
+[PoplarDlgSelectSameExperience]
+Caption=Already Matchmaking
+Prompt=You are currently in matchmaking for %EXPERIENCE%.
+
+[PoplarDlgSelectNewExperience]
+Caption=Change Playlist?
+Prompt=You are currently in matchmaking for %OLD_EXPERIENCE%. Would you like to leave this queue and begin matchmaking for %NEW_EXPERIENCE%?
+
+[PoplarDlgSelectNewExperiencePrivateMatch]
+Caption=Join Private Match?
+Prompt=You are currently in matchmaking for %OLD_EXPERIENCE%. Would you like to leave this queue and join a private match for %NEW_EXPERIENCE%?
+
+[PoplarDlgClientsCannotEnterMatchmaking]
+Caption=Matchmaking Not Available
+Prompt=You cannot enter matchmaking because you are in another player's lobby. Please disconnect from your current lobby before choosing a playlist.
+
+[PoplarDlgClientsCannotStartPrivateMatch]
+Caption=Private Match Not Available
+Prompt=You cannot start a private match because you are in another player's lobby. Please disconnect from your current lobby before starting a private match.
+
+[PoplarDlgClientsCannotStartPrologue]
+Caption=Prologue Not Available
+Prompt=You cannot start the Prologue because you are in another player's lobby. Please disconnect from your current lobby before starting the Prologue.
+
+[PoplarDlgExperienceDisabled]
+Caption=Matchmaking Requirements Not Met
+Prompt=You cannot start this playlist because you do not meet the requirements.\n\n%REQUIREMENTS%
+
+[PoplarDlgConfirmCancelMatchmaking]
+Caption=Cancel Matchmaking?
+Prompt=Are you sure you want to leave the matchmaking queue?
+
+[PoplarDlgConfirmCancelMatchmakingClient]
+Caption=Cancel Matchmaking?
+Prompt=Are you sure you want to leave the matchmaking queue? The other players in your lobby will continue matchmaking.
+
+[PoplarDlgConfirmCharacterSelectDisconnect]
+Caption=Disconnect?
+Prompt=Are you sure you want to leave the match?
+
+[PoplarDlgConfirmPrivateMatchDisconnect]
+Caption=Disconnect?
+Prompt=Are you sure you want to leave the private match? You will be disconnected from the other players in your lobby.
+
+[PoplarDlgConfirmCancelMatchmakingHost]
+Caption=Cancel Matchmaking?
+Prompt=Are you sure you want to leave the matchmaking queue? The players in your lobby will also be removed from matchmaking with you.
+
+[PoplarDlgNoExperiencesAvailable]
+Caption=Matchmaking Not Available
+Prompt=Matchmaking is currently unavailable.\n\n%BUILD_STATUS%
+BuildStatusRequiresUpdate=Please make sure you have the latest patch downloaded and installed.
+BuildStatusUnavailable=Please wait and try again later.
+BuildStatusDisabled=
+
+[PoplarDlgPrivateMatchUnavailable]
+Caption=Private Matches Not Available
+Prompt=Private Matches are currently unavailable.\n\n%BUILD_STATUS%
+
+[PoplarDlgPrologueUnavailable]
+Caption=Prologue Not Available
+Prompt=Prologue is currently unavailable.\n\n%BUILD_STATUS%
+
+[PoplarDlgGameNotInstalled]
+Caption=Feature Not Available
+Prompt=The selected feature is currently unavailable. All required content has not finished installing.
+
+[PoplarDlgPrologueNotComplete]
+Caption=Feature Not Available
+Prompt=The selected feature is currently unavailable because a local player has not completed the Prologue.
+
+[PoplarDlgPlayerQueued]
+Caption=Feature Not Available
+Prompt=The selected feature is currently unavailable because you are in the Battleborn queue. Please wait and try again later.
+
+[PoplarDlgPlayerQueued0]
+Caption=Feature Not Available
+Prompt=The selected feature is currently unavailable because you are in the Battleborn queue.\n\nAlmost there! You're nearing the front of the line!
+
+[PoplarDlgPlayerQueued1]
+Caption=Feature Not Available
+Prompt=The selected feature is currently unavailable because you are in the Battleborn queue.\n\nHang on! You've got a ways to go!
+
+[PoplarDlgPlayerQueued2]
+Caption=Feature Not Available
+Prompt=The selected feature is currently unavailable because you are in the Battleborn queue.\n\nSit tight! This may take a while!
+
+[PoplarDlgScoreboardPopup]
+Caption=Player Options
+Prompt=Available Options for %NAME%:
+Profile=View Profile
+Mute=Mute
+Unmute=UnMute
+Cancel=Cancel
+
+[PoplarDlgUnableToCancelMatchmaking]
+Caption=Unable to Cancel
+Prompt=Unable to cancel matchmaking at this time.
+
+[PoplarAFK]
+Caption=Inactivity Detected
+Prompt=You have been flagged as INACTIVE due to a lack of activity. You will be removed from the match in 5 minutes. Don't let your team down! Get back in the game!
+Yes=Ok
+NameplateDialog=%PLAYER% (Inactive)
+
+[dlgIdleKick]
+Caption=Connection Lost
+Prompt=You have been removed from the game server due to inactivity. You may attempt to rejoin the match by choosing any playlist.
+
+[PoplarGameInfo]
+PlayerAchievedFirstBlood=has drawn first blood!
+MinionsTowersLevelingUp=Minions and Sentries are Leveling Up...
+MinionsSpawning=Minions are spawning!
+
+[PoplarGameInfoFrontend]
+ClusterTimeoutMessage="Server timed out. Requesting new server now."
+PreparingGame=Preparing Game
+
+[PoplarIncomeDisplayWidget]
+SmallPickup=Small Pickup
+MediumPickup=Medium Pickup
+LargePickup=Large Pickup
+
+[PoplarMessages]
+CheckpointActivated_All=Checkpoint Activated!
+DownPlayerCalloutA_Instigator=Help me, I'm down!
+DownPlayerCalloutA_EveryoneElse=%InstigatingPlayer% requests a revive
+TowerDestroyed_Title=Sentry Destroyed!
+TowerDestroyed_OpposingTeam=%InstigatingPlayer% has destroyed one of your Sentries!
+TowerDestroyed_InstigatingTeam=%InstigatingPlayer% has destroyed an enemy Sentry!
+TowerDestroyed_Instigator=You have destroyed an enemy Sentry!
+PowerCoreDestroyed_Title=Power Core Destroyed
+PowerCoreDestroyed_Instigator=You have destroyed an enemy Power Core!
+FirstBlood_Title=First Blood
+FirstBlood_Instigator=You drew First Blood!
+FirstBlood_EveryoneElse=%InstigatingPlayer% drew First Blood!
+PlayerKilled_Title=Player Killed
+PlayerKilled_Instigator=KO!
+PlayerKilled_MasterOfInstigator=Your %InstigatingPlayer% KO'd %OpposingPlayer%!
+PlayerKilled_Opponent=You were killed by %InstigatingPlayer%!
+PlayerKilled_EveryoneElse=%InstigatingPlayer% killed %OpposingPlayer%!
+PlayerKilledSelf_Title=Player Self-Destructed
+PlayerKilledSelf_Instigator=You self-destructed!
+PlayerKilledSelf_EveryoneElse=%InstigatingPlayer% self-destructed!
+PlayerLeftMatch_Title=Player Left Match
+PlayerLeftMatch_InstigatingTeam=Ally %InstigatingPlayer% left the match
+PlayerLeftMatch_OpposingTeam=Enemy %InstigatingPlayer% left the match
+PlayerRejoinedMatch_Title=Player Rejoined Match
+PlayerRejoinedMatch_InstigatingTeam=Ally %InstigatingPlayer% rejoined the match
+PlayerRejoinedMatch_OpposingTeam=Enemy %InstigatingPlayer% rejoined the match
+SpectatorLeftMatch_Title=Spectator Left Match
+SpectatorLeftMatch=Spectator %InstigatingPlayer% left the match
+SpectatorRejoinedMatch_Title=Spectator Rejoined Match
+SpectatorRejoinedMatch=Spectator %InstigatingPlayer% rejoined the match
+WholeTeamDead_Title=Team Annihilation
+WholeTeamDead_Aggressors=Team Annihilation!
+WholeTeamDead_Victims=Your team has been annihilated!
+PowerPlay_Title=Power Play
+PowerPlay_Aggressors=Power Play!
+PowerPlay_Victims=Over half your team is down!
+MegaPowerPlay_Title=Mega Power Play
+MegaPowerPlay_Aggressors=Mega Power Play!
+MegaPowerPlay_Victims=Careful! Your team is almost completely gone!
+KillStreakRampage_Title=Rampage
+KillStreakRampage_Instigator=You are on a Rampage!
+KillStreakRampage_EveryoneElse=%InstigatingPlayer% is on a Rampage!
+KillStreakUnstoppable_Title=Unstoppable
+KillStreakUnstoppable_Instigator=You are Unstoppable!
+KillStreakUnstoppable_EveryoneElse=%InstigatingPlayer% is Unstoppable!
+KillStreakSteamroller_Title=Steamroller
+KillStreakSteamroller_Instigator=You are a Steamroller!
+KillStreakSteamroller_EveryoneElse=%InstigatingPlayer% is a Steamroller!
+KillStreakJuggernaut_Title=Juggernaut
+KillStreakJuggernaut_Instigator=You are a JUGGERNAUT!
+KillStreakJuggernaut_EveryoneElse=%InstigatingPlayer% is a JUGGERNAUT!
+PlayerKillByNonPlayer_Title=Player Executed
+PlayerKillByNonPlayer_Opponent=You were executed by a %InstigatingPlayer%!
+PlayerKillByNonPlayer_EveryoneElse=%InstigatingPlayer% executed by a %OpposingPlayer%!
+MatchStartCountdownReady_Title=Ready
+MatchStartCountdownReady_TextAll=Ready...
+MatchStartCountdownSet_Title=Set
+MatchStartCountdownSet_TextAll=Set...
+MatchStartCountdownGo_Title=Go
+MatchStartCountdownGo_TextAll=GO!
+SkillUnlocked_Title=Skill Unlocked
+SkillUnlocked_EveryoneElse=%InstigatingPlayer% has unlocked %SkillName%!
+MultiKillDouble_Title=Double Kill
+MultiKillDouble_Instigator=Double Kill against %OpposingPlayer%!
+MultiKillDouble_Opponent=%InstigatingPlayer% got a Double Kill against you!
+MultiKillDouble_EveryoneElse=%InstigatingPlayer% got a Double Kill!
+MultiKillTriple_Title=Triple Kill
+MultiKillTriple_Instigator=Triple Kill against %OpposingPlayer%!
+MultiKillTriple_Opponent=%InstigatingPlayer% got a Triple Kill against you!
+MultiKillTriple_EveryoneElse=%InstigatingPlayer% got a Triple Kill!
+MultiKillQuad_Title=Quad Kill
+MultiKillQuad_Instigator=Quad Kill against %OpposingPlayer%!
+MultiKillQuad_Opponent=%InstigatingPlayer% got a Quad Kill against you!
+MultiKillQuad_EveryoneElse=%InstigatingPlayer% got a Quad Kill!
+MultiKillPenta_Title=Pentakill
+MultiKillPenta_Instigator=Pentakill against %OpposingPlayer%!
+MultiKillPenta_Opponent=%InstigatingPlayer% got a Pentakill against you!
+MultiKillPenta_EveryoneElse=%InstigatingPlayer% got a Pentakill!
+MultiKillInsane_Title=Insane multikill
+MultiKillInsane_Instigator=INSANE multikill streak!
+MultiKillInsane_EveryoneElse=%InstigatingPlayer% got an Insane MultiKill!
+
+TierOneKillStreak_Title=5 Player Kill Streak
+TierOneKillStreak_Instigator=Achieved a 5 player kill streak against %OpposingPlayer%!
+TierOneKillStreak_Opponent=%InstigatingPlayer% got a 5 player kill streak against you!
+TierOneKillStreak_EveryoneElse=%InstigatingPlayer% achieved a 5 player kill streak!
+
+TierTwoKillStreak_Title=10 Player Kill Streak
+TierTwoKillStreak_Instigator=Achieved a 10 player kill streak against %OpposingPlayer%!
+TierTwoKillStreak_Opponent=%InstigatingPlayer% got a 10 player kill streak against you!
+TierTwoKillStreak_EveryoneElse=%InstigatingPlayer% achieved a 10 player kill streak!
+
+TierThreeKillStreak_Title=15 Player Kill Streak
+TierThreeKillStreak_Instigator=Achieved a 15 player kill streak against %OpposingPlayer%!
+TierThreeKillStreak_Opponent=%InstigatingPlayer% got a 15 player kill streak against you!
+TierThreeKillStreak_EveryoneElse=%InstigatingPlayer% achieved a 15 player kill streak!
+
+TierFourKillStreak_Title=20 Player Kill Streak
+TierFourKillStreak_Instigator=Achieved a 20 player kill streak against %OpposingPlayer%!
+TierFourKillStreak_Opponent=%InstigatingPlayer% got a 20 player kill streak against you!
+TierFourKillStreak_EveryoneElse=%InstigatingPlayer% achieved a 20 player kill streak!
+
+TierFiveKillStreak_Title=25 Player Kill Streak
+TierFiveKillStreak_Instigator=Achieved a 25 player kill streak against %OpposingPlayer%!
+TierFiveKillStreak_Opponent=%InstigatingPlayer% got a 25 player kill streak against you!
+TierFiveKillStreak_EveryoneElse=%InstigatingPlayer% achieved a 25 player kill streak!
+
+StreakBreaker_Title=Streak Breaker
+StreakBreaker_Instigator=You have ended %OpposingPlayer%'s kill streak!
+StreakBreaker_Opponent=%InstigatingPlayer% has ended your kill streak!
+StreakBreaker_EveryoneElse=%InstigatingPlayer% has ended %OpposingPlayer%'s kill streak
+
+NewNemesisKiller_Title=New Nemesis
+NewNemesisKiller_Instigator=You are dominating %OpposingPlayer%!
+NewNemesisVictim_Title=New Nemesis
+NewNemesisVictim_Opponent=%InstigatingPlayer% is dominating you!
+KilledNemesisKiller_Title=Killed Nemesis
+KilledNemesisKiller_Instigator=%OpposingPlayer%'s is no longer dominating you!
+KilledNemesisVictim_Title=Killed Nemesis
+KilledNemesisVictim_Opponent=You are no longer dominating %InstigatingPlayer%!
+
+MultiAssistDouble_Title=Double Assist
+MultiAssistDouble_Instigator=Double Assist against %OpposingPlayer%!
+MultiAssistDouble_Opponent=%InstigatingPlayer% got a Double Assist against you!
+MultiAssistDouble_EveryoneElse=%InstigatingPlayer% got a Double Assist!
+MultiAssistTriple_Title=Triple Assist
+MultiAssistTriple_Instigator=Triple Assist against %OpposingPlayer%!
+MultiAssistTriple_Opponent=%InstigatingPlayer% got a Triple Assist against you!
+MultiAssistTriple_EveryoneElse=%InstigatingPlayer% got a Triple Assist!
+MultiAssistQuad_Title=Quad Assist
+MultiAssistQuad_Instigator=Quad Assist against %OpposingPlayer%!
+MultiAssistQuad_Opponent=%InstigatingPlayer% got a Quad Assist against you!
+MultiAssistQuad_EveryoneElse=%InstigatingPlayer% got a Quad Assist!
+MultiAssistPenta_Title=Penta Assist
+MultiAssistPenta_Instigator=Penta Assist against %OpposingPlayer%!
+MultiAssistPenta_Opponent=%InstigatingPlayer% got a Penta Assist against you!
+MultiAssistPenta_EveryoneElse=%InstigatingPlayer% got a Penta Assist!
+MultiAssistInsane_Title=Insane multiassist
+MultiAssistInsane_Instigator=INSANE multiassist streak!
+MultiAssistInsane_Opponent=%InstigatingPlayer% got an Insane Multiassist against you!
+MultiAssistInsane_EveryoneElse=%InstigatingPlayer% got an Insane Multiassist!
+
+TierOneAssistStreak_Title=5 Player Assist Streak
+TierOneAssistStreak_Instigator=Achieved a 5 player assist streak against %OpposingPlayer%!
+TierOneAssistStreak_Opponent=%InstigatingPlayer% got a 5 player assist streak against you!
+TierOneAssistStreak_EveryoneElse=%InstigatingPlayer% achieved a 5 player assist streak!
+
+TierTwoAssistStreak_Title=10 Player Assist Streak
+TierTwoAssistStreak_Instigator=Achieved a 10 player assist streak against %OpposingPlayer%!
+TierTwoAssistStreak_Opponent=%InstigatingPlayer% got a 10 player assist streak against you!
+TierTwoAssistStreak_EveryoneElse=%InstigatingPlayer% achieved a 10 player assist streak!
+
+TierThreeAssistStreak_Title=15 Player Assist Streak
+TierThreeAssistStreak_Instigator=Achieved a 15 player assist streak against %OpposingPlayer%!
+TierThreeAssistStreak_Opponent=%InstigatingPlayer% got a 15 player assist streak against you!
+TierThreeAssistStreak_EveryoneElse=%InstigatingPlayer% achieved a 15 player assist streak!
+
+TierFourAssistStreak_Title=20 Player Assist Streak
+TierFourAssistStreak_Instigator=Achieved a 20 player assist streak against %OpposingPlayer%!
+TierFourAssistStreak_Opponent=%InstigatingPlayer% got a 20 player assist streak against you!
+TierFourAssistStreak_EveryoneElse=%InstigatingPlayer% achieved a 20 player assist streak!
+
+TierFiveAssistStreak_Title=25 Player Assist Streak
+TierFiveAssistStreak_Instigator=Achieved a 25 player assist streak against %OpposingPlayer%!
+TierFiveAssistStreak_Opponent=%InstigatingPlayer% got a 25 player assist streak against you!
+TierFiveAssistStreak_EveryoneElse=%InstigatingPlayer% achieved a 25 player assist streak!
+
+AssistStreakBreaker_Title=Assist Streak Breaker
+AssistStreakBreaker_Instigator=You have ended %OpposingPlayer%'s assist streak!
+AssistStreakBreaker_Opponent=%InstigatingPlayer% has ended your assist streak!
+AssistStreakBreaker_EveryoneElse=%InstigatingPlayer% has ended %OpposingPlayer%'s assist streak!
+
+TooEarlyToSurrender_Title=Surrender Not Available
+TooEarlyToSurrender_Instigator=It's too early to surrender!
+
+TooLateToSurrender_Title=Surrender Not Available
+TooLateToSurrender_Instigator=It's too late to surrender!
+
+SurrenderAlreadyActive_Title=Surrender Vote In Progress
+SurrenderAlreadyActive_Instigator=You can't call for a surrender while one is active!
+
+SurrenderOnCooldown_Title=Surrender Vote In Progress
+SurrenderOnCooldown_Instigator=You can't call for a surrender while one is active!
+
+SurrenderSuccess_Title=Surrender Passed
+SurrenderSuccess_Instigator=Your call to surrender has passed!
+SurrenderSuccess_EveryoneElse=%InstigatingPlayer% called for a surrender and the team accepted!
+
+SurrenderFailed_Title=Surrender Failed
+SurrenderFailed_Instigator=Your vote to surrender has been vetoed!
+SurrenderFailed_EveryoneElse=%InstigatingPlayer% called for a surrender, but the team refused!
+
+MeltdownMinionTutorial_Title=Escort Your Minions
+MeltdownMinionTutorial_TextAll=Escort Your Minions
+
+MeltdownGrinderTutorial_Title=Grinders Have Moved
+MeltdownGrinderTutorial_Instigator=Your Grinders Have Moved
+MeltdownGrinderTutorial_Opponent=Enemy Grinders Have Moved
+
+MeltdownScoreTutorial_Title=Close To Victory
+MeltdownScoreTutorial_Instigator=You Are Near Victory!
+MeltdownScoreTutorial_Opponent=Enemy Is Near Victory
+
+CaptureTutorial_Title=Capture Energy Collectors
+CaptureTutorial_TextAll=Capture Energy Collectors
+
+PvP_Victory_Title=Victory
+PvP_Victory_Instigator=Victory!
+
+PVP_Defeat_Title=Defeat
+PVP_Defeat_Instigator=Defeat!
+
+MinionsSpawningThirtySecs_Title=Minions Spawning Soon
+MinionsSpawningThirtySecs_TextAll=Minions will spawn in 30 seconds!
+MinionsSpawningTenSecs_Title=Minions Spawning Soon
+MinionsSpawningTenSecs_TextAll=Minions will spawn in 10 seconds!
+MinionsSpawning_Title=Minions Spawning
+MinionsSpawning_TextAll=Minions are spawning!
+KillMinionsForMoneyTip_Title=Kill Minions
+KillMinionsForMoneyTip_TextAll=Kill enemy minions to earn money
+KillPointDefendersTip_Title=Kill Point Defenders
+KillPointDefendersTip_TextAll=Destroy enemy Hyperion Turrets
+KillNexusTip_Title=Nexus Vulnerable
+KillNexusTip_OpposingTeam=Your Nexus is vulnerable! Protect it!
+KillNexusTip_NexusTeam=The enemy Nexus is vulnerable! Kill it!
+LowHealthTip_Title=Low Health
+LowHealthTip_TextAll=Return to base to restore health and resources
+SpendSkillPointTip_Title=Skill Point
+SpendSkillPointTip_TextAll=Spend Skill Points to acquire new skills or power up existing ones
+StealthTip_Title=Stealth
+StealthTip_TextAll=You are now hidden from others!
+SkillTip_Title=Skills
+SkillTip_TextAll=You have purchased a skill! Use it well!
+WelcomeScort_Title=Welcome to Scort
+WelcomeScort_TextAll=Welcome to Scort!
+WelcomeScort_2_Title=Welcome to Scort
+WelcomeScort_2_TextAll=Score points by escorting minions through an enemy portal!
+WelcomeScort_3_Title=Welcome to Scort
+WelcomeScort_3_TextAll=Larger minions are worth more points!
+WelcomeScort_4_Title=Welcome to Scort
+WelcomeScort_4_TextAll=First Team to 500 wins!
+Scort_Escort=Minions have been escorted to a portal!
+Scort_Escort_Success=Your team has escorted Minions to an enemy portal!
+Scort_Portal_Defense_Fail=The enemy minions have reached your portal!
+SuperMinionsSpawning_Title=Super Minions have spawned!
+SuperMinionsSpawning_TextAll=Super Minions have spawned!
+SuperMinionsSpawning_BuildNode_Title=Blank
+SuperMinionsSpawning_BuildNode_A=Your team has spawned a Super Minion!
+SuperMinionsSpawning_BuildNode_B=The enemy team has spawned a Super Minion!
+NexusDestroyed_Title=Nexus Destroyed
+NexusDestroyed_OpposingTeam=DEFEAT!
+NexusDestroyed_InstigatingTeam=VICTORY!
+
+SURGE_SentryDisabled_Team=Your Sentry has been disabled!
+SURGE_SentryDisabled_Enemy=Your team has disabled the enemy Sentry!
+SURGE_CapturePadWarning_TextAll=The Capture Point will activate in 20 seconds!
+SURGE_CapturePadEnabled_TextAll=The Capture Point is active!
+SURGE_CapturePadDisabled_TextAll=The Capture Point has deactivated!
+PVE_Mission_Tactical_Map_1=Reach the Checkpoint
+PVE_Mission_Tactical_Map_2=D pad down to use the Tactical Map for navigation
+PVE_Mission_Tactical_Map_3=Reach the final Checkpoint
+PVE_Mission_Tactical_Map_4=D pad down to use the Tactical Map for navigation
+PVE_Objective_Complete=Objective Complete!
+PVE_Base_Established=New Base Established!
+
+GAME_MAP_0=Exile
+GAME_MAP_1=Arctic Ruin
+GAME_MAP_2=Entrenched
+GAME_MAP_3=Outback
+GAME_MAP_4=Temples
+GAME_MAP_5=Temple
+GAME_MAP_6=Paradise
+GAME_MAP_7=Coldsnap
+GAME_MAP_8=[NF] Slum Scort
+GAME_MAP_9=Combat Encounter
+GAME_MAP_10=Jungle
+GAME_MAP_11=QA_Test_Hub
+GAME_MAP_12=BattleArena
+GAME_MAP_13=Foley_System_Playground
+GAME_MAP_14=The Sentinel
+GAME_MAP_15=The Algorithm
+GAME_MAP_16=The Renegade
+GAME_MAP_17=The Heliophage
+GAME_MAP_18=The Uprising
+GAME_MAP_19=The Archive
+GAME_MAP_20=The Saboteur
+GAME_MAP_21=The Void's Edge
+GAME_MAP_22=The Experiment
+GAME_MAP_23=[NF] Peak
+GAME_MAP_24=[NF] Fortress
+GAME_MAP_25=[NF] Frigid
+GAME_MAP_26=Colony
+GAME_MAP_27=[NF] Snowblind
+GAME_MAP_28=Prologue
+GAME_MAP_29=Overgrowth
+GAME_MAP_30=Echelon
+GAME_MAP_UNKNOWN=an unknown map
+
+PVE_Mission_Complete=MISSION COMPLETE
+PvE_MissionComplete_Everyone=Mission Complete!
+PvE_MissionFailed_Everyone=Mission Failed!
+PlayerRespawned_Instigator=Extra Life Consumed
+
+PickupMsg_Overshield_Instigator=Overshield!
+PickupMsg_SpeedBoost_Instigator=Speed Boost!
+PickupMsg_Cooldown_Instigator=Cooldown Reduction!
+PickupMsg_HelixPoint_Instigator=Helix Point!
+PickupMsg_RespawnTicket_SoloInstigator=Extra Life!
+PickupMsg_RespawnTicket_Instigator=Extra Life for the team!
+PickupMsg_RespawnTicket_EveryoneElse=%InstigatingPlayer% got an Extra Life for the team!
+PickupMsg_EarnedCurrency_SoloInstigator=Bonus Credit!
+PickupMsg_EarnedCurrency_Instigator=Bonus Credit for the team!
+PickupMsg_EarnedCurrency_EveryoneElse=%InstigatingPlayer% got a Bonus Credit for the team!
+PickupMsg_EarnedCurrencyBig_SoloInstigator=Big Bonus Credit!
+PickupMsg_EarnedCurrencyBig_Instigator=Big Bonus Credit for the team!
+PickupMsg_EarnedCurrencyBig_EveryoneElse=%InstigatingPlayer% got a Big Bonus Credit for the team!
+PickupMsg_LootPack_SoloInstigator=Loot Pack!
+PickupMsg_LootPack_Instigator=Loot Pack for the team!
+PickupMsg_LootPack_EveryoneElse=%InstigatingPlayer% got a Loot Pack for the team!
+PickupMsg_BonusScore_SoloInstigator=Bonus Score!
+PickupMsg_BonusScore_Instigator=Bonus Score!
+PickupMsg_BonusScore_EveryoneElse=%InstigatingPlayer% got Bonus Score for the team!
+PickupMsg_CommonGear_SoloInstigator=Common Gear!
+PickupMsg_CommonGear_Instigator=Common Gear for the team!
+PickupMsg_CommonGear_EveryoneElse=%InstigatingPlayer% got Common Gear for the team!
+PickupMsg_UncommonGear_SoloInstigator=Uncommon Gear!
+PickupMsg_UncommonGear_Instigator=Uncommon Gear for the team!
+PickupMsg_UncommonGear_EveryoneElse=%InstigatingPlayer% got Uncommon Gear for the team!
+PickupMsg_RareGear_SoloInstigator=Rare Gear!
+PickupMsg_RareGear_Instigator=Rare Gear for the team!
+PickupMsg_RareGear_EveryoneElse=%InstigatingPlayer% got Rare Gear for the team!
+PickupMsg_EpicGear_SoloInstigator=Epic Gear!
+PickupMsg_EpicGear_Instigator=Epic Gear for the team!
+PickupMsg_EpicGear_EveryoneElse=%InstigatingPlayer% got Epic Gear for the team!
+PickupMsg_HealPower_Leg_ELD=Legendary Gear:\nSymbiotic Spores!
+PickupMsg_HealPower_Leg_LLC=Legendary Gear:\nVoid Resonator!
+PickupMsg_HealthGain_Leg_ELD=Legendary Gear:\nVidania Root Poultice!
+PickupMsg_HealthGain_Leg_JNT=Legendary Gear:\nLeechsteel Broach!
+PickupMsg_HealthRegen_Leg_ELD=Legendary Gear:\nSong of Vigor!
+PickupMsg_HealthRegen_Leg_JNT=Legendary Gear:\nOath of the Sustained!
+PickupMsg_MaxHealth_Leg_ELD=Legendary Gear:\nVigilance Link!
+PickupMsg_MaxHealth_Leg_LLC=Legendary Gear:\nPremium Health Plan!
+PickupMsg_AttackDamage_Leg_ELD=Legendary Gear:\nSymbiotic Gauntlet!
+PickupMsg_AttackDamage_Leg_JNT=Legendary Gear:\nVow of Vengeance!
+PickupMsg_AttackDamage_Leg_LLC=Legendary Gear:\nThe Pacifier!
+PickupMsg_AttackSpeed_Leg_JNT=Legendary Gear:\nVow of Zealous Fury!
+PickupMsg_AttackSpeed_Leg_ROG=Legendary Gear:\nStolen Edge of Arcvynorr!
+PickupMsg_CritDamage_Leg_ELD=Legendary Gear:\nVigilant Power Scouter!
+PickupMsg_CritDamage_Leg_JNT=Legendary Gear:\nHeliophagic Goggles!
+PickupMsg_CritDamage_Leg_LLC=Legendary Gear:\nHostile_Takeover.exe!
+PickupMsg_CritDamage_Leg_ROG=Legendary Gear:\nPoor “M-Pulse” Controller!
+PickupMsg_SkillDamage_Leg_ELD=Legendary Gear:\nCodex Fragment!
+PickupMsg_SkillDamage_Leg_JNT=Legendary Gear:\nBola's Target Finder!
+PickupMsg_SkillDamage_Leg_LLC=Legendary Gear:\nShield Web Interdictor!
+PickupMsg_SkillDamage_Leg_ROG=Legendary Gear:\nLorrian Skill Spike!
+PickupMsg_BuildCost_Leg_LLC=Legendary Gear:\nSentinel Reset Switch!
+PickupMsg_BuildCost_Leg_UPR=Legendary Gear:\nH3NCHM4N's Capacitor!
+PickupMsg_MaxShield_Leg_JNT=Legendary Gear:\nVoxis Core!
+PickupMsg_MaxShield_Leg_UPR=Legendary Gear:\nOne-4-All™ Shield Array
+PickupMsg_MaxShield_Leg_ROG=Legendary Gear:\nThe Modernista!
+PickupMsg_ShardGain_Leg_JNT=Legendary Gear:\nVeil Manipulator!
+PickupMsg_ShardGain_Leg_UPR=Legendary Gear:\nQuartermastery Bin!
+PickupMsg_ShieldDelay_Leg_JNT=Legendary Gear:\nDoomsday Key!
+PickupMsg_ShieldDelay_Leg_UPR=Legendary Gear:\nIntermittent Angel!
+PickupMsg_ShieldRegen_Leg_JNT=Legendary Gear:\nVibro-Core Module!
+PickupMsg_ShieldRegen_Leg_ROG=Legendary Gear:\nThe Long Goodbye!
+PickupMsg_ShieldRegen_Leg_UPR=Legendary Gear:\nUPR-SG12 “Wolfskin”!
+PickupMsg_ControlRedux_Leg_JNT=Legendary Gear:\nHelm of the Imperium!
+PickupMsg_ControlRedux_Leg_ROG=Legendary Gear:\nHate Reflector!
+PickupMsg_CooldownRedux_Leg_ELD=Legendary Gear:\nChrono Key!
+PickupMsg_CooldownRedux_Leg_JNT=Legendary Gear:\nTime Killer!
+PickupMsg_CooldownRedux_Leg_ROG=Legendary Gear:\nFirmware Update 1.51C!
+PickupMsg_MoveSpeed_Leg_ELD=Legendary Gear:\nMossire's Mukluks!
+PickupMsg_MoveSpeed_Leg_JNT=Legendary Gear:\nBoots of the Brute!
+PickupMsg_SprintSpeed_Leg_JNT=Legendary Gear:\nSynthaline Tonic!
+PickupMsg_DamageRedux_Leg_ELD=Legendary Gear:\nBlissbeast Skull Plate!
+PickupMsg_DamageRedux_Leg_LLC=Legendary Gear:\nPlasmite Transducer!
+PickupMsg_DamageRedux_Leg_UPR=Legendary Gear:\n“Alamo-7” Armor!
+PickupMsg_RecoilRedux_Leg_ELD=Legendary Gear:\nMini-Singularity Launcher!
+PickupMsg_RecoilRedux_Leg_ROG=Legendary Gear:\nThe Stable Executioner!
+PickupMsg_ReloadSpeed_Leg_ELD=Legendary Gear:\nVyn's Quiver!
+PickupMsg_ReloadSpeed_Leg_ROG=Legendary Gear:\nMag Daemon!
+PickupMsg_ReloadSpeed_Leg_UPR=Legendary Gear:\nVeil Breaker Rounds!
+PickupMsg_ShieldPen_Leg_ELD=Legendary Gear:\nGuardian Shieldbreaker!
+PickupMsg_ShieldPen_Leg_UPR=Legendary Gear:\nBunker Buster!
+PickupMsg_CooldownRedux_Leg_JNT2=Legendary Gear:\nAria's Encore!
+
+TRAINING_TeammateDown=%InstigatingPlayer% is down!\n<StringAliasMap:Action.Use> to revive them!
+TRAINING_TeammateDown_Instigator=You are down!\nHold <StringAliasMap:Action.SkipRevive> to respawn at the cost of an Extra Life.
+TRAINING_PlayerRespawnedSolo=Respawning costs one Extra Life. Go down when you're out of Extra Lives, and the mission fails!
+TRAINING_PlayerRespawned=Respawning costs one Extra Life.\nRun out, and no teammate can respawn!
+TRAINING_NoLivesLeftSolo=Out of Extra Lives!\nGo down again and the mission fails!
+TRAINING_NoLivesLeft=Out of Extra Lives! Nobody can respawn unless you find more!
+TRAINING_TeammateOut_Instigator=Out of Extra Lives!\nNo respawns until someone finds one!
+TRAINING_TeammateOut_AlivePlayers=%OpposingPlayer% is out and can't respawn until you find an Extra Life!
+TRAINING_HardcoreOut_Instigator=No respawns in Hardcore Mode! You're out for the rest of the mission!
+TRAINING_HardcoreOut_AlivePlayers=%OpposingPlayer% is out of action for the rest of the mission!
+TRAINING_OneLeft_Instigator=You're the last player alive!\nIf you go down, the mission fails!
+TRAINING_OneLeft_EveryoneElse=%InstigatingPlayer% is the last player alive!\nIf they go down, the mission fails!
+TRAINING_WelcomeToHardcore_Solo=Welcome to Hardcore Mode! There are no Extra Lives. Go down once and the mission fails.
+TRAINING_WelcomeToHardcore_Msg1=Welcome to Hardcore Mode! There are no Extra Lives, so always revive your teammates!
+TRAINING_WelcomeToHardcore_Msg2=In Hardcore Mode, if the entire team goes down, the mission fails!
+TRAINING_SentryInteraction=<StringAliasMap:Action.Use> Interact with the Wolf sentry to purchase temporary upgrades with Shards.
+TRAINING_DefendSentry=Protect the sentry!\nIf it is destroyed, the mission fails!
+TRAINING_SentryLowHealth=Sentry almost destroyed!\nMission failure imminent!
+TRAINING_BuildNodeInteraction=<StringAliasMap:Action.Use> Spend Shards at Build Nodes to build useful things.
+TRAINING_ActivateDefenseCores=Stand on the Capture Point until the Defense Core is activated.
+TRAINING_DefendDefenseCores=Protect the Defense Core!\nIf it is destroyed, the mission fails!
+TRAINING_DefenseCoreLowHealth=Defense Core almost destroyed!\nMission failure imminent!
+TRAINING_ActivationPad=Stand on Activation Pads to make things happen.\nMultiple pads may require multiple Battleborn.
+TRAINING_ShardBank=<StringAliasMap:Action.Use> Fill Shard Banks with Shards to activate devices or open gates.
+TRAINING_ActivateGear=<StringAliasMap:Action.LoadoutUIControllerActivate><StringAliasMap:Action.LoadoutUIKeyboardActivate> to activate your Gear!
+TRAINING_SpendHelixPoints=You have Helix Points to spend!\n<StringAliasMap:Action.ShopControllerActivate><StringAliasMap:Action.ShopKeyboardActivate> Use the Helix Menu to power up!
+TRAINING_FollowWaypoint=The diamond icon is your mission waypoint.
+TRAINING_MissionObjectiveActive=Your mission objectives are listed on the right side of your HUD.
+TRAINING_BonusScoreTip=Did you know? More Bonus Score items appear when you have more Extra Lives or play in Hardcore Mode.
+TRAINING_UsedBuildNode_Turret=You can build a turret here.\nTurrets are stationary and attack enemies at range.
+TRAINING_UsedBuildNode_Trap=You can build a trap here.\nTraps are stationary and attack nearby enemies.
+TRAINING_UsedBuildNode_Drone1=You can build a drone here.\nDrones follow you around and offer tactical benefits.
+TRAINING_UsedBuildNode_Drone2=You may only have one drone at a time.\nBuilding a new one destroys the old one.
+TRAINING_BuiltShockTurret=Shock Turrets zap enemies with electricity.\nThey are most effective at short range.
+TRAINING_BuiltAutoTurret=Stinger Turrets rapid fire at enemies.\nThey are most effective at medium range.
+TRAINING_BuiltDisruptorTurret=Veil Breaker Turrets can punch through protective fields generated by some Varelsi.
+TRAINING_BuiltMissileTurret=Thumper Turrets launch missiles at enemies.\nThey are most effective at long range.
+TRAINING_BuiltFireTrap=Inferno Traps light nearby enemies on fire.
+TRAINING_BuiltSlowTrap=Temporal Traps slow down nearby enemies,\nand have a wider range than other traps.
+TRAINING_BuiltStunTrap=Flash Traps stun nearby enemies and eliminate their shields.
+TRAINING_BuiltSlowDrone=Temporal Drones follow you and deploy fields that slow enemies down.
+TRAINING_BuiltAssaultDrone=Assault Drones follow you and attack your enemies.
+TRAINING_BuiltRepairDrone=Repair Drones follow you and repair nearby buildables. They can also heal you.
+TRAINING_BuiltSentryTurret=The Turret Upgrade temporarily grants additional firepower to the Wolf sentry.
+TRAINING_BuiltSentryShield=The Shield Upgrade temporarily blocks ranged attacks and damages enemies within it.
+TRAINING_BuiltSentryHealing=The Healing Upgrade heals nearby players for a while, and repairs Wolf a little bit.
+
+TRAINING_Prologue_BreakLootable=Damage certain items to release the loot they contain!
+TRAINING_Prologue_BreakShardpad=To shut down the force field,\nfind its Shard Pad and destroy it.
+TRAINING_Prologue_SkillJump=Use Battleborn Skills to reach higher locations.
+TRAINING_Prologue_UseSkillA=<StringAliasMap:Action.ActionSkillOne> Lunge forward and damage enemies with a powerful strike.
+TRAINING_Prologue_UseSkillB=<StringAliasMap:Action.ActionSkillTwo> Damage nearby enemies and propel yourself upward.
+TRAINING_Prologue_UseSkillUlt=<StringAliasMap:Action.ActionSkillThree> Unleash a barrage of damaging blades at enemies.
+TRAINING_Prologue_Jump=Press <StringAliasMap:Action.Jump> to jump.
+TRAINING_Prologue_Sprint=Press <StringAliasMap:Action.Sprint> to sprint.
+TRAINING_Prologue_BuildDrone=Spend Shards at Build Nodes to build an Assault Drone.
+TRAINING_Prologue_BuildTurret=Spend Shards at Build Nodes to build a Stinger Turret.
+
+TRAINING_Pickup_Bonus=You picked up a Bonus Score item!\nBonus Score is lost if you fail the mission.
+TRAINING_Pickup_Cooldown=You picked up a Cooldown Reduction item.\nAll cooldowns reduced by half!
+TRAINING_Pickup_EC=You picked up Bonus Credits. Spend Credits in the Marketplace between missions to buy new and wonderful things!
+TRAINING_Pickup_Health=You picked up a health item.\nSome health was recovered!
+TRAINING_Pickup_Helix=You picked up a Helix Point which levels you up instantly!
+TRAINING_Pickup_LootPack=You picked up a Loot Pack.\nOpen it up in the Command Menu after the mission!
+TRAINING_Pickup_Gear=You picked up Gear. You can check it out and equip it after the mission!
+TRAINING_Pickup_Overshield=You picked up an Overshield.\nIt grants you a temporary extra shield!
+TRAINING_Pickup_Respawn=You picked up an Extra Life.\nExtra Lives let you respawn after death!
+TRAINING_Pickup_Score=You picked up a score item.\nEarn score to gain Extra Lives and a higher Star Rating!
+TRAINING_Pickup_Shard=You picked up Shards. Use Shards to activate Gear and build things at Build Nodes!
+TRAINING_Pickup_Speed=You picked up a Speed Boost item.\nNow you temporarily move faster!
+
+Incursion_SideBoss_Active=The Side Boss has spawned!
+
+MinionKill=Minion Kill
+EnemyKill=Enemy Kill
+BuildNodeBuilt=Construction
+BuildNodeKill=Build Node Destroyed
+BuildNodeMinionBuilt=Minion Built
+MinionAssist=Minion Kill Assist
+EnemyAssist= Enemy Kill Assist
+SentryKill=Sentry Kill
+PlayerKill_Assist=Assist!
+PlayerKill_MasterAssist=Your %InstigatingPlayer% Assist!
+PointCaptured=Point Captured
+PointNeutralized=Point Neutralized
+PointOccupied=Point Occupied
+
+Buildable_Destroyed_Title=%OtherParticipant% was destroyed!
+Buildable_Destroyed_General_Master=%InstigatingPlayer% destroyed your %OtherParticipant%!
+Buildable_Destroyed_General_Killer=You destroyed %OpposingPlayer%'s %OtherParticipant%!
+Buildable_Destroyed_General_Team=%InstigatingPlayer% destroyed %OpposingPlayer%'s %OtherParticipant%!
+Buildable_Destroyed_NoMaster_Killer=You destroyed an enemy %OtherParticipant%!
+Buildable_Destroyed_NoMaster_AllTeam=%InstigatingPlayer% destroyed a %OtherParticipant%
+Buildable_Destroyed_NoKiller_Master=Your %OtherParticipant% was destroyed!
+Buildable_Destroyed_NoKiller_AllTeam=%OpposingPlayer%'s %OtherParticipant% was destroyed!
+Buildable_Destroyed_NoKillerNoMaster_Friendly=A friendly %OtherParticipant% was destroyed!
+Buildable_Destroyed_NoKillerNoMaster_Enemy=An enemy %OtherParticipant% was destroyed!
+Buildable_Built=%InstigatingPlayer% built a %OtherParticipant%!
+
+Spectator_Title=Broadcaster
+
+Localized_Match_Start_OpsPts_Received5=Match Start Ops Points Received +5
+Localized_Match_Start_OpsPts_Received10=Match Start Ops Points Received +10
+Localized_Match_Start_OpsPts_Received15=Match Start Ops Points Received +15
+Localized_Match_Start_OpsPts_Received20=Match Start Ops Points Received +25
+Localized_Match_Start_OpsPts_Received30=Match Start Ops Points Received +30
+Localized_Match_Start_OpsPts_Received35=Match Start Ops Points Received +35
+Localized_Match_Start_OpsPts_Received40=Match Start Ops Points Received +40
+Localized_Match_Start_OpsPts_Received45=Match Start Ops Points Received +45
+Localized_Match_Start_OpsPts_Received50=Match Start Ops Points Received +50
+Localized_SideObjectiveOpsPointsReceived=Side Objective Ops Points Received +10
+Localized_Ops_Points_Received1=Ops Point Received +1
+Localized_Ops_Points_Looted1=Ops Point Looted +1
+Localized_Reward_Tier_Increased=Reward Tier Increased
+Localized_Reward_Tier_Maxed=Maximum Reward Tier Achieved
+Localized_Ops_Points_Reset=Ops Points Reset
+
+
+[PoplarShopItemPanelGFxObject]
+BuildsIntoLabel=BUILDS INTO
+RequiresLabel=REQUIRES
+
+[PoplarAbilityTagDefinition]
+DefaultAbilityName="Default Attack"
+
+[PoplarHUDGFxMovie]
+AttackPowerStatString=Attack Power
+AttackSpeedStatString=Attack Speed
+CriticalDamageStatString=Critical Damage
+SkillPowerStatString=Skill Power
+CooldownRateStatString=Cooldown Rate
+ArmorStatString=Armor
+ElementalResistanceStatString=Elemental Resistance
+MovementSpeedStatString=Movement Speed
+
+[HUD]
+LevelUpAbbreviation=Lv
+
+[MHW_IncomeDisplay]
+LocalizedXP="XP"
+
+[MHW_DeathRecap]
+DefaultAttackName="Attack"
+TotalDamageAndTimeTemplate="%DAMAGE% Damage in %SECONDS% Seconds"
+TotalDamageAndShortTimeTemplate="%.2f Damage in < 1 Second"
+OverkillDamageTemplate="Killing Blow (Overkill %.2f)"
+CreditsReceivedTemplate="+%d Credits"
+RespawnTimerCaption="RESPAWN IN"
+ReviveTimerCaption="You are being revived."
+BleedOutTimerCaption="DYING"
+RespawnsRemainingCaption="Extra Lives Remaining"
+HardcoreModeCaption="Hardcore Mode"
+TitleTextBasic="Death Recap"
+TitleTextRevive="You are down!"
+TitleTextOut="You are out!"
+TipOutOfExtraLives="You cannot Respawn until your team gets more Lives."
+TipHardcoreMode="Hardcore Mode: No one revived you! You are out of action until the mission is over!"
+AttackType_Self="Meeee!"
+AttackType_Assist="ASSIST"
+AttackType_Killer="KILLER"
+AttackType_Supporter="SUPPORT"
+AttackType_FriendlyFire="MARTYR"
+DamageDealt_Assist="Damage Dealt"
+DamageDealt_Support="Amount Healed"
+HintSpectatePrevLabel="Spectate Previous"
+HintSpectateNextLabel="Spectate Next"
+HintOpenShopUILabel="Shop"
+HintShowMapLabel="Map"
+HintOpenSkillPurchaseUILabel="Skills"
+TipHeaderText="Tips"
+HintMoreInfoLabel="Toggle Info"
+HintOpenShopLabel="Augmentations"
+HintOpenScoreboardLabel="Scoreboard"
+SpectatingTemplate="Spectating: \n %s"
+SpectatePreviousTemplate="%s Previous"
+SpectateNextTemplate="Next %s"
+MoreInfoTemplate="%s Toggle Info"
+CallForHelpTemplate="%s Call For Help"
+HoldToRespawnTemplate="%s Hold To Respawn"
+
+[MHW_SkillPurchaseMenu]
+AttackPowerStatString=Attack Power
+AttackSpeedStatString=Attack Speed
+CriticalDamageStatString=Critical Damage
+SkillPowerStatString=Skill Power
+CooldownRateStatString=Cooldown Rate
+ArmorStatString=Armor
+ElementalResistanceStatString=Elemental Resistance
+MovementSpeedStatString=Movement Speed
+
+[MHW_Coop]
+AllyDyingString=IS DYING!
+AllyRevivingString=IS REVIVING!
+
+[MHW_CharacterSkillNotice]
+InvalidTargetFeedbackString="Invalid Target!"
+NotEnoughResourceFeedbackString="Not Enough Energy!"
+SkillOnCooldownFeedbackString="Skill On Cooldown!"
+SkillNotYetUnlockedFeedbackStringDefault="Skill Locked!"
+SkillsBlockedByCrowdControlDebuff="Unable To Use Skills!"
+
+[MHW_CrowdControlBar]
+CrowdControl_Seconds=SEC
+CrowdControl_Infinite=INFINITE
+CrowdControl_Stunned=STUNNED
+CrowdControl_Slowed=SLOWED
+CrowdControl_Immobilized=IMMOBILIZED
+CrowdControl_Silenced=SILENCED
+;// GBX: GVand - Note: ECROWDCTRL_Dazed now refers to "knockup" CC effects
+CrowdControl_Dazed=KNOCKUP
+;// GBX: GVand - Note: ECROWDCTRL_Feared now refers to "knockback" CC effects
+CrowdControl_Afraid=KNOCKBACK
+CrowdControl_Blind=BLIND
+CrowdControl_Charm=CHARMED
+CrowdControl_Provoke=PROVOKED
+ECROWDCTRL_ForceMove=FORCEDMOVE
+CrowdControl_Silence=SILENCED
+
+CrowdControl_Countered=COUNTERED
+
+[MHW_DangerWarning]
+WarningText=A Sentry Is Targeting You!
+
+[MHW_LevelUp]
+AugmentAvailable=Augment Available
+UltimateUnlockedDefault=Ultimate Unlocked!
+UltimateUnlocked=%s Unlocked!
+LevelUp=Level Up
+
+[MHW_TauntIndicator]
+TauntText=Taunt Now
+
+[MHW_ReloadBar]
+ReloadString=RELOAD
+OverheatString=OVERHEAT
+
+[MHW_GameModeGolemFight]
+FriendlyWinString=Victory in
+EnemyWinString=Enemy Victory in
+SpectatorTeam1WinString=Team 1 Victory in
+SpectatorTeam2WinString=Team 2 Victory in
+
+[MHW_GameModePVE]
+ScoreCategoryName=Score
+TicketCountCategoryName=Respawns
+SuccessMessage=Warp Gate Initiated Successfully
+FailureMessage=The Last Star has been Darkened
+TeleportInMessage=Universe Ends In
+WaveStartMessage=Wave Start!
+WaveCompleteMessage=Wave Complete!
+WaveString=Wave
+WaveProgressBarString=Wave Progress
+WaveStartsInBarString=Wave starts in
+
+[MHW_KO]
+AssistString=Assist
+TauntNowMessage=Taunt %s Now
+
+[MHW_Surrender]
+PassedVoteLocString=Vote Passed
+FailedVoteLocString=Vote Failed
+SurrenderVoteLocString=Surrender?
+ButtonPromptLocString=Press %s to vote
+
+[MHW_Challenges]
+CareerRewardString=Command XP
+CharacterRewardString=Character XP
+EarnedCurrencyString=Credits
+ChallengeCompleteString=Challenge Complete!
+ChallengeFailedString=Failed Challenge
+NewChallengeString=New Challenge
+
+[MHW_MapChallenges]
+CareerRewardString=Command XP
+CharacterRewardString=Character XP
+EarnedCurrencyString=Credits
+
+[MHW_ProgressBar]
+Caption0="   "
+Caption1=Teleporting...
+Caption2=Cloak
+
+[MarketplaceGFxMovie]
+StatusNew=New!
+
+[PoplarMetaMarketplaceGFxMovie]
+MetaMarketplaceTitle="Marketplace"
+PurchaseWithEarnedCurrency="Purchase this item with Credits."
+PurchaseWithPremiumCurrency="Purchase this item with Platinum."
+PurchaseCancel="Do not purchase this item."
+PurchasePremiumCurrencyDescription="Purchase a Platinum bundle!"
+PurchasePremiumCurrencyAccept="Purchase this Platinum bundle."
+PurchasePremiumCurrencyCancel="Do not purchase this Platinum bundle."
+NoPremiumCurrencyBundles="No Platinum bundles available at this time!"
+ItemDetailButtonLabelPurchase="Purchase"
+ItemDetailButtonLabelDetails="Item Details"
+PromotionalDetailString="Free for a limited time!"
+PurchasedDetailString="You Own This Item"
+LockedItemString="Locked until Command Rank %d"
+EarnedCurrencyAbbr=CR
+PremiumCurrencyAbbr=PT
+CurrencySeparatorString="   "
+
+[PoplarMetagameInventory]
+TransactionInitializationError="Unable to initialize transaction!"
+TransactionInitializationError_CurrencyNotSupported="Unable to initialize transaction, this item is not currently available for purchase with your currency."
+TransactionAuthorizationError="Player canceled transaction authorization."
+TransactionFinalizationError="Unable to finalize transaction!"
+
+[ItemNameFormat]
+ItemNameFormat_Skin=%name% Skin
+ItemNameFormat_Taunt=%name% Taunt
+
+[PoplarPerks]
+PerkFunctionNameFormat=%prefix %name %suffix
+
+[MetaMarketplaceConfirmDialog]
+Caption=Purchase Item?
+Prompt="Do you want to purchase %MetaItemName% for %MetaItemAmount% %MetaItemCurrency%?"
+
+[MetaMarketplacePurchasingDialog]
+Caption=Purchasing Item
+Prompt="Purchasing %MetaItemName%..."
+
+[MetaMarketplaceReceiptDialog]
+Caption=Item Purchased
+Prompt="You have purchased %MetaItemName%!"
+
+[PoplarShop3GFxMovie]
+PlayerShopTitle="Player Augmentations"
+BaseShopTitle="Base Augmentations"
+HintPurchaseLeftLabel="Purchase Left Augmentation"
+HintPurchaseRightLabel="Purchase Right Augmentation"
+LocalizedUnlockString="unlocks at level %i"
+
+[PoplarMetagame]
+LoadoutsTitle=Loadouts
+EarnedCurrency=Credits
+PremiumCurrency=Platinum
+EarnedCurrencyAbbr=CR
+PremiumCurrencyAbbr=PT
+CurrentEarnedCurrency="Current CR"
+CurrentPremiumCurrency="Current PT"
+CurrencySeparator="   "
+ControlPrefix="%Control%  "
+ControlSuffix="  %Control%"
+HintActivateLabel="Toggle Activation"
+SavingPerkLoadoutString="Saving Gear Loadout"
+SelectSlot="Gear Library"
+RemoveSlot="Remove Gear"
+ActivateSlot="Activate Gear"
+DeactivateSlot="Deactivate Gear"
+EmptySlot="Empty"
+ActiveSlotLimitReached="Active Limit Reached"
+ErrorNoPerks="You do not own any Gear items."
+ErrorCannotActivate="You already have 3 active Gear items."
+EmptyLoadoutTitle="Empty Slot"
+EmptyLoadoutDescription="This Loadout slot is empty."
+
+[PoplarMetaLibraryGFxMovie]
+DetailEquipButtonLabel="Equip"
+
+[MetaCheckout]
+EarnedCurrencyPurchaseLabel="Buy with Credits"
+PremiumCurrencyPurchaseLabel="Buy with Platinum"
+BuyUsingEarnedCurrency=Buy With\nCredits
+BuyUsingPremiumCurrency=Buy With\nPlatinum
+AlreadyOwnItem="You Own This Item"
+PromotionalItem="Free for a limited time!"
+
+[PostMatchVictory]
+MainMessage="VICTORY"
+FinalScoreText="Final Score"
+
+[PostMatchDefeat]
+MainMessage="DEFEAT"
+FinalScoreText="Final Score"
+
+[PostMatchFailed]
+MainMessage="MISSION FAILED"
+
+[PostMatchComplete]
+MainMessage="MISSION COMPLETE"
+FinalScoreText="Final Score"
+
+[PostMatchLoading]
+SurrenderedText="BY SURRENDER"
+
+[PoplarPostMatchGFxMovie]
+MatchResultsDefeatBannerString="DEFEAT"
+MatchResultsVictoryBannerString="VICTORY"
+MatchResultsSpectatorTeam1VictoryBannerString="TEAM 1 VICTORY"
+MatchResultsSpectatorTeam2VictoryBannerString="TEAM 2 VICTORY"
+MatchResultsDefeatBannerStringPVE="MISSION FAILED"
+MatchResultsVictoryBannerStringPVE="MISSION ACCOMPLISHED"
+MatchResultsTieBannerString="DRAW"
+MatchRewardsLevelUpTitleString="RANK UP!"
+MatchRewardsLevelUpDescString="NEW ITEMS UNLOCKED"
+XPBarMaxLevelString="MAX LEVEL"
+RetrievingMatchData="Retrieving match data"
+HintNextTabLabel="Next Tab"
+HintPrevTabLabel="Previous Tab"
+ScrollStatsRightLabel="Scroll Right"
+ScrollStatsLeftLabel="Scroll Left"
+Select="Select"
+XPAbbrvLabelString="XP"
+RewardXPLabelString="Experience"
+RewardECLabelString="Credits"
+TabExperienceLabelString="RESULTS"
+TabChallengesLabelString="CHALLENGES"
+TabStatisticsLabelString="STATISTICS"
+TabAccomplishmentsLabelString="ACCOMPLISHMENTS"
+StatsColumnTitlePlayersString="Statistics"
+StatsTeamTotalsTitleString="Totals"
+StatsMatchTimeTitleString="Match Time"
+StatsFinalScoreTitleString="Final Score"
+StatsBonusTitleString="Bonus"
+ChallengeLabelString="Challenges"
+ProgressLabelString="Progress"
+RewardLabelString="Rewards"
+TeamScoreString="Team"
+PersonalBestString="Best"
+KillModifierTitleString="Battle Marks"
+CommandRankString="Command Rank"
+CharacterRankString="Character Rank"
+XPToNextCommandLevelString="To Next Command Rank"
+XPToNextCharacterLevelString="To Next Character Rank"
+NewCharacterAwardString="New %TYPE%!"
+CharacterAwardMutationString="Mutation"
+CharacterAwardSkinString="Character Skin"
+CharacterAwardTauntString="Character Taunt"
+CharacterAwardMetaTitleString="Title"
+CharacterAwardGenericString="Award"
+CommandAwardString=Command Reward
+CharacterAwardTitleString="%CHARNAME% Reward"
+ChallengeCompleteString="Complete!"
+BySurrenderString="BY SURRENDER"
+SummaryString="Summary"
+CommandXPString="Command XP"
+CharacterXPString="Character XP"
+EarnedCurrencyString="Credits"
+SkipSectionString="Skip"
+NewCharacterUnlockedString="New Character Unlocked!"
+NewCharacterUnlockedSplitString="<font color="#FFFF00">%PLAYERNAME%:</font> New Character Unlocked!"
+NextCharacterString="Continue"
+MaxRankString=Max Rank
+RankString=Rank
+ProgressString=Progress
+RewardsString=Rewards
+MaxRankAchievedString=Max Rank Achieved
+GameModeLabelString=Mode
+MatchIdLabelString=Match ID:
+BotString=Bot
+NoOverlay_pc=Battleborn failed to open the Steam Overlay. Please make sure that the Steam Overlay is enabled, and that no software that would prevent it from opening is running.
+NoOverlay_durango=Battleborn failed to open the Xbox Live profile overlay.
+NoOverlay_orbis=Battleborn failed to open the PlayStation® profile overlay.
+HeroKeysReturnedSingle=1 Hero Key returned!
+HeroKeysReturnedMulti=%i Hero Keys returned!
+AbandondedMatchString=ABANDONED
+ViewGearString=View Gear
+
+[PoplarPostMatchDialog]
+Caption=Error Communicating With Server
+Prompt=%ERROR%
+
+[PoplarPostMatchDialogGeneric]
+Caption=Error
+Prompt=%ERROR%
+
+[PoplarMetaLoadoutsDialogSave]
+Caption=Save Loadout?
+Prompt=You have made changes to your Loadout. Do you want to save?
+TipNoSave=Changes to your Loadout will be lost.
+TipSave=Changes to your Loadout will be saved.
+
+[PoplarMetaLoadoutsEditorDialogError]
+Caption=Error
+Prompt=%ERROR%
+
+[PoplarMetaLoadoutsDialogError]
+Caption=Error Saving Loadouts
+Prompt=%ERROR%
+
+[MetaLoadoutsMessages]
+SavingPerkLoadoutString="Saving Loadout"
+
+[PoplarSkillDefinition]
+NextLevelString=Next Level:
+
+[ServiceResultMessages]
+POS_RESULT_-1=An unknown error has occurred.
+POS_RESULT_0=The operation has completed successfully.
+POS_RESULT_1=An invalid player has been specified.
+POS_RESULT_2=An invalid parameter has been specified.
+POS_RESULT_3=An invalid interface has been specified.
+POS_RESULT_4=An invalid account has been specified.
+POS_RESULT_5=An invalid authentication token has been specified.
+POS_RESULT_6=An invalid service has been specified.
+POS_RESULT_7=An invalid URL has been specified.
+POS_RESULT_8=Unable to communicate with the Battleborn server at this time. Please check your network connection and try again.
+;
+POS_RESULT_9=Could not authenticate with the Battleborn server.
+POS_RESULT_10=Could not parse authentication token with the Battleborn server.
+POS_RESULT_11=Required Battleborn server parameters were missing.
+POS_RESULT_12=Could not store loadout with the Battleborn server.
+POS_RESULT_13=The Loadout version provided to the Battleborn server is out of date.
+POS_RESULT_14=The item is not available on the Battleborn server.
+POS_RESULT_15=Unknown currency type.
+; NOTE: Earned currency "insufficient funds" message below.
+POS_RESULT_16=Insufficient funds to purchase this item.
+; NOTE: Premium currency "insufficient funds" message below.
+POS_RESULT_17=Insufficient funds to purchase this item.
+POS_RESULT_18=Cannot purchase any more of this item.
+POS_RESULT_19=Unable to purchase item.
+POS_RESULT_20=Unable to acquire cluster information from the Battleborn server at this time. Please try again.
+;
+POS_RESULT_21=The Battleborn server has reported an internal error. Please check your network connection and try again.
+POS_RESULT_22=The Battleborn server has reported an internal time out error. Please check your network connection and try again.
+POS_RESULT_23=The Battleborn server has reported an internal address error. Please check your network connection and try again.
+POS_RESULT_24=Unable to connect to the Battleborn server at this time. Please check your network connection and try again.
+POS_RESULT_25=The Battleborn server has reported an internal send request error. Please check your network connection and try again.
+POS_RESULT_26=The Battleborn server has reported an internal receive response error. Please check your network connection and try again.
+POS_RESULT_27=The Battleborn server has reported an internal read error. Please check your network connection and try again.
+POS_RESULT_28=The Battleborn server has reported an internal write error. Please check your network connection and try again.
+POS_RESULT_29=The Battleborn server has reported an internal certificate error. Please check your network connection and try again.
+POS_RESULT_30=The Battleborn server has reported an internal digest error. Please check your network connection and try again.
+;
+POS_RESULT_31=Request to the Battleborn server exceeded service ID max size.
+;
+POS_RESULT_32=Match results not found.
+POS_RESULT_33=Match results pending. Please try again.
+POS_RESULT_34=Match results are invalid.
+;
+POS_RESULT_35=The job request with the Battleborn server was not found.
+POS_RESULT_36=The job request with the Battleborn server is still pending. Please try again.
+POS_RESULT_37=The job request with the Battleborn server is invalid.
+POS_RESULT_38=The job request with the Battleborn server is still processing. Please wait.
+POS_RESULT_39=The job request with the Battleborn server timed out. Please check your network connection and try again.
+;
+POS_RESULT_40=Unable to store EULA state with the Battleborn server.
+;
+POS_RESULT_50=The Battleborn server reported a cluster time out.
+;
+POS_RESULT_60=The Battleborn server reported that invalid data was received.
+;
+POS_RESULT_70=Profile does not exist.
+;
+POS_RESULT_100=The Battleborn server has requested the continuation of the request.
+POS_RESULT_101=The Battleborn server has requested a protocol switch.
+POS_RESULT_102=The Battleborn server is still processing the request.
+;
+POS_RESULT_200=The request with the Battleborn server has succeeded.
+POS_RESULT_201=The request with the Battleborn server has succeeded and a new resource has been created.
+POS_RESULT_202=The request with the Battleborn server has been accepted, but processing has not been completed.
+POS_RESULT_203=The request with the Battleborn server has returned meta information in the entity head that is not the definitive set as available from the origin server.
+POS_RESULT_204=The request with the Battleborn server has succeeded but no content has been returned.
+POS_RESULT_205=The request with the Battleborn server has succeeded and the client should reset the document view.
+POS_RESULT_206=The request with the Battleborn server has succeeded with partial content.
+POS_RESULT_207=The request with the Battleborn server has succeeded with multiple statuses.
+POS_RESULT_208=The request with the Battleborn server has succeeded and was already reported.
+;
+POS_RESULT_300=The requested resource with the Battleborn server corresponds to any one of a set of representations.
+POS_RESULT_301=The requested resource with the Battleborn server has been moved permanently.
+POS_RESULT_302=The requested resource with the Battleborn server resides temporarily under a different URI. See other.
+POS_RESULT_303=The requested resource with the Battleborn server can be found under a different URI.
+POS_RESULT_304=The requested resource with the Battleborn server has not been modified.
+POS_RESULT_305=The requested resource with the Battleborn server must use a proxy.
+POS_RESULT_306=No longer used.
+POS_RESULT_307=The requested resource with the Battleborn server resides temporarily under a different URI. Temporary redirect.
+POS_RESULT_308=The requested resource with the Battleborn server resides permanently under a different URI. Permanent redirect.
+;
+POS_RESULT_400=The request with the Battleborn server was bad.
+POS_RESULT_401=Unauthorized with the Battleborn server.
+POS_RESULT_402=Payment required for the Battleborn server.
+POS_RESULT_403=The resource with the Battleborn server is forbidden.
+POS_RESULT_404=The resource with the Battleborn server was not found.
+POS_RESULT_405=The method with the Battleborn server was not allowed.
+POS_RESULT_406=The resource identified with the Battleborn server is not acceptable.
+POS_RESULT_407=Proxy authentication required with the Battleborn server.
+POS_RESULT_408=The request with the Battleborn server has timed out.
+POS_RESULT_409=The request with the Battleborn server has produced a conflict.
+POS_RESULT_410=The resource with the Battleborn server is no longer available.
+POS_RESULT_411=The request with the Battleborn server requires a defined content length.
+POS_RESULT_412=The request has failed a precondition with the Battleborn server.
+POS_RESULT_413=The request entity with the Battleborn server is too large.
+POS_RESULT_414=The request URI with the Battleborn server is too long.
+POS_RESULT_415=The request with the Battleborn server is an unsupported media type.
+POS_RESULT_416=The request range with the Battleborn server is not satisfiable.
+POS_RESULT_417=An expectation with the the Battleborn server request has failed.
+;
+POS_RESULT_421=The request with the Battleborn server was misdirected.
+POS_RESULT_422=The request entity with the Battleborn server was unprocessable.
+POS_RESULT_423=The request with the Battleborn server was locked.
+POS_RESULT_424=The request with the Battleborn server had a failed dependency.
+POS_RESULT_426=The request with the Battleborn server required an upgrade.
+POS_RESULT_428=The request with the Battleborn server requires a precondition.
+POS_RESULT_429=Too many requests made with the Battleborn server.
+POS_RESULT_431=The request header fields with the Battleborn server are too large.
+;
+POS_RESULT_500=The Battleborn server has reported an internal server error.
+POS_RESULT_501=The Battleborn server functionality is not implemented.
+POS_RESULT_502=The Battleborn server has reported a bad gateway.
+POS_RESULT_503=The Battleborn server service is unavailable.
+POS_RESULT_504=The Battleborn server gateway has timed out.
+POS_RESULT_505=The HTTP version is not supported with the Battleborn server.
+POS_RESULT_506=The Battleborn server has reported an internal configuration error.
+POS_RESULT_507=The Battleborn server has reported that the resource could not be stored.
+POS_RESULT_508=The Battleborn server has reported that a loop was detected.
+POS_RESULT_510=The Battleborn server has reported that a mandatory extension policy was not met.
+POS_RESULT_511=The Battleborn server has reported that authentication is required.
+;
+POS_RESULT_1000=Failed to entitle item to user.
+POS_RESULT_1001=Marketplace transaction cancelled by user.
+POS_RESULT_1002=Unknown item.
+POS_RESULT_1003=Failed to update the user loadout.
+POS_RESULT_1004=Failed to update the user sideboard.
+POS_RESULT_1005=Unable to consume item.
+POS_RESULT_1006=Unable to discard item.
+POS_RESULT_1007=Unable to move item.
+POS_RESULT_1008=Unable to purchase item.
+POS_RESULT_1009=Unable to update loadout.
+POS_RESULT_1010=Unknown user.
+POS_RESULT_1011=Failed to connect to Apollo.
+POS_RESULT_1012=Invalid Apollo request.
+POS_RESULT_1013=Invalid Apollo response.
+;
+POS_RESULT_1100=Invalid Battleborn.
+POS_RESULT_1101=Invalid Loadout number.
+POS_RESULT_1102=Local Loadout version is out of date.
+POS_RESULT_1103=Missing required Loadout parameters.
+POS_RESULT_1104=No Reputation Points to spend.
+POS_RESULT_1105=Invalid Faction.
+POS_RESULT_1106=Cannot spend more points in Faction.
+POS_RESULT_1107=Title is not owned.
+POS_RESULT_1108=Invalid Title.
+POS_RESULT_1109=Item not recognized by the Battleborn server.
+POS_RESULT_1110=Item was not found in loot pack.
+POS_RESULT_1111=All the slots in your Gear Bank are currently full.\n\nSell Gear to clear up Gear Bank Slots.
+POS_RESULT_1112=Credits price does not match the Battleborn server.
+POS_RESULT_1113=Item is not a piece of Gear.
+POS_RESULT_1114=Gear Item has no matching data.
+POS_RESULT_1115=Invalid Gear removal method.
+POS_RESULT_1116=Not entitled to Item.
+POS_RESULT_1117=Item is not consumable.
+POS_RESULT_1118=Loot pack is not empty.
+POS_RESULT_1119=No ingredients specified.
+POS_RESULT_1120=Invalid ingredient.
+POS_RESULT_1121=Not entitled to all ingredients.
+POS_RESULT_1122=Battleborn inventory operation timeout.
+POS_RESULT_1123=Item cannot be purchased with Credits.
+POS_RESULT_1124=Item cannot be purchased with Platinum.
+POS_RESULT_1125=Your Command Rank is too low to purchase this item.
+POS_RESULT_1126=No prestige faction exists!
+POS_RESULT_1127=Prestige requirements not met.
+POS_RESULT_1128=Purchase item cannot be Refunded.
+POS_RESULT_1129=Purchased item has already been Refunded.
+POS_RESULT_1130=Insufficient Refund Tokens to refund this item.
+POS_RESULT_1131=Match History cannot be retrieved.
+POS_RESULT_1132=Failed to retrieve requested Match History. Please check back again later.
+POS_RESULT_1133=Match History cannot be retrieved.
+
+[MarketplaceMessages]
+ReadEntitlements=Reading player entitlements
+EnumerateMarketplace=Enumerating marketplace content
+PurchaseWithMetaCurrency=Purchasing item with Credits
+PurchaseWithPremiumCurrency=Purchasing item with Platinum
+FirstPartyTransaction=Transaction in progress
+
+[MetaLoadoutsOnlineMessages]
+ReadLoadouts=Reading player loadouts
+UpdateLoadouts=Updating player loadouts
+
+[PoplarTeamColors]
+Red=Red
+Orange=Orange
+Yellow=Yellow
+Green=Green
+Teal=Teal
+Blue=Blue
+Purple=Purple
+Pink=Pink
+
+[PoplarMatchmakingLobbySettings]
+SessionName=Battleborn
+SessionStatus=Playing Battleborn
+SessionPlayedWith=Played Battleborn
+
+[PoplarMatchmakingTeamSettings]
+SessionName=Battleborn
+SessionStatus=Playing Battleborn
+SessionPlayedWith=Played Battleborn
+
+[PoplarMatchmakingGameSettings]
+SessionName=Battleborn
+SessionStatus=Playing Battleborn
+SessionPlayedWith=Played Battleborn
+
+[OnlineMessages]
+ConnectingLobby=Connecting to lobby
+ConnectingGame=Connecting to game
+DisconnectingLobby=Disconnecting from lobby
+DisconnectingGame=Disconnecting from game
+CreatingHostLobby=Creating lobby
+UpdatingSession=Updating session
+SwitchingProfile=Switching profile
+DiagnoseConnectionFailure=Checking NAT types
+SigningIn=Signing in: %GAMERTAG%
+SplitJoinNotAllowed=A splitscreen player can only join from the Main Menu
+
+[PoplarPlayerManager]
+Quit=Quit Battleborn
+LoginChange=A sign-out change occurred.
+LoginChange_Orbis=A sign out change occurred.
+LinkLost=The network connection was lost. Please check your network connection and try again later.
+ServiceConnectionLost=The connection to the Steam servers was lost. Please check your network connection and try again later.
+ServiceConnectionLost_Durango=The connection to Xbox Live was lost. Please check your network connection and try again later.
+ServiceConnectionLost_Orbis=The connection to PlayStation™Network was lost. Please check your network connection and try again later.
+SuspendResume=The game was suspended.
+GenericStartupError=An unknown error occurred (%ERRORCODE%).
+
+[PoplarPlayerController]
+MetaLoadoutSlotActivationSuccessfulString=Activating the slot was a success
+MetaLoadoutSlotActivationFailureLoadoutNotActiveString=Can't activate slot because the loadout is not active!
+MetaLoadoutSlotActivationFailureMaxSlotsActiveString=Can't activate slot due to the maximum number of slots already being met!
+MetaLoadoutSlotActivationFailureStackableTagCollisionString=Can't activate slot due to stacking collision with another active slot!
+MetaLoadoutSlotActivationFailureInvalidSlotIndexString=Can't activate slot due to an invalid slot index!
+MetaLoadoutSlotActivationFailureEmptySlotString=Can't activate slot as it appears to be empty!
+
+[MenuOptionDisplayNames]
+ChatDisplayLength="Chat Display Length"
+AimAssist="Aim Assist"
+AimAssistDesc=When enabled, your crosshairs will soft-lock onto targets you aim at.
+AimAssistDescPC=Set whether crosshairs soft-lock onto targets. \nDynamic aim assist only works when a <StringAliasMap:Term_Controller> is being used.
+ZoomSnapToTarget="Ironsight Aim Assist"
+ZoomSnapToTargetDesc=When enabled, your crosshairs will snap onto targets as you bring up the ironsight.
+InvertLook="Invert Look"
+InvertLookDesc=Invert the controls for looking up and down.
+InvertTurn="Invert Turn"
+InvertTurnDesc=Invert the controls for turning left and right.
+InvertMove="Invert Move"
+InvertMoveDesc=Invert the controls for moving forward and backward.
+InvertStrafe="Invert Strafe"
+InvertStrafeDesc=Invert the controls for strafing left and right.
+InvertGamepadLook="Invert Gamepad Look"
+InvertGamepadLookDesc=Invert the controls for looking up and down.
+InvertGamepadTurn="Invert Gamepad Turn"
+InvertGamepadTurnDesc=Invert the controls for turning left and right.
+InvertGamepadMove="Invert Gamepad Move"
+InvertGamepadMoveDesc=Invert the controls for moving forward and backward.
+InvertGamepadStrafe="Invert Gamepad Strafe"
+InvertGamepadStrafeDesc=Invert the controls for strafing left and right.
+InvertMouseLook="Invert Mouse Look"
+InvertMouseLookDesc=Invert the Y-axis for mouse look.
+ControllerSensitivityX="Sensitivity X"
+ControllerSensitivityXDesc=Adjust left-and-right <StringAliasMap:Term_Controller> sensitivity.
+ControllerSensitivityY="Sensitivity Y"
+ControllerSensitivityYDesc=Adjust up-and-down <StringAliasMap:Term_Controller> sensitivity.
+Subtitles="Subtitles"
+SubtitlesDesc=When enabled, dialog appears in printed text at the bottom of the screen.
+TeamColorOptionsDesc=Set team color highlights for enemies and allies.
+TextureFade="Texture Fade"
+TextureFadeDesc=Allow textures to fade in as higher-quality versions are loaded.
+TextureQuality="Texture Quality"
+TextureQualityDesc=Adjust texture quality. \nLower quality settings yield better performance.
+Training="Training Messages"
+TrainingDesc=Training messages assist in teaching you how to play Battleborn.
+ResetTraining="Reset Training Messages"
+ResetTrainingDesc="Reset training messages so previously viewed messages can be seen again."
+AO="Ambient Occlusion"
+AODesc=Visual effect that simulates the way light radiates in real life. \nDisable for better performance.
+ShadowQuality=Shadow Quality
+ShadowQualityDesc=Change the quality of dynamic shadows. \nLower quality settings yield better performance.
+OptionalVO="Battleborn Battle Chatter"
+OptionalVODesc=Toggle whether or not Battleborn voiceover chatter is played. If disabled, player-controlled Battleborn characters won't speak outside of critical Story Mission dialog.
+PlayerFOV="Field Of View"
+PlayerFOVDesc=Expand field of view to see more of the game world.
+CrouchToggle="Crouch Toggle"
+CrouchToggleDesc=Toggle crouch with a single <StringAliasMap:Term_Button> press rather than a <StringAliasMap:Term_Button> hold.
+ForceFeedback="Vibration"
+ForceFeedbackDesc=Toggles <StringAliasMap:Term_Controller> vibration throughout the game.
+QuickShop="Quick Helix"
+QuickShopDesc=When enabled, hold the <StringAliasMap:Term_Button> to open the Helix. Release the <StringAliasMap:Term_Button> to close the Helix.\nWhen disabled, press the <StringAliasMap:Term_Button> to open the Helix. Press the <StringAliasMap:Term_Button> again to close the Helix.
+ZoomToggle="Weapon Aim Toggle"
+ZoomToggleDesc=When enabled, activate ironsights with a single <StringAliasMap:Term_Button> press rather than a <StringAliasMap:Term_Button> hold.
+AutoKickRecovery="Automatic Weapon Kick Recovery"
+AutoKickRecoveryDesc=When enabled, your weapon tries to return to its original aim direction after firing.
+SprintToggle="Sprint Toggle"
+SprintToggleDesc=When enabled, pressing the sprint <StringAliasMap:Term_Button> will toggle sprint on and off.\nWhen disabled, you must continually hold the sprint <StringAliasMap:Term_Button> to sprint.
+MouseSensitivityX="Mouse Sensitivity X"
+MouseSensitivityXDesc=Adjust the mouse left-and-right sensitivity.
+MouseSensitivityY="Mouse Sensitivity Y"
+MouseSensitivityYDesc=Adjust the mouse up-and-down sensitivity.
+MouseSmoothing="Mouse Smoothing"
+MouseSmoothingDesc=When enabled, mouse movement is smoother.
+ControllerPresets="Controller Presets"
+ControllerPresetsDesc=""
+Anisotropy="Anisotropic Filtering"
+AnisotropyDesc=A visual effect that reduces blur and improves detail. \nLower settings yield better performance.
+Bloom="Bloom"
+BloomDesc=A visual effect that produces fringes of light around bright objects. \nDisable for better performance.
+Brightness="Brightness"
+BrightnessDesc=Make the game brighter or darker.
+DOF="Depth of Field"
+DOFDesc=A visual effect that blurs things if they're far away. \nDisable for better performance.
+FXAA="FXAA"
+FXAADesc=A visual effect that smoothes jagged edges. \nDisable for better performance.
+MotionBlur="Motion Blur"
+MotionBlurDesc=A visual effect that blurs objects moving at high speeds. \nDisable for better performance.
+NumberOfDecals="Bullet Decals"
+NumberOfDecalsDesc=Adjust if bullet decals appear in the environment, and how many. \nLower settings yield better performance.
+DynamicShadows="Dynamic Shadows"
+DynamicShadowsDesc=Turn dynamic shadows on or off.
+FoliageDistance="Foliage Distance"
+FoliageDistanceDesc=Adjust how close trees, leaves, etc. must be before they appear. \nCloser settings yield better performance.
+LensFlares="Lens Flares"
+LensFlaresDesc=""
+Multisample="Anti-Aliasing"
+MultisampleDesc=""
+MusicVolume="Music Volume"
+MusicVolumeDesc=Adjust the volume of music.
+SFXVolume="Sound Effects Volume"
+SFXVolumeDesc=Adjust the volume of gunshots, footsteps, and other sound effects.
+PushToTalk="Push To Talk"
+PushToTalkDesc=If OFF, you will constantly transmit any sound your microphone picks up. \nEnable for better network performance.
+VoiceVolume="Voip Chat Volume"
+VoiceVolumeDesc=Adjust the volume of incoming voice chat.
+VOVolume="Dialog Volume"
+VOVolumeDesc=Adjust the volume of characters when they speak.
+PlayerAlertVolume="Player Alert Volume"
+PlayerAlertVolumeDesc=Adjust the volume of the player alert (“ping”).
+VSync="VSYNC"
+VSyncDesc=When ON, the framerate is synchronized with your monitor's refresh rate.\n*Might not be applicable to windowed display modes.
+HUDScaleX="HUD H. Bounds"
+HUDScaleXDesc=Define where HUD elements live on your screen, horizontally speaking.
+HUDScaleY="HUD V. Bounds"
+HUDScaleYDesc=Define where HUD elements live on your screen, vertically speaking.
+HUDScaleE="HUD Scale"
+HUDScaleEDesc=Change the size of all HUD elements.
+ViewDistance="View Distance"
+ViewDistanceDesc=Adjust how far you can see. Things beyond this distance will not appear until you get closer. Lower settings yield better performance.
+TwoPlayerSplitDirection="Two Player Splitscreen Orientation"
+TwoPlayerSplitDirectionDesc=Divide the screen in half either horizontally or vertically during splitscreen play.
+ThreePlayerSplitDirection="Three Player Splitscreen Orientation"
+ThreePlayerSplitDirectionDesc=Determines how the screen is divided in three player splitscreen play.
+KeyBinds="Key Bindings"
+KeyBindsDesc=Edit what individual keys do.
+ResetKeyBinds="Reset Key Bindings"
+ResetKeyBindsDesc=Revert the keys to their default settings.
+Controls="Controls"
+KeyBindings="Key Bindings"
+KeyboardControlsDesc=View or edit what individual keys do.
+GamepadControlsDesc=View or edit the controls.
+FramerateLocking="Framerate"
+FramerateLockingDesc=Adjust how many video frames per second the game renders.
+DisableUISway="UI Sway"
+DisableUISwayDesc=Toggle if the in-game menu can sway back and forth in the world.
+PhysXLevel="PhysX Effects"
+PhysXLevelDesc=Adjust complexity of real-time physics using NVIDIA PhysX technology.
+AudioFocus="Mute Audio On Focus Loss"
+AudioFocusDesc=When ON, all game audio is muted when the game window loses focus or is minimized.
+ApplyChanges="Apply Changes"
+AutoDetectSettings="Auto Detect Settings"
+AutoDetectSettingsDesc=Allow the game to automatically detect optimal settings for your computer.
+PartyNetworkType="Lobby Privacy"
+PartyNetworkTypeDesc="Determines which players can join your lobby in the main menu without requiring an invite."
+UseActionSkillQuickCastDesc="Execute abilities with a single <StringAliasMap:Term_Button> press rather than with the normal two-<StringAliasMap:Term_Button> confirmation method. Not recommended for novice players."
+ActionSkillCastStyle="Skill Activation Styles"
+ActionSkillCastStyleDesc="Standard: Press once to aim, and then press again to activate. \nQuick: Hold and release. Instant: Single press."
+DamageFeedback=Damage Feedback Styles
+DamageFeedbackDesc=Determines how dealing damage is displayed in game.
+MapDisplay=Match Map Display Styles
+MapDisplayDesc=Change which type of map is displayed while in a PVP match.
+LockCombatRadarRotation=Lock Combat Radar Rotation
+LockCombatRadarRotationDesc=Lock combat radar rotation to always orient north.
+ChatDisplayLengthDesc=Set the duration chat messages will display on screen before fading out.
+SpeakerSetup=Speaker Setup
+SpeakerSetupDesc=Optimizes audio experience for different types of speaker setups.
+ControllerAudio=Controller Audio
+ControllerAudioDesc=Toggle whether the sounds are played from the controller.
+SpeakerAngles=Speaker Angles
+SpeakerAnglesDesc=Configure speaker angles to match your current surround sound arrangement.
+SpeakerAngleFront=Front
+SpeakerAngleSide=Side
+SpeakerAngleBack=Back
+ParticalDetail=Particle Detail Mode
+ParticalDetailDesc=Adjust the particle detail mode.
+
+[TwoPlayerSplitDirectionOptions]
+Vertical=Vertical
+Horizontal=Horizontal
+
+[ThreePlayerSplitDirectionOptions]
+Top=Favor Top
+Bottom=Favor Bottom
+Left=Favor Left
+Right=Favor Right
+
+[MOTD]
+MatchmakingMessageOfTheDay=(Header="Matchmaking Unavailable",Body="Matchmaking is currently unavailable.<br />Please try again later.",DisplayTime=15)
+AccountMessageOfTheDay=(Header="Gearbox Software SHiFT",Body="You have new Gearbox Software SHiFT rewards!<br />Select “SHiFT” in the Extras menu for details!",DisplayTime=15)
+Queue0MessageOfTheDay=(Header="Battleborn Queue",Body="You are currently in the Battleborn queue!<br />Almost there! You're nearing the front of the line!",DisplayTime=15)
+Queue1MessageOfTheDay=(Header="Battleborn Queue",Body="You are currently in the Battleborn queue!<br />Hang on! You've got a ways to go!",DisplayTime=15)
+Queue2MessageOfTheDay=(Header="Battleborn Queue",Body="You are currently in the Battleborn queue!<br />Sit tight! This may take a while!",DisplayTime=15)
+
+[Beacon]
+ConnectionSuccessful="Connection successful"
+PlayerJoined="%PLAYER% connected"
+PlayerLeft="%PLAYER% disconnected"
+Player=Player
+Player_Count=%COUNT% players
+
+[EULA]
+AcceptButtonLabel=Accept
+AcceptEmailButtonLabel=Decline
+
+[PoplarScrollingList]
+BackCaption=Previous Menu
+
+[PoplarScrollingListDataProviderFrontEnd]
+MenuDisplayName=Main Menu
+
+[PoplarScrollingListDataProviderMatchmaking]
+MenuDisplayName=Matchmaking
+
+[PoplarScrollingListDataProviderTopLevelOptions]
+MenuDisplayName=Options
+GameOptions=Gameplay
+GameOptionsDesc=Change gameplay options.
+AudioOptions=Audio
+AudioOptionsDesc=Change audio options.
+VideoOptions=Video
+VideoOptionsDesc=Change video options.
+KeyboardMouseOptions=Keyboard & Mouse
+KeyboardMouseOptionsDesc=Change keyboard and mouse options.
+GamepadOptions=Controller
+GamepadOptionsDesc=Change controller options.
+GamepadOptions_Durango=Controller
+GamepadOptionsDesc_Durango=Change controller options.
+GamepadOptions_Orbis=Controller
+GamepadOptionsDesc_Orbis=Change controller options.
+ChangeStorageDevice=Change Storage Device
+ChangeStorageDeviceDesc=Change storage options.
+PartyOptions=Lobby
+PartyOptionsDesc=Change game lobby options.
+SupportInfo=Support Info
+SupportInfoDesc=Game specific information used for Battleborn support.
+SupportInfoStr=Battleborn Profile ID: %PLAYERID%<br/>Product Version: %VERSION%<br/>NAT Type: %NAT%
+GettingSupportInfo=Getting support info
+MatchId="<br/>Match ID: "
+ShiftSupportId="<br/>SHiFT Support ID: "
+XboxHelp=Help
+XboxHelpDesc=Open the Help app.
+
+[PoplarScrollingListDataProviderGameOptions]
+MenuDisplayName=Gameplay
+
+[PoplarScrollingListDataProviderAudioOptions]
+MenuDisplayName=Audio
+
+[PoplarScrollingListDataProviderVideoOptions]
+MenuDisplayName=Video
+
+[PoplarScrollingListDataProviderKeyboardMouseOptions]
+MenuDisplayName=Keyboard & Mouse
+
+[PoplarScrollingListDataProviderGamepadOptions]
+MenuDisplayName=Controller
+PressStick=PRESS: %ACTION%
+
+[PoplarScrollingListDataProviderPause]
+MenuDisplayName=Pause
+Resume="Resume"
+Options="Options"
+Achievements=<StringAliasMap:Term_Achievements>
+Debug="Debug"
+Exit="Quit"
+Surrender="Vote For Surrender"
+SurrenderYes="Vote For Surrender"
+SurrenderNo="Vote Against Surrender"
+ServerTime="Remaining Server Time: "
+
+[PoplarScrollingListDataProviderResolutionOptions]
+MenuDisplayName=Resolution
+Resolution="Resolution"
+ResolutionDesc=Adjust screen resolution. Smaller resolution means better performance.
+
+[PoplarDlgInvalidWindowMode]
+Caption=Cannot Change Resolution
+Prompt=The window mode is currently set to Borderless-windowed, please change the window mode to either Windowed or Fullscreen before changing the resolution.
+
+[PoplarScrollingListDataProviderTeamColorOptions]
+MenuDisplayName=Team Colors
+TeamColorAlly="Ally Team Color"
+TeamColorAllyDesc="Your team's color."
+TeamColorEnemy="Enemy Team Color"
+TeamColorEnemyDesc="The enemy team's color."
+
+[PoplarScrollingListDataProviderWindowModeOptions]
+MenuDisplayName=Window Mode
+WindowMode="Window Mode"
+WindowModeDesc=Play Fullscreen, Windowed, or Borderless-windowed.
+
+[ControllerPresets]
+ControllerPreset=Controller Preset
+Custom=Custom
+PresetNameCustom=%1 Custom
+ToCustomizePressY=To customize this controller layout press <StringAliasMap:XBoxTypeS_Y>
+PressFirstButton=<font color='#D17C37'>Press button for function to move or press <IMG src='%IMG%' vspace='-8'> or </font><IMG src='pc_escape' vspace='-8'><font color='#D17C37'> to exit.</font>
+PressFirstButton_Durango=<font color='#D17C37'>Press button for function to move or press <StringAliasMap:XboxTypeS_Back> to exit.</font>
+PressFirstButton_Orbis=<font color='#D17C37'>Press button for function to move or press <StringAliasMap:XboxTypeS_Back> to exit.</font>
+PressSecondButton=<font color='#D17C37'>Press button where you want to move this function to or press <IMG src='%IMG%' vspace='-8'> or </font><IMG src='pc_escape' vspace='-8'><font color='#D17C37'> to exit.</font>
+PressSecondButton_Durango=<font color='#D17C37'>Press button where you want to move this function to or press <StringAliasMap:XboxTypeS_Back> to exit.</font>
+PressSecondButton_Orbis=<font color='#D17C37'>Press button where you want to move this function to or press <StringAliasMap:XboxTypeS_Back> to exit.</font>
+
+[dlgControllerRemapping]
+Caption=Swap Controller Buttons
+Prompt=You can modify the gamepad by swapping any two buttons.\n\nFirst press the button with the function that you want to assign to another button. Then press the button that you want to assign that function to.\n\nThe functions for those two buttons will be swapped.\n\nWhen you are done, press <IMG src='%IMG%' vspace='-8'> or <IMG src='pc_escape' vspace='-8'> to apply your changes.
+Prompt_Durango=You can modify the controller by swapping any two buttons.\n\nFirst press the button with the function that you want to assign to another button. Then press the button that you want to assign that function to.\n\nThe functions for those two buttons will be swapped.\n\nWhen you are done, press <StringAliasMap:XboxTypeS_Back> to apply your changes.
+Prompt_Orbis=You can modify the controller by swapping any two buttons.\n\nFirst press the button with the function that you want to assign to another button. Then press the button that you want to assign that function to.\n\nThe functions for those two buttons will be swapped.\n\nWhen you are done, press <StringAliasMap:XboxTypeS_Back> to apply your changes.
+
+[dlgControllerClobber]
+Caption=Overwrite Custom Preset?
+Prompt=You already have another custom preset defined.\n\nDo you wish to overwrite the existing custom preset with the '%PRESETNAME%' preset that you currently have selected?
+
+[dlgControllerExitWarn]
+Caption=Discard Custom Preset?
+Prompt=There is a customized <StringAliasMap:Term_Controller> preset defined, but you have currently selected the standard <StringAliasMap:Term_Controller> preset layout '%PRESETNAME%'.\n\nIf you exit this menu now, you will lose your customized layout.\n\nDo you wish to exit now and lose your customized layout?
+
+[dlgResetTrainingMessagesWarn]
+Caption=Reset Training Messages?
+Prompt=Resetting training messages will allow you to view all previously viewed training messages again.\n\nDo you wish to reset the training messages?
+
+[GearboxAccount]
+PlayerNameFormat=Welcome, %playername%
+SignedInStatus=<font color="#FFCC00">Signed in to Gearbox Software SHiFT!</font>
+NotSignedInStatus=<font color="#999999">Not signed in to Gearbox Software SHiFT</font>
+Tooltips=<StringAliasMap:GFx_Accept> Select    <StringAliasMap:GFx_Cancel> Back
+Tooltips_SelectDisabled=<font color='#808080'><StringAliasMap:GFx_Accept> Select</font>    <StringAliasMap:GFx_Cancel> Back
+Tooltips_RedeemCode=<StringAliasMap:GFx_X> SHiFT Code
+Tooltips_MyOffers=<StringAliasMap:GFx_X> My Rewards
+WelcomeScreenHeader=Welcome!
+WelcomeScreenMessage=Become a Gearbox Software SHiFT member to redeem Gearbox Software SHiFT Codes and unlock rewards to enhance your gaming experience.<br/><br/>To unlock this exclusive content, sign up for Gearbox Software SHiFT now, or sign in if you are already a member.
+WelcomeBackHeader=Welcome Back!
+SignInButtonLabel=Sign In
+SignUpButtonLabel=Sign Up
+SignInScreenHeader=Sign In
+SignInScreenMessage=Enter your Gearbox Software SHiFT credentials to sign in and link your account. This will give you access to features and rewards.
+EmailCaption=E-mail
+PasswordCaption=Password
+ConfirmPasswordCaption=Confirm Password
+ConfirmEmailCaption=Confirm E-mail
+AdditionalBenefitsCaption=Additional Benefits
+DefaultEmail=
+DefaultPassword=
+DefaultConfirmPassword=
+ResetPasswordButtonLabel=Reset Password
+AdditionalBenefitsMessage=Sign in at our website with your new account credentials and gain access to additional features, info and rewards only available to Gearbox Software SHiFT members.
+SignInProgressMessage=Signing in to Gearbox Software SHiFT
+SignUpProgressMessage=Signing up for Gearbox Software SHiFT
+ResetPasswordProgressMessage=Requesting password reset from Gearbox Software SHiFT
+InputEmailTitle=E-mail Address
+SignInInputEmailDescription=Enter the e-mail address associated with your Gearbox Software SHiFT account.
+InputEmailDescription=Enter the e-mail address to associate with your Gearbox Software SHiFT account.
+ConfirmInputEmailTitle=Confirm E-mail Address
+ConfirmInputEmailDescription=Please re-enter your e-mail address.
+InputPasswordTitle=Password
+SignInInputPasswordDescription=Enter the password associated with your Gearbox Software SHiFT account.
+InputPasswordDescription=Enter the password to associate with your Gearbox Software SHiFT account.
+ConfirmPasswordTitle=Confirm Password
+ConfirmPasswordDescription=Please re-enter your password.
+ResetPasswordScreenHeader=Reset Password
+ResetPasswordScreenMessage=To reset your password, enter the full e-mail address that you use to sign into your Gearbox Software SHiFT account.
+AcceptButtonLabel=Accept
+OnlinePolicyButtonLabel=Online Policy
+PrivacyPolicyButtonLabel=Privacy Policy
+TermsOfServiceButtonLabel=Terms of Service
+SignUpScreenHeader=Sign Up
+SignUpScreenMessage=To become a Gearbox Software SHiFT member, enter a valid e-mail address and password (8+ characters).
+OffersCaption=My Rewards
+OffersCaption_RedeemCode=SHiFT Code
+AgeGateScreenHeader=Date of Birth
+AgeGateScreenMessage=Please enter your birth date to proceed with the Sign Up process for Gearbox Software SHiFT.
+MonthCaption=Month
+DayCaption=Day
+YearCaption=Year
+ConfirmAgeButtonLabel=Confirm Age
+VerifyingAgeProgressMessage=Verifying age with Gearbox Software SHiFT
+Authentication=Authenticating with Gearbox Software SHiFT!
+Authenticated=Authenticated
+RedeemCodeCaption=Please enter your code:
+RedeemCodeButtonLabel=SHiFT Code
+SupportIDButtonLabel=Support ID
+RedeemCodeSubmitButtonLabel=Submit
+RedeemCodeProgressMessage=Submitting Code to Gearbox Software SHiFT
+InputCodeSegmentTitle=Input Code
+InputCodeSegmentDescription=Input the next 5 characters of your code.
+PrivacyPolicyCheckboxCaption=Privacy Policy Viewed
+TermsOfServiceCheckboxCaption=Terms of Service Viewed
+ShiftHelpURLMessage=To manage your account, unlink your account, or view the EULAs and Terms of Service, please visit (%URL%).
+ShiftHelpURLMessageNoAccount=To view the EULAs and Terms of Service please visit (%URL%).
+
+[dlgGearboxAccountNoLinkConnection]
+Caption=No Network Connection
+Prompt=To redeem Gearbox Software SHiFT Codes, you must have a valid network connection.
+
+[dlgGearboxAccountNotLoggedIn]
+Caption=Not Signed In
+Prompt=To redeem Gearbox Software SHiFT Codes, you must have a Xbox Live Gold Membership and be signed in to Xbox Live.
+
+[dlgGearboxAccountNotConnected]
+Caption=Not Connected
+Prompt=To redeem Gearbox Software SHiFT Codes, you must connect to Steam.
+Prompt_Durango=To redeem Gearbox Software SHiFT Codes, you must connect to Xbox Live.
+Prompt_Orbis=To redeem Gearbox Software SHiFT Codes, you must connect to PlayStation™Network.
+
+[dlgGearboxAccountAccessRestricted]
+Caption=Access Restricted
+Prompt_Durango=To redeem Gearbox Software SHiFT Codes, you must be connected to Xbox Live and have online privileges.
+Prompt_Orbis=To redeem Gearbox Software SHiFT Codes, you must be connected to PlayStation™Network and have online privileges.
+
+[dlgGearboxAccountInvalidEmail]
+Caption=Invalid E-mail
+Prompt=Please enter a valid e-mail address.
+
+[dlgGearboxAccountInvalidPassword]
+Caption=Invalid Password
+Prompt=Please enter a valid password. A valid password contains a minimum of 8 characters.
+
+[dlgGearboxAccountTicketNotValid]
+Caption=Authentication Failed
+Prompt=Unable to authenticate at this time. Please check your network connection and try again later.
+
+[dlgGearboxAccountGenericSignInFailure]
+Caption=Sign In Failed
+Prompt=Unable to sign in to Gearbox Software SHiFT.
+
+[dlgGearboxAccountLoginFailSignInFailure]
+Caption=Sign In Failed
+Prompt=Your e-mail and Password combination do not match a Gearbox Software SHiFT account.
+
+[dlgGearboxAccountPlatformTakenByOtherSignInFailure]
+Caption=Sign In Failed
+Prompt=This <StringAliasMap:Term_OnlineAccount> is already associated with a different Gearbox Software SHiFT account.
+
+[dlgGearboxAccountPlatformTakenBySelfSignInFailure]
+Caption=Sign In Failed
+Prompt=You already have a <StringAliasMap:Term_OnlineAccount> associated with this Gearbox Software SHiFT account and you cannot be associated with more than one.
+
+[dlgGearboxAccountNetworkSignInFailure]
+Caption=Sign In Failed
+Prompt=Unable to communicate with Gearbox Software SHiFT. Please try again later.
+
+[dlgGearboxAccountTimeoutSignInFailure]
+Caption=Sign In Failed
+Prompt=Your Gearbox Software SHiFT session has timed out. You will be automatically reconnected. Please try again later.
+
+[dlgGearboxAccountCommunicationFailure]
+Caption=Connection Failed
+Prompt=Unable to communicate with Gearbox Software SHiFT. Please try again later.
+
+[dlgGearboxAccountResetPasswordSuccess]
+Caption=Password Reset
+Prompt=Your password reset request has been received. Please check your e-mail for further instructions on choosing a new password.
+
+[dlgGearboxAccountResetPasswordFailure_Generic]
+Caption=Unable to Reset Password
+Prompt=There was an error resetting your password.
+
+[dlgGearboxAccountResetPasswordFailure_NoSuchUser]
+Caption=Unable to Reset Password
+Prompt=There was not a Gearbox Software SHiFT account associated with this email address.
+
+[dlgGearboxAccountTimeoutResetPasswordFailure]
+Caption=Unable to Reset Password
+Prompt=Your Gearbox Software SHiFT session has timed out. You will be automatically reconnected. Please try again later.
+
+[dlgGearboxAccountCodeRedeemSuccess]
+Caption=Code Redeemed
+Prompt=Congratulations! You have new Gearbox Software SHiFT rewards!
+
+[dlgGearboxAccountEntitlementNames]
+DeveloperPerk=Developer Perk
+DeveloperPerkPlural=%NUMENTITLEMENTS% Developer Perks
+DeveloperSkin=Developer Skin
+DeveloperSkinPlural=%NUMENTITLEMENTS% Developer Perks
+
+[dlgGearboxAccountCodeRedeemFailure]
+Caption=Code Redemption Failed
+Prompt=Sorry, but the code you have entered cannot be redeemed.
+
+[dlgGearboxAccountCodeRedeemTakenFailure]
+Caption=Code Redemption Failed
+Prompt=Sorry, but the code you have entered has already been redeemed.
+
+[dlgGearboxAccountCodeRedeemExpiredFailure]
+Caption=Code Redemption Failed
+Prompt=Sorry, but the code you have entered is expired and can no longer be redeemed.
+
+[dlgGearboxAccountCodeRedeemNotValidFailure]
+Caption=Code Redemption Failed
+Prompt=Sorry, but the code you have entered is not valid. Please ensure all 25 characters of the code are entered correctly.
+
+[dlgGearboxAccountCodeRedeemTimeoutFailure]
+Caption=Code Redemption Failed
+Prompt=Your Gearbox Software SHiFT session has timed out. You will be automatically reconnected. Please try again later.
+
+[dlgGearboxAccountCodeRedeemDuplicateFailure]
+Caption=Code Redemption Duplicate
+Prompt=You have already redeemed this one-time offer. Feel free to share this code with a friend!
+
+[dlgGearboxAccountCodeRedeemAtItemCapacityFailure]
+Caption=Code Redemption Failed
+Prompt=You already have this item.
+
+[dlgGearboxAccountCodeRedeemNetworkFailure]
+Caption=Code Redemption Failed
+Prompt=Unable to communicate with Gearbox Software SHiFT. Please try again later.
+
+[dlgGearboxAccountGenericSignUpFailure]
+Caption=Sign Up Failed
+Prompt=Unable to create Gearbox Software SHiFT account.
+
+[dlgGearboxAccountEmailTakenSignUpFailure]
+Caption=Sign Up Failed
+Prompt=This e-mail already has a Gearbox Software SHiFT account.
+
+[dlgGearboxAccountPlatformTakenSignUpFailure]
+Caption=Sign Up Failed
+Prompt=You are already associated with a Gearbox Software SHiFT account.
+
+[dlgGearboxAccountPasswordNotSetSignUpFailure]
+Caption=Sign Up Failed
+Prompt=You must specify a password.
+
+[dlgGearboxAccountPasswordTooShortSignUpFailure]
+Caption=Sign Up Failed
+Prompt=The password you have specified is too short. A valid password contains a minimum of 8 characters.
+
+[dlgGearboxAccountPasswordTooLongSignUpFailure]
+Caption=Sign Up Failed
+Prompt=The password you have specified is too long.
+
+[dlgGearboxAccountPasswordInvalidSignUpFailure]
+Caption=Sign Up Failed
+Prompt=The password you have specified contains invalid characters.
+
+[dlgGearboxAccountEmailNotSetSignUpFailure]
+Caption=Sign Up Failed
+Prompt=You must specify an e-mail.
+
+[dlgGearboxAccountEmailNotValidSignUpFailure]
+Caption=Sign Up Failed
+Prompt=The e-mail address you have specified is not valid.
+
+[dlgGearboxAccountTimeoutSignUpFailure]
+Caption=Sign Up Failed
+Prompt=Your Gearbox Software SHiFT session has timed out. You will be automatically reconnected. Please try again later.
+
+[dlgGearboxAccountSignUpSuccess]
+Caption=Gearbox Software SHiFT Account Created!
+Prompt=Congratulations! You've successfully signed up for a Gearbox Software SHiFT account!<br/><br/>A confirmation e-mail has been sent to %EMAIL%.
+
+[dlgGearboxAccountPasswordsMustMatch]
+Caption=Passwords Must Match
+Prompt=Both passwords must match. Please re-enter and confirm your password.
+
+[dlgGearboxAccountEmailsMustMatch]
+Caption=E-mail Addresses Must Match
+Prompt=Both e-mail addresses must match. Please re-enter and confirm your e-mail address.
+
+[dlgGearboxAccountAgeGateFailureUnknownAge]
+Caption=Unknown Age
+Prompt=Unable to verify your age at this time. Please check your network connection and try again later.
+
+[dlgGearboxAccountAgeGateFailureBelowMinimumAge]
+Caption=Insufficient Age
+Prompt=You do not meet the age requirements to register for a Gearbox Software SHiFT account.
+
+[dlgGearboxAccountCodePasteInvalid]
+Caption=Invalid Code
+Prompt=Unable to paste code. Please ensure you copied the code correctly.
+
+[dlgGearboxAccountShowSupportId]
+Caption=SHiFT Support ID
+Prompt=Your SHiFT Support ID is:<br/><br/><font size='30' color='#00BDF3' letterspacing='6'>          %SUPPORTID%</font><br/><br/>Contact support.gearboxsoftware.com for help with SHiFT.
+Unknown=Unknown
+
+[dlgGearboxAccountMustAcceptAgreements]
+Caption=Agreement Declined
+Prompt=Player declined agreement. Please accept to use SHiFT.
+
+[dlgUnableToJoinNotJoinable]
+Caption=Unable to Join
+Prompt=You were unable to join the host because they are no longer in a joinable game session.
+
+[dlgConfirmKickPlayer_NoReservation]
+Caption=Kick Player?
+Prompt=Are you sure you want to kick this player?
+
+[dlgConfirmKickPlayer]
+Caption=Kick Player?
+Prompt=Are you sure you want to kick this player?\n\nThe following players will be removed:\n%PLAYERS%
+
+[KickingPlayer]
+Message=Attempting to kick %PLAYER%
+Subtitle=Please wait...
+
+[dlgLostNetworkConnection]
+Caption=Network Connection Lost
+Prompt=Make sure your Ethernet cables are connected properly.
+
+[dlgGainedNetworkConnection]
+Caption=Connection Active
+Prompt=Your network connection is now active.
+
+[dlgLostOnlineLinkInMainMenu]
+Caption=Connection Lost
+Prompt=Your connection to the Steam servers was lost.
+Prompt_Durango=Your connection to Xbox Live was lost.
+Prompt_Orbis=Your connection to PlayStation™Network was lost.
+
+[dlgGainedOnlineLinkInMainMenu]
+Caption=Connection Active
+Prompt=You are now connected to the Steam servers.
+Prompt_Durango=You are now connected to Xbox Live.
+Prompt_Orbis=You are now connected to PlayStation™Network.
+
+[dlgLostOnlineService]
+Caption=Connection Lost
+Prompt=Your connection to the Steam servers was lost.
+Prompt_Durango=Your connection to Xbox Live was lost.
+Prompt_Orbis=Your connection to PlayStation™Network was lost.
+
+[dlgSuspended]
+Caption=Suspended
+Prompt=You have been returned to the title screen because the game was suspended.
+
+[dlgGameNotJoinable]
+Caption=Unable to Join
+Prompt=The currently selected friend's game is not joinable.
+
+[dlgConnectionFailed]
+Caption=Connection Failed
+Prompt=Could not connect to host.
+
+[dlgConnectionFailedServerFull]
+Caption=Connection Failed
+Prompt=Unable to join. The requested game is full.
+
+[dlgConnectionFailedSessionNoLongerExists]
+Caption=Connection Failed
+Prompt=The connection to the host failed. The game session no longer exists.
+
+[dlgConnectionFailedRateLimit]
+Caption=Connection Failed
+Prompt=Unable to join, too many recent online requests. Please wait and try again later.
+
+[dlgConnectionFailedRejectedByHost]
+Caption=Connection Failed
+Prompt=Unable to join. The host has refused the connection.
+
+[dlgRequestTimedOut]
+Caption=Connection Failed
+Prompt=Unable to join. The connection timed out. Would you like to check NAT types?
+
+[dlgFailedToDiagnoseConnectionFailure]
+Caption=Unknown Connection Failure
+Prompt=Unable to diagnose the network connection problem.
+
+[dlgConnectionFailedServerUnavailable]
+Caption=Connection Failed
+Prompt=This game is no longer available.
+
+[dlgConnectionFailedVersionMismatch]
+Caption=Connection Failed
+Prompt=Unable to join. Please ensure that all players have the same patch version and try again.
+
+[dlgConnectionFailedSparkMismatch]
+Caption=Connection Failed
+Prompt=Unable to join. All players do not have the same Battleborn server environment.
+
+[dlgConnectionFailedRevealStageHostHigher]
+Caption=Connection Failed
+Prompt=Unable to join. Please restart the game to access the latest available content.
+
+[dlgConnectionFailedRevealStageHostLower]
+Caption=Connection Failed
+Prompt=Unable to join. You have updated content that the host has not yet obtained.
+
+[dlgConnectionFailedHostGameNotJoinable_General]
+Caption=Connection Failed
+Prompt=The host game is no longer joinable.
+
+[dlgConnectionFailedHostGameNotJoinable_InMatchmaking]
+Caption=Connection Failed
+Prompt=The host game is no longer joinable because they are in matchmaking.
+
+[dlgConnectionFailedHostGameNotJoinable_InPrivateMatch]
+Caption=Connection Failed
+Prompt=The host game is no longer joinable because they are in a private match.
+
+[dlgConnectionFailedHostGameNotJoinable_InGame]
+Caption=Connection Failed
+Prompt=The host game is no longer joinable because they are in a game.
+
+[dlgSplitLeave]
+Caption=Leave Game?
+Prompt=You will be removed from the current game. All other players will remain. Are you sure you want to leave the current game?
+Yes=Leave Game
+No=Cancel
+
+[dlgSplitJoinFailed]
+Caption=Splitscreen Join Failed
+Prompt=Unable to join at this time.
+
+[dlgLostConnectionToHost]
+Caption=Connection Lost
+Prompt=Your connection to the host was lost.
+
+[dlgLostConnectionToServer]
+Caption=Connection Lost
+Prompt=Your connection to the server was lost.
+
+[dlgHostQuitGame]
+Caption=Connection Lost
+Prompt=Your connection to the host was lost. The host quit the game.
+
+[dlgHostTitleScreen]
+Caption=Connection Lost
+Prompt=Your connection to the host was lost. The host returned to the title screen.
+
+[dlgHostAcceptedInvite]
+Caption=Connection Lost
+Prompt=Your connection to the host was lost. The host left the lobby.
+
+[dlgSessionJoinFailed]
+Caption=Connection Lost
+Prompt=Unable to join online game session.
+
+[dlgClientOutdated]
+Caption=Connection Failed
+Prompt=The match you are trying to join is running an incompatible version of the game. Please try upgrading your game version.
+
+[dlgServerOutdated]
+Caption=Connection Failed
+Prompt=The host you are trying to connect to is running an outdated version of the game.
+
+[dlgNotEnoughSpaceInInvite]
+Caption=Connection Failed
+Prompt=The game you are trying to join does not have enough space for all active players.
+
+[dlgUnableToJoinForDlc]
+Caption=Unable to Join
+Prompt=You were unable to join the host because you either have an incompatible version of the game, or the host is currently in downloadable content you do not have.
+
+[dlgConnectionFailedAuthentication]
+Caption=Connection Failed
+Prompt=Could not authenticate with host.
+
+[dlgKicked]
+Caption=Connection Lost
+Prompt=The host removed you from the game.
+
+[dlgKickedPartyKill]
+Caption=Session Ended
+Prompt=The host chose to end the session to play a different network mode.
+
+[dlgDlcCompatMismatch]
+Caption=Failed To Join Match
+Prompt=You are playing a different patch version than the other player(s). Please ensure that all players have the same patch version and try again.
+Prompt_Durango=You do not have the same set of downloadable content as the other player(s). Please ensure that all players have the same game version and the latest compatibility pack and try again.
+
+[dlgDlcMapTransitionFailed]
+Caption=Travel Failed
+Prompt=You cannot travel to the map the host is currently in. You do not have the necessary downloadable content installed.
+
+[dlgDlcMapTransitionErrorNotLicensed]
+Caption=Travel Failed
+Prompt=You were returned to the title screen because the host is traveling to a downloadable content level you do not own.
+
+[dlgHostLeftGame]
+Caption=Connection Lost
+Prompt=The host ended the game.
+
+[dlgAccessControlAccessDenied]
+Caption=Connection Failed
+Prompt=Access denied by the server.
+
+[dlgAccessControlMatchEnded]
+Caption=Connection Failed
+Prompt=The match has ended.
+
+[dlgStartupProcessCreateHostBeacon]
+Caption="Lobby Creation Failed"
+Prompt="Unable to create lobby. Please check your network connection and try again later."
+
+[dlgStartupProcessCreateHostBeaconRateLimit]
+Caption=Lobby Creation Failed
+Prompt=Unable to create lobby because there have been too many recent online requests. Please wait and try again later.
+
+[dlgUsingLocalProfileReturnedToMenu]
+Caption=Connection Lost
+Prompt=You have been returned to the title screen because your connection to Steam was lost.
+Prompt_Orbis=You have been returned to the title screen because your connection to PlayStation™Network was lost. You must be signed into PlayStation™Network to play Battleborn.
+Prompt_Durango=You have been returned to the title screen because your connection to Xbox Live was lost.
+
+[dlgLostOnlineLinkReturnedToMenu]
+Caption=Connection Lost
+Prompt=You have been returned to the title screen because your internet connection was lost.
+Prompt_Orbis=You have been returned to the title screen because your connection has been lost. You must have an active internet connection to play Battleborn.
+Prompt_Durango=You have been returned to the title screen because your connection to Xbox Live was lost.
+
+[dlgReturnToTitleNoOnlinePermissions]
+Caption=Online Permissions Changed
+Prompt=You have been returned to the title screen because a player does not have the correct online permissions to access multiplayer features.
+
+[dlgReturnToTitleSparkAuthenticationFailed]
+Caption=Authentication Failure
+Prompt=You have been returned to the title screen because of a failure to authenticate with the Battleborn server.\n\n%USER_MESSAGE%
+
+[dlgReturnToTitlePartyChanged]
+Caption=<StringAliasMap:Term_Party_Caps> Changed
+Prompt=You have been returned to the title screen because your game <StringAliasMap:Term_Party> changed.
+
+[dlgLoggedOutMidGame]
+Caption=Signed Out
+Prompt=You have been returned to the title screen because a sign-out change occurred.
+
+[dlgLoggedInMidGame]
+Caption=Signed In
+Prompt=You have been returned to the title screen because a sign-in change occurred.
+Prompt_Orbis=You have been returned to the title screen because a sign in change occurred.
+
+[dlgReturnToTitle]
+Caption=Return to Title Screen?
+Prompt=Are you sure you want to return to the title screen?
+
+[dlgReturnToTitleMatchmaking]
+Caption=Return to Title Screen?
+Prompt=Are you sure you want to return to the title screen? Performing this action will remove you from the matchmaking queue.
+
+[dlgReturnToTitleNetworked]
+Caption=Return to Title Screen?
+Prompt=Are you sure you want to return to the title screen? Performing this action will disconnect all networked players.
+
+[dlgReturnToTitleNetworkedMatchmaking]
+Caption=Return to Title Screen?
+Prompt=Are you sure you want to return to the title screen? Performing this action will disconnect all networked players and remove you from the matchmaking queue.
+
+[dlgStartupProcessGenericError]
+Caption=Player Initialization Failed
+Prompt=%ERRORDESC%
+SessionCreateFailed=Failed to create team lobby
+
+[dlgStartupProcessStepError]
+Caption=Player Initialization Failed
+Prompt=%ERRORNAME% failed. Check log for details. (0x%ERRORCODE%)
+
+[dlgStartupProcessServiceError]
+Caption=Player Initialization Failed
+Prompt=%ERRORDESC%
+
+[dlgStartupProcessCheckPatchAvailable]
+Caption=Player Initialization Failed
+Prompt=Unable to check for new patches.
+
+[dlgStartupProcessCheckPatchAvailable_PatchAvailable]
+Caption=Player Initialization Failed
+Prompt=A new patch version is available. Please download and install it to proceed.
+
+[dlgStartupProcess_NotLoggedIn]
+Caption=Player Initialization Failed
+Prompt=You must have an active connection to Steam to continue, please check your network connection and try again.
+Prompt_Orbis=You must have an active connection to PlayStation™Network to continue. Please verify that you are signed in with a Sony Entertainment Network account, check your network connection, and try again.
+Prompt_Durango=You must have an active connection to Xbox Live to continue, please check your network connection and try again.
+
+[dlgStartupProcess_IsGuest]
+Caption=Player Initialization Failed
+Prompt=You are currently signed in as a guest. You must sign into a profile to continue.
+Prompt_Orbis=Playing an online game with a Share Play host is not supported. A visitor can only operate a controller in local multi-play or through the "Playing as Host" Share Play option.
+
+[dlgStartupProcessCheckPermissions_CannotPlayOnline]
+Caption=Player Initialization Failed
+Prompt=Player does not have online permissions.
+Prompt_Durango=Player does not have the correct online permissions to access multiplayer features.
+Prompt_Orbis=PlayStation®Plus is required to play this game. Please join PlayStation®Plus to proceed.
+
+[dlgStartupProcess_NoNetworkConnection]
+Caption=Player Initialization Failed
+Prompt=The system does not have a network connection.
+Prompt_Durango=The Xbox One console does not have a network connection.
+Prompt_Orbis=The PlayStation®4 system does not have a network connection. Please make sure your Ethernet cables are connected properly.
+
+[dlgStartupProcessCheckPermissions]
+Caption=Player Initialization Failed
+Prompt=Failed to get player permissions. Please check your network connection and try again later.
+
+[dlgStartupProcessPatcherDownload]
+Caption=Player Initialization Failed
+Prompt=Failed to complete the patching process. Please check your network connection and try again.
+
+[dlgStartupProcessSparkAuthentication]
+Caption=Player Initialization Failed
+Prompt=Player initialization failed. Unable to communicate with the Battleborn server. Please check your network cables and configuration and try again.
+
+[dlgStartupProcessSparkAuthentication_ServiceFailure]
+Caption=Player Initialization Failed
+Prompt=Failed to authenticate player with the Battleborn server. There was a problem communicating with Steam.
+Prompt_Durango=Failed to authenticate player with the Battleborn server. There was a problem communicating with Xbox Live.
+Prompt_Orbis=Failed to authenticate player with the Battleborn server. There was a problem communicating with PlayStation™Network.
+
+[dlgStartupProcessSparkAuthentication_DiscoveryFailure]
+Caption=Player Initialization Failed
+Prompt=Could not obtain available services. Unable to communicate with the Battleborn server. Please check your network cables and configuration and try again.
+
+[dlgStartupProcessSparkAuthentication_Banned]
+Caption=Player Initialization Failed
+Prompt=This account has been banned from playing Battleborn. Please visit https://gearboxsoftware.zendesk.com for more information.
+
+[dlgStartupProcessSparkAuthentication_NotValid]
+Caption=Player Initialization Failed
+Prompt=Failed to authenticate player with the Battleborn server.
+
+[dlgStartupProcessReadProfileSettings_ReadCorruptProfile]
+Caption=Player Initialization Failed
+Prompt=Unable to read corrupt save data.
+
+[dlgStartupProcessReadProfileSettings_DeleteCorruptProfile]
+Caption=Player Initialization Failed
+Prompt=Unable to delete corrupt save data. Please try again or manually remove the save data from the system.
+
+[dlgStartupProcessReadProfileSettings]
+Caption=Player Initialization Failed
+Prompt=Failed to read save data. An unknown error occurred.
+
+[dlgStartupProcessShowEULAScreen]
+Caption=Player Initialization Failed
+Prompt=Failed to display agreement. An unknown error occurred.
+
+[dlgStartupProcessShowEULAScreen_MustAcceptAgreements]
+Caption=Player Initialization Failed
+Prompt=Player declined agreement. Please accept to proceed.
+
+[dlgGenericMatchmakingFailure]
+Caption=Matchmaking Failed
+Prompt=Unable to complete matchmaking at this time. Please select a different playlist or try again later.\n\n%SERVICE_RESULT%  %DEBUG_CODE%\n\n%ZTICKET%
+
+[dlgGenericPrivateMatchFailure]
+Caption=Private Match Failed
+Prompt=Unable to start a private match at this time. Please select a different playlist or try again later.\n\n%SERVICE_RESULT%  %DEBUG_CODE%\n\n%ZTICKET%
+
+[dlgConfirmCorruptProfileOverwrite]
+Caption=Use Defaults?
+Prompt=Save data is corrupt and must be overwritten to proceed. Overwrite with default settings?
+
+[dlgExit]
+Cancel=Cancel
+Caption=Quit Game?
+Prompt=%NETWORK%Are you sure you want to quit the current game?\n\nYou will not be able to start a match, only rejoin the current one.
+Prompt_Split=%NETWORK%Are you sure you want to quit the current game?\n\n%PLAYER0: %SAVESTATE0\n%PLAYER1: %SAVESTATE1
+SaveState_No=Unsaved progress will be lost.
+SaveState_Yes=All progress will be saved.
+Save=Save and Quit
+NoSave=Quit Without Saving
+TipSave=All progress will be saved.
+NetworkPlayers="Networked players will be removed."
+
+[dlgExitSinglePlayer]
+Cancel=Cancel
+Caption=Quit Game?
+Prompt=%NETWORK%Are you sure you want to quit the current game?
+Prompt_Split=%NETWORK%Are you sure you want to quit the current game?\n\n%PLAYER0: %SAVESTATE0\n%PLAYER1: %SAVESTATE1
+SaveState_No=Unsaved progress will be lost.
+SaveState_Yes=All progress will be saved.
+Save=Save and Quit
+NoSave=Quit Without Saving
+TipSave=All progress will be saved.
+NetworkPlayers="Networked players will be removed."
+
+[dlgKeyBind]
+Caption=Bind Key
+Prompt=Press the key you wish to bind to "%ACTION%" or press <IMG src='pc_escape' vspace='-8'> to cancel.
+PromptController=Press the key you wish to bind to "%ACTION%" or press <IMG src='pc_escape' vspace='-8'> or <IMG src='%IMG%' vspace='-8'> to cancel.
+
+[dlgKeyBindSwap]
+Caption=Bind Key
+Prompt=The key "%KEY%" was already in use.\n\nThe key for "%ACTION%" has been swapped with "%ACTIONSWAP%".\n\nPress <IMG src='pc_escape' vspace='-8'> to continue.
+PromptController=The key "%KEY%" was already in use.\n\nThe key for "%ACTION%" has been swapped with "%ACTIONSWAP%".\n\nPress <IMG src='pc_escape' vspace='-8'> or <IMG src='%IMG%' vspace='-8'> to continue.
+
+[dlgResetKeyBind]
+Caption=Reset Key Bindings?
+No=No
+Prompt=Are you sure you want to reset your key bindings to their defaults?
+Yes=Yes
+
+[dlgCommandError]
+Caption=Error
+Prompt=%ERROR%
+
+[dlgTempTrainingMessage]
+Caption=Temp Training Message
+Prompt=Pretend we're training you since this training stat was zero. Now we'll increment the stat so you don't see it next time!
+
+[dlgLoadoutClear]
+Caption=Clear Loadout?
+Prompt=Are you sure you want to clear your loadout?
+
+[dlgLoadoutSellItem]
+Caption=Sell Item?
+Prompt=Are you sure you want to sell this item?
+
+[dlgLoadoutSave]
+Caption=Save Loadouts?
+Prompt=Save Loadout changes?
+
+[dlgLoadoutRename]
+Caption=Rename Loadout
+Prompt=Please enter a new name for the Loadout:\n(25 character max)
+Prompt_Durango=Please enter a new name for the Loadout (25 character max):
+
+[dlgRefundPurchase]
+Caption=Refund Purchase?
+Prompt=Are you sure you want to refund this purchase?
+
+[dlgCannotEquipPerk]
+Caption=Duplicate Gear Type
+Prompt=Your Loadout already contains this type of Gear.\n\nA Loadout may only contain one of each type of Gear.\n\nTIP: The icon shapes are different for each type of Gear.
+
+[dlgInsufficientRefundTokens]
+Caption=Refund Tokens Required
+Prompt=Insufficient Refund Tokens to refund this item.
+
+[dlgUnknownAge]
+Caption=Age Verification
+Prompt=Unable to verify your age at this time. Please check your network connection and try again later.
+
+[dlgBelowMinAge]
+Caption=Age Verification
+Prompt=You do not meet the minimum age requirements to use SHiFT.
+
+[LANServerBrowserGFxMovie]
+HeaderTextCustom=<StringAliasMap:Term_Online_Caption> Games
+HeaderTextLAN=<StringAliasMap:Term_Lan> Games
+NoGamesFoundMessage=No games found.
+SearchingForGamesMessage=Searching for games...
+CharInfoFormat=Rank %level%
+MissionInfoFormat=%mission% - %PLAYTHROUGH_NAME% Mode
+TooltipDefault=<StringAliasMap:FindGames> Refresh    <StringAliasMap:GFx_Accept> Join    <StringAliasMap:GFx_Cancel> Close    <StringAliasMap:GFx_LeftBumper> Sort (%SORT%)    <StringAliasMap:GFx_RightBumper> %DIR%
+TooltipDefault_Durango=<StringAliasMap:FindGames> Refresh    <StringAliasMap:GFx_Accept> Join    <StringAliasMap:GFx_Cancel> Close
+TooltipDefault_Orbis=<StringAliasMap:FindGames> Refresh    <StringAliasMap:GFx_Accept> Join    <StringAliasMap:GFx_Cancel> Close
+TooltipNoGames=<StringAliasMap:FindGames> Refresh    <StringAliasMap:GFx_Cancel> Close
+TooltipSearching=<StringAliasMap:GFx_Cancel> Cancel
+TooltipDefaultGamercard=<StringAliasMap:FindGames> Refresh    <StringAliasMap:ViewGamercard> View <StringAliasMap:Term_GamerCard>    <StringAliasMap:GFx_Accept> Join    <StringAliasMap:GFx_Cancel> Close    <StringAliasMap:GFx_LeftBumper> Sort (%SORT%)    <StringAliasMap:GFx_RightBumper> %DIR%
+TooltipDefaultGamercard_Durango=<StringAliasMap:FindGames> Refresh    <StringAliasMap:ViewGamercard> View <StringAliasMap:Term_GamerCard>    <StringAliasMap:GFx_Accept> Join    <StringAliasMap:GFx_Cancel> Close
+TooltipDefaultGamercard_Orbis=<StringAliasMap:FindGames> Refresh    <StringAliasMap:ViewGamercard> View <StringAliasMap:Term_GamerCard>    <StringAliasMap:GFx_Accept> Join    <StringAliasMap:GFx_Cancel> Close
+GameCountFormat=Found %gamecount% game(s)!
+FriendlyGameVersion=Version %version%
+SortPlayerCount=Players
+SortPing=Ping
+SortName=Name
+SortLevel=Rank
+SortMission=Mission
+SortAscending=Ascending
+SortDescending=Descending
+
+[PS3InvitesPopup]
+Message_WantsToPlay="Wants to play Battleborn!"
+NoPendingInvites="No pending invites."
+Title="Game Invites"
+
+[dlgOptionsRequireRestart]
+Caption=Restart Required
+Prompt=Some changed options require a restart of the game to take effect.
+
+[dlgPlayerJoinControllerPairing]
+Caption=Select <StringAliasMap:Term_Controller_Caps>
+Prompt=Please select a <StringAliasMap:Term_Controller> for %NICKNAME%.
+
+[dlgPlayerJoinControllerPairingInvalidController]
+Caption=Select <StringAliasMap:Term_Controller_Caps>
+Prompt=The selected <StringAliasMap:Term_Controller> is already in use. Please select a different <StringAliasMap:Term_Controller> for %NICKNAME%.
+
+[ErrorReporter]
+ErrorFormat="%ERROR_DESC%\n\nError Code: %ERROR_CODE%"
+OkButtonPrompt="Ok"
+MoreInfoButtonPrompt="More Info"
+
+[dlgTestError]
+Caption="Error Reporter Test"
+Prompt="This is a test of the ErrorReporter, complete with More Info option."
+
+[PoplarAugSet]
+LeftAugGroupTitle="Left Placeholder"
+RightAugGroupTitle="Right Placeholder"
+
+[dlgRejoinNotAvailable]
+Caption=No Active Games
+Prompt="You have no active games to rejoin."
+
+[dlgMatchHistoryNotAvailable]
+Caption=No Match History
+Prompt="You have no match history to view."
+
+[dlgProfileAlreadyLoggedIn]
+Caption=Invalid Profile
+Prompt="The selected profile is already in use."
+
+[dlgInviteFailedNotInChatParty]
+Caption=Invite Failed
+Prompt=Unable to send invitation, player is not in a <StringAliasMap:Term_Party>!
+
+[dlgTooFewPlayersError]
+Caption=Too Few Players
+Prompt=You were kicked because not enough players were connected when the match began!
+
+[InputBinding]
+KeyboardMouseHeader=Keyboard & Mouse Controls
+ControlsHeader=Gamepad Controls
+ControlsHeader_Durango=Controls
+ControlsHeader_Orbis=Controls
+CustomizeControls=Customize
+ResetControls=Reset
+
+[PoplarGlobals]
+MasteredDisplayName=%s's %n
+MenuName=""
+
+[dlgMatchmakingTransition]
+Caption=Matchmaking Complete!
+Prompt=Transitioning to match shortly!
+
+[dlgUnableToQueryForRejoin]
+Caption="Error Requesting Active Games"
+Prompt="Unable to request active games at this time.\n\n%SERVICE_RESULT%"
+
+[dlgNoRematchPartyChanged]
+Caption=Lobby Changed
+Prompt=The players in your lobby may have changed during gameplay. Matchmaking has not automatically resumed.
+
+[dlgLobbyHostLost]
+Caption=Lobby Changed
+Prompt=The players in your lobby may have changed during gameplay.
+
+[dlgGearboxEmergencyMessage]
+Caption=A Message From Gearbox!
+Prompt=%MESSAGE%
+
+[MetagameInventoryMessages]
+RetrMetagameData=Retrieving metagame data
+RetrEntitlementData=Retrieving entitlement data
+RetrMarketplaceData=Retrieving marketplace data
+RetrPlayerMetaData=Retrieving player meta data
+OpenModPack=Opening Loot Pack
+ExecuteHack=Executing hack
+TransferSideboardAll=Transferring all items
+TransferSideboard=Transferring item
+SellSideboardItem=Selling item
+SellSideboardItem_All=Selling all items
+SellInventoryItem=Selling item
+RetrPurchaseableItem=Retrieving purchasable items
+PurchaseItem=Purchasing item
+SetTitle=Setting title
+SaveLoadout=Saving loadout
+SpendReputationPoint=Spending reputation point...
+RefundItem=Refunding item
+UpdatingPremiumCurrency=Updating credit balance
+
+[dlgCancelMatchmakingMessage_HostChoseToCancel]
+Caption=Matchmaking Failed
+Prompt=The lobby host has chosen to exit matchmaking.
+
+[dlgCancelMatchmakingMessage_SparkError]
+Caption=Matchmaking Failed
+Prompt=There was a failure communicating with the Battleborn server.
+
+[dlgCancelMatchmakingMessage_BeaconError]
+Caption=Matchmaking Failed
+Prompt=Failed to connect to other players.
+
+[dlgCancelMatchmakingMessage_ConnectionTimedOut]
+Caption=Matchmaking Failed
+Prompt=A timeout occurred while trying to connect to the dedicated server.
+
+[dlgCancelMatchmakingMessage_GameSessionError]
+Caption=Matchmaking Failed
+Prompt=Failed to establish online game session.
+
+[dlgCancelMatchmakingMessage_ModifySessionError]
+Caption=Matchmaking Failed
+Prompt=Failed to update online game session.
+
+[dlgCancelMatchmakingMessage_FindOnlineGamesError]
+Caption=Matchmaking Failed
+Prompt=Failed to search for online game sessions.
+
+[dlgCancelMatchmakingMessage_ExperienceNotAvailable]
+Caption=Matchmaking Not Available
+Prompt=The selected matchmaking option is currently unavailable. Please make sure you have the latest patch downloaded and installed.
+
+[dlgCancelMatchmakingMessage_RateLimitError]
+Caption=Matchmaking Failed
+Prompt=Too many requests issued to the online service. Please wait before trying again.
+
+[dlgCancelMatchmakingMessage_QualityOfServiceError]
+Caption=Matchmaking Failed
+Prompt=Failed to perform quality of service.
+
+[dlgCancelMatchmakingMessage_PrivilegesChanged]
+Caption=Matchmaking Failed
+Prompt=Player does not have online permissions.
+Prompt_Durango=Player does not have the correct online permissions to access multiplayer features.
+Prompt_Orbis=PlayStation®Plus is required to access multiplayer features. Please join PlayStation®Plus to proceed.
+
+[dlgCancelPrivateMatchMessage_HostChoseToCancel]
+Caption=Private Match Failed
+Prompt=The lobby host has chosen to exit private match.
+
+[dlgCancelPrivateMatchMessage_SparkError]
+Caption=Private Match Failed
+Prompt=There was a failure communicating with the Battleborn server.
+
+[dlgCancelPrivateMatchMessage_BeaconError]
+Caption=Private Match Failed
+Prompt=Failed to connect to other players.
+
+[dlgCancelPrivateMatchMessage_ConnectionTimedOut]
+Caption=Private Match Failed
+Prompt=A timeout occured while trying to connect to the dedicated server.
+
+[dlgCancelPrivateMatchMessage_GameSessionError]
+Caption=Private Match Failed
+Prompt=Failed to establish online game session.
+
+[dlgCancelPrivateMatchMessage_ModifySessionError]
+Caption=Private Match Failed
+Prompt=Failed to update online game session.
+
+[dlgCancelPrivateMatchMessage_RateLimitError]
+Caption=Private Match Failed
+Prompt=Too many requests issued to the online service. Please wait before trying again.
+
+[dlgCancelPrivateMatchMessage_PrivilegesChanged]
+Caption=Private Match Failed
+Prompt=Player does not have online permissions.
+Prompt_Durango=Player does not have the correct online permissions to access multiplayer features.
+Prompt_Orbis=PlayStation®Plus is required to access multiplayer features. Please join PlayStation®Plus to proceed.
+
+[dlgReadFriendsListRateLimit]
+Caption=Retrieving Friends Failed
+Prompt=Too many requests issued to the online service. Please wait before trying again.
+
+[dlgGameInstallationComplete]
+Caption=Game Installation Complete
+
+[dlgActiveGameFoundRequireJoin]
+Caption=Active Game Found
+Prompt=A game you previously joined is still active. Would you like to rejoin that game?\n\nIf you do not rejoin this game, you will be unable to start a new game until the previous game is completed.\n\nMap: %MAP%\nMode: %MODE%\nPlayers: %NUM_PLAYERS%\nStart Time: %START_TIME%
+
+[dlgActiveGameFound]
+Caption=Active Game Found
+Prompt=A game you previously joined is still active. Would you like to rejoin that game?\n\nMap: %MAP%\nMode: %MODE%\nPlayers: %NUM_PLAYERS%\nStart Time: %START_TIME%
+
+[dlgNoLongerQueued]
+Caption=You are no longer in the Battleborn queue.
+Prompt=
+
+[dlgQueueStatus0]
+Caption=Battleborn Queue
+Prompt=You are currently in the Battleborn queue!\n\nAlmost there! You're nearing the front of the line!
+
+[dlgQueueStatus1]
+Caption=Battleborn Queue
+Prompt=You are currently in the Battleborn queue!\n\nHang on! You've got a ways to go!
+
+[dlgQueueStatus2]
+Caption=Battleborn Queue
+Prompt=You are currently in the Battleborn queue!\n\nSit tight! This may take a while!
+
+[QueueStatusUpdate]
+Caption=You are currently in the Battleborn queue!
+Prompt0=Almost there! You're nearing the front of the line!
+Prompt1=Hang on! You've got a ways to go!
+Prompt2=Sit tight! This may take a while!
+
+[PanelButtonExperienceLargeGFxObject]
+HighScoreTemplate="High Score: %d"
+
+[PostMatchOutcomeReasons]
+OutOfTickets=You ran out of Extra Lives
+OutOfRespawnsTeam=The team died with no Extra Lives
+OutOfRespawnsSolo=You died with no Extra Lives
+HardcoreTeamDeath=The team died in Hardcore Mode
+HardcoreTeamDeathSolo=You died in Hardcore Mode
+SurrenderTeam=The Team voted to Surrender
+SurrenderSolo=You Surrendered
+OutOfTime=You ran out of time
+CapturePointLost=The point was destroyed
+EscortUnitLost=The escorted unit was destroyed
+NovaDestroyed=Nova was destroyed
+CathedralCountdown=The Shield Shards were not destroyed before time ran out
+CathedralWarpGate=No one was at the Warp Gate when the time ran out
+CaptainsLostOutpost01=The Generator in the Ruins was destroyed
+CaptainsLostOutpost02=The Facility Control Station was destroyed
+CaptainsLostOutpost03=The Engineering Core was destroyed
+PortalWolfSentryDied=Wolf Sentry was destroyed
+TeamDropped=The enemy team has left the match
+TieBreakerScoreWin=Win by Average Player Score
+TieBreakerScoreLoss=Loss by Average Player Score
+TieBreakerFirstBloodWin=Win by First Blood
+TieBreakerFirstBloodLoss=Loss by First Blood
+TieBreakerCoinTossWin=Win by Coin Toss
+TieBreakerCoinTossLoss=Loss by Coin Toss
+ObservatoryFailedHQ=The Experiment was destroyed
+ObservatoryFailedPS=The Power Station was destroyed
+ObservatoryFailedCS=The Communication Array was destroyed
+EvacuationFailedEscort=Chronicle was destroyed
+InsufficientPlayers=Insufficient players to start the match
+
+[dlgRefreshExperiencesFailed]
+Caption=Refreshing Playlists Failed
+Prompt=You have been returned to the title screen because of a failure refreshing playlist information.
+
+[PoplarCommandBattlebornCharacterHelixGFxObject]
+LocalizedMutationUnlocksString=Mutation Unlocks
+LocalizedCharacterRankString=Char Rank
+
+[PoplarPressStartGFxMovie]
+Legal_GearboxTrademarks=© 2016 Necromonger, LLC. Published and distributed by 2K. Gearbox, Battleborn, and the Gearbox Software logos are registered trademarks, and the Battleborn logos are trademarks, all used courtesy of Gearbox Software, LLC. All rights reserved. 2K and the 2K logo are trademarks of Take-Two Interactive Software, Inc. Unreal® is a registered trademark of Epic Games, Inc. Unreal® Engine, copyright 1998-2015, Epic Games, Inc. All rights reserved. Uses Bink Video. Copyright © 1997-2015 by RAD Game Tools, Inc. This software product includes Autodesk® Scaleform® software © 2015 Autodesk, Inc. All rights reserved. Autodesk Scaleform is a registered trademark of Autodesk, Inc., and/or its subsidiaries and/or affiliates in the USA AND/OR OTHER COUNTRIES. © 2015 NVIDIA Corporation. NVIDIA, the NVIDIA logo, GeForce, PhysX and The Way It’s Meant to be Played are trademarks and/or registered trademarks of NVIDIA Corporation. Uses Simplygon®, Copyright © 2015 Donya Labs® AB. All other marks are property of their respective owners. All Rights reserved.
+
+[MHW_PerkPurchaseAvailable]
+LocalizedPurchaseAvailableString=Activate Gear
+
+[MHW_PerkSelector]
+LocalizedTitleString="Activate Gear"
+LocalizedShardsString="Shards"
+
+[PoplarLoadingScreenGFxMovie]
+MeltdownModeDescription=Escort minions through Grinder Minion Altars to earn Appeasement Points.\nEarn 500 Appeasement Points to win the match.
+MeltdownModeTips=•  Destroy large SHARD CLUSTERS to earn shards quickly.\n•  Build STINGER TURRETS and THUMPER TURRETS to help control and defend territory.\n•  Build ACCELERATORS to control minion movement.\n•  Build SUPPLY STATIONS to recover health for nearby team members.\n•  Build MX.ELITE BOTS and escort them through Grinders for bonus points.
+IncursionModeDescription=Destroy the enemy team's final M7.Super Sentry to win the match.
+IncursionModeTips=•  Destroy large SHARD CLUSTERS to earn shards quickly.\n•  Subdue / Hire Outcast Thralls to have them temporarily join your team.\n•  Build MX.ELITE BOTS to help assault the enemy team.\n•  Build ACCELERATORS to help traverse the map quickly.\n•  Build SUPPLY STATIONS to recover health for nearby team members.
+CaptureModeDescription=Capture and hold Energy Collectors to gain Energy points.\nEarn 1000 Energy points to win the match.
+CaptureModeTips=•  Defeat VARELSI to level up quickly.\n•  Build ACCELERATORS to help traverse the map quickly.\n•  Build STINGER TURRETS to help defend Collectors.
+SideObjectives=Side Objectives:
+
+[PoplarDlgInsufficientPermissionsForExperience]
+Caption=Cannot Enter Matchmaking
+Prompt=One or more players in your lobby do not have the required online permissions.
+Prompt_Durango=One or more players in your lobby do not have the correct online permissions to access multiplayer features.
+Prompt_Orbis=One or more players in your lobby do not have PlayStation®Plus. PlayStation®Plus is required to access multiplayer features.
+
+[PoplarDlgMissingPrivilegeEntitlement]
+Caption=Cannot Enter Matchmaking
+Prompt=You cannot enter matchmaking for this playlist because not all players have the required content.
+
+[MHW_Player11Spectator]
+SpectatingLocalizedString=Spectating:
+GoToCustomCam=Go To Cam
+CustomCam=Custom Cams (HOLD to set)
+ToggleTeamView=Switch Teams
